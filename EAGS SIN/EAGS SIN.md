@@ -1,3 +1,4 @@
+A
 TEXTO
 	Interpretação de textos literários ou não literários.
 
