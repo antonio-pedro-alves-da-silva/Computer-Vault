@@ -179,6 +179,9 @@ GRAMÁTICA
 							 o verbo é flexionado no infinitivo pessoal
 						 infinitivo impessoal
 							 O **infinitivo** **impessoal** não se refere a nenhuma pessoa, de modo que simplesmente manifesta a ação e, algumas vezes, pode ter valor de substantivo.
+							1. fazer - sent...de tempo decorrido
+							2.haver - sent..de existir
+							3.fenomes da natureza
 							 exemplo:**Ajudar** é a melhor forma de gratidão
 					gerúndio
 						expressa o processo da ação: acordando, agradecendo, esperando, sorrindo, unindo.
@@ -233,14 +236,14 @@ GRAMÁTICA
 						voz passiva
 						voz passiva analítica
 							como é formado a voz passiva analítica ?
-								Sujeito paciente + verbo auxiliar (ser, estar, ficar, entre outros) + verbo principal da ação conjugado no particípio + agente da passiva.
+								Sujeito paciente + verbo auxiliar + verbo pricipal + agente da passiva
 								exemplos:
 									 - O café da manhã foi tomado por Bia logo cedo.
 									 - A casa toda foi aspirada por nós.
 									 - O trabalho foi feito por mim.
 						voz passiva sintética
 							como é formado a voz passiva sintética ?
-								Verbo conjugado na 3.ª pessoa (no singular ou no plural) + pronome apassivador "se" + sujeito paciente.
+								verbo(3as ou 3ap) + se + sujeito paciente
 								exemplos:
 									- Tomou-se o café da manhã logo cedo.
 									- Aspirou-se a casa toda.
@@ -348,23 +351,21 @@ GRAMÁTICA
 						indeterminado
 							o sujeito indeterminado não identifica o agente da ação
 							1. verbo na 3 pessoa do plural que não cita outro subtatnivo | Uso de um verbo na 3ª pessoa do plural que não se refere a nenhum substantivo citado anteriormente na oração. 
-								- Disseram que ele foi eleito.
-								- Capturaram o fugitivo.
-								- Falavam mal o tempo todo.
+									- Disseram que ele foi eleito.
+									- Capturaram o fugitivo.
+									- Falavam mal o tempo todo.
 							2. verbo (intransitivo|indireto|verbo de ligação) na 3 pessoa do singular + se , de modo que não indique o sujeito|Uso do pronome "se" e de um verbo intransitivo, transitivo indireto ou de ligação na 3ª pessoa do singular (de modo que não se consiga identificar quem pratica a ação).
 								- Acorda-se feliz (verbo intransitivo).
 								- Necessita-se de pessoas jovens (verbo transitivo indireto).
 								- Nem sempre se é justo nesse mundo (verbo de ligação).
-							3. Uso de verbo no infinitivo pessoal.
-								- É difícil agradar a todos.
-								- Seria bom pesquisar mais sobre o assunto.
-								- Era bom viajar pelo mundo!
-							memorização
-								1.3AP
-								2.3AS+SE,sendo verbo (intransitivo|indireto|verbo de ligação)
+							3.  memorização
+									1.3AP sem citar substantivo
+									2.3as(intrasitivo|indireto|ligação) + pronome obliquo , sem citar um substantivo 
+									3.pronome obliquo + 3as , sem citar um substantivo 
+									4. fazer - sent...de tempo decorrido
 						inexistente
 							como identificar o sujeito inexistente
-								1. Verbos que indicam fenômenos da natureza: amanheceu, anoiteceu, choveu, nevou, ventou, trovejou, etc a não  ser que eles estejam no sentido figurado indicando o agente da ação.
+								1. Verbos que indicam fenômenos da natureza: amanheceu, anoiteceu, choveu, nevou, ventou, trovejou.
 								2. Verbo haver quando empregado com sentido de existir, acontecer e indicando tempo decorrido.
 								3. ser, fazer, haver, estar, ir e passar indicando tempo ou distância.
 								memorização
@@ -505,11 +506,11 @@ GRAMÁTICA
 					- **Preguiça e lentidão destacaram** aquela gerência.
 					- **Preguiça e lentidão destacou** aquela gerência.
 				sujeito formado por palavras em graduação e enumeração
-					o verbo flexiona-se para o plural ou concorda para o núcleo mais próximo
+					3ap ou con...nmp 
 					- **Um mês, um ano, uma década de poder não supriu** a saúde.
 					- **Um mês, um ano, uma década de poder não supriram** a saúde.
 				sujeito formado por pessoas gramaticas diferentes
-					o verbo vai para o plural e concorda com a pessoa gramatical , nivel de prioridade começando 
+					 con... o menor nivel gramatical e ele vai para o plural 
 				    - **Eu, tu e Cássio só chegaremos** ao fim da noite.  
 				    (eu, 1.ª pessoa + tu, 2.ª pessoa + ele, 3.ª pessoa), ou seja, a 1.ª pessoa do singular tem prioridade e, no plural, ela equivale a nós, ou seja, "nós chegaremos".
 				sujeitos ligados por "ou"
@@ -524,10 +525,13 @@ GRAMÁTICA
 					"com" com sentido de e
 						3ap
 					"com" representando "em companhia de"
-						con..antecedente + grafado entre
+						antecedente + segmento grafado 
 						o verbo concorda com o antecedente e o segmento "com" é grafado entre vírgulas
 				sujeito ligados por "não só, mas também", "tanto, quanto", "não só, como"
 					3ap ou nmp
+					- **Tanto Rafael como Marina participaram** da mostra.
+					- **Tanto Rafael quanto Marina participou** da mostra.
+					- **Não só Rafael** como **Marina participou** da mostra
 				particula "se"
 					indice de indeterminação do sujeito
 						3as
