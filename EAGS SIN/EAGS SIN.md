@@ -44,6 +44,92 @@ GRAMÁTICA
 			substantivos
 				classificação
 				flexão
+					número
+						-vogal
+							acrecenta-se o -s
+						-r , -z
+							acrecenta-se o -es
+						-n
+							acrecenta-se o -s ou -es
+						-s
+							oxitonas
+								se acrecenta-se -es
+								1. Ananás - ananases
+								exçeção:
+									1.parabéns - os parabéns
+							paraxitonas e proparoxitonas
+								não variam , são demarcados por um determinante
+									1. Atlas - os atlas
+						-al , -el , -ol , -ul 
+							substituiem -l por -is
+							1. Álcool - álcoois
+							2. Animal - animais
+							3. Anzol - anzóis
+							4. Farol - faróis
+							**Exceções**:
+								1. Cônsul - cônsules
+								2. Mal - males
+								3. Real (moeda antiga) - réis
+						-il 
+							oxitonas
+								substituim o -i por -s
+								1. Ardil - ardis
+								2. Barril - barris
+								3. Canil - canis
+							paroxitonas
+								substituem o -il por -eis
+								**frágil – frágeis  
+								réptil – répteis  
+						-zinho e -zito
+							coloca o substantivo no plural sem  o se e adiciona o zinhos ou zitos
+							1. Balão - balõe(s) + zinhos = balõezinhos
+							2. Cão - cãe(s) + zitoa = cãezitos
+						-m
+							traocase o m por  ns
+							**álbum – álbuns  
+							jovem - jovens**
+						-x
+							são invariaveis são demarcados por um determinante
+							um clímax - vários clímax
+							o tórax - os tórax
+						substantivos compostos
+							sem o hiffen
+								sãot tratados como substantivos simples
+							com o hiffen
+								palavras unidas por hífen
+									podem ir para o plural todos ou apenas um deles se não forem palavras invariaveis
+									1. Decreto-lei - decretos-leis
+									2. Grão-mestre - grão-mestres
+									3. Bate-boca - bate-bocas
+									4. Abaixo-assinado - abaixo-assinados
+								aqueles ligados por preposições
+									o somente o primeiro elemento vai para o plural
+									1. Água-de-colônia - águas-de-colônia
+									2. Chapéu-de-sol - chapéus-de-sol
+								substantivo compostos composto
+									somente o primeiro elemento vai para o plural
+									1. Escola-modelo - escolas-modelo
+									2. Manga-rosa - mangas-rosa
+						-ão
+							 1.A maior parte deles muda a referida terminação para “–ões”.
+									 ![](https://static.portugues.com.br/conteudo/images/substantivos-aoI(1).gif)
+							 2.alguns poucos mudam a terminação para -aẽs
+									 ![](https://static.portugues.com.br/conteudo/images/substantivos-aoII.gif)
+							 3.alguns se acrecentam apenas o -s
+									![](https://static.portugues.com.br/conteudo/images/substantivos-ao-III(1).gif)
+							4.há aqueles que admitem mais de uma forma
+								**aldeão – aldeãos, aldeões, aldeães.  
+    							anão – anões, anãos.  							  
+								ancião – anciãos, anciões, anciães.  							  
+								cirurgião – cirurgiões, cirurgiães.  							  
+								corrimão – corrimãos, corrimões.  							  
+								ermitão – ermitãos, ermitões, ermitães.  							  
+								guardião – guardiões, guardiães.  							  
+								refrão – refrãos, refrões.  							  
+								sacristão – sacristãos, sacristães  							  
+								sultão – sultãos, sultões, sultães  							  
+								verão – verãos, verões  
+								vulcão – vulcãos, vulcões.**			 
 					gênero
 						biforme
 						uniforme
@@ -287,6 +373,8 @@ GRAMÁTICA
 					indefinidos
 					relativos
 					interrogativos
+			palavras invariveis
+				os advérbios , as preposições , conjuções e as interjeições
 	Sintaxe
 		verbos transitivos
 			o que são verbos transitivos ?
