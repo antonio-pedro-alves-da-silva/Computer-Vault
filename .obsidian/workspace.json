@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e176ab18ea14caa4",
+        "id": "606beddd4fada53f",
         "type": "tabs",
         "children": [
           {
-            "id": "e26fbffa3c067dd6",
+            "id": "ceed099b011fb801",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ee4e8bcf9413ed0e",
@@ -147,22 +148,34 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "e26fbffa3c067dd6",
+  "active": "ceed099b011fb801",
   "lastOpenFiles": [
-    "respostas.md",
+    "Untitled 1.md",
     "EAGS SIN/EAGS SIN.md",
+    "EAGS SIN/formas-do-fluxo-grama-convencional/operação de atribuição.png",
+    "EAGS SIN/formas-do-fluxo-grama-convencional/operação de saida de dados.png",
+    "EAGS SIN/formas-do-fluxo-grama-convencional/operação de entrada de dados.png",
+    "EAGS SIN/formas-do-fluxo-grama-convencional/inicio e final do fluxograma.png",
+    "EAGS SIN/formas-do-fluxo-grama-convencional/decisão.png",
+    "Pasted image 20230727163125.png",
+    "Pasted image 20230727163113.png",
+    "Pasted image 20230727163108.png",
+    "Untitled.md",
+    "Pasted image 20230727162232.png",
+    "Pasted image 20230727162117.png",
+    "Computer.md",
+    "EAGS SIN/formas-do-fluxo-grama-convencional",
+    "respostas.md",
     "obsidian shortcuts.md",
     "hotkeys to set.md",
     "concordância verbal memorization rehearsal.md",
     "páginas/particula \"se\".md",
     "Untitled",
     "páginas",
-    "Pasted image 20230724102140.png",
     "time management tips.md",
     "Untitled 4.md",
     "Untitled 3.md",
     "Untitled 2.md",
-    "Untitled 1.md",
     "Untitled 6.md",
     "Untitled 5.md",
     "Memorization strategies.md",

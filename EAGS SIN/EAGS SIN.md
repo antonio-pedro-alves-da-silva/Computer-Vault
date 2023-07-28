@@ -421,6 +421,16 @@ GRAMÁTICA
 						explique o que é uma oração sindética
 							as orações sindéticas são ligadas por um concectivo
 			subordinada
+				substantivas
+					subjetiva
+					predicatia
+					completiva nominal
+					objetiva direta 
+					objetiva indireta
+				adjetiva
+					explicativa
+					restritiva
+				adverbiais
 		periodos
 			simples
 				o perido simple é formado por uma oração
@@ -480,14 +490,26 @@ GRAMÁTICA
 							predicado : correu no final da semana passada.
 					tipos de predicado
 						predicado verbal
-							indica uma ação no predicado
-							exemplo:Nós caminhamos muito hoje. (núcleo: caminhamos)
+							O **predicado verbal** é um tipo de predicado que tem como **núcleo um verbo ou uma locução verbal** que transmite a ideia de ação.
+							1.Nós caminhamos muito hoje. 
+								   predicado verbal : caminhamos muito hoje
+								   núcleo do predicado:caminhamos
+							2.**Sara correu a semana passada.**
+								predicado verbal:correu a semana passada
+								núcleo do predicado:correu a semana passada
+							3.**Alexandre e Natália estão fazendo bolo.**
+								predicado verbal:estão fazendo bolo
+								núcleo do predicado:estão fazendo
 						predicado nominal
-							indica estado ou qualidade sendo constituído por um verbo de ligação
-							exemplo: Ele continua atencioso comigo. (núcleo: atencioso)
+							O **predicado nominal** é um tipo de predicado que tem como **núcleo um nome** (substantivo ou adjetivo).
+							1.**Pedro Henrique é competente.**
+								predicado nominal:é competente
+								núcleo do predicado:competente
 						predicado verbo-nominal
 							é quando o predicado tem dois núcleos um sento o predicado verbal e o outro o predicado-nominal
-							exemplo : Considerou a caminhada desagradável. (núcleos: considerou, desagradável)	
+							1.Considerou a caminhada desagradável. 
+								predicado verbo-nominal : 
+								núcleo do predicado : considerou desagradável
 			termos intergrantes
 				complemento nominal
 					o complemento nominal se liga ao substantivo,adjetivo ou advérbio por intermédio de uma preposição
@@ -977,4 +999,97 @@ GRAMÁTICA
 									- **Liberdade, Liberdade**! É isso que pretendemos nessa luta.
 									- **Nossa**! Como você conseguiu?
 									- **Minha Filha**! Que linda você está!
-	
+INFORMÁTICA SIN
+	LÓGICA DE PROGRAMAÇÃO
+		conceito de algoritmo
+			o que é um algoritimo ?
+				1.**é uma sequência de instruções ou comandos realizados de maneira sistemática por que ele segue uma organização de como as coisas devem ser feitas com o objetivo de resolver um problema ou executar uma tarefa** , Quando um programa de computador trava, por exemplo, é porque ele está recebendo informações que não foi programado para processar, ou seja, não foram considerados todos os cenários.
+			o que é um computador ?
+				Um programa de computador ou programa informático é um conjunto de instruções que descrevem uma tarefa a ser realizada por um computador.
+		formas de representação gráfica de um algoritimo
+			Descrição Narrativa
+				nesta forma os algoritimos são expressos diretamente em linguagem natural
+				ela é pouco usada na prática porque o uso da linguagem natural dá oportunidade a más interpretações , ambiguidades e imprecisçoes
+				Receita de bolo: 
+					Misture os ingredientes 
+					Unte a forma com manteiga 
+					Despeje a mistura na forma 
+					Se houver coco ralado 
+					então despeje sobre a mistura 
+					Leve a forma ao forno 
+					Enquanto não corar 
+					deixe a forma no forno 
+					Retire do forno 
+					Deixe esfriar
+			Fluxograma Convencional
+				o que é o fluxograma convencional ?
+					é uma representação gráfica de algritmos onde formas geométricas differentes implicam ações 
+				simbolos de fluxo gramas
+					símbolos básicos do fluxograma
+						![[inicio e final do fluxograma.png]]
+							simbolo
+								terminator ou simbolo de inicio e fim
+							função
+								indica o inicio e o fim do fluxo do algoritimo
+						![[operação de entrada de dados.png]]
+							simbolo
+								simbolo de operação de entrada de dados
+							função
+								ele declara variaveis
+						![[operação de saida de dados.png]]
+							simbolo
+								simbolo de operação de saida de dados
+							função
+								imprime dados
+						![[operação de atribuição.png]]
+							simbolo
+								simbolo de operação de atribuição ou de processo
+							função
+								simbolo usado para indicar calculos e atribuição de valores
+						![[decisão.png]]
+							simbolo
+								desvio condicional
+			Pseudocódigo
+		resolução de problemas
+		tipos de lógica 
+			linear
+				Não é uma terminologia comum na lógica formal. No entanto, em programação, pode se referir a um estilo de execução sequencial, onde as instruções são executadas em ordem, uma após a outra, sem loops ou desvios condicionais complexos.
+				exemplo 1:
+					```python
+						def verificar_numero():
+						numero = float(input("Digite um número: "))
+						if numero > 0:
+						print("O número é positivo.")
+						elif numero < 0:
+						print("O número é negativo.")
+						else:
+						print("O número é zero.")
+						verificar_numero()
+					```
+			estruturada 
+				A lógica estruturada é um paradigma de programação que enfatiza o uso de estruturas de controle bem definidas, como sequência, seleção (condições) e repetição (loops). Geralmente, evita o uso de desvios incondicionais (como o famoso "goto" em linguagens de programação antigas), o que torna o código mais legível e mais fácil de entender e depurar.
+				exemplo 1:
+					```rust
+						1. Leia o valor do primeiro número (A).
+						2. Leia o valor do segundo número (B).
+						3. Leia o valor do terceiro número (C).
+						4. Some os três números: Soma = A + B + C.
+						5. Calcule a média aritmética: Media = Soma / 3.
+						6. Se Media for maior que 10, faça:
+						6.1. Exiba "Média é maior que 10: " + Media.
+						Senão, faça:
+						6.2. Exiba "Média é igual ou menor que 10: " + Media.
+						7. Fim do programa.
+					```
+			modular
+				A lógica modular é uma abordagem de design de software onde o programa é dividido em módulos independentes e interconectados. Cada módulo representa uma função ou uma parte específica do sistema e pode ser desenvolvido e testado separadamente. Isso promove a reutilização de código e facilita a manutenção do software.
+			português estruturado
+				Português Estruturado é uma técnica utilizada no desenvolvimento de algoritmos para expressar a lógica de forma mais próxima à linguagem natural (no caso, o idioma português). É comumente usada em programação para facilitar a compreensão das etapas lógicas antes de traduzi-las para uma linguagem de programação específica.
+		diagrama de blocos
+		pseudocódigo
+		tipos de dados
+		operadores, variáveis , expressões
+		estruturas de controle
+		estruturas de dados:veotres e matrizes
+		utilização de sub-rotinas
+		utilização de parâmetros
