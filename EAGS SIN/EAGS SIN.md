@@ -999,6 +999,7 @@ GRAMÁTICA
 									- **Liberdade, Liberdade**! É isso que pretendemos nessa luta.
 									- **Nossa**! Como você conseguiu?
 									- **Minha Filha**! Que linda você está!
+	
 INFORMÁTICA SIN
 	LÓGICA DE PROGRAMAÇÃO
 		conceito de algoritmo
@@ -1021,34 +1022,11 @@ INFORMÁTICA SIN
 					deixe a forma no forno 
 					Retire do forno 
 					Deixe esfriar
-			Fluxograma Convencional
+			Fluxograma de chapin ou diagrama de bloco de chapin
 				o que é o fluxograma convencional ?
 					é uma representação gráfica de algritmos onde formas geométricas differentes implicam ações 
-				simbolos de fluxo gramas
-					símbolos básicos do fluxograma
-						![[inicio e final do fluxograma.png]]
-							simbolo
-								terminator ou simbolo de inicio e fim
-							função
-								indica o inicio e o fim do fluxo do algoritimo
-						![[operação de entrada de dados.png]]
-							simbolo
-								simbolo de operação de entrada de dados
-							função
-								ele declara variaveis
-						![[operação de saida de dados.png]]
-							simbolo
-								simbolo de operação de saida de dados
-							função
-								imprime dados
-						![[operação de atribuição.png]]
-							simbolo
-								simbolo de operação de atribuição ou de processo
-							função
-								simbolo usado para indicar calculos e atribuição de valores
-						![[decisão.png]]
-							simbolo
-								desvio condicional
+				simbolos do fluxograma de chapin
+					[[Diagramas-Chapin-Fluxogramas.jpg]]
 			Pseudocódigo
 		resolução de problemas
 		tipos de lógica 
@@ -1085,11 +1063,16 @@ INFORMÁTICA SIN
 				A lógica modular é uma abordagem de design de software onde o programa é dividido em módulos independentes e interconectados. Cada módulo representa uma função ou uma parte específica do sistema e pode ser desenvolvido e testado separadamente. Isso promove a reutilização de código e facilita a manutenção do software.
 			português estruturado
 				Português Estruturado é uma técnica utilizada no desenvolvimento de algoritmos para expressar a lógica de forma mais próxima à linguagem natural (no caso, o idioma português). É comumente usada em programação para facilitar a compreensão das etapas lógicas antes de traduzi-las para uma linguagem de programação específica.
-		diagrama de blocos
-		pseudocódigo
 		tipos de dados
 		operadores, variáveis , expressões
 		estruturas de controle
-		estruturas de dados:veotres e matrizes
+			estrutura sequencial
+			estrutura de repetição
+		estruturas de dados:veTOres e matrizes
 		utilização de sub-rotinas
-		utilização de parâmetros
+			sub-rotinas são blocos de código que podem ser reaproveitados
+			sub-rotinas executa uma tarefa sem retornar um valor para o chamador
+			funções são sub-rotinas que executa uma tarefa retornando um valor ao chamador
+			sub-rotinas são criadas criando uma funçaõ
+	LINGUAGEM DE PROGRAMAÇÃO
+		php
