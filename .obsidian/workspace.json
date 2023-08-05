@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EAGS SIN/o que estudar para o EAGS SIN.md",
+                "file": "EAGS SIN/EAGS SIN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EAGS SIN/o que estudar para o EAGS SIN.md",
+                "file": "EAGS SIN/EAGS SIN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EAGS SIN/o que estudar para o EAGS SIN.md"
+                "file": "EAGS SIN/EAGS SIN.md"
               }
             }
           }
@@ -171,12 +170,12 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "74bafab2aae58a83",
+  "active": "ceed099b011fb801",
   "lastOpenFiles": [
-    "EAGS SIN/EAGS SIN.md",
-    "Diagramas-Chapin-Fluxogramas.jpg",
     "EAGS SIN/o que estudar para o EAGS SIN.md",
+    "EAGS SIN/EAGS SIN.md",
     "Untitled.md",
+    "Diagramas-Chapin-Fluxogramas.jpg",
     "Untitled",
     "respostas.md",
     "obsidian shortcuts.md",
