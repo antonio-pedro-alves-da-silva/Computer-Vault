@@ -1128,13 +1128,13 @@ INFORMÁTICA SIN
 								Diferente Verdadeiro se $a não é igual a $b.
 							$a !== $b 
 								Não idêntico Verdadeiro de $a não é igual a $b, ou eles não são do mesmo tipo (introduzido no PHP4).|
-							$a <=> $b
+							$a < = > $b
 								operador space ship
 								- Retorna _0_ se os valores de ambos os lados são **iguais**.
 								- Retorna _1_ se o valor à **esquerda** é maior.
 								- Retorna _-1_ se o valor à **direita** é maior.
 							notes
-								comparando string com um núemro
+								comparando string com um número
 									Se comparar um número com uma string ou com strings numéricas, cada string é convertido para um número
 									var_dump("10" == "1e1"); // 10 == 10 -> true  
 									var_dump(100 == "1e2"); // 100 == 100 -> true
@@ -1233,11 +1233,94 @@ INFORMÁTICA SIN
 		o que é um banco de dados ?
 			é uma coleção organizada de inforamações gerenciada por um sistema de gerenciamentos de banco de dados
 		tipos de banco de dados
-			banco de dado relacional
+			banco de dado relacional or RDMB
 				o que é um banco de dado relacional ?
 			banco de dado não relacional
 				o que é um banco de dado não relacional ?
 		MySQL
 			o que é MySQL
 				O MySQL é um sistema de gerenciamento de banco de dados, que utiliza a linguagem SQL como interface. É atualmente um dos sistemas de gerenciamento de bancos de dados mais populares da Oracle Corporation, 
-					
+		Linguagem SQL
+			create table 
+				CREATE TABLE person(column1_name datatype,column2_name datatype);
+			SELECT
+				cláusula where com condição simples
+			truncate table
+				TRUNCATE ESSSE COMANDO ESVAZIA OS CAMPOS DE TODAS AS COLUNAS
+			alter command
+				ADD
+					ALTER TABLE Customers  
+					ADD Email varchar(255);
+				DROP
+					ALTER TABLE database.table_name
+					DROP COLUMN Email;
+				MODIFY
+					ALTER TABLE database.table_name
+					MODIFY table_name datatype
+				RENAME
+			INSERT
+				1. specifing the tables names
+					INSERT INTO _table_name_ (_column1_, _column2_, _column3_, ...)  
+					VALUES (_value1_, _value2_, _value3_, ...),(value1,value2,value3,...);
+				2.not especifing the table names
+					INSERT INTO _table_name_  
+					VALUES (_value1_, _value2_, _value3_, ...),(value1,value2,value3,...);
+			PRIMARY KEY
+				1. a chave primaria indentifica um registro da tabela.
+				2.Primary keys must contain UNIQUE values, and cannot contain NULL values.
+				3.um registro pode conter exatamente uma chave primaria.
+				4.Normalmente, chaves primárias são incrementadas automaticamente pelo banco de dados
+				PRIMARY KEY SYNTAX
+				defining one primary key when we're creating the table
+					CREATE TABLE Persons (  
+						ID int NOT NULL,  
+						PRIMARY KEY (ID)
+					);
+					CREATE TABLE Persons (  
+						ID int NOT NULL PRIMARY KEY 
+					);
+				defining the primary key constraint on multiple columns
+					to define in multiple columns should be used the below syntax
+					CREATE TABLE Persons (  
+						ID int NOT NULL,  
+						LastName varchar(255) NOT NULL,  
+						FirstName varchar(255),  
+						Age int,  
+						CONSTRAINT PK_Person PRIMARY KEY (ID,LastName)  
+					);
+				To create a `PRIMARY KEY` constraint on the "ID" column when the table is already created, use the following SQL:
+					ALTER TABLE Persons  
+					ADD PRIMARY KEY (column1,column2);
+					To allow naming of a `PRIMARY KEY` constraint, and for defining a `PRIMARY KEY` constraint on multiple columns, use the following SQL syntax:
+						ALTER TABLE Persons  
+						ADD CONSTRAINT PK_Person PRIMARY KEY (column1,column2);
+			SQL AUTO INCREMENT
+				Syntax for mysql
+					AUTO_INCREMENT
+							1.AUTO_INCREMENT BY DEFAULT WILL INCREMENT 1 FOR EACH NEW RECORD 
+							criar a tabela adicionando o incremento
+								CREATE TABLE Persons (  
+									Personid int NOT NULL AUTO_INCREMENT,  
+									PRIMARY KEY (Personid)  
+								);
+							adicionar o incremento após criar a tabela
+								ALTER TABLE Persons AUTO_INCREMENT=100;
+			UPDATE
+				UPDATE SYNTAX
+					UPDATE _table_name_  
+						SET _column1_ = _value1_, _column2_ = _value2_, ...  
+						WHERE _condition_;
+				The following SQL statement updates the first customer (CustomerID = 1) with a new contact person _and_ a new city.
+					UPDATE table_name SET = column1 = value1 , column2 = value2 ; WHERE CustomerID = 1;
+			DELETE
+				DELETE SYNTAX
+					DELETE FROM _table_name_ WHERE _condition_;
+				Delete All Records
+					DELETE FROM table_name
+			ORDER BY
+				ALTERA A ORDEM DO RESULTADO DE SAIDA
+		fazer consultas em banco de dados. 
+		Componentes de um BD. 
+		Modelos de BD. 
+		Normalização. 
+		Modelos Navegacionais

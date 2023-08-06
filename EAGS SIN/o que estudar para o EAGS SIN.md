@@ -162,10 +162,17 @@ INFORMÁTICA - SIN
 				é uma coleção organizada de inforamações gerenciada por um sistema de gerenciamentos de banco de dados
 			tipos de banco de dados
 				banco de dado relacional
-					o que é um banco de dado relacional ?
+					Um banco de dados relacional é um conjunto de informações que organiza dados em relações predefinidas, em que os dados são armazenados em uma ou mais tabelas (ou "relações") de colunas e linhas, facilitando a visualização e a compreensão de como as diferentes estruturas de dados se relacionam.
 				banco de dado não relacional
-					o que é um banco de dado não relacional ?
+					O que é Banco de Dados Não Relacional? O banco de dados não relacional **é um banco de dados que possibilita a flexibilidade na hora de armazenar os dados, já que não se limita a tabelas com linhas e colunas, como o banco de dados relacional**.
 			MySQL
 				o que é MySQL
 					O MySQL é um sistema de gerenciamento de banco de dados, que utiliza a linguagem SQL como interface. É atualmente um dos sistemas de gerenciamento de bancos de dados mais populares da Oracle Corporation, 
-					
+			Linguagem SQL
+				o que é o SQL ?
+					A Linguagem de consulta estruturada (SQL) é uma linguagem de programação para armazenar e processar informações em um banco de dados relacional. Um banco de dados relacional armazena informações em formato tabular, com linhas e colunas representando diferentes atributos de dados e as várias relações entre os valores dos dados. Você pode usar instruções SQL para armazenar, atualizar, remover, pesquisar e recuperar informações do banco de dados. Também pode usar SQL para manter e otimizar a performance do banco de dados.
+				conceitos básicos
+				tipos de dados aceitos pelo MySQL e pelo PostgreSQL
+				 Criação de banco de dados e tabelas. Inserir, alterar, excluir ou fazer consultas em banco de dados. 
+				 Componentes de um BD. Modelos de BD. Normalização. Modelos Navegacionais.
+				 
