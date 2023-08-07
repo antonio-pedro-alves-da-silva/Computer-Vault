@@ -1240,85 +1240,113 @@ INFORMÁTICA SIN
 		MySQL
 			o que é MySQL
 				O MySQL é um sistema de gerenciamento de banco de dados, que utiliza a linguagem SQL como interface. É atualmente um dos sistemas de gerenciamento de bancos de dados mais populares da Oracle Corporation, 
-		Linguagem SQL
-			create table 
-				CREATE TABLE person(column1_name datatype,column2_name datatype);
-			SELECT
-				cláusula where com condição simples
-			truncate table
-				TRUNCATE ESSSE COMANDO ESVAZIA OS CAMPOS DE TODAS AS COLUNAS
-			alter command
-				ADD
-					ALTER TABLE Customers  
-					ADD Email varchar(255);
-				DROP
-					ALTER TABLE database.table_name
-					DROP COLUMN Email;
-				MODIFY
-					ALTER TABLE database.table_name
-					MODIFY table_name datatype
-				RENAME
-			INSERT
-				1. specifing the tables names
-					INSERT INTO _table_name_ (_column1_, _column2_, _column3_, ...)  
-					VALUES (_value1_, _value2_, _value3_, ...),(value1,value2,value3,...);
-				2.not especifing the table names
-					INSERT INTO _table_name_  
-					VALUES (_value1_, _value2_, _value3_, ...),(value1,value2,value3,...);
-			PRIMARY KEY
-				1. a chave primaria indentifica um registro da tabela.
-				2.Primary keys must contain UNIQUE values, and cannot contain NULL values.
-				3.um registro pode conter exatamente uma chave primaria.
-				4.Normalmente, chaves primárias são incrementadas automaticamente pelo banco de dados
-				PRIMARY KEY SYNTAX
-				defining one primary key when we're creating the table
-					CREATE TABLE Persons (  
-						ID int NOT NULL,  
-						PRIMARY KEY (ID)
-					);
-					CREATE TABLE Persons (  
-						ID int NOT NULL PRIMARY KEY 
-					);
-				defining the primary key constraint on multiple columns
-					to define in multiple columns should be used the below syntax
-					CREATE TABLE Persons (  
-						ID int NOT NULL,  
-						LastName varchar(255) NOT NULL,  
-						FirstName varchar(255),  
-						Age int,  
-						CONSTRAINT PK_Person PRIMARY KEY (ID,LastName)  
-					);
-				To create a `PRIMARY KEY` constraint on the "ID" column when the table is already created, use the following SQL:
-					ALTER TABLE Persons  
-					ADD PRIMARY KEY (column1,column2);
-					To allow naming of a `PRIMARY KEY` constraint, and for defining a `PRIMARY KEY` constraint on multiple columns, use the following SQL syntax:
+			Linguagem SQL
+				create table 
+					CREATE TABLE person(column1_name datatype,column2_name datatype);
+				SELECT
+					cláusula where com condição simples
+				truncate table
+					TRUNCATE ESSSE COMANDO ESVAZIA OS CAMPOS DE TODAS AS COLUNAS
+				alter command
+					ADD
+						how to create a column
+							syntax 1
+								ALTER TABLE table_name 
+								ADD column_name data_type column_constraints;
+							syntax 2
+								ALTER TABLE table_name
+								ADD COLUMN column_name data_type column_constraints;
+					DROP
+						ALTER TABLE database.table_name
+						DROP COLUMN Email;
+					how to modify the data type of an column 
+						**My SQL / Oracle (prior version 10G):**
+							1.using modify column
+							2.using alter column
+					RENAME
+				INSERT
+					1. specifing the tables names
+						INSERT INTO _table_name_ (_column1_, _column2_, _column3_, ...)  
+						VALUES (_value1_, _value2_, _value3_, ...),(value1,value2,value3,...);
+					2.not especifing the table names
+						INSERT INTO _table_name_  
+						VALUES (_value1_, _value2_, _value3_, ...),(value1,value2,value3,...);
+				PRIMARY KEY
+					1. a chave primaria indentifica um registro da tabela.
+					2.Primary keys must contain UNIQUE values, and cannot contain NULL values.
+					3.um registro pode conter exatamente uma chave primaria.
+					4.Normalmente, chaves primárias são incrementadas automaticamente pelo banco de dados
+					PRIMARY KEY SYNTAX
+					defining one primary key when we're creating the table
+						CREATE TABLE Persons (  
+							ID int NOT NULL,  
+							PRIMARY KEY (ID)
+						);
+						CREATE TABLE Persons (  
+							ID int NOT NULL PRIMARY KEY 
+						);
+					defining the primary key constraint on multiple columns
+						to define in multiple columns should be used the below syntax
+						CREATE TABLE Persons (  
+							ID int NOT NULL,  
+							LastName varchar(255) NOT NULL,  
+							FirstName varchar(255),  
+							Age int,  
+							CONSTRAINT PK_Person PRIMARY KEY (ID,LastName)  
+						);
+					To create a `PRIMARY KEY` constraint on the "ID" column when the table is already created, use the following SQL:
 						ALTER TABLE Persons  
-						ADD CONSTRAINT PK_Person PRIMARY KEY (column1,column2);
-			SQL AUTO INCREMENT
-				Syntax for mysql
-					AUTO_INCREMENT
-							1.AUTO_INCREMENT BY DEFAULT WILL INCREMENT 1 FOR EACH NEW RECORD 
-							criar a tabela adicionando o incremento
-								CREATE TABLE Persons (  
-									Personid int NOT NULL AUTO_INCREMENT,  
-									PRIMARY KEY (Personid)  
-								);
-							adicionar o incremento após criar a tabela
-								ALTER TABLE Persons AUTO_INCREMENT=100;
-			UPDATE
-				UPDATE SYNTAX
-					UPDATE _table_name_  
+						ADD PRIMARY KEY (column1,column2);
+						To allow naming of a `PRIMARY KEY` constraint, and for defining a `PRIMARY KEY` constraint on multiple columns, use the following SQL syntax:
+							ALTER TABLE Persons  
+							ADD CONSTRAINT PK_Person PRIMARY KEY (column1,column2);
+				SQL AUTO INCREMENT
+					Syntax for mysql
+						AUTO_INCREMENT
+								1.AUTO_INCREMENT BY DEFAULT WILL INCREMENT 1 FOR EACH NEW RECORD 
+								criando a tabela adicionando o incremento
+									CREATE TABLE Persons (  
+										Personid int NOT NULL AUTO_INCREMENT,  
+										PRIMARY KEY (Personid)  
+									);
+								adicionar o incremento na coluna após criado a tabela
+									ALTER TABLE antonio.persons MODIFY CustomerID INT AUTO_INCREMENT=2;
+									ALTER TABLE Persons AUTO_INCREMENT=100;			
+				UPDATE
+					utilizado para atualizar valores de determinadas colunas
+					UPDATE SYNTAX
+						UPDATE _table_name_  
 						SET _column1_ = _value1_, _column2_ = _value2_, ...  
 						WHERE _condition_;
-				The following SQL statement updates the first customer (CustomerID = 1) with a new contact person _and_ a new city.
-					UPDATE table_name SET = column1 = value1 , column2 = value2 ; WHERE CustomerID = 1;
-			DELETE
-				DELETE SYNTAX
-					DELETE FROM _table_name_ WHERE _condition_;
-				Delete All Records
-					DELETE FROM table_name
-			ORDER BY
-				ALTERA A ORDEM DO RESULTADO DE SAIDA
+					The following SQL statement updates the first customer (CustomerID = 1) with a new contact person _and_ a new city.
+						UPDATE table_name SET = column1 = value1 , column2 = value2 ; WHERE CustomerID = 1;
+				DELETE
+					DELETE SYNTAX
+						DELETE FROM _table_name_ WHERE _condition_;
+					Delete All Records
+						DELETE FROM table_name
+				agregate functions
+					COUNT() AVG() SUM() 
+					The `MIN()` function returns the smallest value of the selected column.
+					The `MAX()` function returns the largest value of the selected column.
+				SQL FOREIGN KEY Constraint
+					o que é chave estrangeira
+						The `FOREIGN KEY` constraint is used to prevent actions that would destroy links between tables.
+						A `FOREIGN KEY` is a field (or collection of fields) in one table, that refers to the PRIMARY KEY in another table.
+						1. Pode ser nula (NOT NULL);
+						2. É um campo em uma tabela que faz referência a um campo que é chave primária em outra tabela;
+						3. É possível ter mais de uma (ou nenhuma) em uma tabela.
+				ORDER BY
+					```SELECT
+						  [ coluna1, coluna2, ... | * ]
+						  FROM
+						  [ tabela ]
+						  ORDER BY
+						[ coluna1, coluna2 ] [ DESC | ASC ]
+					DESC - ORDENA DE FORMA ASCENDENTE
+					ASC - ORDENA DE FORMA DESCENDENTE
+					```
+			
 		fazer consultas em banco de dados. 
 		Componentes de um BD. 
 		Modelos de BD. 
