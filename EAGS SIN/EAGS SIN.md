@@ -999,7 +999,6 @@ GRAMÁTICA
 									- **Liberdade, Liberdade**! É isso que pretendemos nessa luta.
 									- **Nossa**! Como você conseguiu?
 									- **Minha Filha**! Que linda você está!
-	
 INFORMÁTICA SIN
 	LÓGICA DE PROGRAMAÇÃO
 		conceito de algoritmo
@@ -1198,11 +1197,12 @@ INFORMÁTICA SIN
 								private
 									Private properties and methods can only be used by the class in which the property or method was defined. Derived classes and outside code cannot use them.
 							herança de classe
-								Por exemplo, ao estender uma classe, a subclasse herda todos os métodos públicos e protegidos mas  não os privados, propriedades e constantes da classe pai. ele não sobrescreve as propriedade , metodos e constantes da subsclasse
+								1.ao estender uma classe, a subclasse herda todos os métodos públicos e protegidos mas  não os privados, propriedades e constantes da classe pai
+								2.a classe que deriva não sobrescreve as propriedade , metodos e constantes da subsclasse
 							tipos de classes
 								o que é uma classe base ou classe pai ou super base ou superclasse ?
 									é uma classe da qual as outras são derivadas
-								o que é uma classe derivada ou subclasse ?
+								o que é uma classe derivada ou subclasse ou classe filha ?
 									é uma classe que herda as propriedades e metodos de uma outras classe quando é extendida
 								o que é uma classe abstrata ?
 									Uma classe abstrata é uma classe que não pode ser instanciada como um objeto diretamente. Ela tem que ser estendida por alguma classe concreta
@@ -1213,21 +1213,189 @@ INFORMÁTICA SIN
 							classe final
 								Uma classe final é uma classe que não pode ser estendida por nenhuma outra classe, ou seja, a classe final não tem herdeiros, pois ela é a última de sua hierarquia. Em nosso exemplo temos uma conta do tipo poupança que, pela regra de negócio de um banco, não possui uma derivação, ou seja, não deve ser estendida.
 							método final
-								métodos finais jamais podem ser reescritos nas classes filhas . em nosso exemplo de agência banária, podemo concluir que o método sacar de uma conta é padrão para todas as contas, independentemente de seu tipo.
-							traits and use keywords
+								métodos finais jamais podem ser reescritos nas classes filhas . em nosso exemplo de agência bancária, podemo concluir que o método sacar de uma conta é padrão para todas as contas, independentemente de seu tipo.
+							[[traits and use keywords]]
 								nos permite definir um conjunto de propriedades e metodos que seram herdadas através do uso da palavra chave use
-							static methods and static properties
-								Declaring class properties or methods as static makes them accessible without needing an instantiation of the class. These can also be accessed statically within an instantiated class object.
-						Funções e Orientação a Objetos. 
+							[[static methods and static properties]]
+								1.Declaring class properties or methods as static makes them accessible without needing an instantiation of the class. 
+								2.These can also be accessed statically within an instantiated class object.
+						Constructors and Destructors
+							1. a **__construct() function that is automatically called when you create an object from a class, 
+						    2. a __destruct() 
+							    1. a destructor is the last function that is going to be called before an object is destroyed**
+							    2. it used to clean up the object after it be estancied
+							    3. is possible to define exactly 1 one destructor
+							[[constructor promotion]]
 					Utilização de includes .  
 						1. o include inclui e avalia o arquivo
 						2. quando o arquivo é incluido o interpretador sai do modo php e entra no modo HTML 
 						3. Se os "[empacotadores de inclusão de URL](https://www.php.net/manual/pt_BR/filesystem.configuration.php#ini.allow-url-include)" estiverem habilitados no PHP, pode-se definir um arquivo a ser incluído usando uma URL (via HTTP ou outro protocolo suportado - veja [Protocolos e Wrappers suportados](https://www.php.net/manual/pt_BR/wrappers.php) para uma lista de protocolos)
 						include e a instrução return
 							a utilização do  return no escopo global faz com o valor seja retornado quando o arquivo php ser incluido pelo include , case não haja valor de retorno especificado o include retorna 1 para uma inclusão bem sucedia e 0 para uma inclusão não bem sucedida e um E_WARNING
-					Manipulação de banco de dados. 
-					Comandos para manipulação de banco de dados MySQL e controle de transações. Cookies e sessões. 
-					Manipulação de arquivos, diretórios, strings, arrays, funções e objetos.
+					Try and Catch and finally
+					Manipulação de banco de dados e PDO.
+						[Como Conectar PHP a um Banco de Dados MySQL](https://www.hostinger.com.br/tutoriais/como-conectar-php-com-mysql/)
+							mysqli instalação
+									1 - sudo apt-get install php-mysql
+									2 - sudo gedit /etc/php/8.1/apache2/php.ini 
+										pesquise por extension=pdo_mysql e descomente essa linha
+							##Como Usar o MySQLi para Conectar um Script PHP para o MySQL
+							## Como Usar o PDO para Conectar um Script PHP no MySQL
+						[Como usar PDO com banco de dados mysql](https://imasters.com.br/back-end/como-usar-pdo-com-banco-de-dados-mysql)		
+							pdo
+								o que é pdo ?
+									 1.PDO significa _PHP Data Objects_ (Objetos de Dados do PHP). 
+									 Ela é uma classe para gerenciar conexões com bancos de dados. 
+									  2.é possível usar PDO para conectar com diversos SGBDs, dentre eles MySQL, PostgreSQL, SQLite, MS SQL Server, Oracle e outros.
+									 3.PDO é uma classe. Ela segue o padrão da orientação a objetos.
+							# Conexão com MySQL usando PDO
+							# Executando Select com PDO
+							# diminuindo valores repetido no arrray
+								usa-se fetchAll(PDO::FETCH_ASSOC) 
+						o que é um driver ?
+							o driver permite  a integração do banco de dados com a linguagem php
+					Comandos para manipulação de banco de dados MySQL e controle de transações. 
+						controle de transações
+							o que é controle de transação ?
+								1 .é  habilidade de gerenciar diversas transações em um banco de dados
+								2 . quando se fala de transações se fala em comandos de  banco de dados relacionais IUP(INSERT , UPDATE , DELETE)
+						controle de ocorrência entre transações
+								o que é uma transação ?
+									 é uma operações executadas no banco de dados
+								1. controle de ocorrência entre transações é 
+									feito quando, em um banco de dados, usuários distintos tentam acessar a mesma informação e então é feito um controle entre essas transações para que não haja interferencia entre essas operações.
+								2.qualquer banco que seja utilizado por mais de um usuario tera  
+									que administrar o controle de concorrência entre as informações que estão sendo acessadas pelos usuários
+								3. E para a solução deste problema existem diversas técnicas de controle de concorrência que são utilizadas como forma de assegurar a propriedade de não interferência entre uma operação e outra, ou o isolamento das transações executadas ao mesmo tempo.
+								4.Grande parte dessas técnicas garante a serialização, que é  
+									a execução das transações de forma paralela.
+								5.o que é necessario conhecer  do gerenciamento de controle de ocorrência de transações  ?
+									as propriedades comumente chamadas de ACID (acrônimo de Atomicidade, Consistência, Isolamento e Durabilidade) que devem ser usadas pelos métodos de controle de oncorrência e recuperação do SGBD.
+								ACID
+									O que é ACID ?
+										1.**A sigla _ACID_ define os quatro pilares necessários para a realização de uma transação em um sistema de banco de dados. São elas**
+										2.ACID é uma estrutura de banco de dados que garante seu correto funcionamento e impede que dados sejam corrompidos ou perdidos no processamento de transações.
+									Atomicidade
+										1.**Seria a garantia de que a transação será feita totalmente ou não será feita. Nesse caso, a transação não é feita “pela metade”. Se por ventura uma operação da transação falhar, consequentemente, toda a transação falhará.**
+										2. Caso haja alguma falha durante a transação, os efeitos parciais desta transação no banco devem ser
+											 desfeitos. Para que essa transação onde teve 
+												 a falha seja desfeita, é necessário que o banco de dados emita 
+													 o comando que desfaça tal transação, garantindo assim a integridade do banco.
+									Consistência
+										1.Seria **a** [**proteção da integridade dos dados**](https://blog.betrybe.com/tecnologia/seguranca-da-informacao/)**. Ou seja, se um banco de dados fizer uma operação que não seja válida, o processo será impedido e retornará para o estado inicial do processo.**
+									Isolamento
+										1.**A capacidade de isolamento seria o fato de uma transação não “atrapalhar” a outra e ocorrer de forma isolada, garantindo que sejam feitas de forma individual.**
+										Vamos pensar em sites de [e-commerce](https://blog.betrybe.com/tecnologia/amazon/) como exemplo. É um fato afirmar que é um local em que está ocorrendo mais de uma transação simultânea. Você vê um produto que tem somente uma unidade e, outro comprador também comprará ele ao mesmo tempo. E aí, o que pode acontecer, já que só tem apenas um produto?
+										Nesse caso, o primeiro comprador que finalizar a compra fará que a transação de seu concorrente seja interrompida.
+									Durabilidade
+										1.**Seria a preservação dos dados após as operações terem sido realizadas. Ou seja, uma vez que uma transação for efetuada, ela permanecerá dessa forma, mesmo que ocorram problemas graves no sistema, sem precisar de retrabalho.**
+					Cookies e sessões. 
+						Cookies
+							o que são cookies ?
+								o que são informações de estado ?
+									é uma informação armazenada que salva o estado de algo como o estado do usuario que fez o login ou o idioma na qual a pagina estava da ultima vez.
+								1.Tecnicamente falando, um cookie é uma pequena quantidade de informação persistida temporariamente pelo navegador. Os navegadores normalmente limitam o tamanho dos cookies em até 4KB, e apagam cookies com a data de “validade vencida”.
+								2.Através de cookies o servidor web é capaz de trocar informações de estado com o navegador do usuário.
+								3.o cookie permite ao servidor saber que você está autenticado e quais permissões ou dados específicos estão associados à sua conta. Isso é particularmente útil quando você navega por diferentes páginas do site, porque o servidor pode consultar esse cookie para determinar o seu estado de autenticação sem que você precise fazer login novamente a cada página.
+								o que são cookies de sessão ?
+									são cookies que são excluidos assim que o navegador é fechado
+						Sessions
+							As sessões têm um princípio similar aos cookies, só que o armazenamento do estado é feito pelo servidor web, e não pelo navegador.	
+					Manipulação de arquivos
+						codigo
+							```
+							<!DOCTYPE html>
+							<html lang="en">
+							<head>
+							<meta charset="UTF-8">		
+							<meta name="viewport" content="width=device-width, initial-scale=1.0">
+							<title>Document</title>
+							<!-- styel css -->
+							<link rel="stylesheet" href="style.css">
+							</head>
+							<body>
+							<?php
+							$arquivo = "nome";
+							$conteudo = "conteúdo do arquivo\n";
+							$arquivoAberto = fopen($arquivo, "a");
+							$tamanhoArquivo = filesize($arquivo);
+							fwrite($arquivoAberto, $conteudo);
+							fclose($arquivoAberto);
+							$arquivoAberto = fopen($arquivo, "r");
+							while(!feof($arquivoAberto)):
+							$linha = fgets($arquivoAberto,$tamanhoArquivo);
+							echo $linha . "<br>";
+							endwhile;						
+							fclose($arquivoAberto);						
+							?>
+							</body>							
+							</html>
+							```
+						rewind() 
+								função
+									coloca o ponteiro no final do arquivo 
+								retorno
+									Retorna **`true`** em caso de sucesso ou **`false`** em caso de falha.
+						[file_get_contents()](http://www.php.net/file_get_contents) 
+							função
+								Pega todo conteúdo do arquivo aberto como uma string.
+							retorno
+								The function returns the read data or **`false`** on failure.
+						ftruncate()
+						unlink
+							função
+								remove um arquivo 
+					funções básicas
+						isset()
+							retorna verdaderio se a variavel passada como argumento for definida
+					Manipulação de diretórios
+						is_dir
+						mkdir
+						scandir
+						rmdir
+					Manipulação de strings
+						[[explode e implode]]
+						str_split
+						[[rtrim , ltrim and trim]]
+						similar_text
+						str_ends_with
+						str_replace and str_ireplace
+						str_starts_with
+						strlen
+						srttolower
+						srttoupper
+					Manipulação de arrays
+						[[explode e implode]]
+						[[array_chunk]]
+							dividie o array
+							retorna o array dividido
+							não modifca o array
+						sizeof()
+							is used to return the length of an array
+						remover e adicionar items de um array
+							unshift - push 
+								o que unshift e push does ?
+									eles adicionam 
+									modificam 
+									retornan o novo tamanho do array
+							shift - pop 
+								o que shift e pop does ?
+									eles removem
+									modificam
+									retornam o elemento excluido
+						[[array_values]]
+							retorna todos os valores de um array
+						[[array_walk]]
+							aplica uma determinada função em cada elemento de um array e retorna verdadeiro
+						[[array_walk_recursive]]
+						array_filter
+							 Filtra elementos de um array utilizando uma função callback 
+						array_map
+						in_array
+							Checa se um valor existe em um array
+						count
+							conta todos os elemento de um array
+					Manipulação de objetos.
 				Linguagem JAVA:
 	O Sistema de Gestão de Bases de Dados (_SGBD_) ou Data Base Management System (_DBMS_)
 		o que é um banco de dados ?
@@ -1241,6 +1409,9 @@ INFORMÁTICA SIN
 			o que é MySQL
 				O MySQL é um sistema de gerenciamento de banco de dados, que utiliza a linguagem SQL como interface. É atualmente um dos sistemas de gerenciamento de bancos de dados mais populares da Oracle Corporation, 
 			Linguagem SQL
+				vocabulario
+					o que é uma query ?
+						é uma instruação ou comando usado para interagir com o banco de dados
 				create table 
 					CREATE TABLE person(column1_name datatype,column2_name datatype);
 				SELECT
@@ -1346,7 +1517,33 @@ INFORMÁTICA SIN
 					DESC - ORDENA DE FORMA ASCENDENTE
 					ASC - ORDENA DE FORMA DESCENDENTE
 					```
-			
+				GROUP BY and HAVING
+				JOINS Queries
+					![SQL INNER JOIN](https://www.w3schools.com/sql/img_innerjoin.gif)  ![SQL LEFT JOIN](https://www.w3schools.com/sql/img_leftjoin.gif)  ![SQL RIGHT JOIN](https://www.w3schools.com/sql/img_rightjoin.gif)  ![SQL FULL OUTER JOIN](https://www.w3schools.com/sql/img_fulljoin.gif)
+					using UNION OPERATOR to make a FULL OUTER JOIN
+						how is used the union operator ?
+								The `UNION` operator is used to combine the result-set of two or more `SELECT` statements.
+				sub-queries
+					[IN KEYWORD](https://www.w3schools.com/sql/sql_ref_in.asp)
+						example 1
+							Country IN ('Germany', 'France', 'UK');
+						example 2
+							Country NOT IN ('Germany', 'France', 'UK');
+						example 3
+							Country IN (SELECT Country FROM Suppliers);
+			DDL(data definition language)
+				CREATE
+				ALTER
+				TRUNCATED
+			DML(data manipulation language)
+				select
+					from
+					where
+					order by
+					group by
+					having
+					joins
+				IUP -> INSERT , DELETE , UPDATE
 		fazer consultas em banco de dados. 
 		Componentes de um BD. 
 		Modelos de BD. 
