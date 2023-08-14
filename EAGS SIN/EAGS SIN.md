@@ -1000,6 +1000,7 @@ GRAMÁTICA
 									- **Nossa**! Como você conseguiu?
 									- **Minha Filha**! Que linda você está!
 INFORMÁTICA SIN
+	Arquitetura de Computadores(opcional)				
 	LÓGICA DE PROGRAMAÇÃO
 		conceito de algoritmo
 			o que é um algoritimo ?
@@ -1397,6 +1398,39 @@ INFORMÁTICA SIN
 							conta todos os elemento de um array
 					Manipulação de objetos.
 				Linguagem JAVA:
+					o que é java ?
+						Java é uma linguagem de programação orientada a objetos que é amplamente usada para o desenvolvimento de sites e aplicativos , Sua intenção é permitir que os desenvolvedores escrevam o programa apenas uma vez e o executem por meio de qualquer dispositivo.
+					Características. 
+						1. é orientada a objetos
+						2. ele é distribuido 
+							Java fornece uma grande biblioteca padrão e ferramentas para que os programas possam ser distribuídos.
+						3. Independente da plataforma
+							Isso significa que os programas escritos na linguagem Java podem ser executados em qualquer tipo de [hardware](https://rockcontent.com/br/blog/hardware-e-software/), o que o torna portátil.
+						4.Coletor de lixo or garbage collection
+							Quando não há referências localizadas para um objeto, o coletor de lixo do Java exclui esse objeto, liberando, assim, a memória que ele ocupava. Isso evita possíveis fugas de memória.
+						5.Seguro e sólido
+							Proporciona uma plataforma segura para desenvolver e executar [aplicativos](https://rockcontent.com/br/blog/marketing-de-conteudo-para-apps/) que gerenciam automaticamente a memória, fornece canais de comunicação seguros, protegendo a privacidade dos dados e, por ter uma sintaxe rigorosa, evita a quebra de código, ou seja, não permite sua corrupção.
+						6.Multi-thread
+							O Java consegue executar várias tarefas simultaneamente dentro do mesmo programa. Isso permite melhorar o desempenho e a velocidade de execução.
+						7.Permite ser executa em diferente plataformas
+							Essa linguagem permite desenhar softwares que podem ser executados e distribuídos em diferentes plataformas (MAC, Linux, Windows etc.), sem a necessidade de modificá-los e, inclusive, sem pensar na arquitetura da máquina.
+							Tudo isso graças ao Java Virtual Machine, uma máquina virtual que cria uma ponte entre o aplicativo e o hardware do dispositivo.
+						8.Interpretada
+							ela é uma linguagem interpretada ela faz uso de máquina virtual chamada JVM(Java Virtual Machine) a responsável pela portabilidade das aplicações escritas na linguagem.
+							Esta já mencionada portabilidade significa que mesmo que a aplicação tenha sido desenvolvida em um ambiente _Windows_, ela irá rodar tranquilamente em um ambiente _Linux_.
+							, A JVM não entende código Java e não gera código de máquina, em vez disso ela gera um código especifico chamado _bytecode_ – um código independente. Este código é gerado pelo compilador Java (javac) e será traduzido pela _Virtual Machine_ para o código de cada máquina em questão.
+						9.Qual a Importância do java na programção ?
+							Essa linguagem permite desenhar softwares que podem ser executados e distribuídos em diferentes plataformas (MAC, Linux, Windows etc.), sem a necessidade de modificá-los e, inclusive, sem pensar na arquitetura da máquina.
+							Tudo isso graças aoJava Virtual Machine,
+					Variáveis. 
+					Classes. 
+					Atributos. 
+					Métodos. 
+					Herança. 
+					Polimorfismo. 
+					Encapsulamento. 
+					Estrutura de Controle. 
+					Recursividade.
 	O Sistema de Gestão de Bases de Dados (_SGBD_) ou Data Base Management System (_DBMS_)
 		o que é um banco de dados ?
 			é uma coleção organizada de inforamações gerenciada por um sistema de gerenciamentos de banco de dados
@@ -1546,6 +1580,59 @@ INFORMÁTICA SIN
 				IUP -> INSERT , DELETE , UPDATE
 		fazer consultas em banco de dados. 
 		Componentes de um BD. 
-		Modelos de BD. 
-		Normalização. 
+			Quais são componentes de banco de dados?
+				Um banco de dados, para funcionar, deve possuir um conjunto de quatro componentes básicos, são eles: **dados, hardware, software e usuários**.
+				![Material Didático - IMD](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbD1j3jTxmsoB08M2KLqhGfmBwGJPfhFALMQrMjMEVNA&s)
+		[[Modelos de BD. ]]
+			**O que são modelos de banco de dados?**
+				Os “jeitos” de armazenar e relacionar dados são chamados, tecnicamente, de **“modelos de dados”**, do qual deriva o conceito de **“modelos de bancos de dados”**.
+			Modelo hierárquico
+				O modelo hierárquico organiza dados em uma estrutura do tipo árvore, onde cada registro tem um único "pai" ou raiz. Registros "irmãos" são classificados em uma ordem específica. Essa ordem é usada como a ordem física para armazenar o banco de dados. Este modelo é bom para descrever muitas relações do mundo real.
+					![](https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/seo/database/discovery/hierarchical-model.svg)
+			Modelo em rede
+				O modelo de rede se baseia no modelo hierárquico, permitindo relações muitas para muitas entre registros vinculados, implicando em vários registros "pai". Baseado na teoria de conjuntos matemáticos, o modelo é construído com conjuntos de registros relacionados. Cada conjunto consiste em um registro proprietário, ou "pai", e um ou mais registros de membro, ou "filho". Um registro pode ser um membro, ou "filho", em vários conjuntos, permitindo que esse modelo transmita relações complexas.
+				Foi mais popular nos anos 70, depois de ter sido formalmente definido pela Conferência sobre Linguagens de Sistemas de Dados (CODASYL).
+				![modelo de rede](https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/seo/database/discovery/network-model.svg)
+			Modelo de banco de dados orientado para objetos
+				1.um banco de dados orientado a objetos é organizado na forma de diferentes objetos, os quais contém arquivos e informações agrupados, além dos procedimentos para sua leitura e processamento
+				2.Diferente do modelo relacional, **ele não segue uma “lógica” rígida preestabelecida**, criando apenas blocos de informação, cada um com um Identificador de objeto associado para identificação.
+				3.este aqui se apresenta como uma série de caixas com rótulos individuais.
+				![[Pasted image 20230813172611.png]]
+			Modelo Relacional
+				1.classifica os dados em tabelas na qual essas tabelas podem ter relações entre si por meio de chaves primarias
+				![modelo relacional](https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/seo/database/discovery/relational-model.svg)
+			Modelo de banco de dados orientados para objetos
+				Este modelo define o banco de dados como uma coleção de objetos, ou elementos de software reutilizáveis, com recursos e métodos associados. Há vários tipos de bancos de dados orientados para objetos:
+				Um **banco de dados multimídia** incorpora mídia, como imagens, que não podem ser armazenadas em um banco de dados relacional.
+				Um **banco de dados de hipertexto** permite que qualquer objeto seja vinculado a qualquer outro objeto. É útil para organizar lotes de dados diferentes, mas não é ideal para a análise numérica.
+				O modelo de banco de dados orientado a objetos é o modelo de banco de dados pós-relacional mais conhecido, uma vez que ele incorpora tabelas, mas não se limita a elas. Tais modelos também são conhecidos como modelos de bancos de dados híbridos.
+				![modelo relacional-objetos](https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/seo/database/discovery/object-oriented-model.svg)
+			Modelo não relacional
+				O banco de dados não relacional é um banco de dados que possibilita a flexibilidade na hora de armazenar os dados, já que não se limita a tabelas com linhas e colunas, como o banco de dados relacional. Esse tipo de banco de dados usa um modelo de armazenamento otimizado, que é adaptável para o requisito específico de cada dado, por exemplo: possibilita que os dados sejam armazenados como chave/valor simples; documento no formato JSON (JavaScript Object Notation) ou até mesmo em forma de gráfico, composto de bordas e vértices.
+		Modelagem de Dados
+			Normalização e Anomalias
+				O que são anomalias ?
+					Anomalias são problemas que ocorrem em banco de dados mal planejados e não-normalizado , geralmente ocorrendo por excesso de dados armazenados em uma mesma tabela.
+				Anomalias de Atualização
+					As anomalias de atualização são classificadas em anomalis de inserção , de exclusão e de modificação
+				Anomalia de inclusão
+					Anomalia de inclusão : Não deve ser possivel adicionar um dado a não ser que outro dado esteja disponivel Por exemplo, não deve ser permitido cadastrar um novo livro sem que um autor já esteja cadastrado.
+				Anomalia de Exclusão
+					ao exluirmo um registro, dados referentes em outra tabela são excluido. Por exemplo, se excluirmos um autor, os livros desse autor devem ser excluidos também.		
+				Anomalia de Modificação
+					ao alterar um dado em uma tabela , dados em outra tabelas precisam ser alterados. por exemplo, se o código de um autor for modificado, esse código dever ser modificado na tabela de autores e na de livro também, para manter o relacionamento entre livros e seus autores corretos.
+				Eliminar anomalias
+					Projetar os esquemas de relações (tabelas) no banco de dados de modo que nenhuma anomalia de inserção , exclusão ou modificação esteja presente nas relações.
+					para isso , usamos o processo de Normalização.
+				Normalização
+					Normalização consiste em um processo de análise de uma formação de uma relação para assegurar que seja bem formada. Decompor relações com anomalias para produzir relações menores e bem-estruturadas.
+					Ou seja, em uma relação normalizada podemos inserir, excluir ou modificar registros sem criar anomalias.
+					Normalização de Codd
+						o processo de normalização proposto por codd aplica a um esquema de relação uma série de testes para certificar que ele satisfaça uma forma normal(FN)
+						Codd propôs 3 formas normais 1ª , 2ª e 3ª FNs.
+					Forma Normal de Boyce-Codd(FNBC)
+					Objetivo da Normalização
+						o ideal é que o projeto do banco de dados relacional alcance a FNBC ou 3FN para cada tabela.
+						não é adequado normalizar apenas até a 1FN ou á 2FN,pois na verdade essas formas normais são usadas para se chegar á 3FN ou FNBC
 		Modelos Navegacionais
+	

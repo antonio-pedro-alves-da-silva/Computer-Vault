@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ee4e8bcf9413ed0e",
@@ -149,6 +150,7 @@
   },
   "active": "8de521fe9a4d5faa",
   "lastOpenFiles": [
+    "Pasted image 20230813172611.png",
     "EAGS SIN/php/OOP/constructor promotion.md",
     "EAGS SIN/EAGS SIN.md",
     "Destructors.md",
@@ -189,7 +191,6 @@
     "Untitled 4.md",
     "Untitled 3.md",
     "Untitled 6.md",
-    "Untitled 5.md",
     "EAGS SIN/GRAMÁTICA",
     "EAGS SIN",
     "Untitled.canvas",
