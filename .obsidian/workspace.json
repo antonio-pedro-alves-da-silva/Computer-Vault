@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d9cd2e7685da4644",
+        "id": "4592401f702c04f8",
         "type": "tabs",
         "children": [
           {
-            "id": "8de521fe9a4d5faa",
+            "id": "bdd5c2c16092282d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ee4e8bcf9413ed0e",
@@ -148,12 +147,30 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "8de521fe9a4d5faa",
+  "active": "bdd5c2c16092282d",
   "lastOpenFiles": [
-    "Pasted image 20230813172611.png",
-    "EAGS SIN/php/OOP/constructor promotion.md",
+    "EAGS SIN/SISTEMA OPERACIONAIS/sistema de arquivos/sistema de arquivos mais comuns.md",
     "EAGS SIN/EAGS SIN.md",
+    "EAGS SIN/SISTEMA OPERACIONAIS/sistema de arquivos/o que é um sistema de arquivo ?.md",
+    "EAGS SIN/SISTEMA OPERACIONAIS/sistema de arquivos",
+    "EAGS SIN/SISTEMA OPERACIONAIS/EXT4.md",
+    "EAGS SIN/SISTEMA OPERACIONAIS",
+    "EAGS SIN/java/recursividade.md",
+    "EAGS SIN/java",
+    "imagens/processo_de_compilação2.jpg",
+    "imagens/processo_de_compilação.jpg",
+    "processo_de_compilação.jpg",
+    "printScreen.jpg",
+    "imagens/printScreen_000.jpg",
+    "imagens/printScreen.jpg",
+    "Diagramas-Chapin-Fluxogramas.jpg.md",
     "Destructors.md",
+    "Pasted image 20230813172611.png",
+    "imagens",
+    "EAGS SIN/formas-do-fluxo-grama-convencional/terminal ou inicio e final do fluxograma.png",
+    "EAGS SIN/formas-do-fluxo-grama-convencional/saida de dados em impressão.png",
+    "EAGS SIN/formas-do-fluxo-grama-convencional/processamento ou operação de atribuição.png",
+    "EAGS SIN/php/OOP/constructor promotion.md",
     "EAGS SIN/php/OOP",
     "EAGS SIN/php/OOP.md",
     "EAGS SIN/php/manipulação-de-strings/array_walk_recursive.md",
@@ -167,35 +184,18 @@
     "EAGS SIN/o que estudar para o EAGS SIN.md",
     "().md",
     "IN KEYWORD.md",
-    "Pasted image 20230808181448.png",
     "Untitled 1.md",
-    "Diagramas-Chapin-Fluxogramas.jpg",
     "respostas.md",
     "obsidian shortcuts.md",
     "concordância verbal memorization rehearsal.md",
     "hotkeys to set.md",
     "Untitled 2.md",
-    "EAGS SIN/formas-do-fluxo-grama-convencional/operação de atribuição.png",
-    "EAGS SIN/formas-do-fluxo-grama-convencional/operação de saida de dados.png",
-    "EAGS SIN/formas-do-fluxo-grama-convencional/operação de entrada de dados.png",
-    "EAGS SIN/formas-do-fluxo-grama-convencional/inicio e final do fluxograma.png",
-    "EAGS SIN/formas-do-fluxo-grama-convencional/decisão.png",
-    "Pasted image 20230727163125.png",
-    "Pasted image 20230727163113.png",
-    "Pasted image 20230727163108.png",
     "Computer.md",
     "EAGS SIN/formas-do-fluxo-grama-convencional",
     "EAGS SIN/particula \"se\".md",
     "páginas",
-    "time management tips.md",
-    "Untitled 4.md",
-    "Untitled 3.md",
-    "Untitled 6.md",
     "EAGS SIN/GRAMÁTICA",
-    "EAGS SIN",
     "Untitled.canvas",
-    "Untitled 1.canvas",
-    "Full-stack web developer/CONCEITOS GERAIS",
-    "Full-stack web developer"
+    "Untitled 1.canvas"
   ]
 }

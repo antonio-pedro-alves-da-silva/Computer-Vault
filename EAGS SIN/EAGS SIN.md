@@ -1000,7 +1000,13 @@ GRAMÁTICA
 									- **Nossa**! Como você conseguiu?
 									- **Minha Filha**! Que linda você está!
 INFORMÁTICA SIN
+	conceitos básicos da computação
+		o que é camada de abstração ?
+			1.Na computação, uma camada de abstração ou nível de abstração é uma forma de ocultar os detalhes de trabalho de um subsistema, permitindo a separação de interesses para facilitar a interoperabilidade e a independência da plataforma.
 	Arquitetura de Computadores(opcional)				
+	Desenvolvimento de Software
+		![[processo_de_compilação.jpg]]
+		![[processo_de_compilação2.jpg]]
 	LÓGICA DE PROGRAMAÇÃO
 		conceito de algoritmo
 			o que é um algoritimo ?
@@ -1075,8 +1081,20 @@ INFORMÁTICA SIN
 			funções são sub-rotinas que executa uma tarefa retornando um valor ao chamador
 			sub-rotinas são criadas criando uma funçaõ
 	LINGUAGENS DE PROGRAMAÇÃO
+			[tipagem](https://www.treinaweb.com.br/blog/quais-as-diferencas-entre-tipagens-estatica-ou-dinamica-e-forte-ou-fraca)
+				o que é tipagem estática e dinâmica ?
+					1.Linguagens com tipagem estática não permitem ao desenvolvedor alterar o tipo da variável depois de declarada
+					2.linguagens dinâmcias permitem a alteração do tipo da variavel  após a atribuição
+				o que é tipagem forte e fraca ?
+					1.A tipagem fraca está ligada a característica da linguagem de realizar conversões automaticamente entre tipos diferentes de dados. Veja o exemplo 
+					2.já a tipagem forte não faz a conversão automatica de tipo de dados diferentes
+				o que é inferencia de tipo ?
+					é o reconhecimento automático do tipo da variavel
 			paradigmas da programação
-				o que é uma paradigma da prgramação ?
+				o que é uma paradigma da programação ?Um paradigma pode ser entendido como um **tipo de estruturação ao qual a linguagem deverá respeitar**. A depender do objetivo proposto, a solução que a linguagem oferecerá obedece a um tipo de paradigma. Portanto, o que vai definir o paradigma utilizado será a tratativa dada ao problema.
+			tipos de paradigmas
+				paradigma imperativo ou procedural
+					Nesse tipo de construção, **as instruções devem ser passadas ao computador na sequência em que devem ser executadas**.
 			Linguagens
 				Linguagem PHP
 					Características. 
@@ -1418,19 +1436,38 @@ INFORMÁTICA SIN
 						8.Interpretada
 							ela é uma linguagem interpretada ela faz uso de máquina virtual chamada JVM(Java Virtual Machine) a responsável pela portabilidade das aplicações escritas na linguagem.
 							Esta já mencionada portabilidade significa que mesmo que a aplicação tenha sido desenvolvida em um ambiente _Windows_, ela irá rodar tranquilamente em um ambiente _Linux_.
-							, A JVM não entende código Java e não gera código de máquina, em vez disso ela gera um código especifico chamado _bytecode_ – um código independente. Este código é gerado pelo compilador Java (javac) e será traduzido pela _Virtual Machine_ para o código de cada máquina em questão.
+							, A JVM não entende código Java e não gera código de máquina, em vez disso ela gera um código especifico chamado _bytecode_ – um código independente. Este código é gerado pelo compilador Java (javac) e será traduzido pela _Virtual Machine_ da maquina correspondente(existe diferentes tipos de Virtual Machine como virtual Machine para Linux,Para Mac e Para Windows) para o código de cada máquina em questão.
+							![[printScreen_000.jpg]]
 						9.Qual a Importância do java na programção ?
 							Essa linguagem permite desenhar softwares que podem ser executados e distribuídos em diferentes plataformas (MAC, Linux, Windows etc.), sem a necessidade de modificá-los e, inclusive, sem pensar na arquitetura da máquina.
 							Tudo isso graças aoJava Virtual Machine,
-					Variáveis. 
+					[Type Casting](https://www.w3schools.com/java/java_type_casting.asp)
+						what is Widening Casting ?
+							is the automatic casting into a another type
+						what is Narrowing Casting ?
+							in the narrowing Casting is a manual casting he especify the type that we wanna to cast
+					[Java Arrays](https://www.w3schools.com/java/java_arrays.asp)
+					[Java ForEach](https://www.w3schools.com/java/tryjava.asp?filename=demo_array_for_each)
+					[Recursividade](https://www.w3schools.com/java/java_recursion.asp)
+						Recursion Example
+						Recursion Explained
 					Classes. 
-					Atributos. 
-					Métodos. 
+						[using multiple classes](https://www.w3schools.com/java/java_class_methods.asp)
 					Herança. 
-					Polimorfismo. 
-					Encapsulamento. 
-					Estrutura de Controle. 
-					Recursividade.
+					[Polimorfismo](https://www.w3schools.com/java/java_polymorphism.asp). 
+						1.**Polymorphism** uses inherited methods to perform different tasks. This allows us to perform a single action in different ways.
+						2.Polymorphism means "many forms", and it occurs when we have many classes that are related to each other by inheritance.
+					[Encapsulamento ](https://www.w3schools.com/java/java_encapsulation.asp)
+						why is used encapsulation ?
+							1.The meaning of **Encapsulation**, is to make sure that "sensitive" data is hidden from users. To achieve this, you must:
+						how to use ?
+							1.declare class variables/attributes as `private`
+							2.provide public **get** and **set** methods to access and update the value of a `private` variable
+						Why Encapsulation?
+							1.Better control of class attributes and methods
+							2.Class attributes can be made **read-only** (if you only use the `get` method), or **write-only** (if you only use the `set` method)
+							3.Flexible: the programmer can change one part of the code without affecting other parts
+							4.Increased security of data
 	O Sistema de Gestão de Bases de Dados (_SGBD_) ou Data Base Management System (_DBMS_)
 		o que é um banco de dados ?
 			é uma coleção organizada de inforamações gerenciada por um sistema de gerenciamentos de banco de dados
@@ -1635,4 +1672,44 @@ INFORMÁTICA SIN
 						o ideal é que o projeto do banco de dados relacional alcance a FNBC ou 3FN para cada tabela.
 						não é adequado normalizar apenas até a 1FN ou á 2FN,pois na verdade essas formas normais são usadas para se chegar á 3FN ou FNBC
 		Modelos Navegacionais
-	
+	SISTEMAS OPERACIONAIS
+		Controlando processos.
+			sinais
+				SIGKILL & SIGTERM
+				qual a diferença entre SIGKILL & SIGTERM
+					1.O sinal `SIGTERM` é um sinal de término suave. Quando um processo recebe o sinal `SIGTERM`, ele é notificado de que deve encerrar e sair. No entanto, o processo tem a oportunidade de realizar qualquer limpeza ou encerramento apropriado antes de finalizar. Muitos programas implementam rotinas de tratamento para `SIGTERM` para garantir que eles encerrem de maneira ordenada, liberando recursos, salvando dados, etc. É uma maneira educada de pedir a um processo que pare.
+				   2.**SIGKILL (Kill Signal):** O sinal `SIGKILL` é um sinal de interrupção imediata e forçada. Quando um processo recebe o sinal `SIGKILL`, ele é encerrado instantaneamente, sem qualquer oportunidade de realizar qualquer ação de limpeza ou salvar seu estado. O processo é encerrado abruptamente, sem consideração pelos recursos que está usando ou pelas atividades que está realizando. Em outras palavras, é um método mais agressivo de encerramento.
+				SINGINT
+					1.O sinal `SIGINT` é gerado quando você pressiona `Ctrl + C` no terminal enquanto um programa está sendo executado. Esse sinal é geralmente usado para interromper educadamente um programa em execução, solicitando que ele pare sua execução de forma ordenada. A maioria dos programas está configurada para capturar o sinal `SIGINT` e realizar alguma ação de limpeza antes de encerrar.
+				SIGTSTP
+					1.O sinal `SIGTSTP` (Terminal Stop Signal) é um sinal usado em sistemas Unix-like para suspender a execução de um processo em segundo plano. Ele é geralmente gerado quando você pressiona `Ctrl + Z` no terminal enquanto um processo está em execução. O `SIGTSTP` permite que você coloque um processo em segundo plano e retome o controle do terminal.
+					Quando um processo recebe o sinal `SIGTSTP`, ele é pausado e colocado em um estado de espera. Você pode retomar o processo para o primeiro plano usando o comando `fg` no terminal. Alternativamente, você também pode enviar o processo para o plano de fundo usando o comando `bg`. O processo continuará a executar, mas não estará mais interagindo diretamente com o terminal.
+				pkill , killall e pgrep
+				    0.o _killall_ funciona apenas com o nome exato do comando, e não com nome parcial (como o _pkill_). Este é um dos motivos pelo qual o _killall_ é mais seguro.
+					1.pkill ou killall para matar usando o nome do processo
+					2.pgrep para achar os pid usando o nome do processo
+						1.pgrep -l chrome -> para listar os processos e o nomes dos processos
+		Sistema de arquivos.
+			[o que é um sistema de arquivo ?]
+			[sistema de arquivos mais comuns]
+		[Adição de novos usuários](https://www.freecodecamp.org/portuguese/news/linux-como-adicionar-e-como-criar-usuarios-com-useradd/). 
+			useradd teste
+			passwd teste
+		Adição de disco. 
+		Processos periódicos. 
+		Backups. 
+		Syslog e arquivos de log. 
+		Gerenciamento de software e configuração. 
+		Sistema de arquivos de rede, roteamento. 
+		Compartilhando arquivos de sistema. 
+		E-mail. 
+		Gerenciamento e depuração de redes. 
+		Segurança. 
+		Hospedagem Web e servidores Internet. 
+		O X Window System. 
+		Análise de Desempenho. 
+		Dispositivos Seriais. 
+		Drives e o Kernel. 
+		Daemons. 
+		Gerenciamento, 
+		diretivas e Políticas. 2.9.3.2 Conceitos de Sistemas Operacionais. Processos e Threads. Gerenciamento de memória. Gerenciamento de Entrada/Saída. Sistemas de arquivos. Sistemas com múltiplos processadores. Virtualização e Nuvem.
