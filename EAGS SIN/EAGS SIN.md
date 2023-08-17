@@ -1690,26 +1690,57 @@ INFORMÁTICA SIN
 					2.pgrep para achar os pid usando o nome do processo
 						1.pgrep -l chrome -> para listar os processos e o nomes dos processos
 		Sistema de arquivos.
-			[o que é um sistema de arquivo ?]
-			[sistema de arquivos mais comuns]
-		[Adição de novos usuários](https://www.freecodecamp.org/portuguese/news/linux-como-adicionar-e-como-criar-usuarios-com-useradd/). 
-			useradd teste
-			passwd teste
+			[[o que é um sistema de arquivo ?]]
+			[[sistema de arquivos mais comuns]]
+		[Adição de novos usuários](https://www.freecodecamp.org/portuguese/news/linux-como-adicionar-e-como-criar-usuarios-com-useradd/).
+			useradd command
+				useradd teste -> para criar um úsuario
+				useradd -m teste -> Para criar um usuário com o diretório _home_ padrão
+				userdel user_name -> para deletar o usúario
+			!!! 
+				. useradd is a low level utility for adding users. On Debian, administrators should usually use adduser(8) instead.
+			passwd teste -> para adicionar uma senha ao usuario teste
+			adduser
+				adduser username -> criar novo usuario e diretorio do usuario
+				adduser username --shell /bin/sh -> To add a user with a different shell.
+				adduser username --conf custom_config.conf ->To add a new user with a different configuration file.
+				adduser username --home /home/manav/ -> To add a user with different home directory.
+			id 
+				o id exibi informações de usuários
+				id -u user_name -> exibe o id do usuario
+				id user_name -> **To find out UID and all groups associated with a username**
+				id -G user_name -> **To find out all the groups a user belongs to**
 		Adição de disco. 
+			como mecher na partição
+			como definir um ponto de montagem de um pendrive usando o comando mount
 		Processos periódicos. 
 		Backups. 
-		Syslog e arquivos de log. 
+			tipos de backups 
+				backup completo
+					seria um backup completo diario
+				backup incrementais
+					so faz backup daquilo que foi incrementado
+		Syslog e arquivos de log.
+			[[o que é um arquivo de log ?]]
 		Gerenciamento de software e configuração. 
 		Sistema de arquivos de rede, roteamento. 
-		Compartilhando arquivos de sistema. 
-		E-mail. 
-		Gerenciamento e depuração de redes. 
+			o que é um daemon ?
+				Um daemon **é um programa que roda em "background" como um processo (sem terminal ou interface), que comumente espera por eventos para oferecer serviços**. Um bom exemplo é um servidor web que espera por requisições para entregar uma página, ou um servidor ssh que espera por alguma tentativa de login.
+			NFS
+				1.O Network File System (NFS) é um mecanismo para armazenamento de arquivos em uma rede. É um sistema de arquivos distribuído que permite que os usuários acessem arquivos e diretórios localizados em computadores remotos e tratem esses arquivos e diretórios como se fossem locais.
+				2.O pacote de software NFS inclui comandos e daemons para NFS, Network Information Service (NIS), e outros serviços. Apesar de NFS e NIS serem instalados juntos como um pacote, cada um é independente e cada um é configurado e administrado individualmente.
+			[[o que é roteamento ?]]
+		[[Compartilhando arquivos de sistema. ]]
+		[[Gerenciamento e depuração de redes]]
 		Segurança. 
 		Hospedagem Web e servidores Internet. 
-		O X Window System. 
+				O X Window System ou X11 . 
+			o que é o X Window System ?
+				um display server ele é responsavel por redenrizar a interface do usuário
 		Análise de Desempenho. 
 		Dispositivos Seriais. 
-		Drives e o Kernel. 
+		[[Drives]]
+		[[Kernel]] 
 		Daemons. 
 		Gerenciamento, 
 		diretivas e Políticas. 2.9.3.2 Conceitos de Sistemas Operacionais. Processos e Threads. Gerenciamento de memória. Gerenciamento de Entrada/Saída. Sistemas de arquivos. Sistemas com múltiplos processadores. Virtualização e Nuvem.
