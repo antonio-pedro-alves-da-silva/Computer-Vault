@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EAGS SIN/SISTEMA OPERACIONAIS/Kernel.md",
+                "file": "EAGS SIN/EAGS SIN.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ee4e8bcf9413ed0e",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EAGS SIN/SISTEMA OPERACIONAIS/Kernel.md",
+                "file": "EAGS SIN/EAGS SIN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EAGS SIN/SISTEMA OPERACIONAIS/Kernel.md",
+                "file": "EAGS SIN/EAGS SIN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EAGS SIN/SISTEMA OPERACIONAIS/Kernel.md"
+                "file": "EAGS SIN/EAGS SIN.md"
               }
             }
           }
@@ -150,10 +149,16 @@
   },
   "active": "bdd5c2c16092282d",
   "lastOpenFiles": [
-    "EAGS SIN/SISTEMA OPERACIONAIS/Drivers.md",
-    "EAGS SIN/SISTEMA OPERACIONAIS/Kernel.md",
-    "Pasted image 20230817184719.png",
+    "EAGS SIN/MANUTENÇÃO DE COMPUTADORES/hardwares/Memória Ram.md",
     "EAGS SIN/EAGS SIN.md",
+    "EAGS SIN/MANUTENÇÃO DE COMPUTADORES/hardwares/Placa de vídeo.md",
+    "Placa de vídeo.md",
+    "EAGS SIN/MANUTENÇÃO DE COMPUTADORES/hardwares",
+    "EAGS SIN/MANUTENÇÃO DE COMPUTADORES",
+    "Pasted image 20230818144738.png",
+    "EAGS SIN/SISTEMA OPERACIONAIS/Kernel.md",
+    "EAGS SIN/SISTEMA OPERACIONAIS/Drivers.md",
+    "Pasted image 20230817184719.png",
     "EAGS SIN/SISTEMA OPERACIONAIS/sistema de arquivos de rede/o que é roteamento ?.md",
     "Untitled.md",
     "EAGS SIN/SISTEMA OPERACIONAIS/sistema de arquivos de rede",
@@ -176,7 +181,6 @@
     "Pasted image 20230813172611.png",
     "imagens",
     "EAGS SIN/formas-do-fluxo-grama-convencional/terminal ou inicio e final do fluxograma.png",
-    "EAGS SIN/formas-do-fluxo-grama-convencional/saida de dados em impressão.png",
     "EAGS SIN/php/OOP/constructor promotion.md",
     "EAGS SIN/php/OOP",
     "EAGS SIN/php/OOP.md",
@@ -191,10 +195,6 @@
     "EAGS SIN/o que estudar para o EAGS SIN.md",
     "().md",
     "IN KEYWORD.md",
-    "Untitled 1.md",
-    "respostas.md",
-    "EAGS SIN/formas-do-fluxo-grama-convencional",
-    "páginas",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

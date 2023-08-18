@@ -1673,6 +1673,8 @@ INFORMÁTICA SIN
 						não é adequado normalizar apenas até a 1FN ou á 2FN,pois na verdade essas formas normais são usadas para se chegar á 3FN ou FNBC
 		Modelos Navegacionais
 	SISTEMAS OPERACIONAIS
+		o que é um sistema operacional ?
+			O **sistema operacional** é um software, ou conjunto de softwares, cuja função é administrar e gerenciar os recursos de um **sistema**, desde componentes de hardware e **sistemas** de arquivos a programas de terceiros, estabelecendo a interface entre o computador e o usuário.
 		Controlando processos.
 			sinais
 				SIGKILL & SIGTERM
@@ -1742,5 +1744,40 @@ INFORMÁTICA SIN
 		[[Drives]]
 		[[Kernel]] 
 		Daemons. 
-		Gerenciamento, 
-		diretivas e Políticas. 2.9.3.2 Conceitos de Sistemas Operacionais. Processos e Threads. Gerenciamento de memória. Gerenciamento de Entrada/Saída. Sistemas de arquivos. Sistemas com múltiplos processadores. Virtualização e Nuvem.
+			Um [daemon](https://en.wikipedia.org/wiki/Daemon_(computing) "wikipedia:Daemon (computing)") é um programa que roda em "background" como um processo (sem terminal ou interface), que comumente espera por eventos para oferecer serviços. Um bom exemplo é um servidor web que espera por requisições para entregar uma página, ou um servidor ssh que espera por alguma tentativa de login. Apesar destes serem exemplos de aplicações bastante conhecidas e difundidas, há daemons cujo trabalho não é visível. Daemons que as tarefas são enviar logs para arquivos(ex: `syslog`, `metalog`) ou manter o horário do sistema sincronizado como o [ntpd](https://wiki.archlinux.org/title/Ntpd "Ntpd"). Para maiores informações veja [daemon(7)](https://man.archlinux.org/man/daemon.7).
+			No Arch Linux, daemons são gerenciados pelo [systemd](https://wiki.archlinux.org/title/Systemd_(Portugu%C3%AAs) "Systemd (Português)"). O [systemctl](https://wiki.archlinux.org/title/Systemctl_(Portugu%C3%AAs) "Systemctl (Português)") é o comando usado como interface para gerenciá-los. Ele lê arquivos na estrutura `_nome_do_serviço_.service` que contém informação sobre como e quando iniciar o daemon a eles associados. Os arquivos de serviço são armazenados em `/{etc,usr/lib,run}/systemd/system`. Veja [usando units](https://wiki.archlinux.org/title/Systemd_(Portugu%C3%AAs)#Usando_units "Systemd (Português)") para maiores detalhes.
+		Processos e Threads. 
+		Gerenciamento de memória. 
+		Gerenciamento de Entrada/Saída. 
+		Sistemas de arquivos. 
+		Sistemas com múltiplos processadores. 
+		Virtualização e Nuvem.
+	MANUTENÇÃO DE COMPUTADORES
+		hardwares do computador
+		![[Pasted image 20230818144738.png]]
+			Leitor Interno
+				Responsável por fazer a leitura do software para acionar o computador.
+			Place de som
+				É o componente que permite a emissão de sons pelo computador.
+			[[Placa de vídeo]]
+			[[Memória Ram]]
+		A arquitetura PC.
+		Sistemas de numeração. 
+		Lógica booleana. 
+		Transmissão de dados. 
+		Processadores. 
+		Modos de operação. 
+		Memória: tipos, hierarquia, proteção, paginação, segmentação e operação. 
+		Registradores. 
+		Interrupções e exceções. 
+		Unidade de ponto flutuante. 
+		Virtualização. 
+		Processadores: arquiteturas e gerenciamento de desempenho. 
+		Placas mãe. 
+		Slots de expansão. 
+		Portas de comunicação. 
+		Circuito regulador de tensão. 
+		Placas de vídeo. 
+		Monitores de vídeo. 
+		Dispositivos de armazenamento. 
+		RAID.
