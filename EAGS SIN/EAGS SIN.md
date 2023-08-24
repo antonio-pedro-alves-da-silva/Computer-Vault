@@ -1095,7 +1095,7 @@ INFORMÁTICA SIN
 			tipos de paradigmas
 				paradigma imperativo ou procedural
 					Nesse tipo de construção, **as instruções devem ser passadas ao computador na sequência em que devem ser executadas**.
-			Linguagens
+			Linguagens de programação
 				Linguagem PHP
 					Características. 
 						1.é case sensitive
@@ -1415,7 +1415,7 @@ INFORMÁTICA SIN
 						count
 							conta todos os elemento de um array
 					Manipulação de objetos.
-				Linguagem JAVA:
+				Linguagem JAVA
 					o que é java ?
 						Java é uma linguagem de programação orientada a objetos que é amplamente usada para o desenvolvimento de sites e aplicativos , Sua intenção é permitir que os desenvolvedores escrevam o programa apenas uma vez e o executem por meio de qualquer dispositivo.
 					Características. 
@@ -1694,26 +1694,72 @@ INFORMÁTICA SIN
 		Sistema de arquivos.
 			[[o que é um sistema de arquivo ?]]
 			[[sistema de arquivos mais comuns]]
-		[Adição de novos usuários](https://www.freecodecamp.org/portuguese/news/linux-como-adicionar-e-como-criar-usuarios-com-useradd/).
-			useradd command
+		Gerenciamento de Usuário e Grupos no Linux
+				[Os arquivos principais](https://ricardo-reis.medium.com/gerenciamento-de-usu%C3%A1rios-e-grupos-no-linux-ef0c6cb95880):
+					[[etc/passwd]]
+						1.o que o arquivo contem ?
+							O arquivo `/etc/shadow` contém informações sobre as contas do usuario
+						2.qual o significado de cada coluna ?
+							root:x:0:0:nome-completo,21970253775,:/root:/bin/bash
+							**1** - Nome de usuários (de 1 até 32 caracteres).
+							**2** - Senha (o "x" indica que é uma senha armazenada no **/etc/shadow**).
+							**3** - UID (Identificação do usuário, pode variar de 0 até 65535).
+							**4** - GID (Identificação do grupo, 1000 é grupo primário).
+							**5** - Comentários (informações extras, nome completo, telefone...), esse campo também é conhecido como campo GECOS (General Eletric Comprehensive Operating Supervisor).
+							**6** - Diretório home (caminho do diretório padrão).
+							**7** - Shell padrão do usuário (programa que roda ao fazer login).
+					[[etc/group]]
+						1.O arquivo `/etc/group` define os grupos aos quais os usuários pertencem no Linux.
+						2.qual o significado de cada coluna ?
+							adm:x:4:syslog,antonio
+							**1** - Nome do grupo. 
+							**2** - Senha do grupo (geralmente não é usada)
+							**3** - GID do grupo (identificação do grupo)
+							**4** - Lista de membros, separados por vírgula. No exemplo acima está em branco porque o usuário não aparece na listagem do seu próprio grupo padrão (grupo primário).
+					[[etc/shadow]]
+						1.	O arquivo `/etc/shadow` contém as senhas criptografadas dos usuários e outras informações sobre as contas.	
+						2.o que significa cada coluna ?
+							www-data:*:19576:0:99999:7: : :
+							1 - nome da conta
+							2 - senha criptografada ou (! não possui senha) (* * conta desativada) (![senha] conta travada) (!! senha nunca configurada)
+							3 - última modificação - dias passados desde 01/01/1970 desde que a senha foi modificada pela última vez. para checar a data da ultima modificação use the following command -> date -d  "1970/01/01 + 19576 days"
+							4 - mínimo - dias antes que o usuário possa modificar sua senha.
+							5 - máximo - dias que o usuário pode manter a mesma senha
+							6 - avisos - dias antes da expiração da senha quando o usuário começa a receber avisos
+						    7 - inativo - dias após a validade da senha em que a conta é desabilitada automaticamente
+						    8 - expiração - data em que a conta será desativada .
+						    9 - Reserveda - não tem uso por em quanto
+					[[etc/gsshadow]]
+						1.O arquivo `\etc\gshad` possui as senhas criptografadas dos grupos (caso tenha senha), listagem de membros e informações administrativas.
+						2.qual o significado de cada coluna ?
+							adm:x:4:syslog,antonio
+							**1** - Nome do Grupo.
+							**2** - Senha criptografada (caso houver). Se houver um sinal de ponto de exclamação (!) indica que os usuários que não são do grupo não podem acessa-lo.
+							**3** - Administradores do grupo. (O admin adiciona ou remove usuários ao grupo). Quando está em branco é porque o grupo não possui administradores.
+							**4** - São os membros do grupo.
 				useradd teste -> para criar um úsuario
 				useradd -m teste -> Para criar um usuário com o diretório _home_ padrão
 				userdel user_name -> para deletar o usúario
-			!!! 
-				. useradd is a low level utility for adding users. On Debian, administrators should usually use adduser(8) instead.
-			passwd teste -> para adicionar uma senha ao usuario teste
-			adduser
-				adduser username -> criar novo usuario e diretorio do usuario
-				adduser username --shell /bin/sh -> To add a user with a different shell.
-				adduser username --conf custom_config.conf ->To add a new user with a different configuration file.
+				!!! 
+					. useradd is a low level utility for adding users. On Debian, administrators should usually use adduser(8) instead.
+				passwd teste -> para adicionar uma senha ao usuario teste 
+				adduser username -> criar novo usuario e diretorio do usuario 
+				adduser username --shell /bin/sh -> To add a user with a different default shell.
+				adduser username --conf custom_config.conf -> To add a new user with a different configuration file. 
 				adduser username --home /home/manav/ -> To add a user with different home directory.
 			id 
 				o id exibi informações de usuários
-				id -u user_name -> exibe o id do usuario
-				id user_name -> **To find out UID and all groups associated with a username**
-				id -G user_name -> **To find out all the groups a user belongs to**
+				![[Pasted image 20230822135013.png]]
+				**-g** (ou --group) = Mostra o GID do grupo primário do usuário  
+				**-G** = Mostra todos os GIDs dos grupos do usuário.  
+				**-nG** ou **-ng** = Mostra os nomes dos grupos em vez dos GIDs.
+			manipulando grupos
+				sudo addgroup nome_do_grupo -> adiciona um novo grupo
+				cat /etc/group -> para ver os grupos existentes
+				sudo adduser antonio marketing -> para adicionar um usuario a um grupo
+				groups user_name -> mostra os grupos no qual o usuario pertence
 		Adição de disco. 
-			como mecher na partição
+			[[partição primaria , estendida e lógica]]
 			como definir um ponto de montagem de um pendrive usando o comando mount
 		Processos periódicos. 
 		Backups. 
@@ -1722,18 +1768,17 @@ INFORMÁTICA SIN
 					seria um backup completo diario
 				backup incrementais
 					so faz backup daquilo que foi incrementado
-		Syslog e arquivos de log.
+		Syslog e arquivos de log
 			[[o que é um arquivo de log ?]]
 		Gerenciamento de software e configuração. 
-		Sistema de arquivos de rede, roteamento. 
-			o que é um daemon ?
-				Um daemon **é um programa que roda em "background" como um processo (sem terminal ou interface), que comumente espera por eventos para oferecer serviços**. Um bom exemplo é um servidor web que espera por requisições para entregar uma página, ou um servidor ssh que espera por alguma tentativa de login.
+		Sistema de arquivos de rede
 			NFS
 				1.O Network File System (NFS) é um mecanismo para armazenamento de arquivos em uma rede. É um sistema de arquivos distribuído que permite que os usuários acessem arquivos e diretórios localizados em computadores remotos e tratem esses arquivos e diretórios como se fossem locais.
 				2.O pacote de software NFS inclui comandos e daemons para NFS, Network Information Service (NIS), e outros serviços. Apesar de NFS e NIS serem instalados juntos como um pacote, cada um é independente e cada um é configurado e administrado individualmente.
-			[[o que é roteamento ?]]
-		[[Compartilhando arquivos de sistema. ]]
-		[[Gerenciamento e depuração de redes]]
+		roteamento
+			o que é [[roteamento]] ?
+		Compartilhando arquivos de sistema. 
+		Gerenciamento e depuração de redes
 		Segurança. 
 		Hospedagem Web e servidores Internet. 
 				O X Window System ou X11 . 
@@ -1749,18 +1794,221 @@ INFORMÁTICA SIN
 		Processos e Threads. 
 		Gerenciamento de memória. 
 		Gerenciamento de Entrada/Saída. 
-		Sistemas de arquivos. 
 		Sistemas com múltiplos processadores. 
 		Virtualização e Nuvem.
+	REDES DE COMPUTADORES
+		2.9.7.1
+			pre-requisitos
+				o que é wi-fi(wireless fidelity) ?
+					   1.é um padrão desenvolvido para conexão de rede locais sem fio WLAN(Wireless Lan ou rede de área local sem fio) 
+					   2.o wi-fi me permite me conectar a uma rede sem fio
+			o que são redes de computadores ?
+				Redes de computadores são um conjunto de máquinas conectadas que compartilham informações e recursos
+			do que são compostas as redes de computadores ?
+				Uma rede de computadores é composta por muitas máquinas, chamadas _nós_, e caminhos ou links que conectam esses nós. 
+			[[Quais sãos os tipos de redes de computadores ?]]
+				**LAN**
+				**CAN**
+				**MAN**
+				**WAN**
+				**RAN**
+				**PAN**
+				**SAN**
+				**VLAN**
+				**WLAN**
+				**WMAN**
+				**WWAN**
+			equipamentos de rede. 
+				Placa de Rede ou NIC(Network Interface Card)
+					1.Uma **placa de rede** (também chamada **adaptador de rede** ou **NIC**, [sigla](https://pt.wikipedia.org/wiki/Acr%C3%B3nimo#Diferen%C3%A7a_entre_acr%C3%B3nimo_e_sigla "Acrónimo") de _Network Interface Card_, em [inglês](https://pt.wikipedia.org/wiki/L%C3%ADngua_inglesa "Língua inglesa")) é um dispositivo de [hardware](https://pt.wikipedia.org/wiki/Hardware "Hardware") responsável pela comunicação de um computador em uma rede (cabeada ou wireless)
+					2.ela converte sinais elétrico em pacotes de dados
+					3.a placa de rede também consegue determina se os pacotes de dados são realmente destinados aquela maquina
+					4.converte dados em sinais elétricos para transmissão de dados pela rede
+					5.a placa de rede controla o envio e o recebimento de dados de um computador
+				Hub
+				Switch
+					1.um switch é um equipamento de rede que permite interconectar dispositivos em uma rede de computadores, usando [[comutação de pacotes]] para receber , processar e encaminhar quadros ao dispositivo ou grupo de dispositivo de destino , em vez de emcaminhar os pacotes para todos os nós da rede como ocorria com os hubs.
+					2.ele aprende os endereços físico dos nós e os associa ás suas portas para uso posterior
+					1.o que ele permite ? o que ele usa para receber , processar e encaminhar quardros ao dispostivo ou grupo de dispositivo? o que é comutação de pacotes ?
+					2.interconectar , comutação de pacotes para receber processar e encaminhar quadros
+				[[EAGS SIN/REDES DE COMPUTADORES/equipamento de redes/roteador|roteador]]
+					o que é um roteador ?
+						1.encaminha o que ?como ele faz isso? com base em que ? isso permite o que ?
+						2.um roteador atua como o que ? como o que por exemplo ? ele permite que ... tradução ... solitação de comunicação
+						3.onde é comum a função da NAT ? 
+				Acess Point - AP
+					1.Acess Point(ponto de acesso) é um dispositivo utilizado em redes sem fio locais - WLANS - que age como um equipamento transmissor e receptor de sinais de rádio , operando como uma espécie de switch sem fio.
+					2.o AP se conecta a uma rede cabeada, fornecendo ás estações conectadas acesso á infraestrutura de rede do local e á internet.
+					3.é um dispositivo usado em ambiente corporativo usado para conectar muitos dipositivos sem fio mais de 1000 por exemplo
+					1. como ele é utilizado ? como ele age ? como ele opera ?
+					2. como o AP se conecta a rede ? fornecendo o que ?
+					3. onde ele é usado ?
+				Roteador de Banda Larga
+					Comum em ambientes domésticos, compartilha sua conexão com a internet a todos os dispositivos conectados a ele.
+					quase todos os roteadores banda larga possuem um switch integrado (geralmente de 4 portas), permitindo conectar os computadores da sua rede diretamente ao roteador sem a necessidade de qualquer periférico extra podendo ser usado como repetidor.
+					a maioria também possui acess point integrado
+				Modem 
+					Um "modem" é um modulador ou seja converte sinais digitais de um dispositivo, como um computador, em sinais analógicos adequados para transmissão sobre linhas de comunicação analógicas, como linhas telefônicas ou cabos coaxiais. O termo "modem" é uma abreviação de "modulador-demodulador", descrevendo as funções principais desse dispositivo.
+					O modem desempenha um papel fundamental na comunicação entre computadores e redes. Ele permite que os dispositivos digitais enviem dados uns aos outros através de meios de transmissão que originalmente foram projetados para suportar apenas sinais analógicos de voz. O processo de modulação envolve a conversão de dados digitais em sinais analógicos que podem ser transmitidos pela linha de comunicação. Na extremidade receptora, o modem demodula os sinais analógicos de volta para dados digitais compreensíveis pelo dispositivo.
+					Os modems foram inicialmente amplamente utilizados para estabelecer conexões de acesso discado à internet, onde uma linha telefônica era usada para transmitir dados digitais entre o computador do usuário e o provedor de serviços de internet (ISP). No entanto, com o avanço das tecnologias de banda larga, como DSL, cabo e fibra óptica, os modems evoluíram para suportar essas conexões mais rápidas e eficientes.
+				Repetidor
+					1.Dispositivo de rede usado para regenerar ou aplicar um sinal enfraquecido. 
+					2.são empregados para reforçar sinais distorcidos por perdas na transmissão.
+					3.Um repetidor digital é capaz de recontruir um sinal e retransmiti-lo, permitindo estender a área de alcande de rede.
+				Firewall
+					1.o que é : Sistema de hardware / software cuja função é proteger uma rede de ameaças provenientes de outra rede , como a internet, e de outros host na própria rede.
+					2.o que ela controla ? : Controla o tráfego de dados entre as redes de acordo com regras pré-estabelecidas - as políticas de segurança.
+					3.o que pode atravessar a firewall ? apenas o tráfego autorizado poderá atravessar o firewall.
+				Balanceador de Carga
+					o que é um Balanceador de carga faz?
+					  ele redireciona requisições de clientes de rede para servidores que estiver menos ocupado no momento, de modo a maximizar a velocidae  e capacidade de uso da rede.
+				    quais suas principais funções ?
+						1.**Distribuição de requisição** distribuir as requisições de clientes ou a carga de rede forma eficiente entre diversos servidores.
+						2.Assegura alta disponibilidade e confiabilidade , evitando congestionamento de serviços.
+						3.Fornece flexibilidade para expansão ou manutenção dos servidores.
+				NAS
+					1.Network Attached Storage é um dispositivo de dados conectados a uma rede local, que permite o acesso a esses dados pelos usuários.
+					2.é uma solução de baixo custo para armazenamento e compartilhamento de arquivos em redes locais
+					3.ela opera como uma espécie de "nuvem" pública, porém local.
+				Patch Panel
+					1.é um hardware de conexão empregado em racks para realizar a conexão entre o cabeamento secundário de uma rede e os switches de rede local.
+					2.trata-se de um painel de conectores RJ-45 fêmea afixado em um rack. Da parte traseira do patch panel partem cabos que se conectam aos diversons equipamentos da rede. 
+					3.cada conector do patch panel é chamado de Porta.
+					Imagem de um Patch Panel
+						![[patch_panel.png]]
+				Meios de Transmissão
+					Meio físico para a progapação de sinais de telecomunicações.
+					caminho físico por onde trafegam informações, entre um transmissor e um receptor. 
+					os meios de transmissão podem ser classificados em vários tipos
+					![[tipos_de_meios_de_transmissão.png]]
+			Software de rede. 
+			o que é protocolo de rede ?
+				Na rede, um protocolo é um conjunto padronizado de regras para formatação e processamento de dados. Os protocolos permitem que os computadores se comuniquem uns com os outros.
+			Modelos de referência ou modelo OSI. 
+					1. o que é o modelo OSI ?
+						O open system interconnection (OSI) é um modelo conceitual criado pela Organização Internacional de Normalização que permite que diversos sistemas de comunicação se comuniquem usando [protocolos](https://www.cloudflare.com/learning/network-layer/what-is-a-protocol/) padronizados. Em poucas palavras, o OSI fornece um padrão para que diferentes sistemas de computadores possam se comunicar sendo dividida em sete camadas.
+						como o modelo OSI divide a comunição de redes ?
+							O Modelo OSI divide a comunicação de redes em sete camadas. 
+							![[Pasted image 20230823111345.png]]
+						para que são úteis essas camadas ?
+							1.	Essas camadas são úteis para identificar problemas na rede.
+							2.Embora a internet moderna não siga estritamente o modelo OSI (segue mais de perto um conjunto mais simples de protocolos da internet), o modelo ainda é muito útil para solucionar problemas de rede. Seja uma pessoa que não consegue conectar seu notebook na internet ou um site que está desativado para milhares de usuários, o modelo OSI pode ajudar a resolver o problema e isolar a fonte do problema. Se o problema puder ser reduzido a uma camada específica do modelo, muito trabalho desnecessário poderá ser evitado.
+					2.quais as setes camadas do modelo OSI ?
+						1.As setes camadas de abstração do modelo OSI podem ser definidas como se segue, de cima para baixo
+						O modelo OSI pode ser considerado a linguagem universal da rede de computadores. Ele se baseia no conceito de dividir um sistema de comunicação em sete camadas abstratas, empilhadas umas sobre as outras.
+						![[Pasted image 20230823111345.png]]
+						Please Dot Not Throw Saugage Pizza Away
+						All People Seem To Need Data Processing
+						7.Applilcation Layer
+							1. A camada de Aplicação define como as aplicações se comunicam entre si , incluindo os protocolos e formatos de dados utilizados.
+							protocolo dessa camada
+								HTTP
+								SMTP
+						6.Presentation Layer
+							1. Aqui, os dados provenientes da camada de Aplicação passaram pela seguinte etapas
+									1 . Se os dispositivos se comunicarem por meio de uma conexão criptografada a camada de apresentação adiciona criptografia na trasmissão e descriptografa na recepção dos dados. se não pule essa etapa.
+									2 .  a camada de representação compactaria os dados recebidos da camada de aplicação antes de entregá-los á camada 5 Isso ajuda a aumentar a velocidade e a eficiência da comunicação ao minimizar a quantidade de dados que serão transferidos.
+									3 . Dois dispositivos de comunicação que se comunicam podem usar métodos de codificação diferentes; por isso, a camada 6 é responsável pela tradução dos dados de entrada em uma sintaxe que a camada de aplicação do dispositivo receptor possa entender.
+						5.Session Layer
+							1.camada reponsavel pela abertura e fechamento da comunicação entre os dois dispositivos
+							2. O tempo decorrido entre o momento em que a comunicação é aberta e fechada é conhecido como "sessão"
+							3. A camada de sessão garante que a sessão permaneça aberta pelo tempo necessário para transferir todos os dados que estão sendo trocados e, em seguida, fecha imediatamente a sessão para evitar o desperdício de recursos.
+							4. A camada de sessão também sincroniza a transferência de dados com pontos de verificação. Por exemplo, se um arquivo de 100 megabytes estiver sendo transferido, a camada de sessão poderá definir um ponto de verificação a cada 5 megabytes. No caso de uma desconexão ou falha após a transferência de 52 megabytes, a sessão pode ser retomada a partir do último ponto de verificação, o que significa que apenas mais 50 megabytes de dados precisam ser transferidos. Sem os pontos de verificação, a transferência inteira teria que começar novamente do zero.
+							5. 
+						4.Transport Layer
+							1.A camada 4 é responsável pela comunicação de ponta a ponta entre os dois dispositivos em redes diferentes. Isso inclui pegar os dados da camada de sessão e dividi-los em porções chamadas segmentos antes de enviá-los para a camada 3. 
+							2. A camada de transporte no dispositivo receptor é responsável por remontar os segmentos em dados que a camada de sessão possa consumir.
+							3.A camada de transporte também é responsável pelo [[controle de fluxo]] e pelo controle de erros. O controle de fluxo determina uma velocidade de transmissão ideal para garantir que um remetente com uma conexão rápida não sobrecarregue um receptor com uma conexão lenta. A camada de transporte executa o controle de erros no lado do receptor, garantindo que os dados recebidos estejam completos e solicitando uma retransmissão caso não estejam.
+						3.Network Layer
+							1.A [camada de rede](https://www.cloudflare.com/learning/network-layer/what-is-the-network-layer/) é responsável por facilitar a transferência de dados entre duas redes diferentes. Se os dois dispositivos que estão se comunicando estiverem na mesma rede, a camada de rede será desnecessária. A camada de rede divide os segmentos da camada de transporte em unidades menores denominadas [pacotes](https://www.cloudflare.com/learning/network-layer/what-is-a-packet/)
+							 no dispositivo remetente e remonta esses pacotes no dispositivo receptor. A camada de rede também encontra o melhor caminho físico para que os dados cheguem ao seu destino, o que é conhecido como [[roteamento]].
+							 2.comunicação entre vizinhos diretamente conectados na mesma tecnologia de rede (WiFi, Ethernet, PPP)
+							 2.protocolos da camada de rede
+								 Os protocolos da camada de rede incluem o IP, o [Internet Control Message Protocol (ICMP)](https://www.cloudflare.com/learning/ddos/glossary/internet-control-message-protocol-icmp/), o [Internet Group Message Protocol (IGMP)](https://www.cloudflare.com/learning/network-layer/what-is-igmp/)e o conjunto [IPsec](https://www.cloudflare.com/learning/network-layer/what-is-ipsec/) .
+							protocolos da camada de rede
+								IPv4, IPv6, IPsec, ICMP
+						2.Data Link Layer ou Camada de enlace de dados
+							1.A camada de enlace de dados é muito semelhante à camada de rede, a não ser pelo fato de que a camada de enlace de dados facilita a transferência de dados entre dois dispositivos na _mesma_ rede. A camada de enlace de dados pega os pacotes da camada de rede e os divide em pedaços menores denominados "quadros". Como a camada de rede, a camada de enlace de dados também é responsável pelo [[controle de fluxo]] e pelo controle de erros na comunicação intra-rede (a camada de transporte faz o controle de fluxo e o controle de erros para comunicações inter-rede).
+						1.Physical 
+							Essa camada inclui o equipamento físico envolvido na transferência de dados, como cabos e [comutadores](https://www.cloudflare.com/learning/network-layer/what-is-a-network-switch/). Essa também é a camada em que os dados são convertidos em um fluxo de bits, que é uma sequência de 1s e 0s. A camada física de ambos os dispositivos também precisa aceitar, de comum acordo, uma convenção de sinais para que se possa distinguir os 1s dos 0s em ambos os dispositivos.
+					2.[[conversão de dados]]
+					3.protocolos usados em cada camada
+						7. HTTP , HTTPS , SMTP
+						6. **JPEG** , **MIDI (Musical Instrument Digital Interface)**
+						5. NetBIOS
+						4. TCP , UDP
+						3. IPv4 , IPv6 , ICMP , IPsec , DHCP
+						2. WI-FI(conexão sem fio) , Ethernet(conexão com fio) , PPP
+						1. cabos de par trançado e comutadores
+			Modelo TCP/IP
+				![[Pasted image 20230824111417.png]]
+			Exemplos de redes. 
+			Padronização de redes. 
+			Topologias. 
+			Sistema de Numeração
+		2.9.7.2
+			A camada física. 
+			Base teórica da comunicação de dados. 
+			Meios de transmissão guiados. 
+			Transmissão sem fios. 
+			Modulação digital e multiplexação. 
+			O circuito terminal: modems, ADSL e fibra óptica.
+		2.9.7.3 
+			A camada de enlace de dados. 
+			Questões de projeto da camada de enlace de dados. 
+			Detecção e correção de erros. 
+			Protocolos de janela deslizante. 
+			Exemplos de protocolos de enlace de dados.
+		2.9.7.4 
+			A subcamada de controle de acesso ao meio. 
+			O problema da alocação de canais. 
+			Protocolos de acesso múltiplo. 
+			Ethernet. 
+			LANs sem fio. 
+			Redes de banda larga sem fios. 
+			Bluetooth. 
+			Comutação na camada de enlace de dados.
+		2.9.7.5 
+			A camada de rede. 
+			Questões de projeto da camada de rede. 
+			Algoritmos de roteamento. 
+			Algoritmos de controle de congestionamento. 
+			Qualidade de serviço. 
+			Interligação de redes. 
+			A camada de rede da Internet. 
+			Classes de Rede. 
+			Endereçamento IP.
+		2.9.7.1
+		A camada de transporte. 
+		Elementos de protocolos de transporte. 
+		Controle de congestionamento. 
+		Os protocolos de transporte da Internet: UDP e TCP. 
+		Questões de desempenho. 
+		Redes tolerantes a atrasos
+		2.9.7.7 
+		A camada de aplicação e seus protocolos. 
+		Correio eletrônico. 
+		A World Wide Web. 
+		Entrega de conteúdo
+		2.9.7.8 
+		Criptografia. 
+		Algoritmos de chave pública e simétrica. 
+		Assinaturas digitais. 
+		Gerenciamento de chaves públicas. 
+		Segurança da comunicação. 
+		Protocolos de autenticação. 
+		Segurança da Web
+	SEGURANÇA DA INFORMAÇÃO
 	MANUTENÇÃO DE COMPUTADORES
-		hardwares do computador
-		![[Pasted image 20230818144738.png]]
-			Leitor Interno
-				Responsável por fazer a leitura do software para acionar o computador.
-			Place de som
-				É o componente que permite a emissão de sons pelo computador.
-			[[Placa de vídeo]]
-			[[Memória Ram]]
+		hardwares
+			hardwares do computador
+				![[hardwares.png]]
+				Leitor Interno
+					Responsável por fazer a leitura do software para acionar o computador.
+				Place de som
+					É o componente que permite a emissão de sons pelo computador.
+				[[Placa de vídeo]]
+				[[Memória Ram]]
 		A arquitetura PC.
 		Sistemas de numeração. 
 		Lógica booleana. 

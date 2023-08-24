@@ -1,27 +1,27 @@
 ## O que é roteamento?
-
-Roteamento é o processo de seleção de caminho em qualquer rede. 
-Uma rede de computadores é composta por muitas máquinas, chamadas _nós_, e caminhos ou links que conectam esses nós. 
-A comunicação entre dois nós em uma rede interconectada pode ocorrer por meio de muitos caminhos diferentes. 
-Roteamento é o processo de selecionar o melhor caminho usando algumas regras predeterminadas.
+1.Roteamento é o processo de selecionar o melhor caminho usando algumas regras predeterminadas.
+2.A comunicação entre dois nós em uma rede interconectada pode ocorrer por meio de muitos caminhos diferentes. 
 
 ## Por que o roteamento é importante?
 
-O roteamento cria eficiência na comunicação de rede. Falhas de comunicação na rede fazem com que os usuários passem por longos tempos de espera para o carregamento das páginas do site. 
+	
+1.O roteamento cria eficiência na comunicação de rede. 
+
+2.Falhas de comunicação na rede fazem com que os usuários passem por longos tempos de espera para o carregamento das páginas do site. 
 Também podem causar falhas nos servidores do site por não conseguirem lidar com um grande número de usuários. 
-O roteamento ajuda a minimizar falhas de rede gerenciando o tráfego de dados para que a rede possa usar o máximo de sua capacidade possível sem gerar congestionamento.
+
+3.O roteamento ajuda a minimizar falhas de rede gerenciando o tráfego de dados para que a rede possa usar o máximo de sua capacidade possível sem gerar congestionamento.
 
 ## O que é um roteador?
 
-O roteador é um dispositivo de rede que conecta dispositivos e redes de computação a outras redes. Os roteadores servem principalmente a três funções principais.
+1. o roteador enchaminha pacotes de dados entre redes diferentes analisando o endereço IP dos pacotes recebidos e encaminhando os  pacote com base nas tabelas de roteamento que os pacotes possuem . isso permite que os pacotes alcancem seu destino através do caminho mais eficiente 
+    
+2.Um roteador atua como um ponto de conexão entre diferentes redes, como a conexão entre uma rede doméstica e a Internet. Ele permite que dispositivos de uma rede se comuniquem com dispositivos de outra rede, efetuando a tradução de endereços e gerenciando as solicitações de comunicação.
+    
+3. **NAT (Network Address Translation):** A função de NAT é comum em roteadores usados em redes domésticas e pequenos escritórios. Ela permite que vários dispositivos compartilhem um único endereço IP público. Quando os dispositivos internos enviam pacotes para a Internet, o roteador modifica os endereços de origem dos pacotes para seu próprio endereço IP público, permitindo que as respostas da Internet retornem ao roteador, que então encaminha essas respostas para o dispositivo interno correto.
 
-Determinar o caminho
 
-O roteador determina o caminho que os dados percorrem quando são movidos de uma origem a um destino. Ele tenta encontrar o melhor caminho analisando métricas de rede, como atraso, capacidade e velocidade.
-
-### Encaminhar dados
-
-O roteador encaminha dados ao próximo dispositivo no caminho selecionado para finalmente chegar ao destino. O dispositivo e o roteador podem estar na mesma rede ou em redes diferentes.
+Essas três funções são essenciais para garantir o encaminhamento eficiente de dados entre redes e para possibilitar a conexão de dispositivos em diferentes redes de maneira transparente.
 
 ### Balanceamento de carga
 

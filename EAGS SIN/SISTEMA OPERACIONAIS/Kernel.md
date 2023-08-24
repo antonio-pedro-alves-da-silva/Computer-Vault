@@ -1,7 +1,7 @@
 
 o que é o kernel ?
 	1.principal componente de um sistema operacional  que estabelce a comunição entre o hardware e os processos do computador
-	2.ele é um programa![[Pasted image 20230817184719.png]]
+	2.ele é um programa![[kernel.png]]
 quais as quatro funções do kernel ?
 	1. **monitora memória:** ele monitora o volume de memória utilizado para armazenar arquivos, dados, etc. em determinado ambiente.
 	2. **determina processos:** ele determina quais processos podem usar a unidade central de processamento (CPU), quando podem usar e por quanto tempo.
