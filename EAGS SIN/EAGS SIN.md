@@ -1802,22 +1802,24 @@ INFORMÁTICA SIN
 				o que é wi-fi(wireless fidelity) ?
 					   1.é um padrão desenvolvido para conexão de rede locais sem fio WLAN(Wireless Lan ou rede de área local sem fio) 
 					   2.o wi-fi me permite me conectar a uma rede sem fio
+				o que é um nó ?
+					um nó é uma entidade autônoma que possui um endereço único e é capaz de enviar, receber ou encaminhar dados através da rede.
 			o que são redes de computadores ?
 				Redes de computadores são um conjunto de máquinas conectadas que compartilham informações e recursos
 			do que são compostas as redes de computadores ?
 				Uma rede de computadores é composta por muitas máquinas, chamadas _nós_, e caminhos ou links que conectam esses nós. 
 			[[Quais sãos os tipos de redes de computadores ?]]
-				**LAN**
-				**CAN**
-				**MAN**
-				**WAN**
-				**RAN**
-				**PAN**
-				**SAN**
-				**VLAN**
-				**WLAN**
-				**WMAN**
-				**WWAN**
+				- LAN (Local Area Network)
+				- CAN (Campus Area Network)
+				- MAN (Metropolitan Area Network)
+				- WAN (Wide Area Network)
+				- RAN (Radio Area Network)
+				- PAN (Personal Area Network)
+				- SAN (Storage Area Network)
+				- VLAN (Virtual Local Area Network)
+				- WLAN (Wireless Local Area Network)
+				- WMAN (Wireless Metropolitan Area Network)
+				- WWAN (Wireless Wide Area Network)
 			equipamentos de rede. 
 				Placa de Rede ou NIC(Network Interface Card)
 					1.Uma **placa de rede** (também chamada **adaptador de rede** ou **NIC**, [sigla](https://pt.wikipedia.org/wiki/Acr%C3%B3nimo#Diferen%C3%A7a_entre_acr%C3%B3nimo_e_sigla "Acrónimo") de _Network Interface Card_, em [inglês](https://pt.wikipedia.org/wiki/L%C3%ADngua_inglesa "Língua inglesa")) é um dispositivo de [hardware](https://pt.wikipedia.org/wiki/Hardware "Hardware") responsável pela comunicação de um computador em uma rede (cabeada ou wireless)
@@ -1938,36 +1940,83 @@ INFORMÁTICA SIN
 						5. NetBIOS
 						4. TCP , UDP
 						3. IPv4 , IPv6 , ICMP , IPsec , DHCP
-						2. WI-FI(conexão sem fio) , Ethernet(conexão com fio) , PPP
-						1. cabos de par trançado e comutadores
+						2. Ethernet(conexão com fio) , PPP
+						1. cabos de par trançado e comutadores , WI-FI(conexão sem fio) , Bluetooth
 			Modelo TCP/IP
 				![[Pasted image 20230824111417.png]]
-			Exemplos de redes. 
-			Padronização de redes. 
+			[[Padronização de redes]]
 			Topologias. 
+				o que é topologia ?
+					De maneira bem resumida, topologia é o termo usado para definir a **forma como você estrutura a sua rede de computadores**. a topologia pode ser dividida em sete tipos
+				1.Física
+					A topologia de rede física diz respeito aos elementos físicos que compõem a conexão de rede. Ou seja, fala sobre a disposição de cabos e dispositivos conectados. Ao falar sobre a forma física, estamos nos referindo às estratégias de organização físicas, levando em conta a disposição das máquinas no espaço físico, bem como a conexão de cabos.
+				2.Lógica
+					Já a representação lógica diz respeito à forma como a rede trabalha. Ou seja, aqui entendemos e aprimoramos a interface, softwares, entre outros quesitos.
+					O objetivo da topologia de rede lógica é conectar os _nodes_ da rede, para trazer uma usabilidade ainda mais eficiente, ágil e intuitiva.
+				3.Anel ou Ring
+					![[Pasted image 20230824171416.png]]
+					Vantagens
+						1.ela é bem eficiente para transmissão de dados em erros, tem grande confiabilidade e pode ser implementada em grandes redes.
+					Desvantagens
+						1.a falha de um único dispositivo pode prejudicar a estabilidade da rede inteira, o que aumenta os riscos de _delay_.
+				4.Árvore ou Tree
+					![[Pasted image 20230824173240.png]]
+					![[Pasted image 20230824173250.png]]
+					Vantagens
+						1.Sua principal vantagem é minimizar a vulnerabilidade em comparação com a topologia em anel, além de facilitar a detecção de erros.
+					Desvantagens
+						1.Contudo, sua desvantagem é justamente o dispositivo central, que se sofrer alguma falha, todos os demais dispositivos serão afetados.
+				5.Barramento ou Bus
+					![[Pasted image 20230824175129.png]]
+					Vantagens
+						1.Um padrão que traz simplicidade e praticidade. Neste tipo, todos os dados circulam por um único cabo. A principal vantagem é que é uma estratégia econômica e versátil, com manutenção simplificada.
+					Desvantagens
+						1.Contudo, sua desvantagem é similar ao tipo anel: a rede fica vulnerável diante de falhas de máquinas. Afinal, todas estão centralizadas em um único fluxo.
+				6.Estrela ou Start
+					![[start_topology.jpeg]]
+					Vantagens
+						1.A vantagem é que a falha isolada não compromete o fluxo, visto que ele parte do nó central em direção aos demais dispositivos.
+					Desvatagens
+						1.assim como o tipo árvore, em falhas no nó central, haverá prejuízo em todo o fluxo de dados.
+				7.Ponto a Ponto ou Line
+					![[ponto_a_ponto_topologia.jpeg]]
+					Vantagens
+						1. É ideal para estabelcer a comunicação rápida entre dois dispositivos.
+					Desvatagens
+						1.Sua desvantagem é que não supre as necessidades de instalações grandiosas.
+				8.Malha ou Mesh ou Fully Connected
+					Vantagens
+						1.uma execelente solução para operações robustas
+						2.a maior vantagem deste tip é que a falha individual ou mesmo de algumas unidades de dispositivos não é capaz de derrubar a rede, por isso ela é tão estável.
+					Desvantagens
+						1.sua principal desvantagem é o custo e a complexidade de instalação é um tipo de topologia que exige um planejamento maior para a implementação
+				9.Hibrida ou Hybrid
+					1.é um tipo de topologia que mescla diferentes tipos de topologia
+					Vantagens
+						1.sua maior vantagem é a adaptabilidade
+					Desvatagens
+						1.já sua maior desvantagem é a complexidade e assim como o tipo malha , exige um maior planejamento .
 			Sistema de Numeração
 		2.9.7.2
-			A camada física. 
-			Base teórica da comunicação de dados. 
-			Meios de transmissão guiados. 
-			Transmissão sem fios. 
 			Modulação digital e multiplexação. 
-			O circuito terminal: modems, ADSL e fibra óptica.
+			   pre-requisitos
+				   o que é um sinal digital ?
+				       0. sinais digitais so podem assumir dois valores de 0 ou 1 dependendo da frequencia
+					   1. ligado(1,passando corrente,falso) e desligado (0,não passando corrente,falso)
+				   o que é um sinal analógico ?
+						   0.já os sinais analogicas podem assumir diferentes valores dependo da frequência
+					   1. seria a variação de uma frequencia para diminuir ou abaixa o volume ou a temperatura ou o que que seja.
+				1.o que é Modulação digital ?
+					é um processo no qual os sinais digitais são convertidos em sinais analógicos, permitindo a transmissão eficiente de informações em sistemas de comunicação. Essa técnica é amplamente utilizada em telecomunicações e transmissões de dados, tanto em redes de comunicação terrestres quanto em comunicações via satélite.
+				2.o que é multiplexação ?
+					é um processo de combinar múltiplos sinais individuais em um único canal de comunicação, permitindo a transmissão eficiente de várias fontes de informação por meio de um meio compartilhado. Essa técnica é amplamente usada em telecomunicações, transmissões de dados e redes de comunicação para otimizar o uso da largura de banda disponível e permitir a transmissão simultânea de diferentes tipos de dados.
 		2.9.7.3 
-			A camada de enlace de dados. 
-			Questões de projeto da camada de enlace de dados. 
-			Detecção e correção de erros. 
-			Protocolos de janela deslizante. 
-			Exemplos de protocolos de enlace de dados.
 		2.9.7.4 
-			A subcamada de controle de acesso ao meio. 
 			O problema da alocação de canais. 
 			Protocolos de acesso múltiplo. 
-			Ethernet. 
 			LANs sem fio. 
 			Redes de banda larga sem fios. 
-			Bluetooth. 
-			Comutação na camada de enlace de dados.
+			Bluetooth(conexão sem fio). 
 		2.9.7.5 
 			A camada de rede. 
 			Questões de projeto da camada de rede. 
@@ -1975,30 +2024,75 @@ INFORMÁTICA SIN
 			Algoritmos de controle de congestionamento. 
 			Qualidade de serviço. 
 			Interligação de redes. 
-			A camada de rede da Internet. 
-			Classes de Rede. 
-			Endereçamento IP.
+			Classes de Rede.
+				![[classes_de_rede.jpg]]
+				N - o N identifica a rede
+				H - identifica o host da rede
 		2.9.7.1
-		A camada de transporte. 
-		Elementos de protocolos de transporte. 
-		Controle de congestionamento. 
-		Os protocolos de transporte da Internet: UDP e TCP. 
-		Questões de desempenho. 
-		Redes tolerantes a atrasos
+			A camada de transporte. 
+			Elementos de protocolos de transporte. 
+			Controle de congestionamento. 
+			Os protocolos de transporte da Internet: UDP e TCP. 
+			Questões de desempenho. 
+			Redes tolerantes a atrasos
 		2.9.7.7 
-		A camada de aplicação e seus protocolos. 
-		Correio eletrônico. 
-		A World Wide Web. 
-		Entrega de conteúdo
-		2.9.7.8 
 		Criptografia. 
-		Algoritmos de chave pública e simétrica. 
+			Algoritmos de chave simétrica e assimétrica.
+			Criptografia de chave pública 
 		Assinaturas digitais. 
 		Gerenciamento de chaves públicas. 
 		Segurança da comunicação. 
 		Protocolos de autenticação. 
-		Segurança da Web
+			A camada de aplicação e seus protocolos. 
+			Correio eletrônico. 
+			A World Wide Web. 
+			CDN(content delivery network) ou rede de entrega de conteúdo
+				O que é uma CDN?
+					1.é uma rede de servidores interconectados que aceleram o carregamento de uma página Web para aplicações com dados pesados.
+					2.Quando um usuário vista um site, os dados armazenados no servidor do site precisam viajar pela Internet até chegar no computador do usuário. Caso o usuário esteja longe do servidor, ele levará mais tempo para carregar um arquivo maior, como um vídeo ou uma imagem. Em vez disso, o conteúdo do site é armazenado em servidores CDN geograficamente próximos aos usuários, pois assim ele chega ao computador do usuário de forma muito mais rápida.
 	SEGURANÇA DA INFORMAÇÃO
+		o que é engenharia social ?
+			**Engenharia social** é uma técnica empregada pelos criminosos virtuais destinada a induzir usuários desavisados a enviar dados confidenciais, infectar seus computadores com malware ou abrir links para sites infectados.
+		Malware
+			o que é um Malware ?
+					Malware é o resultado da combinação das palavras inglesas “malicious” e “software”. O termo malware, portanto, abrange todo software malicioso que pode ser perigoso para o seu computador. Isso inclui vírus e cavalos de Troia.
+			tipos de Malware
+				ransomware
+					1.Um dos mais rentáveis e, portanto, mais populares, tipos de malware entre os cibercriminosos é o ransomware. Esse malware se instala na máquina da vítima, criptografa seus arquivos e depois exige um resgate (geralmente em Bitcoin) para retornar esses dados ao usuário.
+				vírus
+					1.Um vírus geralmente vem como um anexo em um e-mail que contém uma carga de vírus, ou parte do malware que executa a ação maliciosa. Depois que a vítima abre o arquivo, o dispositivo está infectado.
+				cavalos de troia
+					1.Os cavalos de troia se disfarçam de aplicativos inofensivos, enganando os usuários para que façam o download e os usem. Uma vez em funcionamento, eles podem roubar dados pessoais, travar um dispositivo, espionar atividades ou até mesmo iniciar um ataque.
+				spyware
+					1.Spyware é um programa instalado no seu computador, normalmente sem o seu conhecimento explícito, que captura e transmite informações pessoais ou de navegação na Internet hábitos e detalhes para o usuário. O Spyware permite que seus usuários monitorem todas as formas de comunicações no dispositivo alvo. O spyware é frequentemente usado pelas autoridades policiais, órgãos governamentais e organizações de segurança da informação para testar e monitorar as comunicações em um ambiente sensível ou em uma investigação. Mas spyware também está disponível para consumidores, permitindo que compradores espionem seus cônjuges, filhos e funcionários.
+				scareware
+					1.Os cibercriminosos nos fazem com que pensemos que nossos computadores ou smartphones foram infectados para convencer as vítimas a comprar um aplicativo falso. Em um golpe típico de scareware, você pode ver uma mensagem pop-up alarmante enquanto navega na Web com a mensagem "Aviso: seu computador está infectado!" ou "Você tem um vírus!" Os criminosos cibernéticos usam esses programas e práticas de publicidade antiéticas para assustar os usuários na compra de aplicativos não autorizados.
+				worms
+					1.Worms têm a capacidade de se copiar de máquina para máquina, geralmente explorando algum tipo de falha de segurança em um software ou sistema operacional e não exigem interação do usuário para funcionar.
+				adware
+					1.Os programas de adware enviam anúncios indesejados aos usuários e geralmente exibem anúncios piscantes ou janelas pop-up quando você executa uma determinada ação. Os programas de adware geralmente são instalados em troca de outro serviço, como o direito de usar um programa sem pagar por isso.
+				Malware sem arquivo
+					1.O malware sem arquivo é um tipo de software malicioso que usa programas legítimos para infectar um computador. Os ataques de registro de malware não deixam rastros de arquivos de malware a serem varridos ou processos maliciosos a serem detectados. Ele não depende de arquivos e não deixa pegadas, tornando difícil detectá-lo e removê-lo.
+			O que são botnets?
+				O termo _botnet_ é uma junção das palavras _bot_, de _robot_ (robô) e _network_ (rede). Ao pé da letra ela significa “rede robô” ou “rede de robôs”, o que descreve exatamente o que são botnets: uma rede de computadores, aparelhos móveis e dispositivos diversos conectados à internet, que foram infectados por malwares para receber comandos do hacker que desenvolveu o código malicioso.
+		Conceitos de Segurança da Informação. 
+		Segurança da Internet. 
+		Golpes da Internet.
+			Phishing
+			Pharming
+		Ataques da Internet.  
+			varredura em redes ou scan
+				1.Varredura em redes, ou scan1 , e uma t ´ ecnica que consiste em efetuar buscas minuciosas em re- ´ des, com o objetivo de identificar computadores ativos e coletar informac¸oes sobre eles como, por ˜ exemplo, servic¸os disponibilizados e programas instalados. Com base nas informac¸oes coletadas ˜ e´ poss´ıvel associar poss´ıveis vulnerabilidades aos servic¸os disponibilizados e aos programas instalados nos computadores ativos detectados.
+				2.quais as formas que a varredura de rede e a exploração de vulnerabilidade podem ser usadas ?
+					**Legítima** : por pessoas devidamente autorazadas, para verificar a segurança de computadores e redes.
+					**Maliciosa** : por atacantes, para explorar as vulnerabilidades encontradas nos erviços disponibilizados e nos programas instalados para a execução de atividades maliciosas.
+		Spam. 
+		Outros riscos. 
+		Mecanismos de segurança. 
+		Contas e senhas. 
+		Criptografia. 
+		Uso seguro da Internet. 
+		Segurança de Computadores e de Redes.
 	MANUTENÇÃO DE COMPUTADORES
 		hardwares
 			hardwares do computador
