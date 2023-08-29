@@ -319,6 +319,10 @@ GRAMÁTICA
 						o que são vozes verbais ?
 						vozes verbais determinam se o sujeito pratica ou recebe a ação
 						voz ativa
+							A voz ativa possui um sujeito que pratica a ação verbal.
+							- As crianças resgataram o cachorro.
+							- As pessoas leem o livro.
+							- Ele lavou o carro.
 						voz passiva
 						voz passiva analítica
 							como é formado a voz passiva analítica ?
@@ -335,10 +339,18 @@ GRAMÁTICA
 									- Aspirou-se a casa toda.
 									- Já se fez o trabalho.
 						voz reflexiva
-						o que a voz reflexiva determina ?
-							determina que o sujeito é o agente e paciente ao mesmo tempo
+							Na voz reflexiva, o sujeito pratica e, ao mesmo tempo, sofre/recebe a ação verbal.
+							- as crianças se furaram no prego.
+							- antonio se machucou
+							- As pessoas estão se divertindo.
+						voz reflexiva reciproca
+						   **definição :** Uma oração na voz passiva recíproca indica que uma ação verbal ocorreu de forma mútua; um fez um ao outro e vice-versa.
+							exemplo:
+								- O casal beijou-se.
+								- os enimigos se esfaquearam	
 			preposição
-				Preposição é a palavra que tem a função de conectivo. Ela pode ser usada para ligar um termo a outro (por exemplo: dente **de** leite), ou uma oração a outra (por exemplo: Chegarei **daqui** a uma hora.).
+				exemplos:
+					"a, ante, até, após, com, contra, de, desde, em, entre, para, perante, por, sem, sob, sobre, trás."
 				preposições essenciais
 					são as palavras que só funcionam como preposição.
 					exemplos:**a, ante, até, após, com, contra, de, desde, em, entre, para, perante, por, sem, sob, sobre, trás**.
@@ -414,23 +426,52 @@ GRAMÁTICA
 		oração
 			coordenada
 				sindéticas
-					   explique o que é uma oração assindética
-						   As orações coordenadas assindéticas são caracterizadas pelo período composto justaposto, ou seja, não são ligadas através de **nenhum conectivo**.
-						   as oraçãoes são separadas por virgulas
+					As orações coordenadas sindéticas são caracterizadas pelo período composto ligado através de uma conjunção ou locução coordenativa.
+					Assim, dependendo dos conectivos presentes nas orações, elas podem ser: aditivas, adversativas, alternativas, conclusivas e explicativas.
+				aditiva	
+				adversativas
+					exemplos:
+						**_porém_**, **_no entanto_**, **mas nunca** 
+				alternativas
+					ou,ou , ora , quer ... quer ; seja ... seja ;
+				conclusivas
+					logo , portanto , então
+				explicativas
+					1.- Ela não atende o telefone, _ou seja_, ela não quer saber de nós.
+					2 - Ela não sabe da novidade, _pois_ não disse nada.
 				assindéica
-						explique o que é uma oração sindética
-							as orações sindéticas são ligadas por um concectivo
+						As orações coordenadas assindéticas **são caracterizadas pelo período composto justaposto, ou seja, não são ligadas através de nenhum conectivo**. Exemplos: Chegamos na praia, nadamos, jogamos, comemos. Pegou a chave, abriu a porta, suspirou fundo.
 			subordinada
-				substantivas
-					subjetiva
-					predicatia
-					completiva nominal
-					objetiva direta 
-					objetiva indireta
-				adjetiva
-					explicativa
-					restritiva
+				[substantivas](https://mundoeducacao.uol.com.br/gramatica/oracao-subordinada.htm)
+				[adjetivas](https://mundoeducacao.uol.com.br/gramatica/oracao-subordinada.htm)
+				Diferença entre adjetivas explicativas e substantivas apositivas
+					**Aposto:**
+						1. Minha amiga **Maria** visitou a cidade.
+						2. O autor do livro, **um renomado escritor**, estará presente no evento.
+						3. Meu cachorro, **um labrador preto**, adora brincar no parque.
+					**Oração Subordinada Adjetiva Explicativa:**
+						1. A aluna **que estava na biblioteca** é minha colega de classe.
+						2. O filme **que ganhou o prêmio de Melhor Filme** é uma obra-prima.
+						3. O carro **que meu pai comprou ontem** já apresentou um problema.
+					**conclusão :**
+						1.Uma oração subordinada adjetiva explicativa acrescenta informações adicionais a um substantivo ou pronome, oferecendo mais detalhes sem alterar o sentido principal da frase. Essa oração é introduzida por palavras como "que", "quem", "cujo", entre outras.
+						2.O aposto, por outro lado, é uma expressão que acrescenta informações adicionais a um substantivo ou pronome. Ele tem o propósito de esclarecer ou detalhar o termo ao qual se refere.
+				[adverbiais](https://mundoeducacao.uol.com.br/gramatica/oracao-subordinada.htm)
+				[desenvolvidas e reduzidas](https://mundoeducacao.uol.com.br/gramatica/oracao-subordinada.htm)
+					eags exercicios
+				adjetivas
+					explicativas
+					restritivas
 				adverbiais
+					causais
+					comparativas
+					concessivas
+					condicionais
+					conformativas
+					consecutivas
+					finais
+					proporcionais
+					temporais
 		periodos
 			simples
 				o perido simple é formado por uma oração
@@ -901,6 +942,18 @@ GRAMÁTICA
 					Caso não haja palavra que atraia a próclise, usa-se a ênclise depois do verbo auxiliar em que o verbo principal esteja no particípio:
 					- **Foi-lhe explicado** como deveria agir. (ênclise depois do verbo auxiliar, “foi”, uma vez que o verbo principal “explicar” está no particípio, “explicado”)
 					- **Tinha-lhe feito** as vontades se não tivesse sido malcriado. (ênclise depois do verbo auxiliar, “tinha”, uma vez que o verbo principal “fazer” está no particípio, “feito”). 
+		[particula se](https://www.infoescola.com/portugues/particula-se/)
+			A particula SE como apassivadora do sujeito
+			   1.se a frase estiver na voz passiva SE é particula apassivadora
+			   2.verbo(direto) + se - se é particula apassivadora
+			A partícula SE como índice de indetermjação do sujeito
+				1. **Voz passiva sintética:**
+					- Frase passiva com "se": "Lê-se o livro."
+				2. **Voz passiva pronominal reflexiva:**
+					- Frase passiva com "se": "O carro se lavou."
+				3. **Voz passiva pronominal reflexiva com verbos transitivos diretos e indiretos:**
+					- Frase passiva com "se": "Deu-se o presente ao amigo."
+			A partícula SE como pronome
 		Estilística
 				figuras de linguagem
 					figuras de palavras
