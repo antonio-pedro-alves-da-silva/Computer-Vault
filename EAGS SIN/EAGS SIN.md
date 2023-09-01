@@ -72,7 +72,7 @@ GRAMÁTICA
 								3. Real (moeda antiga) - réis
 						-il 
 							oxitonas
-								substituim o -i por -s
+								substituim o -il por -is
 								1. Ardil - ardis
 								2. Barril - barris
 								3. Canil - canis
@@ -85,7 +85,7 @@ GRAMÁTICA
 							1. Balão - balõe(s) + zinhos = balõezinhos
 							2. Cão - cãe(s) + zitoa = cãezitos
 						-m
-							traocase o m por  ns
+							trocase o m por  ns
 							**álbum – álbuns  
 							jovem - jovens**
 						-x
@@ -94,22 +94,25 @@ GRAMÁTICA
 							o tórax - os tórax
 						substantivos compostos
 							sem o hiffen
-								sãot tratados como substantivos simples
+								Formados por palavras unidas sem hífen são tratados como substantivos simples:
+								- Aguradente - Aguaardentes
+								- Claraboia - Claraboias
 							com o hiffen
 								palavras unidas por hífen
-									podem ir para o plural todos ou apenas um deles se não forem palavras invariaveis
+									podem ir para o plural todos ou apenas um deles se não forem palavras invariaveis ou verbos
 									1. Decreto-lei - decretos-leis
 									2. Grão-mestre - grão-mestres
 									3. Bate-boca - bate-bocas
 									4. Abaixo-assinado - abaixo-assinados
-								aqueles ligados por preposições
+								substantivos compostos ligados por preposições
 									o somente o primeiro elemento vai para o plural
 									1. Água-de-colônia - águas-de-colônia
 									2. Chapéu-de-sol - chapéus-de-sol
-								substantivo compostos composto
-									somente o primeiro elemento vai para o plural
-									1. Escola-modelo - escolas-modelo
-									2. Manga-rosa - mangas-rosa
+								segunda sendo substantivo que atua como determinante
+									Formados por palavras cuja a segunda é um substantivo que atua como determinante, somente o primeiro elemento vai para o plural
+								- Banana-maçã - bananas-maçã
+								2. Banana-prata - bananas-prata
+								3. Café-concerto - cafés-concerto		
 						-ão
 							 1.A maior parte deles muda a referida terminação para “–ões”.
 									 ![](https://static.portugues.com.br/conteudo/images/substantivos-aoI(1).gif)
@@ -130,9 +133,23 @@ GRAMÁTICA
 								sultão – sultãos, sultões, sultães  							  
 								verão – verãos, verões  
 								vulcão – vulcãos, vulcões.**			 
-					gênero
-						biforme
-						uniforme
+					[gênero](https://www.todamateria.com.br/flexoes-de-genero-do-substantivo/)
+						biformes
+							avó - avô
+							gato - gata
+						uniformes
+							substantivos epicenos
+								São aqueles que têm somente um gênero gramatical para designar os dois sexos dos animais
+								**Exemplos**:
+									- o crocodilo (o crocodilo macho, o crocodilo fêmea)
+									- a onça (a onça macho, a onça fêmea)
+									- o sabiá (o sabiá macho, o sabiá fêmea).
+							substantivos sobrecomuns e gênero vacilante
+								São aqueles que têm somente um gênero gramatical para designar as pessoas de ambos os sexos.
+								Exemplos: a criança, a pessoa, a testemunha.
+							substantivos comuns de dois gêneros
+								Alguns substantivos apresentam uma só forma para dois gêneros, mas é possível distinguir o masculino do feminino pelo emprego do artigo que os acompanha.
+								Exemplos: o artista - a artista, o dentista - a dentista, o jornalista - a jornalista.
 					grau
 						aumentativo analítico
 							exemplo:casa grande
@@ -260,15 +277,14 @@ GRAMÁTICA
 						3. verbos que exprimem fenômenos da natureza
 				formas nominais
 					infinitivo
-						 expressa a ação em si: acordar, agradecer, esperar, sorrir, unir.
+						 1.expressa a ação em si: acordar, agradecer, esperar, sorrir, unir.
 						 infinitivo pessoal
 							 o verbo é flexionado no infinitivo pessoal
-						 infinitivo impessoal
-							 O **infinitivo** **impessoal** não se refere a nenhuma pessoa, de modo que simplesmente manifesta a ação e, algumas vezes, pode ter valor de substantivo.
-							1. fazer - sent...de tempo decorrido
-							2.haver - sent..de existir
-							3.fenomes da natureza
-							 exemplo:**Ajudar** é a melhor forma de gratidão
+						 [infinitivo impessoal](https://www.todamateria.com.br/infinitivo-pessoal-e-infinitivo-impessoal/#:~:text=O%20infinitivo%20impessoal%2C%20por%20sua,O%20jeito%20%C3%A9%20obedecer.)
+							1) Quando não se refere a um sujeito.
+						    2) Quando vem depois da preposição "de", servindo como complemento nominal.
+						    3) Quando fazem parte de uma locução verbal.
+						    4) Quando exprime ordem.
 					gerúndio
 						expressa o processo da ação: acordando, agradecendo, esperando, sorrindo, unindo.
 					particípio
@@ -285,8 +301,6 @@ GRAMÁTICA
 						indica um fato
 						subjuntivo
 							indica um fato duvidoso , desejos ou possibilidades
-						imperatios
-							indica um ordem , podem ser um conselho ou um convite
 					tempo
 						presente do indicativo
 							(eu) leio, (tu) lês, (ele) lê, (nós) lemos, (vós) ledes, (eles) leem.
@@ -348,6 +362,16 @@ GRAMÁTICA
 							exemplo:
 								- O casal beijou-se.
 								- os enimigos se esfaquearam	
+				[classificação dos verbos ](https://www.todamateria.com.br/classificacao-dos-verbos/)
+					regulares
+					irregulares
+					defectivos
+						lista de verbos defectivos
+							colorir
+							falir
+							abolir
+					anômalos 
+					abundantes
 			preposição
 				exemplos:
 					"a, ante, até, após, com, contra, de, desde, em, entre, para, perante, por, sem, sob, sobre, trás."
@@ -387,6 +411,13 @@ GRAMÁTICA
 					interrogativos
 			palavras invariveis
 				os advérbios , as preposições , conjuções e as interjeições
+		[colocação pronominal](https://www.todamateria.com.br/colocacao-pronominal/)
+			o que a coloção pronominal indica ?
+				A colocação pronominal indica a posição dos pronomes do caso obliquo átonos - me, nos, te, vos, se, o(s), a(s), lhe(s) - em relação ao verbo, do que resulta a próclise, a mesóclise e a ênclise.
+			próclise
+			mesóclise
+			ênclise
+				e) Queria lhe dizer que não posso ir à reunião de amanhã.
 	Sintaxe
 		verbos transitivos
 			o que são verbos transitivos ?
@@ -472,6 +503,7 @@ GRAMÁTICA
 					finais
 					proporcionais
 					temporais
+				[conjuções subordinativas](https://brasilescola.uol.com.br/gramatica/conjuncoes-subordinativas.htm#:~:text=As%20conjun%C3%A7%C3%B5es%20subordinativas%20interligam%20ora%C3%A7%C3%B5es,ora%C3%A7%C3%A3o%20que%20possuem%20mesma%20fun%C3%A7%C3%A3o.)
 		periodos
 			simples
 				o perido simple é formado por uma oração
@@ -499,7 +531,7 @@ GRAMÁTICA
 								- Nem sempre se é justo nesse mundo (verbo de ligação).
 							3.  memorização
 									1.3AP sem citar substantivo
-									2.3as(intrasitivo|indireto|ligação) + pronome obliquo , sem citar um substantivo 
+									2.3as(intrasitivo|indireto|ligação) + se , sem citar um substantivo 
 									3.pronome obliquo + 3as , sem citar um substantivo 
 									4. fazer - sent...de tempo decorrido
 						inexistente
@@ -529,28 +561,9 @@ GRAMÁTICA
 							frase : Lúcia correu no final da semana passada.
 							sujeito da ação: Lúcia
 							predicado : correu no final da semana passada.
-					tipos de predicado
-						predicado verbal
-							O **predicado verbal** é um tipo de predicado que tem como **núcleo um verbo ou uma locução verbal** que transmite a ideia de ação.
-							1.Nós caminhamos muito hoje. 
-								   predicado verbal : caminhamos muito hoje
-								   núcleo do predicado:caminhamos
-							2.**Sara correu a semana passada.**
-								predicado verbal:correu a semana passada
-								núcleo do predicado:correu a semana passada
-							3.**Alexandre e Natália estão fazendo bolo.**
-								predicado verbal:estão fazendo bolo
-								núcleo do predicado:estão fazendo
-						predicado nominal
-							O **predicado nominal** é um tipo de predicado que tem como **núcleo um nome** (substantivo ou adjetivo).
-							1.**Pedro Henrique é competente.**
-								predicado nominal:é competente
-								núcleo do predicado:competente
-						predicado verbo-nominal
-							é quando o predicado tem dois núcleos um sento o predicado verbal e o outro o predicado-nominal
-							1.Considerou a caminhada desagradável. 
-								predicado verbo-nominal : 
-								núcleo do predicado : considerou desagradável
+					[predicado verbal](https://www.todamateria.com.br/predicado-nominal/)
+					[predicado nominal](https://www.todamateria.com.br/predicado-nominal/)
+					[predicado verbo-nominal](https://www.todamateria.com.br/predicado-verbo-nominal/)
 			termos intergrantes
 				complemento nominal
 					o complemento nominal se liga ao substantivo,adjetivo ou advérbio por intermédio de uma preposição
@@ -581,7 +594,8 @@ GRAMÁTICA
 							1. Oh, **meu amor**, isso não se faz.(acompanha interjeições)
 							2. Veja, **meu querido**, que lindo lugar. (após o verbo no imperativo)
 				adjunto adverbial
-					o adjunto adverbial tem função de advérbio nas orações .
+					qual a função do adjunto adverbial ?
+						tem função de modificar verbos, adjetivos e advérbios
 					como os adjuntos advérbiais são classificados
 						finalidade
 							- Eu me esforcei **para** a prova.
@@ -616,17 +630,20 @@ GRAMÁTICA
 							- **Chega de** fofocas!
 							- **Basta de** gritos.
 				adjunto adnominal
-					O Adjunto adnominal tem a função de caracterizar um substantivo. É um termo acessório, pois apesar de ser importante na transmissão de uma mensagem, a sua remoção de uma oração não interfere na sua estrutura sintática.
+					O Adjunto adnominal tem a função de caracterizar e determinar um substantivo . É um termo acessório, pois apesar de ser importante na transmissão de uma mensagem, a sua remoção de uma oração não interfere na sua estrutura sintática.
 					exemplo
-						**Os** professores **da escola** estão **de** férias
-						Durante **a** fala **daquele** **poeta mineiro**, **muitas** pessoas ficaram emocionadas.
+						- **Os** alunos **calados** estiveram atentos.
+						- **Os** funcionários **da recepção** continuaram calados.
+			exemplos
 		concordância verbal e nominal
 			concordância verbal
 				sujeito coletivo
 					não especificado
 						3as
+						-
 					especificado
 						3as ou 3ap , o verbo pode ser conjugado no singular ou plural 
+						-
 				coletivos partitivos
 						3as ou 3ap
 					exemplo de coletivos partitivos
@@ -770,26 +787,30 @@ GRAMÁTICA
 						verbos pronominais exigem preposição
 					assitir
 						com o sentido de ver exige preposição
-							**Assista a** uma TV de LCD pelo preço de uma de projeção e leve junto um Home Theater! (O verbo "assistir", com o sentido de ver - exige preposição).
+							- **Assista a** uma TV de LCD pelo preço de uma de projeção e leve junto um Home Theater! (O verbo "assistir", com o sentido de ver - exige preposição).
+							-**Assiste aos** prejudicados o direito de indenização.
 						com sentido de dar assintência não exige preposioção
 							Sempre **assistiu pessoas** mais velhas.
-						com sentido de pertencer exige preposição
-							**Assiste aos** prejudicados o direito de indenização.
 					chegar
 						O verbo chegar é regido pela preposição “a”:
+						- **Chegamos ao** local indicado no mapa.
 					conhecer
 						o verbo é transitivo direto
 					custar
 						 com o sentido de **ser custoso** exige preposição
-						 com o sentido de **valor** não exige preposiçã
-							 Aquela casa **custou caro**.
+							 - Aquela decisão **custou** ao filho
+						 com o sentido de **valor** não exige preposição
+							 - Aquela casa **custou caro**.
 					obedecer 
-						 O verbo obedecer é transitivo indireto, logo, exige preposição
+						 O verbo obedecer é transitivo indireto, logo, exige preposição a
+					2 ---------------------
 					proceder
 						com o sentido de **fundamento** é verbo intransitivo
 							Essa sua desconfiança não **procede**.
 						com o sentido de **origem** exige preposição:
 							 Essa sua desconfiança **procede de** situações passadas.
+						com sentido de realizar não exige preposição
+							- o juiz procedeu o julgamento
 					visar
 						com o sentido de **objetivo** exige preposição:
 							**Visamos ao**(a + o) sucesso
@@ -809,6 +830,7 @@ GRAMÁTICA
 							**Aspirou todo o** escritório
 						 com o sentido de **pretender** exige preposição
 							 **Aspirou ao** cargo de ministro.
+					3 ----------------------
 					informar
 							O verbo é transitivo direto e indireto, assim ele exige um complemento sem e outro com preposição
 					ir
@@ -839,10 +861,14 @@ GRAMÁTICA
 							**Chamou ao** João **de** Mauricinho.
 							**Chamou João de** Mauricinho.
 					pagar
-						 quando informamos **o que pagamos** o complemento não tem preposição
+						 1)quando informamos **o que pagamos** o complemento não tem preposição
 							 **Paga o** sorvete?
-						 quando informamos **a quem pagamos** o complemento exige preposição:
+						 2)quando informamos **a quem pagamos** o complemento exige preposição:
 							 **Paga o** sorvete **ao** dono do bar.
+						3)complemento com sentido de coisa exige preposição
+							Todos pagaram a conta(a conta = coisa)
+						4)complemento com sentido pessoa não exige preposição
+							Todos pagaram o barbeiro(o barbeiro = pessoa)
 					levar
 						verbo transitivo direto
 					lembrar
@@ -858,20 +884,20 @@ GRAMÁTICA
 							o verbo exige preposição 
 							Não tenho **dúvidas de que** ele chegará breve
 			crase
-				regras de quando usar crase
-					antes de palavras femininas
+				1)regras de quando usar crase
+					**antes de palavras femininas**
 						- Fui à escola.
 						- Fomos à praça.
 						- Você vai à padaria agora?
-					quando acompanham verbos que indicam destino(ir, voltar,vir)
+					**acompanhadas de verbos que indicam destino**(ir, voltar,vir)
 						- Vou à padaria.
 						- Fomos à praia.
 						- Voltei à loja e fui bem atendido.
-					nas locuções adverbiais, prepositivas e conjutivas
+					**em locuções adverbiais, prepositivas e conjutivas**
 						- Saímos **à noite**.
 						- **À medida** que o tempo passa as amizades aumentam.
 						- Veja, isto foi feito **às pressas**!
-					antes dos pronomes demonstrativos aquilo, aquela,aquele
+					**antes dos pronomes demonstrativos aquilo**, aquela,aquele
 						- No verão, voltamos àquela praia.
 						- Refere-se àquilo que aconteceu ontem na festa.
 						- Vou àquele lugar hoje.
@@ -887,7 +913,7 @@ GRAMÁTICA
 							- Ficamos na reunião desde as 12h.
 							- Chegamos após as 18h.
 							- O congresso está marcado para as 15h.
-				regras de quando NÃO usar crase
+				2)regras de quando NÃO usar crase
 					antes de palavras masculinas
 						- Jorge tem um carro a álcool.
 						- Samuel comprou um jipe a diesel.
@@ -904,7 +930,7 @@ GRAMÁTICA
 						- Era a isso que nos referíamos.
 						- Quando aderir a esse plano, a internet ficará mais barata.
 						- Já aderiu a este plano?
-				quando a crase é facultativa
+				3)quando a crase é facultativa
 					depois da preposição até
 						fui até á praça ou fui até a praça
 					antes de nomes próprios femininos
@@ -913,6 +939,21 @@ GRAMÁTICA
 						mandou presentes de natal á sua família. ou mandou presentes de natal a sua famila.
 						! Lembre-se que não se usa crase antes do maior parte dos pronomes.
 			regência nominal
+				horror
+					horror rege a preposição a
+					- horror a rato
+				furioso
+					furioso rege a preposição com
+					- furioso com alguem
+					- 
+				firme
+					rege a preposição em
+				coerentes
+					regido pela preposição a
+				desprezo
+					regido pela preposiça~a
+				alheios
+					regido pela preosição a
 		colocação pronominal
 			Próclise
 				na próclise o pronome é colocado antes do verbo por palavras que o atraem o pronome
@@ -953,7 +994,8 @@ GRAMÁTICA
 					- Frase passiva com "se": "O carro se lavou."
 				3. **Voz passiva pronominal reflexiva com verbos transitivos diretos e indiretos:**
 					- Frase passiva com "se": "Deu-se o presente ao amigo."
-			A partícula SE como pronome
+			[A partícula SE como pronome reflexivo](https://www.embrapa.br/documents/1355746/30180455/Usos+da+Part%C3%ADcula+Se.pdf/f8ac2fb2-ffa7-4a7a-f56d-46f4c278afde)
+			[A partícula SE como partícula expletiva ou de reacle estilístico](https://www.embrapa.br/documents/1355746/30180455/Usos+da+Part%C3%ADcula+Se.pdf/f8ac2fb2-ffa7-4a7a-f56d-46f4c278afde)
 		Estilística
 				figuras de linguagem
 					figuras de palavras
@@ -1052,6 +1094,16 @@ GRAMÁTICA
 									- **Liberdade, Liberdade**! É isso que pretendemos nessa luta.
 									- **Nossa**! Como você conseguiu?
 									- **Minha Filha**! Que linda você está!
+		[uso da virgula(,)](https://www.todamateria.com.br/usos-da-virgula-aprenda-os-truques/)
+			para separrar elementos
+			depois do vocativo
+			entre o aposto
+			Depois dos advérbios “sim” e “não”
+			Na intercalação de texto
+			Nas o**rações subordinadas adverbiais**
+			Nas orações subordinadas adjetivas explicativas
+			Na omissão de verbos
+			Acompanhando local e data
 INFORMÁTICA SIN
 	conceitos básicos da computação
 		o que é camada de abstração ?
