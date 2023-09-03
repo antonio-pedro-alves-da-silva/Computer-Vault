@@ -25,6 +25,7 @@ GRAMÁTICA
 			encontro consonantal misto
 				as consoantes ficam na mesma silaba e em silabas diferentes na palavra
 		tonicidade
+			palavras com acentos que podem cair na prova 
 		acentuaçãográfica
 		ortografia.
 	Morfologia
@@ -455,21 +456,17 @@ GRAMÁTICA
 					Objeto indireto é o complemento que se liga ao verbo transitivo através de preposição obrigatória (acredito **em** você, vou **à** escola, preciso **de** água)
 				indireto pleonástico
 		oração
-			coordenada
+			[coordenada](https://www.todamateria.com.br/oracoes-coordenadas/)
 				sindéticas
-					As orações coordenadas sindéticas são caracterizadas pelo período composto ligado através de uma conjunção ou locução coordenativa.
-					Assim, dependendo dos conectivos presentes nas orações, elas podem ser: aditivas, adversativas, alternativas, conclusivas e explicativas.
-				aditiva	
-				adversativas
-					exemplos:
-						**_porém_**, **_no entanto_**, **mas nunca** 
-				alternativas
-					ou,ou , ora , quer ... quer ; seja ... seja ;
-				conclusivas
-					logo , portanto , então
-				explicativas
-					1.- Ela não atende o telefone, _ou seja_, ela não quer saber de nós.
-					2 - Ela não sabe da novidade, _pois_ não disse nada.
+					explicativa
+						isto é, ou seja, a saber, na verdade, porque, que, pois, etc.
+					conclusiva
+						logo, portanto, por fim, por conseguinte, pois, então, consequentemente,etc
+					alternativa
+						ou, ou … ou; ora … ora; quer … quer; seja … seja,etc.
+					adversativa
+						 e, mas, contudo, todavia, entretanto, porém, no entanto, ainda, assim, senão, etc.
+					aditiva
 				assindéica
 						As orações coordenadas assindéticas **são caracterizadas pelo período composto justaposto, ou seja, não são ligadas através de nenhum conectivo**. Exemplos: Chegamos na praia, nadamos, jogamos, comemos. Pegou a chave, abriu a porta, suspirou fundo.
 			subordinada
@@ -488,6 +485,28 @@ GRAMÁTICA
 						1.Uma oração subordinada adjetiva explicativa acrescenta informações adicionais a um substantivo ou pronome, oferecendo mais detalhes sem alterar o sentido principal da frase. Essa oração é introduzida por palavras como "que", "quem", "cujo", entre outras.
 						2.O aposto, por outro lado, é uma expressão que acrescenta informações adicionais a um substantivo ou pronome. Ele tem o propósito de esclarecer ou detalhar o termo ao qual se refere.
 				[adverbiais](https://mundoeducacao.uol.com.br/gramatica/oracao-subordinada.htm)
+					exemplo de frases de cada tipo
+						modal
+							Choveu muito, e a plantação ficou destruída certamente/provavelmente/talvez.
+						proporcinal
+							À medida que choveu muito, a plantação ficou destruída progressivamente.
+						concessiva
+							Embora choveu muito, a plantação ficou destruída, mas alguns cultivos ainda sobreviveram.
+						final
+							Choveu muito a fim de que a plantação ficasse destruída e pudéssemos replantar com melhores técnicas.
+						causal
+							Como choveu muito, a plantação ficou destruída porque as raízes não conseguiram absorver a água adequadamente.
+					cada tipo explicado
+						1. **Causal**: Essas orações indicam uma causa ou motivo para a ação da oração principal. Geralmente começam com palavras como "porque", "como", "uma vez que", "visto que". Exemplo: "Como choveu muito, a plantação ficou destruída."
+						2. **Concessiva**: Essas orações expressam uma concessão, ou seja, uma ideia contrária à da oração principal. Elas geralmente começam com palavras como "embora", "mesmo que", "apesar de". Exemplo: "Embora chovesse muito, a plantação ficou destruída."
+						3. **Condicional**: Indicam uma condição que deve ser cumprida para que a ação principal ocorra. Começam com palavras como "se", "caso", "contanto que". Exemplo: "Se chovesse muito, a plantação ficaria destruída."
+						4. **Temporal**: Essas orações fornecem informações sobre o tempo em que a ação da oração principal ocorre. Começam com palavras como "quando", "enquanto", "assim que". Exemplo: "Quando choveu muito, a plantação ficou destruída."
+						5. **Comparativa**: Estabelecem uma comparação entre duas ações ou situações. Começam com palavras como "como", "assim como", "mais do que", "menos do que". Exemplo: "Como choveu muito, a plantação ficou destruída, assim como a de nosso vizinho."
+						6. **Final**: Indicam a finalidade ou objetivo da ação principal. Começam com palavras como "para que", "a fim de que", "a fim de". Exemplo: "Choveu muito a fim de que a plantação ficasse destruída."
+						7. **Proporcional**: Estabelecem uma relação de proporção ou grau entre duas ações. Começam com palavras como "à medida que", "à proporção que", "conforme". Exemplo: "À medida que choveu muito, a plantação ficou destruída progressivamente."
+						8. **Conformativa**: Expressam a conformidade ou concordância da ação da oração principal com a da oração subordinada. Começam com palavras como "conforme", "segundo", "como". Exemplo: "Conforme choveu muito, a plantação ficou destruída como era esperado."
+						9. **Finalidade**: Indicam a intenção ou propósito da ação da oração principal. Começam com palavras como "a fim de que", "para que", "com o propósito de". Exemplo: "Choveu muito com o propósito de que a plantação ficasse destruída."
+						10. **Modal**: Expressam uma avaliação ou juízo de valor sobre a ação da oração principal. Começam com palavras como "certamente", "provavelmente", "talvez". Exemplo: "Choveu muito, e a plantação ficou destruída certamente."
 				[desenvolvidas e reduzidas](https://mundoeducacao.uol.com.br/gramatica/oracao-subordinada.htm)
 					eags exercicios
 				adjetivas
@@ -1098,9 +1117,9 @@ GRAMÁTICA
 			para separrar elementos
 			depois do vocativo
 			entre o aposto
-			Depois dos advérbios “sim” e “não”
+			Depois dos advérbios “sim” e “não” como resposta
 			Na intercalação de texto
-			Nas o**rações subordinadas adverbiais**
+			Nas **orações subordinadas adverbiais**
 			Nas orações subordinadas adjetivas explicativas
 			Na omissão de verbos
 			Acompanhando local e data

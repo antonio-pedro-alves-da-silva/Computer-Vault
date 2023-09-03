@@ -4,43 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4592401f702c04f8",
+        "id": "41e5ba00cccdf31d",
         "type": "tabs",
         "children": [
           {
-            "id": "bdd5c2c16092282d",
+            "id": "6afcb45b6d337e00",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EAGS SIN/EAGS SIN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3191c4d1413b06bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EAGS SIN/REDES DE COMPUTADORES/Modelo OSI/controle de fluxo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5186580f61f24165",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EAGS SIN/REDES DE COMPUTADORES/protocolos/quais os protocolos da camada de rede ?.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5,
-    "collapsed": true
+    "width": 213.5
   },
   "right": {
     "id": "ee4e8bcf9413ed0e",
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EAGS SIN/EAGS SIN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EAGS SIN/EAGS SIN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "EAGS SIN/EAGS SIN.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -168,14 +135,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "flashcards-obsidian:Generate flashcards": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "bdd5c2c16092282d",
+  "active": "6afcb45b6d337e00",
   "lastOpenFiles": [
-    "EAGS SIN/SEGURANÇA DA INFORMAÇÃO/Golpes da Internet/Phishing.md",
     "EAGS SIN/EAGS SIN.md",
+    "EAGS SIN/REDES DE COMPUTADORES/Quais sãos os tipos de redes de computadores ?.md",
+    "EAGS SIN/SEGURANÇA DA INFORMAÇÃO/Golpes da Internet/Phishing.md",
+    "EAGS SIN/REDES DE COMPUTADORES/protocolos/quais os protocolos da camada de rede ?.md",
+    "EAGS SIN/REDES DE COMPUTADORES/Modelo OSI/controle de fluxo.md",
     "EAGS SIN/SEGURANÇA DA INFORMAÇÃO",
     "EAGS SIN/SEGURANÇA DA INFORMAÇÃO/Golpes da Internet",
     "imagens/classes_de_rede.jpg",
@@ -190,9 +159,7 @@
     "imagens/Pasted image 20230824111417.png",
     "imagens/Pasted image 20230824111354.png",
     "imagens/start_topology.jpeg.crdownload",
-    "EAGS SIN/REDES DE COMPUTADORES/Modelo OSI/controle de fluxo.md",
     "EAGS SIN/REDES DE COMPUTADORES/Padronização de redes.md",
-    "EAGS SIN/REDES DE COMPUTADORES/protocolos/quais os protocolos da camada de rede ?.md",
     "EAGS SIN/REDES DE COMPUTADORES/Modelo OSI/conversão de dados.md",
     "EAGS SIN/REDES DE COMPUTADORES/Modelo OSI/o que são quadros ?.md",
     "EAGS SIN/REDES DE COMPUTADORES/Modelo OSI/encapsular dados.md",
@@ -214,7 +181,6 @@
     "EAGS SIN/SISTEMA OPERACIONAIS/roteamento.md",
     "roteador.md",
     "EAGS SIN/REDES DE COMPUTADORES/comutação de pacotes.md",
-    "EAGS SIN/REDES DE COMPUTADORES/Quais sãos os tipos de redes de computadores ?.md",
     "EAGS SIN/SISTEMA OPERACIONAIS/Syslog e arquivos de log/o que é um arquivo de log ?.md",
     "Compartilhando arquivos de sistema..md",
     "o que é um arquivo de log ?.md",
