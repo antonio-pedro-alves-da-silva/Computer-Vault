@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "679b9405dc178c31",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f4aa987cc18ec96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf7686762af9cbf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EAGS SIN/EAGS SIN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f41d25668bd70d89",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfe5859fb13ed703",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82aba03af3447e07",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4a164f1311e5f8cb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "590c9d834103857a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3b130dacc4db502f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c99a428743a6479a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25c66ffd70ba657a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "EAGS SIN/EAGS SIN.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6506f797d403b1a9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "EAGS SIN/EAGS SIN.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "16b98bae4a8528f6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d113599084a84a99",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "EAGS SIN/EAGS SIN.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bf7686762af9cbf7",
+  "lastOpenFiles": [
+    "roteador.md",
+    "Compartilhando arquivos de sistema..md",
+    "prova-eags-sin-2024.md",
+    "imagens/tipos_de_meios_de_transmissão.png",
+    "imagens/start_topology.jpeg",
+    "imagens/processo_de_compilação.jpg",
+    "imagens/processo_de_compilação2.jpg",
+    "imagens/print_screen.png",
+    "imagens/ponto_a_ponto_topologia.jpeg",
+    "imagens/processo e compilação do java.jpg",
+    "imagens/hardwares.png",
+    "imagens/classes_de_rede.jpg",
+    "imagens/Pasted image 20230824175129.png",
+    "imagens",
+    "etc/shadow.md",
+    "etc",
+    "EAGS SIN/EAGS SIN.md",
+    "EAGS SIN/particula \"se\".md",
+    "EAGS SIN/SISTEMA OPERACIONAIS/sistema de arquivos/Syslog e arquivos de log/sistema de arquivos mais comuns.md",
+    "EAGS SIN/SISTEMA OPERACIONAIS/sistema de arquivos/Syslog e arquivos de log/o que é um sistema de arquivo ?.md",
+    "EAGS SIN/SISTEMA OPERACIONAIS/sistema de arquivos/Syslog e arquivos de log",
+    "EAGS SIN/SISTEMA OPERACIONAIS/Syslog e arquivos de log/o que é um arquivo de log ?.md",
+    "EAGS SIN/SISTEMA OPERACIONAIS/Gerenciamento de Usuário e Grupos no Linux/Untitled.md",
+    "EAGS SIN/SISTEMA OPERACIONAIS/Adição de disco/partição primaria , estendida e lógica.md",
+    "EAGS SIN/SISTEMA OPERACIONAIS/sistema de arquivos de rede",
+    "EAGS SIN/SISTEMA OPERACIONAIS/sistema de arquivos",
+    "EAGS SIN/SISTEMA OPERACIONAIS/roteamento.md",
+    "EAGS SIN/SISTEMA OPERACIONAIS/Syslog e arquivos de log",
+    "EAGS SIN/SISTEMA OPERACIONAIS/Kernel.md",
+    "EAGS SIN/SISTEMA OPERACIONAIS/Gerenciamento de Usuário e Grupos no Linux",
+    "EAGS SIN/SISTEMA OPERACIONAIS/Drivers.md",
+    "EAGS SIN/SISTEMA OPERACIONAIS/Adição de disco",
+    "EAGS SIN/SISTEMA OPERACIONAIS",
+    "EAGS SIN/SEGURANÇA DA INFORMAÇÃO/Golpes da Internet/Phishing.md",
+    "EAGS SIN/SEGURANÇA DA INFORMAÇÃO/Golpes da Internet",
+    "EAGS SIN/REDES DE COMPUTADORES/protocolos/quais os protocolos da camada de rede ?.md",
+    "EAGS SIN/REDES DE COMPUTADORES/protocolos/ICMP.md",
+    "EAGS SIN/REDES DE COMPUTADORES/protocolos/Ethernet.md",
+    "EAGS SIN/REDES DE COMPUTADORES/equipamento de redes/roteador.md",
+    "EAGS SIN/REDES DE COMPUTADORES/Modelo OSI/o que são quadros ?.md",
+    "EAGS SIN/REDES DE COMPUTADORES/Modelo OSI/encapsular dados.md",
+    "EAGS SIN/REDES DE COMPUTADORES/Modelo OSI/conversão de dados.md",
+    "EAGS SIN/REDES DE COMPUTADORES/Modelo OSI/controle de fluxo.md",
+    "EAGS SIN/REDES DE COMPUTADORES/Modelo OSI/Enlace lógico.md",
+    "EAGS SIN/REDES DE COMPUTADORES/comutação de pacotes.md",
+    "EAGS SIN/REDES DE COMPUTADORES/Quais sãos os tipos de redes de computadores ?.md"
+  ]
+}
