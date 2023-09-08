@@ -1,6 +1,5 @@
 TEXTO
 	Interpretação de textos literários ou não literários.
-
 GRAMÁTICA
 	Fonética
 		sílaba
@@ -14,9 +13,23 @@ GRAMÁTICA
 				polissílaba - 4 ou mais
 		encontro vocálicos
 			classificação
-				hiato - vogal + vogal
-				ditongo - vogal + semivogal
-				tritongo - semivogal + vogal + semivogal
+				hiato
+					1.é o encontro de vogal em silabas diferentes
+					vogal + vogal 
+						álc**coo**l
+				ditongo 
+					1.é o encontro em silabas diferentes
+					vogal + semivogal
+					semivogal + vogal
+					sab**ão** (sa-bão)
+				![[Pasted image 20230904220239.png]]
+				[ditongo oral crescente e ditongo oral decrescente]()
+				tritongo
+					1.encontro na mesma silaba
+					semivogal + vogal + semivogal
+					ig**uai**s (i-guais)
+				[o que é uma semivogal ?](https://www.youtube.com/watch?v=WGDq8jY4Rzk)
+					elas são representadas pelo fonemas /i/ e /u/
 		encontros consonatais
 			encontro consonantal  perfeito
 				as consoantes ficam na mesma sílaba na palavra
@@ -135,9 +148,6 @@ GRAMÁTICA
 								verão – verãos, verões  
 								vulcão – vulcãos, vulcões.**			 
 					[gênero](https://www.todamateria.com.br/flexoes-de-genero-do-substantivo/)
-						biformes
-							avó - avô
-							gato - gata
 						uniformes
 							substantivos epicenos
 								São aqueles que têm somente um gênero gramatical para designar os dois sexos dos animais
@@ -151,6 +161,9 @@ GRAMÁTICA
 							substantivos comuns de dois gêneros
 								Alguns substantivos apresentam uma só forma para dois gêneros, mas é possível distinguir o masculino do feminino pelo emprego do artigo que os acompanha.
 								Exemplos: o artista - a artista, o dentista - a dentista, o jornalista - a jornalista.
+						biformes
+							avó - avô
+							gato - gata
 					grau
 						aumentativo analítico
 							exemplo:casa grande
@@ -162,8 +175,6 @@ GRAMÁTICA
 					numero
 					pessoa
 					genero
-						uniforme
-						biforme
 					grau
 						comparativo
 							igualdade
@@ -261,10 +272,12 @@ GRAMÁTICA
 						integrantes
 							o que são conjunções integrantes ?
 								São as conjunções utilizadas para introduzir a oração que atua como sujeito, objeto direto, objeto indireto, predicativo, complemento nominal ou aposto de outra oração.
-							São as conjunções utilizadas para introduzir a oração que atua como sujeito, objeto direto, objeto indireto, predicativo, complemento nominal ou aposto de outra oração.
+							São as conjunções utilizadas para introduzir a oração que atua como sujeito, objeto direto, objeto indireto, predicativo, complemento nominal ou aposto de outra oração .
 							conjunções:que e se.
 							exemplo:A verdade é **que** te amo.
 							exemplo:Não sei **se** você notou que as cortinas são senhoriais.
+							memorização
+								sobdpca
 				locução conjutiva
 				 o que é uma locução conjuntiva ?
 					 **Locução Conjuntiva** é a denominação ao conjunto de uma ou mais palavras com valor de conjunção na frase.	
@@ -313,7 +326,7 @@ GRAMÁTICA
 							mais-que-perfeito
 								eu) lera, (tu) leras, (ele) lera, (nós) lêramos, (vós) lêreis, (eles) leram.
 						futuro
-							futuro do presente
+							futuro do presente do indicativo
 								(eu) lerei, (tu) lerás, (ele) lerá, (nós) leremos, (vós) lereis, (eles) lerão.
 							futuro do pretérito
 								eu) leria, (tu) lerias, (ele) leria, (nós) leríamos, (vós) leríeis, (eles) leriam.
@@ -353,6 +366,7 @@ GRAMÁTICA
 									- Tomou-se o café da manhã logo cedo.
 									- Aspirou-se a casa toda.
 									- Já se fez o trabalho.
+									- Desta vez, abrir-se-ia a vidraça da janela vagarosamente.
 						voz reflexiva
 							Na voz reflexiva, o sujeito pratica e, ao mesmo tempo, sofre/recebe a ação verbal.
 							- as crianças se furaram no prego.
@@ -574,15 +588,8 @@ GRAMÁTICA
 							composto
 								Quando o verbo principal de uma frase faz referência a dois ou mais núcleos do sujeito, temos um sujeito composto.
 							oculto/desinencial/elíptico/implícito/subentendido			
-				predicado
-					o que é o predicado ?
-						após identificar o sujeito da ação todo o restante é o predicado
-							frase : Lúcia correu no final da semana passada.
-							sujeito da ação: Lúcia
-							predicado : correu no final da semana passada.
-					[predicado verbal](https://www.todamateria.com.br/predicado-nominal/)
-					[predicado nominal](https://www.todamateria.com.br/predicado-nominal/)
-					[predicado verbo-nominal](https://www.todamateria.com.br/predicado-verbo-nominal/)
+				predicato
+					[tipos de predicado e predicativo](https://mundoeducacao.uol.com.br/gramatica/tipos-predicado.htm#:~:text=Predicado%20nominal%3A%20%C3%A9%20aquele%20que,liga%C3%A7%C3%A3o%20e%20predicativo%20do%20sujeito.&text=Predicado%20verbal%3A%20%C3%A9%20aquele%20que,Os%20jogadores%20andam%20pelo%20gramado.)
 			termos intergrantes
 				complemento nominal
 					o complemento nominal se liga ao substantivo,adjetivo ou advérbio por intermédio de uma preposição
@@ -653,7 +660,12 @@ GRAMÁTICA
 					exemplo
 						- **Os** alunos **calados** estiveram atentos.
 						- **Os** funcionários **da recepção** continuaram calados.
-			exemplos
+						- a) "Tenho **apenas** duas mãos / e o sentimento do mundo,..."
+						- Adjuntos adnominais: "apenas" (qualifica "duas mãos") e "do mundo" (qualifica "sentimento").
+						b) "...e o corpo transige / na confluência **do amor**."
+						- Adjunto adnominal: "do amor" (qualifica "confluência").
+						d) "...mas estou cheio **de escravos**,..."
+						Adjunto adnominal: "de escravos" (qualifica "cheio").
 		concordância verbal e nominal
 			concordância verbal
 				sujeito coletivo
@@ -808,123 +820,58 @@ GRAMÁTICA
 						com o sentido de ver exige preposição
 							- **Assista a** uma TV de LCD pelo preço de uma de projeção e leve junto um Home Theater! (O verbo "assistir", com o sentido de ver - exige preposição).
 							-**Assiste aos** prejudicados o direito de indenização.
-						com sentido de dar assintência não exige preposioção
+						com sentido de dar assintência não exige 
 							Sempre **assistiu pessoas** mais velhas.
-					chegar
-						O verbo chegar é regido pela preposição “a”:
-						- **Chegamos ao** local indicado no mapa.
-					conhecer
-						o verbo é transitivo direto
-					custar
-						 com o sentido de **ser custoso** exige preposição
-							 - Aquela decisão **custou** ao filho
-						 com o sentido de **valor** não exige preposição
-							 - Aquela casa **custou caro**.
-					obedecer 
-						 O verbo obedecer é transitivo indireto, logo, exige preposição a
-					2 ---------------------
-					proceder
-						com o sentido de **fundamento** é verbo intransitivo
-							Essa sua desconfiança não **procede**.
-						com o sentido de **origem** exige preposição:
-							 Essa sua desconfiança **procede de** situações passadas.
-						com sentido de realizar não exige preposição
-							- o juiz procedeu o julgamento
 					visar
 						com o sentido de **objetivo** exige preposição:
 							**Visamos ao**(a + o) sucesso
 						com sentido de mirar não exige preposição
 							O policial **visou o** bandido à distância.
-					esquecer
-						o verbo esquecer é transitivo direto , logo não exige preposição
-							**Esqueci o** meu material.
-					querer
-						com o sentido de desejar não exige preposição
-						com o sentido de estima exige preposição
-							**Queria muito aos** seus amigos.
-					aspirar
-						com sentido de desejar e regido pela preposição "a"
-							Prefiro aspirar **a** uma posição honesta **a** ficar aqui.
-						com o sentido de **respirar ou absorver** não exige preposição:
-							**Aspirou todo o** escritório
-						 com o sentido de **pretender** exige preposição
-							 **Aspirou ao** cargo de ministro.
-					3 ----------------------
-					informar
-							O verbo é transitivo direto e indireto, assim ele exige um complemento sem e outro com preposição
-					ir
-						O verbo ir é regido pela preposição “a”:
-							**Vou à** biblioteca.
-							**Fui ao** cinema ontem
-					implicar
-						com o sentido de **consequência, acarretar**, o verbo implicar é transitivo direto, logo não exige preposição
-							O seu pedido **implicará um** novo orçamento.
-						com o sentido de **embirrar**, é transitivo indireto, logo exige preposição:
-						   **Implica com** tudo!
-					morar
-						O verbo morar é regido pela preposição “em”:
-							**Mora no** fim da rua.
-					namorar
-						O verbo namorar é transitivo direto, apesar de as pessoas o usarem sempre seguido de preposição:
-							**Namorou Maria** durante anos.
-					preferir
-						o verbo preferir deve ser sempre seguido de preposição "a"
-						O verbo preferir é transitivo direto e indireto. Assim
-							**Prefiro** carne **a** peixe.
-					simpatizar
-						O verbo simpatizar é transitivo indireto e exige a preposição "com":
-							**Simpatiza com** os mais velhinhos.
-					chamar
-						com o sentido de **convocar** não exige complemento com preposição
-						com o sentido de **apelidar** exige complementos com e sem preposição
-							**Chamou ao** João **de** Mauricinho.
-							**Chamou João de** Mauricinho.
-					pagar
-						 1)quando informamos **o que pagamos** o complemento não tem preposição
-							 **Paga o** sorvete?
-						 2)quando informamos **a quem pagamos** o complemento exige preposição:
-							 **Paga o** sorvete **ao** dono do bar.
-						3)complemento com sentido de coisa exige preposição
-							Todos pagaram a conta(a conta = coisa)
-						4)complemento com sentido pessoa não exige preposição
-							Todos pagaram o barbeiro(o barbeiro = pessoa)
-					levar
-						verbo transitivo direto
-					lembrar
-						é transitivo direto ele pode ser transitivo indireto quando está na forma pronominal 
-						 Lembrou que precisava voltar ao trabalho
-						**lembrou-se de** que precisava voltar ao trabalho
-					dispor
-						com sentido de possuir
-							exige preposição
-					duvidar
-						o verbo duvidar pode ser transitivo direto ou indireto
-						quando seguido de pronome
-							o verbo exige preposição 
-							Não tenho **dúvidas de que** ele chegará breve
+					[ir](https://www.conjugacao.com.br/regencia-do-verbo-ir/#:~:text=De%20acordo%20com%20a%20norma,N%C3%B3s%20queremos%20ir%20%C3%A0%20festa.)
+						ir é verbo transitivo indireto
+						Verbo ir com regência da preposição a
+						Verbo ir com regência da preposição em
+						Verbo ir com regência da preposição para
+					[preferir](https://www.conjugacao.com.br/regencia-do-verbo-preferir/#:~:text=O%20verbo%20preferir%20atua%2C%20principalmente,de%20escolher%20um%20entre%20v%C3%A1rios.)
+						1.O uso da expressão do que com o verbo preferir é considerado errado segundo a norma culta.
+						2.o verbo preferir deve ser seguido da preposição a 
+						preferir é verbo transitivo direto e indireto
+					[chamar](https://www.conjugacao.com.br/regencia-do-verbo-chamar/#:~:text=O%20verbo%20chamar%20%C3%A9%20transitivo,de%20convocar%2C%20pedindo%20a%20presen%C3%A7a.)
+						com esse sentido, há ainda quatro possíveis construções, uma vez que é possível a utilização de um objeto indireto (lhe), de um objeto direto (amigo), de um objeto direto preposicionado (ao amigo) e ainda de um predicativo do objeto, preposicionado (de feio) ou não (feio).
+						- Bianca chamou ao amigo feio.
+						chamar como verbo transitivo direto
+							- chamar a bianca
+						chamar como verbo transitivo indireto
+							- chamar de feio
+							- chamar pela mãe
+							- chamar por Deus
+						chamar como verbo pronominal
+							- eu chamo me antonio
+							- ela se chama renata
+							- o diretor do clube chamou-o maluco durante a partida.
 			crase
 				1)regras de quando usar crase
-					**antes de palavras femininas**
+					**1)antes de palavras femininas**
 						- Fui à escola.
 						- Fomos à praça.
 						- Você vai à padaria agora?
-					**acompanhadas de verbos que indicam destino**(ir, voltar,vir)
+					**2)acompanhadas de verbos que indicam destino**(ir, voltar,vir)
 						- Vou à padaria.
 						- Fomos à praia.
 						- Voltei à loja e fui bem atendido.
-					**em locuções adverbiais, prepositivas e conjutivas**
+					**3)em locuções adverbiais, prepositivas e conjutivas**
 						- Saímos **à noite**.
 						- **À medida** que o tempo passa as amizades aumentam.
 						- Veja, isto foi feito **às pressas**!
-					**antes dos pronomes demonstrativos aquilo**, aquela,aquele
+					**4)antes dos pronomes demonstrativos aquilo**, aquela,aquele
 						- No verão, voltamos àquela praia.
 						- Refere-se àquilo que aconteceu ontem na festa.
 						- Vou àquele lugar hoje.
-					antes da locução "à moda de" quando ela estiver subentendida
+					5)antes da locução "à moda de" quando ela estiver subentendida
 						- Veste roupas à (moda de) Luís XV.
 						- Dribla à (moda de) Pelé.
 						- Escreve à (moda de) José de Alencar.
-					na indicação de horas exatas.
+					6)na indicação de horas exatas.
 						- Termino meu trabalho às cinco horas da tarde.
 						- Saio da escola às 12h30.
 						- Entro à uma.
@@ -955,7 +902,8 @@ GRAMÁTICA
 					antes de nomes próprios femininos
 						entrega á ana,por favor. ou entrega a ana,por favor.
 					antes dos pronomes possesivos
-						mandou presentes de natal á sua família. ou mandou presentes de natal a sua famila.
+						- mandou presentes de natal á sua família. ou mandou presentes de natal a sua famila.
+						- E á própria mágoa revelou o tortuoso caminho do perdão, e a dor lancinante que afogava o peito... passou.
 						! Lembre-se que não se usa crase antes do maior parte dos pronomes.
 			regência nominal
 				horror
@@ -1114,6 +1062,8 @@ GRAMÁTICA
 									- **Nossa**! Como você conseguiu?
 									- **Minha Filha**! Que linda você está!
 		[uso da virgula(,)](https://www.todamateria.com.br/usos-da-virgula-aprenda-os-truques/)
+		[uso do ponto-final (.)](https://www.todamateria.com.br/uso-do-ponto-final/#:~:text=O%20ponto%20final%20(%20.%20)%2C,marcando%20uma%20pausa%20mais%20longa.)
+		[uso do ponto e virgula (;)](https://www.todamateria.com.br/ponto-e-virgula/)
 			para separrar elementos
 			depois do vocativo
 			entre o aposto
