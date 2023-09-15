@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f9324f7ff1eacee3",
+        "id": "88b4e7338066bb7e",
         "type": "tabs",
         "children": [
           {
-            "id": "2cca5976283103d1",
+            "id": "5e9c4ad8eef29a68",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,54 +159,91 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2cca5976283103d1",
+  "floating": {
+    "id": "915cb898f419a65e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "2fadc31837724861",
+        "type": "window",
+        "children": [
+          {
+            "id": "f84b34f2066604c0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "cb05decba89f328f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "EAGS SIN/TEXTO/uso do ponto e virgula correta.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 911,
+        "y": 0,
+        "width": 455,
+        "height": 747,
+        "maximize": false,
+        "zoom": 1
+      }
+    ]
+  },
+  "active": "5e9c4ad8eef29a68",
   "lastOpenFiles": [
+    "EAGS SIN/TEXTO/uso do ponto e virgula correta.md",
+    "EAGS SIN/EAGS SIN.md",
+    "EAGS SIN/TEXTO/uso das aspas.md",
+    "EAGS SIN/TEXTO/uso do dois-ponto.md",
+    "coisa a aprender no obsidian.md",
+    "EAGS SIN/TEXTO/uso do travessão.md",
+    "EAGS SIN/TEXTO/uso da virgula correto.md",
+    "EAGS SIN/TEXTO/uso da virgula teste.md",
+    "EAGS SIN/TEXTO/uso do parênteses.md",
+    "EAGS SIN/TEXTO/uso do ponto e virgula teste.md",
+    "EAGS SIN/TEXTO/expressões explicativas.md",
+    "EAGS SIN/GRAMÁTICA/objeto pleonástico.md",
+    "EAGS SIN/GRAMÁTICA/Morfologia/Sinxtaxe",
+    "EAGS SIN/GRAMÁTICA/Morfologia",
+    "EAGS SIN/GRAMÁTICA",
+    "EAGS SIN/TEXTO/uso do ponto-final (.).md",
+    "EAGS SIN/TEXTO/Untitled",
+    "EAGS SIN/TEXTO",
+    "EAGS SIN/INFORMÁTICA SIN",
+    "imagens/classes_de_rede.jpg",
     "Pasted image 20230912145836.png",
     "Pasted image 20230911151316.png",
     "sites/Homônimos e Parônimos - Toda Matéria.md",
     "HTML import/Attachments/youtube-bg.png",
     "HTML import/Attachments/7graus-logo.svg",
-    "EAGS SIN/EAGS SIN.md",
     "HTML import/Attachments",
     "HTML import",
     "sites/Homônimos e Parônimos - Toda Matéria_files/7graus-logo.svg",
     "sites/Homônimos e Parônimos - Toda Matéria_files/rmpssp",
     "sites/Homônimos e Parônimos - Toda Matéria_files/setuid",
-    "sites/Homônimos e Parônimos - Toda Matéria_files/CookieSync.min.js",
-    "sites/Homônimos e Parônimos - Toda Matéria_files/v0.7.0.js",
-    "sites/Homônimos e Parônimos - Toda Matéria_files/main.29b3da28f73f8e8d5f9d.css",
-    "sites/Homônimos e Parônimos - Toda Matéria_files/sync(1)",
-    "sites/Homônimos e Parônimos - Toda Matéria_files/v2.1.3.css",
-    "sites/Homônimos e Parônimos - Toda Matéria_files/cframe.js",
     "sites/Homônimos e Parônimos - Toda Matéria_files/desktop-logo.png",
     "sites/Homônimos e Parônimos - Toda Matéria_files/daniela-diana_36.jpg",
     "sites/Homônimos e Parônimos - Toda Matéria_files/youtube-bg.png",
     "sites/Homônimos e Parônimos - Toda Matéria_files/youtube-thumb.png",
     "().md",
-    "imagens/Pasted image 20230908182246.png",
-    "imagens/Pasted image 20230904220239.png",
     "Task-To-Do/Daily Task To Do.md",
     "2023-09-03.md",
     "EAGS SIN/particula \"se\".md",
     "new note.md",
-    "EAGS SIN/REDES DE COMPUTADORES/Quais sãos os tipos de redes de computadores ?.md",
-    "EAGS SIN/SEGURANÇA DA INFORMAÇÃO/Golpes da Internet/Phishing.md",
-    "EAGS SIN/REDES DE COMPUTADORES/protocolos/quais os protocolos da camada de rede ?.md",
-    "EAGS SIN/REDES DE COMPUTADORES/Modelo OSI/controle de fluxo.md",
-    "EAGS SIN/REDES DE COMPUTADORES/Padronização de redes.md",
-    "EAGS SIN/REDES DE COMPUTADORES/Modelo OSI/conversão de dados.md",
-    "EAGS SIN/REDES DE COMPUTADORES/Modelo OSI/o que são quadros ?.md",
-    "EAGS SIN/REDES DE COMPUTADORES/Modelo OSI/encapsular dados.md",
-    "EAGS SIN/REDES DE COMPUTADORES/protocolos/Ethernet.md",
-    "EAGS SIN/REDES DE COMPUTADORES/protocolos/ICMP.md",
-    "prova-eags-sin-2024.md",
-    "EAGS SIN/REDES DE COMPUTADORES/Modelo OSI/Enlace lógico.md",
-    "EAGS SIN/SISTEMA OPERACIONAIS/Adição de disco/partição primaria , estendida e lógica.md",
-    "EAGS SIN/SISTEMA OPERACIONAIS/Gerenciamento de Usuário e Grupos no Linux/Untitled.md",
-    "etc/shadow.md",
-    "EAGS SIN/SISTEMA OPERACIONAIS/Kernel.md",
-    "EAGS SIN/REDES DE COMPUTADORES/equipamento de redes/roteador.md",
-    "EAGS SIN/SISTEMA OPERACIONAIS/roteamento.md",
+    "EAGS SIN/INFORMÁTICA SIN/REDES DE COMPUTADORES/Quais sãos os tipos de redes de computadores ?.md",
+    "EAGS SIN/INFORMÁTICA SIN/SEGURANÇA DA INFORMAÇÃO/Golpes da Internet/Phishing.md",
+    "EAGS SIN/INFORMÁTICA SIN/REDES DE COMPUTADORES/protocolos/quais os protocolos da camada de rede ?.md",
+    "EAGS SIN/INFORMÁTICA SIN/REDES DE COMPUTADORES/Modelo OSI/controle de fluxo.md",
+    "EAGS SIN/INFORMÁTICA SIN/REDES DE COMPUTADORES/Padronização de redes.md",
+    "EAGS SIN/INFORMÁTICA SIN/REDES DE COMPUTADORES/Modelo OSI/conversão de dados.md",
+    "EAGS SIN/INFORMÁTICA SIN/REDES DE COMPUTADORES/Modelo OSI/o que são quadros ?.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

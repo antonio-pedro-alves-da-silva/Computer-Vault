@@ -1,6 +1,55 @@
 TEXTO
 	Interpretação de textos literários ou não literários.
-
+		Expressões explicativas e retificativas: **isto é, ou seja, a saber, na verdade, por exemploi, por assim dizer, ou melhor, antes disso, digo, dizendo de outra forma, e outras**
+	pontuação
+		[uso do ponto-final](https://www.todamateria.com.br/uso-do-ponto-final/)
+			1. frases declarativas(exprimem umf ato)
+			2. frases imperativas(exprimem um ordem,pedido,conselho)
+		[[uso da virgula correto]]
+			quando usar
+				1 - [[uso da virgula correto#1- Separar elementos com a mesma função sintática|Separar elementos com a mesma função sintática]]
+				2 - [[uso da virgula correto#2- Separar orações intercaladas|Separar orações intercaladas]]
+				3 - [[uso da virgula correto#3- Separar orações adjetivas explicativas|Separar orações adjetivas explicativas]]
+				4 - [[uso da virgula correto#4 – Separar expressões explicativas|Separar expressões explicativas]]
+				5 - [[uso da virgula correto#5 – Separar conjunções adversativas|Separar conjunções adversativas]]
+				6 - [[uso da virgula correto#6 – Isolar o vocativo|isolar o vocativo]]
+				7 - [[uso da virgula correto#7 – Isolar o aposto|Isolar o aposto]]
+				8 -  [[uso da virgula correto#8 – Isolar datas|Isolar datas]]
+				9 – [[uso da virgula correto#9 – Marcar zeugma|Marcar zeugma]]
+				10 - [[uso da virgula correto#10 – Separar as orações subordinadas adverbiais|Separar as orações subordinadas adverbiais]]
+				11 - [[uso da virgula correto#11 – Separar as orações subordinadas adverbiais deslocadas|Separar as orações subordinadas adverbiais deslocadas]]
+				12 - [[uso da virgula correto#12 – Separar adjuntos adverbiais deslocados|Separar adjuntos adverbiais deslocados]]
+				13 - [[uso da virgula correto#13 – objeto pleonástico antes do verbo|objeto pleonástico antes do verbo]]
+			quando não usar
+				1 - [[uso da virgula correto#1 – Não separar o sujeito do predicado|Não separar o sujeito do predicado]]
+				2 - [[uso da virgula correto#2 – Não separar o verbo do complemento|Não separar o verbo do seu complemento verbal]]
+		[[uso do ponto e virgula correta]]
+			1.Comparações ou contrastes
+			2.Enumerações
+			3.Orações coordenadas em um período extenso
+			4.Orações coordenadas adversativas e conclusivas
+			5.Orações de caráter 
+			distributivo
+			6.itens de uma enumeração
+			7.leis,setenças,decretos etc.
+			8.itens de artigo de lei
+		[uso do parênteses](https://mundoeducacao.uol.com.br/gramatica/parenteses.htm#:~:text=Os%20par%C3%AAnteses%20podem%20ser%20usados,nascimento%20e%20morte%20etc.)
+		[[uso do travessão]]
+			Discurso direto
+			Enfatizar termos
+		[[uso do dois-ponto]]
+			1. citação
+			2. enumeração
+			3. explicação
+			4. vocativo
+		[[uso das aspas]]
+			0. quando é usado aspas simples ?
+			1. citações
+			2. Destaque de termos ou expressões incomuns no idioma
+			3. Realce do significado de um termo ou expressão
+			4. Marcação de ironia ou sarcasmo
+			5.  pode substituir o travessão em diálogos
+			6. Indicação de títulos de obras
 GRAMÁTICA
 	Fonética
 		sílaba
@@ -455,6 +504,17 @@ GRAMÁTICA
 				o que são objetos indiretos ?
 					Objeto indireto é o complemento que se liga ao verbo transitivo através de preposição obrigatória (acredito **em** você, vou **à** escola, preciso **de** água)
 				indireto pleonástico
+			objeto indireto pleonástico objeto direto pleonástico
+				Objeto Indireto Pleonástico ou Objeto direto Pleonástico, O pleonasmo é uma figura de linguagem que consiste na repetição com a finalidade de enfatizar o discurso. Assim, **quando o objeto direto ou indireto é repetido a fim de reforçar a mensagem**, é chamado de objeto 
+				exemplo de direto
+					- **O** **presente**, Danilo **recebeu-o** no dia se seu aniversário.
+					- **Ao** **homem** mesquinho **basta-lhe** um burrinho. 
+					- **A mim**, ninguém **me** faz feliz.
+				exemplo de indireto
+					- ele preparou um bolo **para nós** , **para nós** mesmos
+					- Eles trouxeram flores **para a mãe**, **para a mãe** dela mesma.
+					- **Aos meus pais**, dedico-**lhes** este livro.
+					- **Para os meus amigos**, comprei-**lhes** estes presentes.
 		oração
 			[coordenada](https://www.todamateria.com.br/oracoes-coordenadas/)
 				sindéticas
@@ -1113,16 +1173,6 @@ GRAMÁTICA
 									- **Liberdade, Liberdade**! É isso que pretendemos nessa luta.
 									- **Nossa**! Como você conseguiu?
 									- **Minha Filha**! Que linda você está!
-		[uso da virgula(,)](https://www.todamateria.com.br/usos-da-virgula-aprenda-os-truques/)
-			para separrar elementos
-			depois do vocativo
-			entre o aposto
-			Depois dos advérbios “sim” e “não” como resposta
-			Na intercalação de texto
-			Nas **orações subordinadas adverbiais**
-			Nas orações subordinadas adjetivas explicativas
-			Na omissão de verbos
-			Acompanhando local e data
 INFORMÁTICA SIN
 	conceitos básicos da computação
 		o que é camada de abstração ?
@@ -1957,7 +2007,7 @@ INFORMÁTICA SIN
 					2.ele aprende os endereços físico dos nós e os associa ás suas portas para uso posterior
 					1.o que ele permite ? o que ele usa para receber , processar e encaminhar quardros ao dispostivo ou grupo de dispositivo? o que é comutação de pacotes ?
 					2.interconectar , comutação de pacotes para receber processar e encaminhar quadros
-				[[EAGS SIN/REDES DE COMPUTADORES/equipamento de redes/roteador|roteador]]
+				[[roteador|roteador]]
 					o que é um roteador ?
 						1.encaminha o que ?como ele faz isso? com base em que ? isso permite o que ?
 						2.um roteador atua como o que ? como o que por exemplo ? ele permite que ... tradução ... solitação de comunicação
