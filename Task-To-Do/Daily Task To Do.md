@@ -1,5 +1,1 @@
-- [x] Take the  Cooked Beans out of the freezer to thaw
-- [ ] To meditate 30 minutes 
-- [ ] Take the Garbage At 16:00AM
-- [ ] To meditate 30 minutes 
-- [ ] Take the Breaded Chicken or The Fish out of the freezer to thaw 
+- [ ] enviar mensagem para minha mãe perguntando se ela vai vim ou vai dormir no trabalho

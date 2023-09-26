@@ -9,34 +9,39 @@ TEXTO
 			quando usar
 				1 - [[uso da virgula correto#1- Separar elementos com a mesma função sintática|Separar elementos com a mesma função sintática]]
 				2 - [[uso da virgula correto#2- Separar orações intercaladas|Separar orações intercaladas]]
-				3 - [[uso da virgula correto#3- Separar orações adjetivas explicativas|Separar orações adjetivas explicativas]]
+				3 - [[uso da virgula correto#3- Separar orações adjetivas|Separar orações adjetivas]]
 				4 - [[uso da virgula correto#4 – Separar expressões explicativas|Separar expressões explicativas]]
 				5 - [[uso da virgula correto#5 – Separar conjunções adversativas|Separar conjunções adversativas]]
 				6 - [[uso da virgula correto#6 – Isolar o vocativo|isolar o vocativo]]
 				7 - [[uso da virgula correto#7 – Isolar o aposto|Isolar o aposto]]
-				8 -  [[uso da virgula correto#8 – Isolar datas|Isolar datas]]
-				9 – [[uso da virgula correto#9 – Marcar zeugma|Marcar zeugma]]
+				8 - [[uso da virgula correto#8 – Isolar datas|Isolar datas]]
+				9 - [[uso da virgula correto#9 – Marcar zeugma|Marcar zeugma]]
 				10 - [[uso da virgula correto#10 – Separar as orações subordinadas adverbiais|Separar as orações subordinadas adverbiais]]
 				11 - [[uso da virgula correto#11 – Separar as orações subordinadas adverbiais deslocadas|Separar as orações subordinadas adverbiais deslocadas]]
-				12 - [[uso da virgula correto#12 – Separar adjuntos adverbiais deslocados|Separar adjuntos adverbiais deslocados]]
+				12 - [[uso da virgula correto#12 – adjuntos adverbiais deslocados|Separar adjuntos adverbiais deslocados]]
 				13 - [[uso da virgula correto#13 – objeto pleonástico antes do verbo|objeto pleonástico antes do verbo]]
+				14 - [[uso da virgula correto#14 - Depois dos advérbios “sim” e “não”|Depois dos advérbios “sim” e “não”]]
 			quando não usar
 				1 - [[uso da virgula correto#1 – Não separar o sujeito do predicado|Não separar o sujeito do predicado]]
 				2 - [[uso da virgula correto#2 – Não separar o verbo do complemento|Não separar o verbo do seu complemento verbal]]
-		[[uso do ponto e virgula correta]]
-			1.Comparações ou contrastes
-			2.Enumerações
-			3.Orações coordenadas em um período extenso
-			4.Orações coordenadas adversativas e conclusivas
-			5.Orações de caráter 
-			distributivo
-			6.itens de uma enumeração
-			7.leis,setenças,decretos etc.
-			8.itens de artigo de lei
+		[[omissão da virgula alterando o sentido da frase]]
+		[[uso do ponto e virgula correto]]
+			1.[[uso do ponto e virgula correto#Comparações ou contraste|Comparações ou contrastes]]
+			2.[[uso do ponto e virgula correto#Enumerações mais detalhadas|Enumerações]]
+			3.[[uso do ponto e virgula correto#Orações coordenadas em um período extenso|Orações coordenadas em um período extenso]]
+			4.[[uso do ponto e virgula correto#Orações coordenadas adversativas e conclusivas|Orações coordenadas adversativas e conclusivas]]
+			5.[[uso do ponto e virgula correto#Orações de caráter distributivo|Orações de caráte distributivo]] 
+			9.[[uso do ponto e virgula correto#Separar diferentes significados de uma palavra|Separar diferentes significados de uma palavra]]
+			-- não devem cair
+			6.[[uso do ponto e virgula correto#Itens de uma enumeração|itens de uma enumeração]]
+			7.[[uso do ponto e virgula correto#Considerandos de leis, sentenças, decretos etc.|Considerano leis,setenças,decretos etc.]]
+			8.[[uso do ponto e virgula correto#itens de artigo de lei|itens de artigo de lei]]
 		[uso do parênteses](https://mundoeducacao.uol.com.br/gramatica/parenteses.htm#:~:text=Os%20par%C3%AAnteses%20podem%20ser%20usados,nascimento%20e%20morte%20etc.)
 		[[uso do travessão]]
-			Discurso direto
-			Enfatizar termos
+			[[uso do travessão#**→ Discurso direto**|Discurso direto]]
+			[[uso do travessão#**→ Enfatizar termos**|Enfatizar termos]]
+			[[uso do travessão#→ No lugar dos dois pontos , da virgula , dos parêntes.|No lugar dos dois pontos , da virgula , dos parêntes.]]
+			[[uso do travessão#→ Duplo travessão|Duplo travessão]]
 		[[uso do dois-ponto]]
 			1. citação
 			2. enumeração
@@ -50,22 +55,41 @@ TEXTO
 			4. Marcação de ironia ou sarcasmo
 			5.  pode substituir o travessão em diálogos
 			6. Indicação de títulos de obras
+	[[regras do acento agudo]]
+ORTOGRAFIA
+	QUANDO USAR **S** OU **Z**
+		[[quando usar o s]]
+			[[quando usar o s#**1 - Adjetivos com os sufixos -osa e -oso**|1 - Adjetivos com os sufixos -osa e -oso]]
+			[[quando usar o s#**2 - Palavras derivadas que têm S no radical**|2 - Palavras derivadas que têm S no radical]]
+			[[quando usar o s#**3 - Palavras que indicam origem, nacionalidade ou título e tenham os sufixos -ês e -esa**|3 - Palavras que indicam origem, nacionalidade ou título e tenham os sufixos -ês e -esa]]
+		    [[quando usar o s#**4 - Após ditongos**|4 - Após ditongos]]
+		    [[quando usar o s#**5 - Palavras que possuem sufixos de origem grega, como -ese, -isa, -osa**|5 - Palavras que possuem sufixos de origem grega, como -isa, -osa, -esa]]
+		[[quando usar o z]]
+			[[quando usar o z#**1 - Substantivos abstratos oriundos de adjetivos e com os sufixos -ez e -eza**|1 - Substantivos abstratos oriundos de adjetivos e com os sufixos -ez e -eza]]
+			[[quando usar o z#**2 - Palavras derivadas que têm Z no radical|2 - Palavras derivadas que têm Z no radical**]]
+			[[quando usar o z#**3 - Palavras derivadas com sufixos -zal, -zeiro, -zinho, -zinha, -zita, -zito**|3 - Palavras derivadas com sufixos -zeiro, -zinho, -zito , -zita , -zinha -zal, ]]
+			[[quando usar o z#**4 - Palavras com os sufixos -ização em substantivos e -izar em verbos**|4 - Palavras com os sufixos -ização em substantivos e -izar em verbos]] 
+	acentuação gráfica
+		[uso correto dos porquês](https://www.todamateria.com.br/uso-do-por-que-porque-por-que-e-porque/)
+		[[regras do acento agudo]]
 GRAMÁTICA
 	Fonética
 		sílaba
 			o que são sílabas tônicas e o que são sílabas átonas ?
 				a silaba atona é a silaba com maior intensidade podem haver apenas uma , e o restante das silabas então seria silabas átonas
 		separação sílábica
-			classificação de sílabas quanto ao numero de sílabas 
-				monossílaba - 1
-				dissílaba - 2
-				trissílaba - 3
-				polissílaba - 4 ou mais
+			![[Pasted image 20230917212314.png]]
 		encontro vocálicos
 			classificação
-				hiato - vogal + vogal
-				ditongo - vogal + semivogal
-				tritongo - semivogal + vogal + semivogal
+				hiato - vogal + vogal (na mesma silaba ou em silaba diferentes)
+				ditongo - vogal + semivogal (nem sempre nessa ordem)
+				tritongo - semivogal + vogal + semivogal (sempre nessa ordem)
+				[ditongo oral e nasal](https://www.normaculta.com.br/ditongo-oral-e-ditongo-nasal/#:~:text=Os%20ditongos%20nasais%20s%C3%A3o%20sempre,ui%20(apenas%20em%20muito).)
+					**Exemplos de ditongos orais**:  
+					ai, ia, iu, ui, eu, éu, ue, ei, éi, ie, oi, ói, io, au, ua, ao, oa, ou, uo, oe, eo, ea.
+					**Exemplos de ditongos nasais**:   
+					ão, ãe, õe, ãi, am, an, em, en, ui (apenas em muito). 
+				[[ditongo aberto e fechado]]
 		encontros consonatais
 			encontro consonantal  perfeito
 				as consoantes ficam na mesma sílaba na palavra
@@ -75,8 +99,6 @@ GRAMÁTICA
 				as consoantes ficam na mesma silaba e em silabas diferentes na palavra
 		tonicidade
 			palavras com acentos que podem cair na prova 
-		acentuaçãográfica
-		ortografia.
 	Morfologia
 		processos de formação de palavras
 			processo de derivação
@@ -149,11 +171,12 @@ GRAMÁTICA
 								- Claraboia - Claraboias
 							com o hiffen
 								palavras unidas por hífen
-									podem ir para o plural todos ou apenas um deles se não forem palavras invariaveis ou verbos
+									podem ir para o plural todos ou apenas um deles se forem palavras invariaveis ou verbos
 									1. Decreto-lei - decretos-leis
 									2. Grão-mestre - grão-mestres
 									3. Bate-boca - bate-bocas
 									4. Abaixo-assinado - abaixo-assinados
+									5. blusas azul-turquesa
 								substantivos compostos ligados por preposições
 									o somente o primeiro elemento vai para o plural
 									1. Água-de-colônia - águas-de-colônia
@@ -230,9 +253,21 @@ GRAMÁTICA
 								geralmente ele é feita com o auxilio de um adverbio
 								exemplo : o menino é o mais atencioso
 								exemplo: o menino é muito atencioso
-							sintético
-								geralmente terminam com o sufixo -issimo
-								exemplo : o antonio é belissimo
+							superlativo absoulto sintético
+								[regras da conjugação do superlativo absoltuto sintético](https://mundoeducacao.uol.com.br/gramatica/grau-superlativo-absoluto-sintetico.htm)
+									-a , -e , -o
+										perdem a vogal
+									-vel
+										mudam o final para bil
+									-m e -aõ
+										-m muda para -n
+										-ão muda para -an
+									-z
+										muda para -c	
+									-u , -r
+										esses não tem sua forma alterada
+									-l
+										se acrecenta o -imo(a)
 				locução adjetiva
 					a locução adjetiva é composta por duas ou mais palavras que juntas tem o valor de um único adjetivo. exemplo : “dona de casa”), adjetiva (“de amigo”), pronominal (“seja quem for”) e adverbiais (“à esquerda” e “de manhã”).
 			advérbio
@@ -390,7 +425,7 @@ GRAMÁTICA
 						voz passiva
 						voz passiva analítica
 							como é formado a voz passiva analítica ?
-								Sujeito paciente + verbo auxiliar + verbo pricipal + agente da passiva
+								Sujeito paciente + verbo auxiliar + verbo pricipal + preposição + agente da passiva
 								exemplos:
 									 - O café da manhã foi tomado por Bia logo cedo.
 									 - A casa toda foi aspirada por nós.
@@ -441,24 +476,19 @@ GRAMÁTICA
 				o que é um pronome ?
 					Os pronomes são palavras que indicam pessoas do discurso, posse e posições. Eles acompanham ou substituem os substantivos.
 				tipos de pronomes
-					pessoais (neles se incluem os pronomes de tratamento)
-						o que são pronomes pessoais ?
-							os pronomes pessoais são aqueles que indicam o sujeito ou complemento da oração
-						pronomes pessoais do caso oblíquo
-							Pronomes pessoais do CASO OBLÍQUO - substituem os substantivos e complementam os verbos. 
-							exemplos:
-								- Está **comigo** seu caderno. (Com quem está o caderno? Comigo. Note que para além de identificar quem tem o caderno, o pronome auxilia o verbo “estar”.)
-								- A carta? Fechei-**a** e coloquei no correio. (Fechei a carta, ou seja, o pronome "a" completa o sentido do verbo.)
-								- Deu-**lhe** um abraço. (Deu um abraço em alguém, ou seja, o pronome "lhe" completa o sentido do verbo.)
-						pronomes pessoais do caso reto
-							explicação
-								Pronomes pessoais do CASO RETO - exercem a função de sujeito.
-								exemplo : **Eles** saíram? (Quem saiu? Eles.)
+					[pessoais (neles se incluem os pronomes de tratamento)](https://www.todamateria.com.br/pronomes-obliquos/#:~:text=Os%20pronomes%20pessoais%20do%20caso,%2C%20lhes%2C%20eles%2C%20elas.)
+						![[Pasted image 20230915212011.png]]
+						1.Quando seguidos de verbos que terminam em **–z**, **-s** ou **–r**, os pronomes **o**, **a**, **os**, **as** assumem as formas **lo**, **la**, **los**, **las**. Neste caso, a terminação verbal é retirada: faz + o = fá-lo, comes + os = comê-los, estudar + a = estudá-la.
+						Mas, quando seguidos de verbos que terminam em som nasal **-m , -n , til**, os pronomes assumem as formas **no**, **na**, **nos**, **nas**: leram + o = leram-no, retém + a = retém-na, põe + os = põe-nos, ouvem + as = ouvem-nas.
+						2.- Eles me respeitam. (respeitar alguém - objeto direto)
+						- Entregaram-te o documento ontem. (entregar a alguém - objeto indireto)
+						- Digam-nos a verdade. (dizer a alguém - objeto indireto)
 					possesivos
 					desmonstrativos
 					indefinidos
 					relativos
 					interrogativos
+				[[8 erros com pronomes pessoais]]
 			palavras invariveis
 				os advérbios , as preposições , conjuções e as interjeições
 		[colocação pronominal](https://www.todamateria.com.br/colocacao-pronominal/)
@@ -468,6 +498,7 @@ GRAMÁTICA
 			mesóclise
 			ênclise
 				e) Queria lhe dizer que não posso ir à reunião de amanhã.
+		[[tempo composto]]
 	Sintaxe
 		verbos transitivos
 			o que são verbos transitivos ?
@@ -533,10 +564,12 @@ GRAMÁTICA
 				[substantivas](https://mundoeducacao.uol.com.br/gramatica/oracao-subordinada.htm)
 				[adjetivas](https://mundoeducacao.uol.com.br/gramatica/oracao-subordinada.htm)
 				Diferença entre adjetivas explicativas e substantivas apositivas
-					**Aposto:**
+					[Aposto](https://www.portugues.com.br/gramatica/o-aposto-suas-diferentes-classificacoes.html):
 						1. Minha amiga **Maria** visitou a cidade.
 						2. O autor do livro, **um renomado escritor**, estará presente no evento.
 						3. Meu cachorro, **um labrador preto**, adora brincar no parque.
+						eags exercicios
+							38 – Em todas as alternativas há aposto, exceto em uma. Assinale-a. a) Aqui está a mercadoria perdida: batata, cebola e alho. b) O poeta Mário de Andrade participou da Semana de Arte Moderna. c) Tiradentes, que fica em Minas Gerais, é a mais simpática das cidades históricas. d) Ouro Preto, a antiga Vila Rica do período da mineração, recebe milhares de visitantes todos os anos.
 					**Oração Subordinada Adjetiva Explicativa:**
 						1. A aluna **que estava na biblioteca** é minha colega de classe.
 						2. O filme **que ganhou o prêmio de Melhor Filme** é uma obra-prima.
@@ -556,6 +589,8 @@ GRAMÁTICA
 							Choveu muito a fim de que a plantação ficasse destruída e pudéssemos replantar com melhores técnicas.
 						causal
 							Como choveu muito, a plantação ficou destruída porque as raízes não conseguiram absorver a água adequadamente.
+						conformativa
+							- Apesar de ter avançado nas técnicas de embelezamento, a medicina estética ainda não criou, para combater a celulite, uma fórmula que solucione definitivamente o problema. **Segundo indicam pesquisas realizadas em alguns países**, esse depósito de gordura no tecido subcutâneo sempre foi um dos maiores inimigos das mulheres.
 					cada tipo explicado
 						1. **Causal**: Essas orações indicam uma causa ou motivo para a ação da oração principal. Geralmente começam com palavras como "porque", "como", "uma vez que", "visto que". Exemplo: "Como choveu muito, a plantação ficou destruída."
 						2. **Concessiva**: Essas orações expressam uma concessão, ou seja, uma ideia contrária à da oração principal. Elas geralmente começam com palavras como "embora", "mesmo que", "apesar de". Exemplo: "Embora chovesse muito, a plantação ficou destruída."
@@ -572,6 +607,7 @@ GRAMÁTICA
 				adjetivas
 					explicativas
 					restritivas
+						- “Quantas vezes deixamos de receber bênçãos que nos são dadas
 				adverbiais
 					causais
 					comparativas
@@ -611,7 +647,7 @@ GRAMÁTICA
 							3.  memorização
 									1.3AP sem citar substantivo
 									2.3as(intrasitivo|indireto|ligação) + se , sem citar um substantivo 
-									3.pronome obliquo + 3as , sem citar um substantivo 
+									3.3as + pronome obliquo , sem citar um substantivo 
 									4. fazer - sent...de tempo decorrido
 						inexistente
 							como identificar o sujeito inexistente
@@ -634,26 +670,13 @@ GRAMÁTICA
 							composto
 								Quando o verbo principal de uma frase faz referência a dois ou mais núcleos do sujeito, temos um sujeito composto.
 							oculto/desinencial/elíptico/implícito/subentendido			
-				predicado
-					o que é o predicado ?
-						após identificar o sujeito da ação todo o restante é o predicado
-							frase : Lúcia correu no final da semana passada.
-							sujeito da ação: Lúcia
-							predicado : correu no final da semana passada.
-					[predicado verbal](https://www.todamateria.com.br/predicado-nominal/)
-					[predicado nominal](https://www.todamateria.com.br/predicado-nominal/)
-					[predicado verbo-nominal](https://www.todamateria.com.br/predicado-verbo-nominal/)
+				[[predicado]]
 			termos intergrantes
 				complemento nominal
-					o complemento nominal se liga ao substantivo,adjetivo ou advérbio por intermédio de uma preposição
-					exemplo 1 :
-						A mulher tinha necessidade de medicamentos.  
-						Nome (substantivo): necessidade.  
-						Complemento nominal: de medicamentos.
-					exemplo 2:
-						Esta conduta é prejudicial à saúde.  
-						Nome (adjetivo): prejudicial.  
-						Complemento nominal: à saúde.
+					o complemento nominal se liga ao substantivo,adjetivo ou advérbio por intermédio de uma preposição ele completa o sentido de um substantivo , adjetivo ou advérbio
+					- A extinção **de grandes áreas de vegetação** no Brasil ocorre, em muitos casos, devido a queimadas provocadas pelo próprio nativo.
+					- Durante o inverno, as pousadas de Maromba, Visconde de Mauá e Maringá ficam **cheias** de turistas
+					- Nós somos **alérgicas** a pelo de gato
 				complemento verbal
 					objeto direto
 					objeto direto preposicionado
@@ -709,148 +732,16 @@ GRAMÁTICA
 							- **Chega de** fofocas!
 							- **Basta de** gritos.
 				adjunto adnominal
-					O Adjunto adnominal tem a função de caracterizar e determinar um substantivo . É um termo acessório, pois apesar de ser importante na transmissão de uma mensagem, a sua remoção de uma oração não interfere na sua estrutura sintática.
+					Adjunto adnominal é o termo acessório da oração que indica uma qualidade do substantivo. Isso pode ser feito através de artigos, adjetivos , pronomes possesivos e outros elementos que desempenhem a função adjetiva.
 					exemplo
 						- **Os** alunos **calados** estiveram atentos.
 						- **Os** funcionários **da recepção** continuaram calados.
-			exemplos
+						- **A** tecnologia facilita **nossa** vida e carreira profissional.
+						- Em apartamentos **de fundos**, a vista são **as** janelas ao redor.
+						- Na cidade de Manaus (de Manaus não seria porque não indica qualidade mais sim localização do substantivo) , o clima **quente** às vezes castiga a população 
 		concordância verbal e nominal
-			concordância verbal
-				sujeito coletivo
-					não especificado
-						3as
-						-
-					especificado
-						3as ou 3ap , o verbo pode ser conjugado no singular ou plural 
-						-
-				coletivos partitivos
-						3as ou 3ap
-					exemplo de coletivos partitivos
-						"a maioria de", "a maior parte de", "grande número de"
-				"Mais de","Menos de","Cerca de"
-					indicando reciprocidade
-						3ap
-						- Mais de uma professora se abraçaram.
-						- Mais de um funcionário se ajudaram.
-					não indicando reciprocidade
-						o verbo concorda com o numeral
-						- **Mais de uma mulher quis** trocar as mercadorias.
-						- **Mais de duas pessoas chegaram** antes do horário.
-				nomes próprios
-					tenho que considerar  a presença de artigo
-				pronome relativo "que"
-					con...antecedente
-				pronome relativo "quem"
-					con...antecedente ou núcleo mais próximo
-						- Fui **eu quem 
-							- afirmou**.
-						- Fui **eu quem 
-							- afirmei**.
-				expressão "um dos que"
-					3as ou 3ap
-				sujeito composto formado por sinônimos
-					3as ou núcleo mais próximo
-					- **Preguiça e lentidão destacaram** aquela gerência.
-					- **Preguiça e lentidão destacou** aquela gerência.
-				sujeito formado por palavras em graduação e enumeração
-					3ap ou con...nmp 
-					- **Um mês, um ano, uma década de poder não supriu** a saúde.
-					- **Um mês, um ano, uma década de poder não supriram** a saúde.
-				sujeito formado por pessoas gramaticas diferentes
-					 con... o menor nivel gramatical e ele vai para o plural 
-				    - **Eu, tu e Cássio só chegaremos** ao fim da noite.  
-				    (eu, 1.ª pessoa + tu, 2.ª pessoa + ele, 3.ª pessoa), ou seja, a 1.ª pessoa do singular tem prioridade e, no plural, ela equivale a nós, ou seja, "nós chegaremos".
-				sujeitos ligados por "ou"
-					se refere a um elemento
-						3as
-					se refere a todos os elementos
-						3ap
-				sujeito ligados por "nem"
-					3ap
-					- **Nem chuva nem frio são** bem recebidos.
-				sujeito ligados por "com"
-					"com" com sentido de e
-						3ap
-					"com" representando "em companhia de"
-						antecedente + segmento grafado 
-						o verbo concorda com o antecedente e o segmento "com" é grafado entre vírgulas
-				sujeito ligados por "não só, mas também", "tanto, quanto", "não só, como"
-					3ap ou nmp
-					- **Tanto Rafael como Marina participaram** da mostra.
-					- **Tanto Rafael quanto Marina participou** da mostra.
-					- **Não só Rafael** como **Marina participou** da mostra
-				particula "se"
-					indice de indeterminação do sujeito
-						3as
-					particula apassivavdora
-						con...sujeito
-				verbos impessoais
-					haver - com sentido de existir , fazer - com sentido de tempo decorrido , verbos de fenômenos naturais
-						o verbo é conjugado na 3 pessoa do singular 
-				"sujeito seguido por tudo", "nada", "ninguém", "nenhum", "cada um"
-					o verbo fica no singular
-				sujeito ligado por "como", "assim como", "bem como"
-					o verbo é conjugado no plural
-				locuções "é muito", "é pouco", "é mais de", "é menos de"
-					indicando preço , peso e quantidade
-						o verbo fica no singular
-				verbo "dar", "soar" e "bater" + hora(s)
-					- **Deu uma hora** que espero.
-					- **Soaram duas horas**.
-					o verbo deve concordar com a indicação numérica da data
-				concordância na indicação de data
-					o verbo deve concordar com a indicação númerica da data
-				quando o verbo infinitvo impessoal não deve ser flexionado
-					quando tem valor de substantivo
-					quando têm valor imperativo
-					quando são os verbos principais de uma locução verbal
-					exemplo: íamos sair quando você chegou
-					quando são regidos por preposições Começamos a cantar.
-			concordância nominal
-				substantivo  e adjetivo
-					um substantivo e um adjetivo antes
-						O adjetivo deve concordar em gênero e número com o substantivo.
-					2 ou mais substantivo e um adjetivo antes
-						o adjetivo deve concordar com o mais próximo , mas se os substantivo forem nomes próprios o adjetivo deve ficar no plural 
-						- Que **bonita pintura e poema**!
-						- Que **bonito poema e pintura**!
-						mas se os substantivo forem nomes próprios o adjetivo deve ficar no plural :
-						- As **encantadoras Clarice e Cecília Meireles** pertencem ao Modernismo.
-					2 ou mais substantivo e um adjetivo depois
-						o adjetivo deve concordar com o mais próximo ou com todos eles
-						- Que **poema e pintura bonita**!
-						- Que **pintura e poema bonitos**!
-					2 ou mais adjetivos e um substantivo antes
-						se coloco o artigo antes do último adjetivo
-						ou-se coloca o substantivo e o artigo que o antecede no plural
-						- Adoro **a comida** italiana e **a** chinesa.
-						- Adoro **as comidas** italiana e chinesa.
-				números ordinais
-					sujeito composto como números ordinais antes do substantivo
-						substantivo pode ser usado tanto no singular como no plural
-						- A segunda e a terceira **casa**.
-						- A segunda e a terceira **casas**.
-					sujeito composto como números ordinais depois do substantivo
-						o substantivo fica no plural
-						- **As casas** segunda e terceira.
-				anexo , bastante , meio menos , é proibido , é bom , é necessário
-					anexo , bastante , meio
-						com função de adjetivo
-							concordam com em gênero e em número
-							- Recebemos **bastantes telefonemas**.
-							- Venderam **bastantes produtos**.
-						com fução de advérbio
-							a palavra não varia
-					menos
-						a palavras não varia
-					É proibido, é bom, é necessário
-						as expressões não variam a não ser que sejam acompanhdas de determinantes 
-						- É proibido entrada.
-						- É **proibida a** entrada.
-						- Verdura é bom.
-						- **A** verdura é **boa**.
-						- Paciência é necessário.
-						- **A** paciência é **necessária**.
+			[[concordância verbal]]
+			[[concordância nominal]]
 		regência verbal e nominal
 			o que é um termo regente ?
 				é aquele que exige um complemento para ter determinado sentido
@@ -964,11 +855,13 @@ GRAMÁTICA
 							Não tenho **dúvidas de que** ele chegará breve
 			crase
 				1)regras de quando usar crase
+					a crase so deve ser usada após o verbo
+						-  Durante a conversa, tudo foi dito às claras.
 					**antes de palavras femininas**
 						- Fui à escola.
 						- Fomos à praça.
 						- Você vai à padaria agora?
-					**acompanhadas de verbos que indicam destino**(ir, voltar,vir)
+					**após verbos que indicam destino**(ir, voltar,vir)
 						- Vou à padaria.
 						- Fomos à praia.
 						- Voltei à loja e fui bem atendido.
@@ -977,9 +870,23 @@ GRAMÁTICA
 						- **À medida** que o tempo passa as amizades aumentam.
 						- Veja, isto foi feito **às pressas**!
 					**antes dos pronomes demonstrativos aquilo**, aquela,aquele
-						- No verão, voltamos àquela praia.
-						- Refere-se àquilo que aconteceu ontem na festa.
+						- No verão, voltamos àquela(à + aquela) praia.
+						- Refere-se à aquilo que aconteceu ontem na festa.
 						- Vou àquele lugar hoje.
+					**junção com preposição mais artigo**
+						**À**  
+							Usamos “à” quando estamos nos referindo ao lugar.  
+							– Irei à faculdade hoje pois tenho prova.  
+							– Todos os trabalhadores foram à reunião após o expediente.
+							Quando nos referimos ao objeto indireto ou complemento nominal.  
+							– Eu disse à supervisora que não saberia fazer o serviço.  
+							– Ele não chegará à sua casa à hora marcada.
+							Vale lembrar que a contração “à” antecede sempre uma palavra feminina. A junção da preposição “a” ao artigo “o”, torna-se “ao” (a+o=ao).  
+							– Vou chegar ao trabalho atrasada hoje.
+						**A**  
+							Sempre que indicamos tempo futuro, usamos a preposição “a” sem contração com o artigo definido feminino “a”, ou seja, sem crase.  
+							– Daqui a 10 minutos chego aí.  
+							– Vou te encontrar na sede daqui a pouco.
 					antes da locução "à moda de" quando ela estiver subentendida
 						- Veste roupas à (moda de) Luís XV.
 						- Dribla à (moda de) Pelé.
@@ -988,6 +895,7 @@ GRAMÁTICA
 						- Termino meu trabalho às cinco horas da tarde.
 						- Saio da escola às 12h30.
 						- Entro à uma.
+						- À zero hora precisamente, seria divulgado o gabarito das provas.
 						mas quando acompanhdo de preposições como (para,desde,após,perante,com) não se utiliza crase
 							- Ficamos na reunião desde as 12h.
 							- Chegamos após as 18h.
@@ -1017,6 +925,7 @@ GRAMÁTICA
 					antes dos pronomes possesivos
 						mandou presentes de natal á sua família. ou mandou presentes de natal a sua famila.
 						! Lembre-se que não se usa crase antes do maior parte dos pronomes.
+				[as vezes ou ás vezes](https://mundoeducacao.uol.com.br/gramatica/as-vezes-ou-as-vezes.htm)
 			regência nominal
 				horror
 					horror rege a preposição a

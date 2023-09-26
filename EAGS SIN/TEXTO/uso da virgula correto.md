@@ -1,20 +1,4 @@
-quando usar
-	1 - Separar elementos com a mesma função sintática
-	2 - Separar orações intercaladas
-	3 - Separar ,orações adjetivas explicativas,
-	4 - Separar [[expressões explicativas]]
-	5 - Separar conjunções
-	6 - Isolar o vocativo
-	7 - Isolar o aposto
-	8 -  Isolar datas
-	9 – Marcar zeugma
-	10 - Separar as orações subordinadas adverbiais
-	11 - Separar as orações subordinadas adverbiais deslocadas
-	12 - Separar adjuntos adverbiais deslocados
-	13 - Separar termos que desejamos destacar
-quando não usar
-	1 - Não separar o sujeito do predicado
-	2 - Não separar o verbo do complemento ^b55b09
+
 ### 1- Separar elementos com a mesma função sintática
 
 Substantivos do sujeito composto:
@@ -43,7 +27,7 @@ A vírgula pode ser usada para separar orações que se intercalam dentro de uma
 
 ==A saída, pontuou o presidente, é investir na base da educação.
 
-### 3- Separar orações adjetivas explicativas
+### 3- Separar orações adjetivas
 
 Coloca-se a vírgula antes e após a oração subordinada adjetiva explicativa, como:
 
@@ -109,7 +93,10 @@ Rua dos Jacarandás, 345.
 
 Zeugma é um tipo de elipse utilizado para não se repetir termos de uma oração. Para indicá-la é preciso utilizar uma vírgula no lugar do termo não repetido, como no exemplo:
 
-Eu gosto de futebol; Maria, de volêi.
+- Eu gosto de futebol; Maria, de volêi.
+- “_O colégio compareceu fardado; a diretoria, de casaca_.” (Raul Pompeia)
+- “_Um deles queria saber dos meus estudos; outro, se trazia coleção de selos._” (José Lins do Rego).
+- “_A vida é um grande jogo e o destino, um parceiro temível._” (Érico Veríssimo)
 
 No exemplo anterior, a oração omite o verbo “gostar”. Para marcar tal ação, utiliza-se a vírgula.
 
@@ -154,6 +141,16 @@ Emprega-se a vírgula quando você usar algum [[objeto pleonástico]] antes do v
 Aos pais, nada lhes foi solicitado.
 
 O salário, o patrão se recusava a pagá-lo.
+
+### 14 - Depois dos advérbios “sim” e “não”
+
+A vírgula é usada após esses advérbios quando eles iniciam uma oração que atue como resposta.
+
+**Exemplo:**  
+Sim, estamos satisfeitos com os resultados.
+
+
+
 
 ## Quando não usar a vírgula
 

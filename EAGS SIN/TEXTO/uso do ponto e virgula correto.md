@@ -10,7 +10,10 @@ Participaram do debate Amanda F., doutora em Linguística; Ricky J., doutor em L
 O ponto e vírgula também é usado para separar:
 
 ### Orações coordenadas em um período extenso
-Conseguimos, depois de muita insistência, a aprovação do projeto de lei em favor dos povos indígenas; lutamos também pela punição dos responsáveis pelo massacre ocorrido nas terras demarcadas.
+- Conseguimos, depois de muita insistência, a aprovação do projeto de lei em favor dos povos indígenas; lutamos também pela punição dos responsáveis pelo massacre ocorrido nas terras demarcadas
+- “_Gosto de ler; minha irmã, de assistir a séries; nossa prima, de passeios ao ar livre._”
+
+Aqui, para evitar a repetição do verbo “gostar”, o uso de ponto e vírgula deixa subentendido que todos os sujeitos sentem prazer em fazer algo.
 
 
 Não pare agora... Tem mais depois da publicidade ;)
@@ -91,3 +94,12 @@ e) cruéis;
 […]."
 ```
 
+### Separar diferentes significados de uma palavra
+
+O ponto e vírgula está sendo utilizado nessa frase para separar diferentes partes da explicação ou definição da palavra "idoso". O autor está descrevendo várias nuances ou interpretações da palavra "idoso", e o ponto e vírgula ajuda a criar uma pausa mais significativa do que uma vírgula, indicando que as ideias a seguir estão relacionadas, mas são distintas.
+
+- Curiosa palavra: idoso, o que acumulou idade; também tem o
+sentido de quem se apega à idade, ou que a esbanja — como
+gostoso ou dengoso —, se é que não significa alguém que está
+indo, alguém em processo de ida, em contraste com os que
+ficam, os ficosos...
