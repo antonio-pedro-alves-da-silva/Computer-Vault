@@ -139,7 +139,9 @@ Porém, se o segundo adjetivo fizer referência a um substantivo, voltamos à re
   
 Os particípios concordarão com o substantivo a que se referirem.  
 Exemplos: 
-  
+
+- Foram **mortas** centenas de peixes em afluentes do Rio Tietê, em razão do excesso de poluição – concordância nominal correta, pois, na voz passiva, o particípio concorda em gênero e número com o sujeito.
+
 - Os livros foram comprados a prazo./ As mercadorias foram compradas a prazo.  
   
 Se o particípio pertencer a um [[tempo composto]], será invariável.

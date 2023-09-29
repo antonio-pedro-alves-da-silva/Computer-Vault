@@ -1,0 +1,2 @@
+- [x] colocar o file de peito em um pote para não estragar pela manhã
+- [ ] comprar o ovo com o carro do ovo

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "88b4e7338066bb7e",
+        "id": "aee7c104e1609a58",
         "type": "tabs",
         "children": [
           {
-            "id": "5e9c4ad8eef29a68",
+            "id": "8e94f985eb2b1c04",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a77ba5b48ccb55aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "crase.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EAGS SIN/EAGS SIN.md",
+                "file": "crase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EAGS SIN/EAGS SIN.md",
+                "file": "crase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EAGS SIN/EAGS SIN.md"
+                "file": "crase.md"
               }
             }
           },
@@ -159,17 +172,26 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "5e9c4ad8eef29a68",
+  "active": "a77ba5b48ccb55aa",
   "lastOpenFiles": [
-    "EAGS SIN/GRAMÁTICA/verbo de ligação.md",
     "EAGS SIN/EAGS SIN.md",
-    "EAGS SIN/GRAMÁTICA/predicado.md",
-    "EAGS SIN/GRAMÁTICA/concordância nominal.md",
-    "EAGS SIN/tempo composto.md",
-    "EAGS SIN/GRAMÁTICA/concordância verbal.md",
-    "EAGS SIN/GRAMÁTICA/pronome/8 erros com pronomes pessoais.md",
-    "Untitled.md",
+    "crase.md",
+    "EAGS SIN/GRAMÁTICA/colocação pronominal.md",
     "EAGS SIN/GRAMÁTICA/regras do acento agudo.md",
+    "EAGS SIN/GRAMÁTICA/concordância verbal.md",
+    "EAGS SIN/GRAMÁTICA/omissão da virgula alterando o sentido da frase.md",
+    "Untitled.canvas",
+    "EAGS SIN/GRAMÁTICA/pronome pessoais (neles se incluem os pronomes de tratamento).md",
+    "EAGS SIN/TEXTO/uso da virgula correto.md",
+    "EAGS SIN/GRAMÁTICA/concordância nominal.md",
+    "EAGS SIN/GRAMÁTICA/predicado.md",
+    "Task-To-Do/Task To Do.md",
+    "annotation-target.md",
+    "EAGS SIN/GRAMÁTICA/pronomes demonstrativos a(s) o(s).md",
+    "imagens/Pasted image 20230926180753.png",
+    "EAGS SIN/GRAMÁTICA/verbo de ligação.md",
+    "EAGS SIN/tempo composto.md",
+    "EAGS SIN/GRAMÁTICA/pronome/8 erros com pronomes pessoais.md",
     "EAGS SIN/GRAMÁTICA/ORTOGRAFIA/quando usar o s.md",
     "EAGS SIN/GRAMÁTICA/ditongo aberto e fechado.md",
     "Untitled 1.md",
@@ -182,16 +204,9 @@
     "EAGS SIN/GRAMÁTICA/oração",
     "EAGS SIN/GRAMÁTICA/ORTOGRAFIA/Untitled.md",
     "EAGS SIN/GRAMÁTICA/ORTOGRAFIA",
-    "EAGS SIN/GRAMÁTICA/omissão da virgula alterando o sentido da frase.md",
-    "EAGS SIN/TEXTO/uso do ponto e virgula correto.md",
-    "EAGS SIN/TEXTO/uso da virgula correto.md",
     "imagens/Pasted image 20230917212314.png",
     "imagens/Pasted image 20230915212011.png",
-    "EAGS SIN/TEXTO/uso do travessão.md",
     "EAGS SIN/GRAMÁTICA/pronome",
-    "Task-To-Do/Daily Task To Do.md",
-    "EAGS SIN/TEXTO/uso das aspas.md",
-    "EAGS SIN/TEXTO/uso do dois-ponto.md",
     "EAGS SIN/GRAMÁTICA/Morfologia/Sinxtaxe",
     "EAGS SIN/GRAMÁTICA/Morfologia",
     "EAGS SIN/GRAMÁTICA",
@@ -206,8 +221,6 @@
     "HTML import/Attachments",
     "sites/Homônimos e Parônimos - Toda Matéria_files/7graus-logo.svg",
     "sites/Homônimos e Parônimos - Toda Matéria_files/desktop-logo.png",
-    "sites/Homônimos e Parônimos - Toda Matéria_files/daniela-diana_36.jpg",
-    "Untitled.canvas",
     "Untitled 1.canvas"
   ]
 }

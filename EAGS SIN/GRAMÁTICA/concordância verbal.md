@@ -136,7 +136,10 @@ No caso em que a palavra "se" é partícula apassivadora, o verbo deve ser conju
 
 ### 16. Concordância com verbos impessoais
 
-Os verbos impessoais - haver, com sentido de existir, fazer, com sentido de tempo decorrido, e verbos que manifestam fenômenos naturais - sempre são conjugados na 3.ª pessoa do singular. Exemplos:
+Os verbos impessoais - 
+haver, com sentido de existir, 
+fazer, com sentido de tempo decorrido, 
+e verbos que manifestam fenômenos naturais - sempre são conjugados na 3.ª pessoa do singular. Exemplos:
 
 - **Havia muitos copos** naquela mesa.
 - **Houve dois meses** sem mudanças.

@@ -2,6 +2,7 @@
 
 
 É aquele que é formado por um [[verbo de ligação]] + [**predicativo do sujeito**].
+aquele que tem como **núcleo um nome** (substantivo ou adjetivo).
 
 
 |   |   |   |
@@ -20,6 +21,7 @@
 
   
 é aquele que é formado por verbo transitivo ou intrasitivo+ complemento
+é aquele que tem como núcleo o verbo
 
 
 |   |   |   |

@@ -1,1 +1,0 @@
-- [ ] enviar mensagem para minha mãe perguntando se ela vai vim ou vai dormir no trabalho
