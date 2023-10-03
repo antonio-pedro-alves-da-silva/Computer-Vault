@@ -110,25 +110,29 @@ Pode-se empregar a vírgula para separar orações subordinadas adverbiais, como
 - O ladrão chegou à noite, assustando os moradores.
 - Porém, o uso quando a oração subordinada vem depois da principal não é o mais comum.
 
-### 11 – Separar as [[orações subordinadas adverbiais deslocadas]]
+### 11 – Separar as [[orações subordinadas adverbiais deslocadas]] , Adjuntos adverbiais deslocados , Predicativo do sujeito deslocado
 
-Deve-se usar a vírgula após as orações subordinadas deslocadas, tanto desenvolvidas quanto reduzidas. Confira:
+#### **orações subordinadas adverbiais**
 
-Quando o prazo for encerrado, ninguém mais poderá se inscrever.
+- Quando o prazo for encerrado, ninguém mais poderá se inscrever.
 
-Encerrado o prazo, ninguém mais poderá se inscrever.
+- Encerrado o prazo, ninguém mais poderá se inscrever.
 
-### 12 – adjuntos adverbiais deslocados
+- assim que chegou à casa dela , Abraçou a avó.
+#### adjuntos adverbiais
 
-Deve-se usar a vírgula para separar os adjuntos adverbiais dos mais diversos tipos. Veja:
+- Quem diria que, **aos poucos**, eles mudariam seus hábitos.
 
-Quem diria que, **aos poucos**, eles mudariam seus hábitos.
+- **Depois de** assistir ao filme, fomos comer.
 
-**Depois de** assistir ao filme, fomos comer.
+- **Porém**, quando o adjunto adverbial tiver menos de quatro palavras, pode-se omitir a vírgula, como:
 
-**Porém**, quando o adjunto adverbial tiver menos de quatro palavras, pode-se omitir a vírgula, como:
+- **Dentro de** casa eles mal(advérbio de modo) se viam.
 
-**Dentro de** casa eles mal(advérbio de modo) se viam.
+#### predicativo do sujeito
+
+- Satisfeita , Maria sorria
+
 
 ### 13 – objeto pleonástico antes do verbo
 
@@ -144,6 +148,7 @@ A vírgula é usada após esses advérbios quando eles iniciam uma oração que 
 
 **Exemplo:**  
 Sim, estamos satisfeitos com os resultados.
+
 
 
 

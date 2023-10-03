@@ -106,7 +106,7 @@ Quando os sujeitos são ligados por "nem", o verbo vai para o plural. Exemplos:
 - **Nem futebol nem natação são** os seus esportes preferidos.
 
 ### 13. Concordância com o sujeito ligado por "com"
-Quando o sujeito composto for ligado por com, o verbo fica ou no singular ou no plural, dependerá da ênfase que se quer dar: ou a algum dos núcleos do sujeito ou aos dois.
+Quando o sujeito composto for ligado por com, o verbo fica ou no singular(é usado virgula) ou no plural, dependerá da ênfase que se quer dar: ou a algum dos núcleos do sujeito ou aos dois.
 
 - O prefeito com seus assessores fizeram uma boa campanha.
 - O prefeito, com seus assessores, fez uma boa campanha."

@@ -19,7 +19,7 @@ Quando há mais do que um substantivo, e o adjetivo vem depois dos substantivos,
 
 - Que **pintura e poema bonito**!
 - Que **poema e pintura bonita**!
-- Que **pintura e poema bonitos**!
+- Que **pintura e poema bonitos**! ^dd4a8e
 - Que **poema e pintura bonitos**!
 
 ### 2. Concordância entre substantivo e mais do que um adjetivo
@@ -62,7 +62,7 @@ Mas, a expressão "em anexo" não varia. Exemplos:
 - Segue **em anexo o recibo**.
 - Segue **em anexo a fatura**.
 
-#### Bastante(s)
+#### Bastante(s) , Meio , Só , Sós
 
 Quando tem a função de adjetivo, a palavra "bastante" deve concordar em gênero e número com o substantivo. Exemplos:
 
@@ -74,8 +74,6 @@ Quando tem a função de advérbio, a palavra "bastante" não varia. Exemplos:
 - Eles **cantam bastante** bem.
 - Fomos **bastante amigos**.
 
-#### Meio
-
 Quando tem a função de adjetivo, a palavra "meio" deve concordar em gênero e número com o substantivo. Exemplos:
 
 - Atrasado, tomou **meio copo** de leite e saiu correndo.
@@ -86,6 +84,11 @@ Quando tem a função de advérbio, a palavra "meio" não varia. Exemplos:
 - Ele é **meio maluco**.
 - Ela é **meio maluca**.
 
+Quando adjetivos, serão variáveis, quando advérbios, serão invariáveis.  
+Exemplos:  
+  
+- **A criança** ficou **só**./ **As crianças** ficaram **sós**. (adjetivo)  
+- Depois da briga, **só** restaram copos e garrafas quebrados. (advérbio)
 #### Menos , Alerta
 
 A palavra "menos" e "alerta" não variam. Exemplos:
@@ -106,13 +109,13 @@ As expressões "é proibido, é bom, é necessário" não variam, a não ser que
 - Paciência é necessário.
 - **A** paciência é **necessária**.
 
-### **Só, sós**  
-  
-Quando adjetivos, serão variáveis, quando advérbios, serão invariáveis.  
-Exemplos:  
-  
-- **A criança** ficou **só**./ **As crianças** ficaram **sós**. (adjetivo)  
-- Depois da briga, **só** restaram copos e garrafas quebrados. (advérbio)
+- **É necessário os** uniformes de inverno para **os** alunos este mês está incorreta devido a um erro na concordância nominal.(errado)
+
+- **É necessário** **o** uniforme de inverno para **os** alunos este mês.(correto)
+
+O verbo "é necessário" concorda com o substantivo "uniforme" no singular, e a preposição "para" é utilizada para indicar a quem se destina o uniforme, que no caso é "os alunos", que está no plural. Portanto, a concordância correta seria "o uniforme" (singular) e "os alunos" (plural).
+- 
+
 ### 5. Cores
 A concordância envolvendo cores gera muitas dúvidas. Na regra geral, as cores devem concordar com o substantivo a que se referem, quando são variáveis:
 
@@ -147,7 +150,7 @@ Exemplos:
 Se o particípio pertencer a um [[tempo composto]], será invariável.
 
 - O juiz tinha iniciado o jogo de vôlei./ A juíza tinha iniciado o jogo de vôlei.
-### Referências
+# Referências
 - https://www.todamateria.com.br/concordancia-nominal/
 - https://brasilescola.uol.com.br/gramatica/concordancia-nominal-regra-geral.htm
 - https://www.portugues.com.br/gramatica/concordancia-nominal-.html

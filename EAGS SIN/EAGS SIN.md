@@ -56,7 +56,11 @@ LINGUA PORTUGUESA
 				4. Marcação de ironia ou sarcasmo
 				5.  pode substituir o travessão em diálogos
 				6. Indicação de títulos de obras
-		[[regras do acento agudo]]
+		[[regras do acento gráfico]]
+		[[verbos de elocução]]
+		discurso
+			[[tipos de discurso]]
+			[[transposição de discurso]]
 	ORTOGRAFIA
 		QUANDO USAR **S** OU **Z**
 			[[quando usar o s]]
@@ -72,7 +76,11 @@ LINGUA PORTUGUESA
 				[[quando usar o z#**4 - Palavras com os sufixos -ização em substantivos e -izar em verbos**|4 - Palavras com os sufixos -ização em substantivos e -izar em verbos]] 
 		acentuação gráfica
 			[uso correto dos porquês](https://www.todamateria.com.br/uso-do-por-que-porque-por-que-e-porque/)
-			[[regras do acento agudo]]
+			[[regras do acento gráfico]]
+		Homônimos e Parônimos
+			Parônimos
+				eags-exercícios
+					36 – Leia: I- O governador de São Paulo recebeu ________ do presidente americano durante a ________ solene em homenagem aos países latinos. II- O temporal se anunciava, e o cheiro da destruição já era _________ naquele vilarejo repleto de _______ italianos. III- A ________ do meu cavalo Ventania foi escolhida a dedo por mim, bem como a longa manta que esconde um pequeno defeito em sua______ . Assinale a alternativa que completa correta e respectivamente as frases acima. a) cumprimentos – sessão / iminente – imigrantes / sela – cauda b) comprimentos – seção / eminente – imigrantes / cela – cauda c) comprimentos – secção / iminente – emigrantes / sela – calda d) cumprimentos – sessão / eminente – emigrantes / cela – calda
 	GRAMÁTICA
 		Fonética
 			sílaba
@@ -85,6 +93,7 @@ LINGUA PORTUGUESA
 					hiato - vogal + vogal (na mesma silaba ou em silaba diferentes)
 					ditongo - vogal + semivogal (nem sempre nessa ordem)
 					tritongo - semivogal + vogal + semivogal (sempre nessa ordem)
+						- deság**uam**
 					[ditongo oral e nasal](https://www.normaculta.com.br/ditongo-oral-e-ditongo-nasal/#:~:text=Os%20ditongos%20nasais%20s%C3%A3o%20sempre,ui%20(apenas%20em%20muito).)
 						**Exemplos de ditongos orais**:  
 						ai, ia, iu, ui, eu, éu, ue, ei, éi, ie, oi, ói, io, au, ua, ao, oa, ou, uo, oe, eo, ea.
@@ -118,6 +127,7 @@ LINGUA PORTUGUESA
 					classificação
 					flexão
 						número
+						csal
 							-vogal
 								acrecenta-se o -s
 							-r , -z
@@ -433,7 +443,7 @@ LINGUA PORTUGUESA
 										 - O trabalho foi feito por mim.
 							voz passiva sintética ou pronominal
 								como é formado a voz passiva sintética ?
-									verbo(3as) + se + sujeito paciente
+									verbo(3as pu 3ap) + se + sujeito paciente
 									exemplos:
 										- Tomou-se o café da manhã logo cedo.
 										- Aspirou-se a casa toda.
@@ -457,7 +467,7 @@ LINGUA PORTUGUESA
 								falir
 								abolir
 						anômalos 
-						abundantes
+						abundante
 				preposição
 					exemplos:
 						"a, ante, até, após, com, contra, de, desde, em, entre, para, perante, por, sem, sob, sobre, trás."
@@ -624,22 +634,12 @@ LINGUA PORTUGUESA
 						classificação do sujeito
 							determinado
 								Os sujeitos simples, compostos ou ocultos são sujeitos determinados.
-							indeterminado
-								o sujeito indeterminado não identifica o agente da ação
-								1. verbo na 3 pessoa do plural que não cita outro subtatnivo | Uso de um verbo na 3ª pessoa do plural que não se refere a nenhum substantivo citado anteriormente na oração. 
-										- Disseram que ele foi eleito.
-										- Capturaram o fugitivo.
-										- Falavam mal o tempo todo.
-								2. verbo (intransitivo|indireto|verbo de ligação) na 3 pessoa do singular + se , de modo que não indique o sujeito|Uso do pronome "se" e de um verbo intransitivo, transitivo indireto ou de ligação na 3ª pessoa do singular (de modo que não se consiga identificar quem pratica a ação).
-									- Acorda-se feliz (verbo intransitivo).
-									- Necessita-se de pessoas jovens (verbo transitivo indireto).
-									- Nem sempre se é justo nesse mundo (verbo de ligação).
-								3.  memorização
+							sujeito indeterminado
 										1.3AP(direto) sem citar substantivo
 										2.3as(intrasitivo|indireto|ligação) + se , sem citar um substantivo 
 										3.3as + pronome obliquo , sem citar um substantivo 
 										4. fazer - sent...de tempo decorrido
-							inexistente
+							sujeito inexistente
 								como identificar o sujeito inexistente
 									1. Verbos que indicam fenômenos da natureza: amanheceu, anoiteceu, choveu, nevou, ventou, trovejou.
 									2. Verbo haver quando empregado com sentido de existir, acontecer e indicando tempo decorrido.
@@ -729,6 +729,7 @@ LINGUA PORTUGUESA
 							- **A** tecnologia facilita **nossa** vida e carreira profissional.
 							- Em apartamentos **de fundos**, a vista são **as** janelas ao redor.
 							- Na cidade de Manaus (de Manaus não seria porque não indica qualidade mais sim localização do substantivo) , o clima **quente** às vezes castiga a população 
+				[[valores caracteristico de pronomes]]
 			concordância verbal e nominal
 				[[concordância verbal]]
 				[[concordância nominal]]
@@ -751,22 +752,7 @@ LINGUA PORTUGUESA
 							**lembrou-se de** que precisava voltar ao trabalho
 						esquecer
 				[[crase]]
-				regência nominal
-					horror
-						horror rege a preposição a
-						- horror a rato
-					furioso
-						furioso rege a preposição com
-						- furioso com alguem
-						- 
-					firme
-						rege a preposição em
-					coerentes
-						regido pela preposição a
-					desprezo
-						regido pela preposiça~a
-					alheios
-						regido pela preosição a
+				[[regência nominal]]
 			colocação pronominal
 				Próclise
 					na próclise o pronome é colocado antes do verbo por palavras que o atraem o pronome

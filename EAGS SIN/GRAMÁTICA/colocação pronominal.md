@@ -2,7 +2,7 @@
 
 Na próclise, o pronome é colocado antes do verbo. Isso acontece quando a oração contém palavras que atraem o pronome:
 
-**1**. Palavras que expressam negação tais como “não, ninguém, nunca”:
+**1**. Palavras que expressam negação tais como “não, ninguém, nunca”: ^80b766
 
 - **Não** o quero aqui.
 - **Nunca** o vi assim.
@@ -61,18 +61,18 @@ Na ênclise, o pronome é colocado depois do verbo. Isso acontece quando a oraç
 
 ## Colocação pronominal nas locuções verbais
 
-Nos exemplos acima existe apenas um verbo atraindo o pronome.
+### verbo principal no infinitivo ou no gerúndio 
 
-Agora, vejamos como ocorre a colocação do pronome nas locuções verbais. Lembrando que as regras citadas para os verbos na forma simples devem ser seguidas.
-
-**1**. Usa-se a ênclise depois do verbo auxiliar ou depois do verbo principal nas locuções verbais em que o verbo principal esteja no infinitivo ou no gerúndio:
+se usa a ênclise no o verbo auxiliar ou no o verbo principal
 
 - **Devo-lhe explicar** o que se passou. (ênclise depois do verbo auxiliar, “devo”)
 - **Devo explicar-te** o que se passou. (ênclise depois do verbo principal, “explicar”)
 
-**2**. usa-se a ênclise depois do verbo auxiliar em que o verbo principal esteja no particípio:
+### verbo principal no particípio
+
+se usa a ênclise no o verbo auxiliar
 
 - **Foi-lhe explicado** como deveria agir. (ênclise depois do verbo auxiliar, “foi”, uma vez que o verbo principal “explicar” está no particípio, “explicado”)
 - **Tinha-lhe feito** as vontades se não tivesse sido malcriado. (ênclise depois do verbo auxiliar, “tinha”, uma vez que o verbo principal “fazer” está no particípio, “feito”)
-### Referência
+# Referência
 - https://www.todamateria.com.br/colocacao-pronominal/
