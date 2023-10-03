@@ -32,6 +32,54 @@
             }
           },
           {
+            "id": "b21a4098bc9e6a34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EAGS SIN/GRAMÁTICA/regras do acento gráfico.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5bff11ee9e7dd254",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EAGS SIN/GRAMÁTICA/pronome pessoais (neles se incluem os pronomes de tratamento).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb096d729d3a37bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EAGS SIN/GRAMÁTICA/concordância nominal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34a516419979ec52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EAGS SIN/crase.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "920504b1ca080e0a",
             "type": "leaf",
             "state": {
@@ -44,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 213.5,
+    "collapsed": true
   },
   "right": {
     "id": "ee4e8bcf9413ed0e",
@@ -110,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EAGS SIN/EAGS SIN.md",
+                "file": "EAGS SIN/GRAMÁTICA/regras do acento gráfico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EAGS SIN/EAGS SIN.md",
+                "file": "EAGS SIN/GRAMÁTICA/regras do acento gráfico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EAGS SIN/EAGS SIN.md"
+                "file": "EAGS SIN/GRAMÁTICA/regras do acento gráfico.md"
               }
             }
           },
@@ -183,13 +232,15 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "724a74bb899e20ac",
+  "active": "b21a4098bc9e6a34",
   "lastOpenFiles": [
-    "EAGS SIN/GRAMÁTICA/colocação pronominal.md",
     "EAGS SIN/EAGS SIN.md",
-    "Task-To-Do/Task To Do.md",
+    "EAGS SIN/GRAMÁTICA/regras do acento gráfico.md",
+    "EAGS SIN/GRAMÁTICA/pronome pessoais (neles se incluem os pronomes de tratamento).md",
     "EAGS SIN/GRAMÁTICA/concordância nominal.md",
     "EAGS SIN/crase.md",
+    "EAGS SIN/GRAMÁTICA/colocação pronominal.md",
+    "Task-To-Do/Task To Do.md",
     "EAGS SIN/GRAMÁTICA/concordância verbal.md",
     "Untitled.canvas",
     "EAGS SIN/GRAMÁTICA/valores caracteristico de pronomes.md",
@@ -199,8 +250,6 @@
     "EAGS SIN/GRAMÁTICA/omissão da virgula alterando o sentido da frase.md",
     "EAGS SIN/TEXTO/tipos de discurso.md",
     "EAGS SIN/TEXTO/verbos de elocução.md",
-    "EAGS SIN/GRAMÁTICA/regras do acento gráfico.md",
-    "EAGS SIN/GRAMÁTICA/pronome pessoais (neles se incluem os pronomes de tratamento).md",
     "EAGS SIN/GRAMÁTICA/regência nominal.md",
     "2023-09-29.md",
     "EAGS SIN/GRAMÁTICA/predicado.md",

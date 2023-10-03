@@ -2,6 +2,33 @@
 todas são acentuadas. Exemplos: lâmpada, cálice.
 ### Paroxítonas: 
 recebem acento quando terminadas em: -i (s), u(s), um, uns, l, r, x, n , m , ditongo oral seguido ou não de s. Além dessas terminações, também são acentuadas quando terminam em ditongo oral seguido ou não de s (vogal e semivogal na mesma sílaba, sem a presença do til ou das consoantes que podem indicar nasalização, m e n) , -guam, -guem ,  -ons, -ps , -ei , -eis
+
+Em palavras paroxítonas, os ditongos abertos -oi e -ei deixaram de ser acentuados.
+Vogais -i e -u precedidas de ditongo em paroxítonas 
+
+Nas palavras paroxítonas, a vogal tônica fechada -o de -oo deixa de ser acentuada.
+- enjôo > enjoo
+- magôo > magoo
+Hiato de paroxítona cuja terminação é -em
+- vêem > veem
+- lêem > leem
+- crêem > creem
+Paroxítonas homógrafas
+
+O acento diferencial deixou de ser usado em paroxítonas homógrafas.
+
+As homógrafas são palavras que têm a mesma grafia, mas apresentam significados diferentes.
+
+**Exemplos**:
+
+- (verbo parar) pára > para
+- (substantivo) pêlo > pelo
+
+para memorizar :
+deixam de ser acentuadas:
+ditongo oi ou ei + i ou u 
+-o de -oo
+hiato terminado em -em
 ### Oxítonas: 
  acentuam-se as terminadas em: -a(s), -e(s), -o(s), -em, ens. Exemplos: cajá, café, paletó, também, parabéns.
 ### Acentuação dos monossílabos tônicos
@@ -48,3 +75,4 @@ sendo a ultima silába se acentua** Ex.:coronéis , anéis , fiéis , heróis , 
 - https://escolakids.uol.com.br/portugues/acento-agudo.htm#:~:text=Regras%20gerais%3A,-Proparox%C3%ADtonas%3A%20todas%20s%C3%A3o&text=Ox%C3%ADtonas%3A%20acentuam%2Dse%20as%20terminadas,%2C%20r%2C%20x%2C%20n.
 - https://www.portugues.com.br/gramatica/acento-agudo.html
 - https://militares.estrategia.com/portal/materias-e-dicas/portugues/acentuacao-grafica-conheca-todas-as-regras/
+- https://www.todamateria.com.br/regras-de-acentuacao/

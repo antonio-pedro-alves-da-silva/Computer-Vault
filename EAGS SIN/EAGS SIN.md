@@ -458,6 +458,9 @@ LINGUA PORTUGUESA
 								exemplo:
 									- O casal beijou-se.
 									- os enimigos se esfaquearam	
+									- 
+							eags-exercícios
+								26 – Em “Mudam-se os tempos, mudam-se as verdades, Muda-se o ser, muda-se a confiança E todo o Mundo é composto de mudanças Com várias e novas qualidades.” o verso destacado encontra-se na voz a) ativa. b) reflexiva. c) passiva analítica. d) passiva sintética.
 					[classificação dos verbos ](https://www.todamateria.com.br/classificacao-dos-verbos/)
 						regulares
 						irregulares
