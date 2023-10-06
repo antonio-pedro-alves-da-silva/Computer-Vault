@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aee7c104e1609a58",
+        "id": "6597822893823516",
         "type": "tabs",
         "children": [
           {
-            "id": "8e94f985eb2b1c04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Task-To-Do/Task To Do.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "724a74bb899e20ac",
+            "id": "69dd75e339262f99",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,43 +20,7 @@
             }
           },
           {
-            "id": "b21a4098bc9e6a34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EAGS SIN/GRAMÁTICA/regras do acento gráfico.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5bff11ee9e7dd254",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EAGS SIN/GRAMÁTICA/pronome pessoais (neles se incluem os pronomes de tratamento).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb096d729d3a37bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EAGS SIN/GRAMÁTICA/concordância nominal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34a516419979ec52",
+            "id": "c52814a285b7599c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,19 +32,30 @@
             }
           },
           {
-            "id": "920504b1ca080e0a",
+            "id": "acfe4aa46bc29fa7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EAGS SIN/GRAMÁTICA/colocação pronominal.md",
+                "file": "EAGS SIN/GRAMÁTICA/concordância verbal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "afd54b6abe3d491f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EAGS SIN/GRAMÁTICA/regras do acento gráfico.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EAGS SIN/GRAMÁTICA/regras do acento gráfico.md",
+                "file": "EAGS SIN/EAGS SIN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EAGS SIN/GRAMÁTICA/regras do acento gráfico.md",
+                "file": "EAGS SIN/EAGS SIN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EAGS SIN/GRAMÁTICA/regras do acento gráfico.md"
+                "file": "EAGS SIN/EAGS SIN.md"
               }
             }
           },
@@ -232,17 +195,30 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "b21a4098bc9e6a34",
+  "active": "69dd75e339262f99",
   "lastOpenFiles": [
+    "EAGS SIN/crase.md",
     "EAGS SIN/EAGS SIN.md",
+    "EAGS SIN/GRAMÁTICA/concordância verbal.md",
     "EAGS SIN/GRAMÁTICA/regras do acento gráfico.md",
+    "EAGS SIN/GRAMÁTICA/diferença entre pronomes substantivos e pronomes adjetivos.md",
+    "EAGS SIN/GRAMÁTICA/gramática normativa.md",
+    "Task-To-Do/Task To Do.md",
+    "EAGS SIN/GRAMÁTICA/pronome/7 erros com pronomes pessoais.md",
+    "EAGS SIN/GRAMÁTICA/pronomes demonstrativos a(s) o(s).md",
+    "pronomes demonstrativos.md",
+    "EAGS SIN/GRAMÁTICA/pronome interrogativos.md",
+    "EAGS SIN/GRAMÁTICA/pronomes relativos.md",
+    "EAGS SIN/diferença entre pronome relativo e pronome interrogativo.md",
+    "uso da particula se.md",
+    "EAGS SIN/GRAMÁTICA/Usos da Partícula Se.pdf",
+    "EAGS SIN/GRAMÁTICA/Unconfirmed 438243.crdownload",
+    "EAGS SIN/GRAMÁTICA/eags-2007-sin-11).md",
+    "Untitled.canvas",
+    "EAGS SIN/GRAMÁTICA/flexão de grau de advérbio.md",
     "EAGS SIN/GRAMÁTICA/pronome pessoais (neles se incluem os pronomes de tratamento).md",
     "EAGS SIN/GRAMÁTICA/concordância nominal.md",
-    "EAGS SIN/crase.md",
     "EAGS SIN/GRAMÁTICA/colocação pronominal.md",
-    "Task-To-Do/Task To Do.md",
-    "EAGS SIN/GRAMÁTICA/concordância verbal.md",
-    "Untitled.canvas",
     "EAGS SIN/GRAMÁTICA/valores caracteristico de pronomes.md",
     "EAGS SIN/TEXTO/transposição de discurso.md",
     "EAGS SIN/TEXTO/uso da virgula correto.md",
@@ -250,17 +226,7 @@
     "EAGS SIN/GRAMÁTICA/omissão da virgula alterando o sentido da frase.md",
     "EAGS SIN/TEXTO/tipos de discurso.md",
     "EAGS SIN/TEXTO/verbos de elocução.md",
-    "EAGS SIN/GRAMÁTICA/regência nominal.md",
-    "2023-09-29.md",
-    "EAGS SIN/GRAMÁTICA/predicado.md",
-    "annotation-target.md",
-    "EAGS SIN/GRAMÁTICA/pronomes demonstrativos a(s) o(s).md",
     "imagens/Pasted image 20230926180753.png",
-    "EAGS SIN/GRAMÁTICA/verbo de ligação.md",
-    "EAGS SIN/tempo composto.md",
-    "EAGS SIN/GRAMÁTICA/pronome/8 erros com pronomes pessoais.md",
-    "EAGS SIN/GRAMÁTICA/ORTOGRAFIA/quando usar o s.md",
-    "EAGS SIN/GRAMÁTICA/ditongo aberto e fechado.md",
     "EAGS SIN/GRAMÁTICA/oração",
     "EAGS SIN/GRAMÁTICA/ORTOGRAFIA",
     "imagens/Pasted image 20230917212314.png",
@@ -271,13 +237,11 @@
     "EAGS SIN/GRAMÁTICA",
     "EAGS SIN/TEXTO/Untitled",
     "EAGS SIN/TEXTO",
-    "EAGS SIN/INFORMÁTICA SIN",
     "imagens/classes_de_rede.jpg",
     "imagens/Pasted image 20230912145836.png",
     "imagens/Pasted image 20230911151316.png",
     "HTML import/Attachments/youtube-bg.png",
     "HTML import/Attachments/7graus-logo.svg",
-    "HTML import/Attachments",
     "sites/Homônimos e Parônimos - Toda Matéria_files/7graus-logo.svg",
     "sites/Homônimos e Parônimos - Toda Matéria_files/desktop-logo.png",
     "Untitled 1.canvas"

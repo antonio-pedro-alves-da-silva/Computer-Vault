@@ -53,9 +53,8 @@ O verbo pode ser conjugado na terceira pessoa do singular ou pode concordar com 
 
 ### 7. Concordância com expressão "um dos que"
 
-Com a expressão "um dos que", o verbo pode ser conjugado no singular ou no plural. Exemplos:
+Com a expressão "um dos que", o verbo deve ser conjuado no plural. Exemplos:
 
-- Ele foi **um dos que mais contribuiu**.
 - Ele foi **um dos que mais contribuíram**.
 
 ### 8. Concordância com sujeitos formados por sinônimos

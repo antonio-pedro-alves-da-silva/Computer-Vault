@@ -81,6 +81,43 @@ LINGUA PORTUGUESA
 			Parônimos
 				eags-exercícios
 					36 – Leia: I- O governador de São Paulo recebeu ________ do presidente americano durante a ________ solene em homenagem aos países latinos. II- O temporal se anunciava, e o cheiro da destruição já era _________ naquele vilarejo repleto de _______ italianos. III- A ________ do meu cavalo Ventania foi escolhida a dedo por mim, bem como a longa manta que esconde um pequeno defeito em sua______ . Assinale a alternativa que completa correta e respectivamente as frases acima. a) cumprimentos – sessão / iminente – imigrantes / sela – cauda b) comprimentos – seção / eminente – imigrantes / cela – cauda c) comprimentos – secção / iminente – emigrantes / sela – calda d) cumprimentos – sessão / eminente – emigrantes / cela – calda
+		preencha as colunas ortograficas
+			28 - Assinale a alternativa que preenche com correção
+			ortográfica e respectivamente as lacunas das seguintes frases:
+			I – Este ano o Governo Federal decidiu aumentar
+			os____________
+			II – Sem saber para onde seguir, o motorista do caminhão parou
+			o veículo para verificar o seu _____________
+			III – Em frente ao prédio da prefeitura, os estudantes___ a meia entrada nos cinemas e teatros da cidade.
+			a) subscídios – itinerário – reividicavam
+			b) subsídios – itinerário – reivindicavam
+			c) subzídios – intinerário – reivindicavam
+			d) subsídeos – intinerário – reinvindicavam 
+			36 – Leia:
+			I- O governador de São Paulo recebeu ________ do presidente
+			americano durante a ________ solene em homenagem aos
+			países latinos.
+			II- O temporal se anunciava, e o cheiro da destruição já era
+			_________ naquele vilarejo repleto de _______ italianos.
+			III- A ________ do meu cavalo Ventania foi escolhida a dedo
+			por mim, bem como a longa manta que esconde um pequeno
+			defeito em sua___.
+			Assinale a alternativa que completa correta e respectivamente as
+			frases acima.
+			a) cumprimentos – sessão / iminente – imigrantes / sela – cauda
+			b) comprimentos – seção / eminente – imigrantes / cela – cauda
+			c) comprimentos – secção / iminente – emigrantes / sela – calda
+			d) cumprimentos – sessão / eminente – emigrantes / cela – calda 
+			11 - Observe:
+			I. Não tive a intenção de exigir, ______ de pedir; _____
+			fui _____ interpretado.
+			II_____ de três anos, fiz uma viagem fantástica ao Caribe___ _de me curar da terrível depressão_____ passei.
+			Assinale a alternativa que completa correta e respectivamente as
+			lacunas dos períodos acima.
+			a) se não, mais, mal / Há cerca, afim, porque
+			b) se não, mas, mau / Acerca, a fim, porque
+			c) senão, mas, mal / Há cerca, a fim, por que
+			d) senão, mais, mau / Acerca, afim, por que 
 	GRAMÁTICA
 		Fonética
 			sílaba
@@ -282,7 +319,8 @@ LINGUA PORTUGUESA
 					locução adjetiva
 						a locução adjetiva é composta por duas ou mais palavras que juntas tem o valor de um único adjetivo. exemplo : “dona de casa”), adjetiva (“de amigo”), pronominal (“seja quem for”) e adverbiais (“à esquerda” e “de manhã”).
 				advérbio
-					o advérbio modifica o verbo
+					flexão
+						[[flexão de grau de advérbio]]
 					classificação
 						tempo
 						lugar
@@ -495,9 +533,10 @@ LINGUA PORTUGUESA
 						desmonstrativos
 							[[pronomes demonstrativos a(s) o(s)]]
 						indefinidos
-						relativos
-						interrogativos
-					[[8 erros com pronomes pessoais]]
+						[[pronomes relativos]]
+						[[pronome interrogativos]]
+						[[diferença entre pronomes substantivos e pronomes adjetivos]]
+					[[7 erros com pronomes pessoais]]
 				palavras invariveis
 					os advérbios , as preposições , conjuções e as interjeições
 			[[colocação pronominal]]
@@ -785,19 +824,7 @@ LINGUA PORTUGUESA
 						Caso não haja palavra que atraia a próclise, usa-se a ênclise depois do verbo auxiliar em que o verbo principal esteja no particípio:
 						- **Foi-lhe explicado** como deveria agir. (ênclise depois do verbo auxiliar, “foi”, uma vez que o verbo principal “explicar” está no particípio, “explicado”)
 						- **Tinha-lhe feito** as vontades se não tivesse sido malcriado. (ênclise depois do verbo auxiliar, “tinha”, uma vez que o verbo principal “fazer” está no particípio, “feito”). 
-			[particula se](https://www.infoescola.com/portugues/particula-se/)
-				A particula SE como apassivadora do sujeito
-				   1.se a frase estiver na voz passiva SE é particula apassivadora
-				   2.verbo(direto) + se - se é particula apassivadora
-				A partícula SE como índice de indetermjação do sujeito
-					1. **Voz passiva sintética:**
-						- Frase passiva com "se": "Lê-se o livro."
-					2. **Voz passiva pronominal reflexiva:**
-						- Frase passiva com "se": "O carro se lavou."
-					3. **Voz passiva pronominal reflexiva com verbos transitivos diretos e indiretos:**
-						- Frase passiva com "se": "Deu-se o presente ao amigo."
-				[A partícula SE como pronome reflexivo](https://www.embrapa.br/documents/1355746/30180455/Usos+da+Part%C3%ADcula+Se.pdf/f8ac2fb2-ffa7-4a7a-f56d-46f4c278afde)
-				[A partícula SE como partícula expletiva ou de reacle estilístico](https://www.embrapa.br/documents/1355746/30180455/Usos+da+Part%C3%ADcula+Se.pdf/f8ac2fb2-ffa7-4a7a-f56d-46f4c278afde)
+			[[uso da particula se]]
 			Estilística
 					figuras de linguagem
 						figuras de palavras
@@ -896,6 +923,7 @@ LINGUA PORTUGUESA
 										- **Liberdade, Liberdade**! É isso que pretendemos nessa luta.
 										- **Nossa**! Como você conseguiu?
 										- **Minha Filha**! Que linda você está!
+		[[gramática normativa]]
 INFORMÁTICA SIN
 	conceitos básicos da computação
 		o que é camada de abstração ?
@@ -2019,4 +2047,3 @@ INFORMÁTICA SIN
 		Placas de vídeo. 
 		Monitores de vídeo. 
 		Dispositivos de armazenamento. 
-		RAID.

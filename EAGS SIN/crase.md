@@ -158,7 +158,16 @@ No entanto, se essas duas palavras (“casa” e “terra”) forem qualificadas
 - mandou presentes de natal á sua família. ou mandou presentes de natal a sua famila.
 
 ! Lembre-se que não se usa crase antes do maior parte dos pronomes.
-### antes de artigo indefinido
+### antes de artigo indefinido 
+
+#### **pronomes indefinidos que admitem artigo :**
+**um, uma, uns, umas**.
+
+#### **pronomes indefinidos que não admitem artigo :**
+Antes de pronomes indefinidos que não admitem artigo (seguidos ou não de “s”): **alguém, alguma, nenhuma, cada, certa, determinada, pouca, quanta, tal, tamanha, tanta, toda, ninguém, muita, outra, tudo, qual, qualquer, quaisquer**.
+
+- Obedeço à **toda** norma do colégio.(errado)
+- Obedeço a toda norma do colégio. (certo)
 ### [as vezes ou ás vezes](https://www.trf3.jus.br/emag/emagconecta/conexaoemag-lingua-portuguesa/as-vezes-as-vezes#:~:text=%E2%80%9C%C3%80s%20vezes%E2%80%9D%2C%20com%20crase,eficaz%20de%20combater%20a%20depress%C3%A3o.%E2%80%9D)
 
 
