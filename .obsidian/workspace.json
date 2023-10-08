@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "69dd75e339262f99",
+            "id": "7467548afbad86c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +20,43 @@
             }
           },
           {
-            "id": "c52814a285b7599c",
+            "id": "c51fd8a2af1dcdf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EAGS SIN/TEXTO/uso do ponto e virgula correto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a9f612bd7cca020",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EAGS SIN/GRAMÁTICA/regras do acento gráfico.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8c8b2e11e8eead5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EAGS SIN/GRAMÁTICA/gramática normativa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b587216282893b9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,24 +68,12 @@
             }
           },
           {
-            "id": "acfe4aa46bc29fa7",
+            "id": "fd47859bfd1a8aab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EAGS SIN/GRAMÁTICA/concordância verbal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "afd54b6abe3d491f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EAGS SIN/GRAMÁTICA/regras do acento gráfico.md",
+                "file": "EAGS SIN/crase.md",
                 "mode": "source",
                 "source": false
               }
@@ -195,37 +219,38 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "69dd75e339262f99",
+  "active": "7467548afbad86c8",
   "lastOpenFiles": [
-    "EAGS SIN/crase.md",
+    "EAGS SIN/TEXTO/uso do ponto e virgula correto.md",
     "EAGS SIN/EAGS SIN.md",
-    "EAGS SIN/GRAMÁTICA/concordância verbal.md",
     "EAGS SIN/GRAMÁTICA/regras do acento gráfico.md",
-    "EAGS SIN/GRAMÁTICA/diferença entre pronomes substantivos e pronomes adjetivos.md",
     "EAGS SIN/GRAMÁTICA/gramática normativa.md",
+    "EAGS SIN/crase.md",
     "Task-To-Do/Task To Do.md",
+    "EAGS SIN/GRAMÁTICA/concordância nominal.md",
+    "EAGS SIN/GRAMÁTICA/colocação pronominal.md",
+    "EAGS SIN/GRAMÁTICA/quando usar o x ou ch.md",
+    "EAGS SIN/GRAMÁTICA/quando usar o ch.md",
+    "EAGS SIN/TEXTO/uso da virgula correto.md",
+    "subordinadas adverbias cada tipo explicado.md",
+    "EAGS SIN/GRAMÁTICA/concordância verbal.md",
+    "EAGS SIN/GRAMÁTICA/processo de derivação/parassintética.md",
+    "EAGS SIN/GRAMÁTICA/Usos da Partícula Se.pdf",
+    "uso da particula se.md",
+    "EAGS SIN/GRAMÁTICA/pronome pessoais (neles se incluem os pronomes de tratamento).md",
+    "EAGS SIN/GRAMÁTICA/processo de derivação",
+    "EAGS SIN/GRAMÁTICA/diferença entre pronomes substantivos e pronomes adjetivos.md",
     "EAGS SIN/GRAMÁTICA/pronome/7 erros com pronomes pessoais.md",
     "EAGS SIN/GRAMÁTICA/pronomes demonstrativos a(s) o(s).md",
     "pronomes demonstrativos.md",
     "EAGS SIN/GRAMÁTICA/pronome interrogativos.md",
     "EAGS SIN/GRAMÁTICA/pronomes relativos.md",
     "EAGS SIN/diferença entre pronome relativo e pronome interrogativo.md",
-    "uso da particula se.md",
-    "EAGS SIN/GRAMÁTICA/Usos da Partícula Se.pdf",
     "EAGS SIN/GRAMÁTICA/Unconfirmed 438243.crdownload",
     "EAGS SIN/GRAMÁTICA/eags-2007-sin-11).md",
     "Untitled.canvas",
     "EAGS SIN/GRAMÁTICA/flexão de grau de advérbio.md",
-    "EAGS SIN/GRAMÁTICA/pronome pessoais (neles se incluem os pronomes de tratamento).md",
-    "EAGS SIN/GRAMÁTICA/concordância nominal.md",
-    "EAGS SIN/GRAMÁTICA/colocação pronominal.md",
     "EAGS SIN/GRAMÁTICA/valores caracteristico de pronomes.md",
-    "EAGS SIN/TEXTO/transposição de discurso.md",
-    "EAGS SIN/TEXTO/uso da virgula correto.md",
-    "EAGS SIN/TEXTO/orações subordinadas adverbiais deslocadas.md",
-    "EAGS SIN/GRAMÁTICA/omissão da virgula alterando o sentido da frase.md",
-    "EAGS SIN/TEXTO/tipos de discurso.md",
-    "EAGS SIN/TEXTO/verbos de elocução.md",
     "imagens/Pasted image 20230926180753.png",
     "EAGS SIN/GRAMÁTICA/oração",
     "EAGS SIN/GRAMÁTICA/ORTOGRAFIA",
@@ -236,7 +261,6 @@
     "EAGS SIN/GRAMÁTICA/Morfologia",
     "EAGS SIN/GRAMÁTICA",
     "EAGS SIN/TEXTO/Untitled",
-    "EAGS SIN/TEXTO",
     "imagens/classes_de_rede.jpg",
     "imagens/Pasted image 20230912145836.png",
     "imagens/Pasted image 20230911151316.png",

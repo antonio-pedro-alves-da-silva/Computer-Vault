@@ -1,2 +1,2 @@
-- [x] colocar o file de peito em um pote para não estragar pela manhã
-- [ ] oléo , floco de millho , margarina , detergente
+- [ ] pedir a minha mãe para pagar a primeira fatura do cartão de crédito
+

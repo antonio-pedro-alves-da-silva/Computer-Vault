@@ -74,6 +74,8 @@ LINGUA PORTUGUESA
 				[[quando usar o z#**2 - Palavras derivadas que têm Z no radical|2 - Palavras derivadas que têm Z no radical**]]
 				[[quando usar o z#**3 - Palavras derivadas com sufixos -zal, -zeiro, -zinho, -zinha, -zita, -zito**|3 - Palavras derivadas com sufixos -zeiro, -zinho, -zito , -zita , -zinha -zal, ]]
 				[[quando usar o z#**4 - Palavras com os sufixos -ização em substantivos e -izar em verbos**|4 - Palavras com os sufixos -ização em substantivos e -izar em verbos]] 
+		QUANDO USAR **X** OU **CH**
+			[[quando usar o x ou ch]]
 		acentuação gráfica
 			[uso correto dos porquês](https://www.todamateria.com.br/uso-do-por-que-porque-por-que-e-porque/)
 			[[regras do acento gráfico]]
@@ -402,6 +404,8 @@ LINGUA PORTUGUESA
 					 o que é uma locução conjuntiva ?
 						 **Locução Conjuntiva** é a denominação ao conjunto de uma ou mais palavras com valor de conjunção na frase.	
 				verbo
+					[[verbo de ligação]]
+						**ser, estar, permanecer, ficar, tornar-se, andar, parecer, virar, continuar, viver**.
 					verbo impessoais
 						o que são verbo impessoais ?
 							são verbo que são usados na 3 pessoa do singular
@@ -482,6 +486,9 @@ LINGUA PORTUGUESA
 							voz passiva sintética ou pronominal
 								como é formado a voz passiva sintética ?
 									verbo(3as pu 3ap) + se + sujeito paciente
+									um exemplo diferente :
+										Quase não se podia sair à rua = Quase não podia sair-se á rua
+									Quase não se podia sair à rua
 									exemplos:
 										- Tomou-se o café da manhã logo cedo.
 										- Aspirou-se a casa toda.
@@ -523,7 +530,7 @@ LINGUA PORTUGUESA
 					exemplo:meio,zero,200
 				artigos
 					o que são artigos ?
-						artigos são palavras que vêm antes do substantivo
+						artigos são palavras que vêm antes do substantiv
 				pronome
 					o que é um pronome ?
 						Os pronomes são palavras que indicam pessoas do discurso, posse e posições. Eles acompanham ou substituem os substantivos.
@@ -540,6 +547,7 @@ LINGUA PORTUGUESA
 				palavras invariveis
 					os advérbios , as preposições , conjuções e as interjeições
 			[[colocação pronominal]]
+			[[Usos da Partícula Se.pdf]]
 			[[tempo composto]]
 		Sintaxe
 			verbos transitivos
@@ -633,7 +641,7 @@ LINGUA PORTUGUESA
 								Como choveu muito, a plantação ficou destruída porque as raízes não conseguiram absorver a água adequadamente.
 							conformativa
 								- Apesar de ter avançado nas técnicas de embelezamento, a medicina estética ainda não criou, para combater a celulite, uma fórmula que solucione definitivamente o problema. **Segundo indicam pesquisas realizadas em alguns países**, esse depósito de gordura no tecido subcutâneo sempre foi um dos maiores inimigos das mulheres.
-						cada tipo explicado
+						[[subordinadas adverbias cada tipo explicado]]
 							1. **Causal**: Essas orações indicam uma causa ou motivo para a ação da oração principal. Geralmente começam com palavras como "porque", "como", "uma vez que", "visto que". Exemplo: "Como choveu muito, a plantação ficou destruída."
 							2. **Concessiva**: Essas orações expressam uma concessão, ou seja, uma ideia contrária à da oração principal. Elas geralmente começam com palavras como "embora", "mesmo que", "apesar de". Exemplo: "Embora chovesse muito, a plantação ficou destruída."
 							3. **Condicional**: Indicam uma condição que deve ser cumprida para que a ação principal ocorra. Começam com palavras como "se", "caso", "contanto que". Exemplo: "Se chovesse muito, a plantação ficaria destruída."
@@ -643,7 +651,7 @@ LINGUA PORTUGUESA
 							7. **Proporcional**: Estabelecem uma relação de proporção ou grau entre duas ações. Começam com palavras como "à medida que", "à proporção que", "conforme". Exemplo: "À medida que choveu muito, a plantação ficou destruída progressivamente."
 							8. **Conformativa**: Expressam a conformidade ou concordância da ação da oração principal com a da oração subordinada. Começam com palavras como "conforme", "segundo", "como". Exemplo: "Conforme choveu muito, a plantação ficou destruída como era esperado."
 							9. **Finalidade**: Indicam a intenção ou propósito da ação da oração principal. Começam com palavras como "a fim de que", "para que", "com o propósito de". Exemplo: "Choveu muito com o propósito de que a plantação ficasse destruída."
-							10. **Modal**: Expressam uma avaliação ou juízo de valor sobre a ação da oração principal. Começam com palavras como "certamente", "provavelmente", "talvez". Exemplo: "Choveu muito, e a plantação ficou destruída certamente."
+							10. **Modal**: Expressam uma avaliação ou juízo de valor sobre a ação da oração principal. Começam com palavras como "certamente", "provavelmente", "talvez". Exemplo: - "Choveu muito, e a plantação ficou destruída certamente."
 					[desenvolvidas e reduzidas](https://mundoeducacao.uol.com.br/gramatica/oracao-subordinada.htm)
 						eags exercicios
 					adjetivas
@@ -705,10 +713,8 @@ LINGUA PORTUGUESA
 					[[predicado]]
 				termos intergrantes
 					complemento nominal
-						o complemento nominal se liga ao substantivo,adjetivo ou advérbio por intermédio de uma preposição ele completa o sentido de um substantivo , adjetivo ou advérbio
-						- A extinção **de grandes áreas de vegetação** no Brasil ocorre, em muitos casos, devido a queimadas provocadas pelo próprio nativo.
-						- Durante o inverno, as pousadas de Maromba, Visconde de Mauá e Maringá ficam **cheias** de turistas
-						- Nós somos **alérgicas** a pelo de gato
+						quando lhe é complemento nominal ?
+							Complemento nominal: me, te, lhe, nos, vos, lhes, **quando complementarem o sentido de adjetivos, advérbios ou substantivos abstratos**. Exemplo: Tenha-me consideração.
 					complemento verbal
 						objeto direto
 						objeto direto preposicionado
@@ -824,7 +830,7 @@ LINGUA PORTUGUESA
 						Caso não haja palavra que atraia a próclise, usa-se a ênclise depois do verbo auxiliar em que o verbo principal esteja no particípio:
 						- **Foi-lhe explicado** como deveria agir. (ênclise depois do verbo auxiliar, “foi”, uma vez que o verbo principal “explicar” está no particípio, “explicado”)
 						- **Tinha-lhe feito** as vontades se não tivesse sido malcriado. (ênclise depois do verbo auxiliar, “tinha”, uma vez que o verbo principal “fazer” está no particípio, “feito”). 
-			[[uso da particula se]]
+			[[Uso da ]]
 			Estilística
 					figuras de linguagem
 						figuras de palavras

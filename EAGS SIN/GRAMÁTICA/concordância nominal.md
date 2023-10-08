@@ -1,9 +1,13 @@
-### 1. Concordância entre substantivo e um adjetivo
+### 1. adjetivo com substantivo
+
+#### sub1 + adj1
 
 O adjetivo deve concordar em gênero e número com o substantivo. Exemplos:
 
 - Que **pintura bonita**!
 - As **frutas** estão **deliciosas**.
+
+#### adj1 + sub2
 
 Quando há mais do que um substantivo, o adjetivo deve concordar com aquele que está mais próximo. Exemplo:
 
@@ -15,14 +19,16 @@ Mas, se os substantivos forem nomes próprios, o adjetivo deve ficar no plural. 
 - Debaixo dos Caracóis dos seus Cabelos é uma composição dos **grandes Roberto Carlos e Erasmo Carlos** em homenagem a Caetano Veloso.
 - As **encantadoras Clarice e Cecília Meireles** pertencem ao Modernismo.
 
+#### sub2 + adj1
 Quando há mais do que um substantivo, e o adjetivo vem depois dos substantivos, deve concordar com aquele que está mais próximo ou com todos eles. Exemplos:
 
 - Que **pintura e poema bonito**!
 - Que **poema e pintura bonita**!
-- Que **pintura e poema bonitos**! ^dd4a8e
+- Que **pintura e poema bonitos**! 
 - Que **poema e pintura bonitos**!
 
-### 2. Concordância entre substantivo e mais do que um adjetivo
+
+#### sub1 + adj2
 
 Quando um substantivo é caracterizado por mais do que um adjetivo, a concordância pode ser feita das seguintes formas:
 
@@ -36,19 +42,18 @@ Colocando o substantivo e o artigo que o antecede no plural. Exemplo:
 - Adoro **as comidas** italiana e chinesa.
 - Conhece **as literaturas** brasileira e inglesa.
 
-### 3. Concordância entre números ordinais
+### 2. substantivos com númerais
 
-Nos casos em que há números ordinais ANTES do substantivo, o substantivo pode ser usado tanto no singular como no plural. Exemplos:
+#### num2 + sub1
 
 - A segunda e a terceira **casa**.
 - A segunda e a terceira **casas**.
 
-Nos casos em que há números ordinais DEPOIS do substantivo, o substantivo deve ser usado no plural. Exemplo:
-
+#### sub1 + num2
 - **As casas** segunda e terceira.
 - **Os lugares** primeiro e segundo.
 
-### 4. Concordância entre expressões
+### 3. Concordância entre expressões
 
 #### Anexo
 
@@ -64,10 +69,12 @@ Mas, a expressão "em anexo" não varia. Exemplos:
 
 #### Bastante(s) , Meio , Só , Sós
 
-Quando tem a função de adjetivo, a palavra "bastante" deve concordar em gênero e número com o substantivo. Exemplos:
+Quando tem a função de adjetivo, a palavra "bastante" deve concordar em gênero e número com o substantivo.Se muito for para o plural, bastante também irá. Caso contrário, bastante continua no singular. Exemplos:
 
 - Recebemos **bastantes telefonemas**.
 - Venderam **bastantes produtos**.
+- Haverá **bastantes** profissionais envolvidos
+
 
 Quando tem a função de advérbio, a palavra "bastante" não varia. Exemplos:
 
@@ -116,7 +123,7 @@ As expressões "é proibido, é bom, é necessário" não variam, a não ser que
 O verbo "é necessário" concorda com o substantivo "uniforme" no singular, e a preposição "para" é utilizada para indicar a quem se destina o uniforme, que no caso é "os alunos", que está no plural. Portanto, a concordância correta seria "o uniforme" (singular) e "os alunos" (plural).
 - 
 
-### 5. Cores
+### 4. Cores
 A concordância envolvendo cores gera muitas dúvidas. Na regra geral, as cores devem concordar com o substantivo a que se referem, quando são variáveis:
 
 - A mochila é amarela.
@@ -138,19 +145,51 @@ Porém, se o segundo adjetivo fizer referência a um substantivo, voltamos à re
 - Os lençóis são azul-celeste
 
 
-### 6. **Concordância dos particípios**  
-  
+### 5. **Concordância dos particípios**  
+
+#### variavel
 Os particípios concordarão com o substantivo a que se referirem.  
 Exemplos: 
 
 - Foram **mortas** centenas de peixes em afluentes do Rio Tietê, em razão do excesso de poluição – concordância nominal correta, pois, na voz passiva, o particípio concorda em gênero e número com o sujeito.
 
 - Os livros foram comprados a prazo./ As mercadorias foram compradas a prazo.  
-  
+#### invariável
 Se o particípio pertencer a um [[tempo composto]], será invariável.
 
 - O juiz tinha iniciado o jogo de vôlei./ A juíza tinha iniciado o jogo de vôlei.
+### 6.Predicativo do sujeito com o sujeito
+
+- O adjetivo predicativo concorda em gênero e número **com o sujeito**.
+    Exemplos:
+
+	A desonestidade é **humana**.
+	
+	A ciência e a razão são **irmãs**.
+#### gêneros distintos
+O adjetivo predicativo fica no masculino plural **se o sujeito é composto por substantivos de gêneros distintos**
+
+- O amor e a amizade são **poderosos**.
+#### pronome de tratamento
+se o sujeito apresenta uma **forma de tratamento**, o adjetivo predicativo concorda com o gênero do indivíduo ao qual nos referimos.
+
+- Vossa Excelência está **confuso**.
+- Vossa Excelência está **confusa**.
+
+
+### 7.Predicativo do objeto com Objeto direto
+**substantivos de mesmo gênero** -> fica no plural
+
+- Comprou uma camisa e uma calça muito **largas**.
+
+**substantivos de gêneros diferentes** -> fica no masculino do plural
+
+- Encontrei o dinheiro e a chave **jogados** sobre a cama.
+
+
+
 # Referências
 - https://www.todamateria.com.br/concordancia-nominal/
 - https://brasilescola.uol.com.br/gramatica/concordancia-nominal-regra-geral.htm
-- https://www.portugues.com.br/gramatica/concordancia-nominal-.html
+- https://www.portugues.com.br/gramatica/concordancia-nominal-.html 
+- https://mundoeducacao.uol.com.br/gramatica/concordancia-nominal.htm#:~:text=Concord%C3%A2ncia%20nominal%20%C3%A9%20um%20fen%C3%B4meno,devem%20ser%20levados%20em%20conta.
