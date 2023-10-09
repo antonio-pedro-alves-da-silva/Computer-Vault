@@ -3,9 +3,7 @@ LINGUA PORTUGUESA
 		Interpretação de textos literários ou não literários.
 			Expressões explicativas e retificativas: **isto é, ou seja, a saber, na verdade, por exemploi, por assim dizer, ou melhor, antes disso, digo, dizendo de outra forma, e outras**
 		pontuação
-			[uso do ponto-final](https://www.todamateria.com.br/uso-do-ponto-final/)
-				1. frases declarativas(exprimem um fato)
-				2. frases imperativas(exprimem um ordem,pedido,conselho)
+			[[uso do ponto-final]]
 			[[uso da virgula correto]]
 				quando usar
 					1 - [[uso da virgula correto#1- Separar elementos com a mesma função sintática|Separar elementos com a mesma função sintática]]

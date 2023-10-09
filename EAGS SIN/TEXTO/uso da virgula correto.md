@@ -1,4 +1,5 @@
 
+# Quando usar a virgula
 ### 1- Separar elementos com a mesma função sintática
 
 Substantivos do sujeito composto:
@@ -27,14 +28,56 @@ A vírgula pode ser usada para separar orações que se intercalam dentro de uma
 
 ==A saída, pontuou o presidente, é investir na base da educação.
 
-### 3- Separar orações adjetivas
+### 3 - Separar orações subordinadas
+
+#### a)- Separar orações subordinadas adjetivas explicativas
 
 Coloca-se a vírgula antes e após a oração subordinada adjetiva explicativa, como:
 
 Manoel, que trabalha com o papai, ligou ontem à noite.
 
 Meu amigo Lucas, aquele que mora em Santos, vai se mudar para o Chile.
+#### b) – Separar as orações subordinadas adverbiais
 
+Pode-se empregar a vírgula para separar orações subordinadas adverbiais, como causais, condicionais, temporais e concessivas. Veja:
+
+- Ele foi demitido, porque nunca se dedicou muito ao trabalho.
+- Maria só vai viajar, quando a casa ficar pronta.
+- A mesma regra vale com as orações reduzidas, como:
+- O ladrão chegou à noite, assustando os moradores.
+- Porém, o uso quando a oração subordinada vem depois da principal não é o mais comum.
+
+#### c) – Separar as orações subordinadas adverbiais deslocadas , Adjuntos adverbiais deslocados , Predicativo do sujeito deslocado
+##### **orações subordinadas adverbiais**
+
+- Quando o prazo for encerrado, ninguém mais poderá se inscrever.
+
+- Encerrado o prazo, ninguém mais poderá se inscrever.
+
+- assim que chegou à casa dela , Abraçou a avó.
+##### adjuntos adverbiais
+
+- Quem diria que, **aos poucos**, eles mudariam seus hábitos.
+
+- **Depois de** assistir ao filme, fomos comer.
+
+- **Porém**, quando o adjunto adverbial tiver menos de quatro palavras, pode-se omitir a vírgula, como:
+
+- **Dentro de** casa eles mal(advérbio de modo) se viam.
+
+##### predicativo do sujeito
+
+- Satisfeita , Maria sorria
+
+
+#### d) - Orações subordinadas precedendo a principal
+Costuma-se empregar a vírgula **quando a oração subordinada precede a principal**, ou seja, quando a ordem sintática está indireta.
+
+**Exemplos:**
+
+- Por atacar PPPs, empreiteiros criticam Tasso.
+    
+- Quando houve o ataque às torres gêmeas no EUA, muitas pessoas ainda estavam trabalhando nos prédios.
 ### 4 – Separar [[expressões explicativas]]
 
 São utilizadas para ratificar ou explicar algo dito anteriormente, juntamente com expressões como isto é, ou seja, por exemplo, a meu ver. Por isso, elas aparecem entre vírgulas. Veja os exemplos:
@@ -43,25 +86,13 @@ A Holanda, por exemplo, é um local onde a maioria da população fala inglês
 
 O time não se preparou adequadamente, isto é, não estava se importando muito com o jogo.
 
-### 5 – Separar conjunções adversativas
+### 5 – Separar orações cordenadas sindéticas adversativas , conclusivas e explicativas
 
-A vírgula deve ser colocada antes de conjunções adversativas, como mas, todavia, porém, entretanto. Confira:
-
-Eu fui à festa, mas não o vi.
-
-Nós não viajaremos semana que vem, porém eu queria muito ir.
-
-O mesmo vale para conjunções conclusivas, como logo, por isso, então. Veja:
-
-Eu cheguei e não vi nada, por isso fui embora.
-
-Para mim não foi nada demais, então não ficarei chateado.
-
-Contudo, quando as conjunções forem deslocadas na frase, devem ficar entre vírgulas, como em:
-
-Ele sempre gostou de trabalhar lá. Nunca foi, porém, valorizado.
-
-Maria não se adaptou à escola. Não ficou, por isso, o restante do ano letivo.
+- O Holocausto nos mostrou a necessidade de uma educação voltada para a autonomia, mas os modelos de ensino ainda se pautam no autoritarismo.
+    
+- Acabou o prazo para as inscrições no concurso público e, portanto, não será possível a sua participação no certame.
+    
+- "Sucedeu, porém, que como eu vinha cansado, fechei os olhos três ou quatro vezes" (Machado de Assis).
 
 ### 6 – Isolar o vocativo
 
@@ -100,41 +131,8 @@ Zeugma é um tipo de elipse utilizado para não se repetir termos de uma oraçã
 
 No exemplo anterior, a oração omite o verbo “gostar”. Para marcar tal ação, utiliza-se a vírgula.
 
-### 10 – Separar as orações subordinadas adverbiais
 
-Pode-se empregar a vírgula para separar orações subordinadas adverbiais, como causais, condicionais, temporais e concessivas. Veja:
-
-- Ele foi demitido, porque nunca se dedicou muito ao trabalho.
-- Maria só vai viajar, quando a casa ficar pronta.
-- A mesma regra vale com as orações reduzidas, como:
-- O ladrão chegou à noite, assustando os moradores.
-- Porém, o uso quando a oração subordinada vem depois da principal não é o mais comum.
-
-### 11 – Separar as [[orações subordinadas adverbiais deslocadas]] , Adjuntos adverbiais deslocados , Predicativo do sujeito deslocado
-
-#### **orações subordinadas adverbiais**
-
-- Quando o prazo for encerrado, ninguém mais poderá se inscrever.
-
-- Encerrado o prazo, ninguém mais poderá se inscrever.
-
-- assim que chegou à casa dela , Abraçou a avó.
-#### adjuntos adverbiais
-
-- Quem diria que, **aos poucos**, eles mudariam seus hábitos.
-
-- **Depois de** assistir ao filme, fomos comer.
-
-- **Porém**, quando o adjunto adverbial tiver menos de quatro palavras, pode-se omitir a vírgula, como:
-
-- **Dentro de** casa eles mal(advérbio de modo) se viam.
-
-#### predicativo do sujeito
-
-- Satisfeita , Maria sorria
-
-
-### 13 – objeto pleonástico antes do verbo
+### 10 – objeto pleonástico antes do verbo
 
 Emprega-se a vírgula quando você usar algum [[objeto pleonástico]] antes do verbo, como:
 
@@ -142,7 +140,7 @@ Aos pais, nada lhes foi solicitado.
 
 O salário, o patrão se recusava a pagá-lo.
 
-### 14 - Depois dos advérbios “sim” e “não”
+### 11 - Depois dos advérbios “sim” e “não”
 
 A vírgula é usada após esses advérbios quando eles iniciam uma oração que atue como resposta.
 
@@ -153,7 +151,8 @@ Sim, estamos satisfeitos com os resultados.
 
 
 
-## Quando não usar a vírgula
+
+# Quando não usar a vírgula
 
 Fique atento para não usar a vírgula em alguns casos específicos! Afinal, estes usos incorretos podem até resultar em uma redução da nota da redação no vestibular, por exemplo. Veja:
 
@@ -190,3 +189,6 @@ Marcela emprestou para seu primo o computador. (Correto)
 Marcela emprestou, para seu primo, o computador. (Incorreto)
 
 Marcela emprestou para seu primo, o computador. (Incorreto)
+
+# Referências
+- https://mundoeducacao.uol.com.br/gramatica/uso-virgula.htm#:~:text=Nas%20ora%C3%A7%C3%B5es%20coordenadas%20sind%C3%A9ticas%20conclusivas,uso%20da%20v%C3%ADrgula%20%C3%A9%20obrigat%C3%B3rio.

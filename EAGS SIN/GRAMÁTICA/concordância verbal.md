@@ -53,7 +53,7 @@ O verbo pode ser conjugado na terceira pessoa do singular ou pode concordar com 
 
 ### 7. Concordância com expressão "um dos que"
 
-Com a expressão "um dos que", o verbo deve ser conjuado no plural. Exemplos:
+Com a expressão "um dos que", o verbo deve ser conjugado no plural. Exemplos:
 
 - Ele foi **um dos que mais contribuíram**.
 
@@ -135,13 +135,22 @@ No caso em que a palavra "se" é partícula apassivadora, o verbo deve ser conju
 
 ### 16. Concordância com verbos impessoais
 
-Os verbos impessoais - 
-haver, com sentido de existir, 
-fazer, com sentido de tempo decorrido, 
-e verbos que manifestam fenômenos naturais - sempre são conjugados na 3.ª pessoa do singular. Exemplos:
+#### haver
 
-- **Havia muitos copos** naquela mesa.
-- **Houve dois meses** sem mudanças.
+1.haver com sentido de existir é conjugado na 3 pessoa do singular
+
+2.Apresenta conjugações completas quando é um verbo principal ou quando é um verbo auxiliar, apesar de ter um uso reduzido: havíamos dito, haviam falado, hei de conseguir, houveram de ir conversar com ele.
+
+
+#### fazer 
+
+1.com sentido de tempo decorrido é conjugado na 3 pessoa do singular
+
+#### verbos que manifestam fenômenos naturais
+
+1.sempre são conjugados na 3.ª pessoa do singular. Exemplos:
+
+
 
 ### 17. Concordância com sujeito seguido por "tudo", "nada", "ninguém", "nenhum", "cada um"
 

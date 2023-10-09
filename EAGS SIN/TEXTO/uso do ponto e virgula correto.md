@@ -4,27 +4,34 @@ O ponto e vírgula é utilizado em:
 #### Comparações ou contraste
 O doce de leite tem um sabor profundo e viciante; o bolo de aniversário possui um gosto de multiplicidade de sabores; e o chocolate tem um sabor que toma conta de toda a boca, talvez porque seu cheiro se mistura com o paladar.
 
-### Enumerações mais detalhadas
-Participaram do debate Amanda F., doutora em Linguística; Ricky J., doutor em Literatura; Heloísa T., mestra em Educação.
-
-O ponto e vírgula também é usado para separar:
 
 ### Orações coordenadas em um período extenso
 - Conseguimos, depois de muita insistência, a aprovação do projeto de lei em favor dos povos indígenas; lutamos também pela punição dos responsáveis pelo massacre ocorrido nas terras demarcadas
-- “_Gosto de ler; minha irmã, de assistir a séries; nossa prima, de passeios ao ar livre._”
+- “_Gosto de ler; minha irmã, de assistir a séries; nossa prima, de passeios ao ar livre;nosso primo , de futebol._”
 
 Aqui, para evitar a repetição do verbo “gostar”, o uso de ponto e vírgula deixa subentendido que todos os sujeitos sentem prazer em fazer algo.
-
-
-Não pare agora... Tem mais depois da publicidade ;)
 
 ### Orações coordenadas adversativas e conclusivas
 Vou adotar esta criança; não quero, no entanto, ter contato com seus pais biológicos.
 
 O filme 2001 - uma odisseia no espaço é um clássico; tem, portanto, uma temática universal.
 
+### Separar diferentes significados de uma palavra
+
+O ponto e vírgula está sendo utilizado nessa frase para separar diferentes partes da explicação ou definição da palavra "idoso". O autor está descrevendo várias nuances ou interpretações da palavra "idoso", e o ponto e vírgula ajuda a criar uma pausa mais significativa do que uma vírgula, indicando que as ideias a seguir estão relacionadas, mas são distintas.
+
+- Curiosa palavra: idoso, o que acumulou idade; também tem o
+sentido de quem se apega à idade, ou que a esbanja — como
+gostoso ou dengoso —, se é que não significa alguém que está
+indo, alguém em processo de ida, em contraste com os que
+ficam, os ficosos...
 ### Orações de caráter distributivo
 Organizei as tarefas da seguinte maneira: Jaqueline e eu vamos pedir doações às empresas desta lista aqui; Clésio e Hugo vão buscá-las; todos nós vamos separar os itens e, enfim, entregá-los às pessoas em situação de rua.
+
+### Enumerações mais detalhadas
+Participaram do debate Amanda F., doutora em Linguística; Ricky J., doutor em Literatura; Heloísa T., mestra em Educação.
+
+O ponto e vírgula também é usado para separar:
 
 ### Itens de uma enumeração
 Os(As) candidatos(as) devem ter:
@@ -94,12 +101,3 @@ e) cruéis;
 […]."
 ```
 
-### Separar diferentes significados de uma palavra
-
-O ponto e vírgula está sendo utilizado nessa frase para separar diferentes partes da explicação ou definição da palavra "idoso". O autor está descrevendo várias nuances ou interpretações da palavra "idoso", e o ponto e vírgula ajuda a criar uma pausa mais significativa do que uma vírgula, indicando que as ideias a seguir estão relacionadas, mas são distintas.
-
-- Curiosa palavra: idoso, o que acumulou idade; também tem o
-sentido de quem se apega à idade, ou que a esbanja — como
-gostoso ou dengoso —, se é que não significa alguém que está
-indo, alguém em processo de ida, em contraste com os que
-ficam, os ficosos...

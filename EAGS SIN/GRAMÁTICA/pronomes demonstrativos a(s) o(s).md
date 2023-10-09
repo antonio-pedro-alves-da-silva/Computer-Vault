@@ -3,6 +3,10 @@ Os vocábulos **o, a, os, as** serão pronomes demonstrativos quando puderem s
 esse, essa, isso, 
 aquele, aquela ou aquilo**. Veja exemplos:
 
+- Não aceito **o** que eles fazem. (aquilo)
+- A vida é uma tragédia para **os** que sentem e uma comédia para os que pensam (aqueles)
+- Ninguém vai esquecer **o** que aconteceu na noite chuvosa de sábado
+
 ![[Pasted image 20230926180753.png]]
 
 **Não entendi o que você falou = Não entendi aquilo que você falou.**
