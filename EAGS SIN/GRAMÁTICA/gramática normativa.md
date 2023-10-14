@@ -14,18 +14,6 @@ Uma frase que mistura de tempos verbais é “Não acredito que essa solução s
 Resumo :
 o verbo não pode ser conjugado em pessoas ou tempo diferentes em uma frase
 
-# Usos impróprios
-
-O verbo há, no sentido de existir, é impessoal. Isso significa que ele só é conjugado em uma pessoa, a terceira do singular, mesmo que a frase esteja no plural. “Houveram várias festas de Natal no bairro” é um erro, e o correto seria “Houve várias festas de Natal”.
-
-Em tempo: o verbo fazer indicando tempo também não flexiona para o plural no passado. “Fazem três anos que não tiro férias” é incorreto, apesar de parecer a flexão mais adequada.
-
-Resumo :
-
-O verbo há, no sentido de existir, é impessoal e é conjugado na 3 pessoa do singular
-o verbo fazer indicando tempo não é conjugado para o plural
-
-
 # Expressões confudidas
 
 ## 1)mau ou mal

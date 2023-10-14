@@ -64,7 +64,7 @@ São acentuados os monossílabos terminados em:
 ### **Os ditongos abertos(éi(s),éu(s),ói(s),ai)
 sendo a ultima silába se acentua** Ex.:coronéis , anéis , fiéis , heróis , troféus.
 
-**Os ditongos abertos não estando na úlima silaba não se acentua. Ex.: colmeia, assembleia. Entretanto, nas oxítonas, o acento agudo existe. Ex.: herói, troféu.
+Em contrapartida, os ditongos abertos em palavras paroxítonas **NÃO** são acentuados. Exemplos: boia, estreia, heroico, ideia, jiboia, paranoia, plateia, colmeia, assembleia. Entretanto, nas oxítonas, o acento agudo existe. Ex.: herói, troféu.
 
 
 

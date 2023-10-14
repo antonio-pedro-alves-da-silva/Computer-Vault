@@ -33,6 +33,11 @@ Na próclise, o pronome é colocado antes do verbo. Isso acontece quando a oraç
 - **Quando** te deram a notícia?
 - **Quem** te presenteou?
 
+**7.** Pronome indefinido
+
+- **Todos** os membros da banca **a** entregaram no 
+prazo estipulado.
+
 ## Mesóclise
 
 Na mesóclise, o pronome é colocado no meio do verbo. Isso acontece com verbos do futuro do presente ou do futuro do pretérito, a não ser que haja palavras que atraiam a próclise:
@@ -74,5 +79,9 @@ se usa a ênclise no o verbo auxiliar
 
 - **Foi-lhe explicado** como deveria agir. (ênclise depois do verbo auxiliar, “foi”, uma vez que o verbo principal “explicar” está no particípio, “explicado”)
 - **Tinha-lhe feito** as vontades se não tivesse sido malcriado. (ênclise depois do verbo auxiliar, “tinha”, uma vez que o verbo principal “fazer” está no particípio, “feito”)
+
+### Próclise , Mesóclise , Ênclise
+- Eu sempre **o** **quis agradecer** a amizade sincera. (Próclise)
+
 # Referência
 - https://www.todamateria.com.br/colocacao-pronominal/

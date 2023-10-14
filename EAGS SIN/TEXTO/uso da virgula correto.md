@@ -22,11 +22,56 @@ Eles andaram, pararam, se sentaram e saíram novamente.
 
 ### 2- Separar orações intercaladas
 
+- Exemplo de oração intercalada:
+
+_– Tu necessitas_ **_(mais uma vez eu digo)_** _de bom-senso._
+
+Perceba que temos duas orações no período acima:
+
+_1. Tu necessitas de bom-senso._
+
+_2. mais uma vez eu digo._
+
+A primeira é a que contém a mensagem principal que se quer passar; a segunda, no entanto, foi incorporada à primeira com os parênteses para acrescentar um comentário.
+
+Portanto, chamamos a segunda de **oração intercalada,** e por não haver conectivo para ligá-la à primeira, foi incorporada a ela por **justaposição**. Dessa forma, podemos dizer que as orações intercaladas são um tipo de **oração justaposta**.
 A vírgula pode ser usada para separar orações que se intercalam dentro de uma oração principal. Veja:
 
 ==O jogo de hoje, disse o treinador, é uma verdadeira decisão.
 
 ==A saída, pontuou o presidente, é investir na base da educação.
+
+#### **Tipos de orações intercaladas**
+
+Do ponto de vista do conteúdo, as orações intercaladas dividem-se em:
+
+**1. Citação:** caso em que há discurso direto.
+
+_– Quem pegou o meu dinheiro? –_ **_disse o jovem_**_._
+
+**2. Advertência:** esclarece um ponto de vista.
+
+_– Ainda no Ensino Médio (_**_creio que estava no 2° ano_**_), conheci meu namorado._
+
+**3. Opinião:** expressa a opinião do falante.
+
+_– Marieta,_ **_brava é que era_**_, estava sempre nos vigiando!_
+
+**4. Desejo:** expressa um desejo do falante.
+
+_– Meu bisavô é superforte –_ **_Deus o conserve assim_** _–, mesmo com cem anos!_
+
+**5. Escusa:** pede desculpa.
+
+_– Aquele filho da #*t@ (_**_perdoe-me o palavrão_**_) bateu no meu carro!_
+
+**6. Permissão:** solicita algo.
+
+_– Minha linda chefe [_**_permita-me aqui um elogio_**_], a senhora tem muito bom gosto!_
+
+**7. Ressalva**: restringe um enunciado.
+
+_– O rapaz estuda na melhor escola da cidade,_ **_diga-se de passagem_**_, e não consegue ser aprovado no vestibular._
 
 ### 3 - Separar orações subordinadas
 
@@ -120,7 +165,7 @@ Já nos casos em que precisamos isolar o número de um endereço, usa-se a vírg
 
 Rua dos Jacarandás, 345.
 
-### 9 – Marcar zeugma
+### 9 –  zeugma ou vírgula vicária
 
 Zeugma é um tipo de elipse utilizado para não se repetir termos de uma oração. Para indicá-la é preciso utilizar uma vírgula no lugar do termo não repetido, como no exemplo:
 
@@ -192,3 +237,4 @@ Marcela emprestou para seu primo, o computador. (Incorreto)
 
 # Referências
 - https://mundoeducacao.uol.com.br/gramatica/uso-virgula.htm#:~:text=Nas%20ora%C3%A7%C3%B5es%20coordenadas%20sind%C3%A9ticas%20conclusivas,uso%20da%20v%C3%ADrgula%20%C3%A9%20obrigat%C3%B3rio.
+- https://clubedoportugues.com.br/oracoes-intercaladas/

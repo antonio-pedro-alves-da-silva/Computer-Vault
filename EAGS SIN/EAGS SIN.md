@@ -164,7 +164,6 @@ LINGUA PORTUGUESA
 					classificação
 					flexão
 						número
-						csal
 							-vogal
 								acrecenta-se o -s
 							-r , -z
@@ -473,7 +472,7 @@ LINGUA PORTUGUESA
 								- As crianças resgataram o cachorro.
 								- As pessoas leem o livro.
 								- Ele lavou o carro.
-							voz passiva
+							[[21]]
 							voz passiva analítica
 								como é formado a voz passiva analítica ?
 									Sujeito paciente + verbo auxiliar + verbo pricipal + preposição + agente da passiva
@@ -568,7 +567,7 @@ LINGUA PORTUGUESA
 						- Cíntia morreu.
 						- Daniela chegou.
 						- Tudo passa.
-						- Adormeci!
+						- [ ] Adormeci!
 			objeto direto e objeto indireto
 				o que são objetos diretos e indiretos ?
 					são objetos os complementos que completam o sentido do verbo transitivo ?
@@ -673,7 +672,7 @@ LINGUA PORTUGUESA
 				composto
 					o periodo composto é formado por mais do que uma oraçao
 			   composto justaposto
-				   o periodo não é ligado por nenhum conectivo são separadas por virgulas
+				   o periodo não é ligado por nenhum conectivo são separadas por **virgulas**
 			termos constituintes da oração
 				termos essenciais
 					sujeito
@@ -696,12 +695,11 @@ LINGUA PORTUGUESA
 										1 - fenomenos
 										2 - verbo haver
 										3 - fesiph - indicando tempo ou distância decorrido
-										fesiph
-											conjução do verbo ser
-												eu sou
-												eu fui
-												eu era
-												que eu seja
+											1. Verbos ser, fazer, haver, estar, ir e passar indicando tempo ou distância.
+												**Exemplos**:
+												- são cinco horas da manhã
+												- Está na hora do intervalo.
+												- Há boas palestras no congresso.
 						tipos de sujeitos
 								simples
 									Quando o verbo principal de uma frase faz referência a um sujeito de núcleo único, temos um sujeito simples.
@@ -799,35 +797,6 @@ LINGUA PORTUGUESA
 						esquecer
 				[[crase]]
 				[[regência nominal]]
-			colocação pronominal
-				Próclise
-					na próclise o pronome é colocado antes do verbo por palavras que o atraem o pronome
-					exemplo certo: Rapidamente nos atendem se formos simpáticos.
-					exemplo errado : Rapidamente atendem-nos se formos simpáticos.
-				Mesóclise
-					Na mesóclise, o pronome é colocado no meio do verbo. Isso acontece com verbos do futuro do presente ou do futuro do pretérito, a não ser que haja palavras que atraiam a próclise
-						- **Orgulhar-me-ei** dos meus alunos. (verbo orgulhar no futuro do presente: orgulharei)
-						- **Orgulhar-me-ia** dos meus alunos. (verbo orgulhar no futuro do pretérito: orgulharia)
-				Ênclise
-					Na ênclise, o pronome é colocado depois do verbo. Isso acontece quando a oração contém palavras que atraem esse tipo de colocação pronominal
-					1. verbos no imperativo afirmativo
-						- Depois de terminar, **chamem**-nos.
-						- Para começar, **joguem**-lhes a bola!
-					2. verbos no infinitivo impessoal
-						- Gostaria de **pentear**-te a minha maneira.
-						- O seu maior sonho é **casar**-se.
-					3. verbos no início das orações
-						- **Fiz**-lhe a pessoa mais feliz do mundo.
-						- **Surpreendi**-me com o café da manhã.
-				colocação pronominal nas locuções verbais
-					1.
-						usa-se a ênclise depois do verbo auxiliar ou depois do verbo principal nas locuções verbais em que o verbo principal esteja no infinitivo ou no gerúndio.
-						- **Devo-lhe explicar** o que se passou. (ênclise depois do verbo auxiliar, “devo”)
-						- **Devo explicar-te** o que se passou. (ênclise depois do verbo principal, “explicar”)
-					2.
-						Caso não haja palavra que atraia a próclise, usa-se a ênclise depois do verbo auxiliar em que o verbo principal esteja no particípio:
-						- **Foi-lhe explicado** como deveria agir. (ênclise depois do verbo auxiliar, “foi”, uma vez que o verbo principal “explicar” está no particípio, “explicado”)
-						- **Tinha-lhe feito** as vontades se não tivesse sido malcriado. (ênclise depois do verbo auxiliar, “tinha”, uma vez que o verbo principal “fazer” está no particípio, “feito”). 
 			[[Uso da ]]
 			Estilística
 					figuras de linguagem
@@ -2050,4 +2019,4 @@ INFORMÁTICA SIN
 		Circuito regulador de tensão. 
 		Placas de vídeo. 
 		Monitores de vídeo. 
-		Dispositivos de armazenamento. 
+		Dispositivos de armazenamento. \i

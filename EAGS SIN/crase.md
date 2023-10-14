@@ -103,6 +103,16 @@ Dedicamo-nos a + as tarefas = Dedicamo-nos às tarefas."
 - Jorge tem um carro a álcool.
 - Samuel comprou um jipe a diesel.
 - Escreveu a lápis.
+
+Existe um caso em que o acento indicador de crase pode surgir antes de uma palavra masculina. Isso acontecerá quando a expressão **“à moda de”** estiver implícita na frase.
+
+**Exemplos:**
+
+Ele cantou a canção **à** Roberto Carlos. (Ele cantou a canção à moda de Roberto Carlos.)
+
+Ele fez um gol **à** Pele. (Ele fez um gol à moda de Pelé.)
+
+Ele comprou sapatos **à** Luís XV. (Ele comprou sapatos à moda de Luís XV.)
 ### 2)antes de verbos
 	- Estava disposto a salvar a menina.
 	- Passava o dia a cantar.
@@ -234,3 +244,4 @@ Não podemos mais voltar a Escócia.
 - https://www.portugues.com.br/gramatica/cinco-dicas-simples-sobre-uso-crase.html
 - https://brasilescola.uol.com.br/gramatica/crase.htm
 - https://www.educamaisbrasil.com.br/enem/lingua-portuguesa/crase-facultativa
+- https://www.portugues.com.br/gramatica/cinco-dicas-simples-sobre-uso-crase.html#:~:text=Existe%20um%20caso%20em%20que,de%E2%80%9D%20estiver%20impl%C3%ADcita%20na%20frase.

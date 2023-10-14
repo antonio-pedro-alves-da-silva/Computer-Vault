@@ -1,2 +1,2 @@
 - [ ] pedir a minha mãe para pagar a primeira fatura do cartão de crédito
-
+- [ ] comprar uma pasta de dente nova , 

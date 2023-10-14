@@ -1,0 +1,5 @@
+A frase "Já não se veem locomotivas nas estações das pequenas e grandes cidades. É a modernidade!" ===está na voz passiva porque a ênfase recai sobre o que está sendo observado (ou, neste caso, o que não está sendo observado) em vez de quem está realizando a ação.===
+
+Na voz ativa, a frase seria algo como: "As pessoas não veem mais locomotivas nas estações das pequenas e grandes cidades. É a modernidade!" Neste caso, as "pessoas" seriam o sujeito que realiza a ação de ver as locomotivas.
+
+Na voz passiva, o foco está na ação ou no objeto da ação, em vez do agente que executa a ação. Portanto, a voz passiva é usada para destacar o fato de que as locomotivas não são mais visíveis, sem especificar quem não as vê. É uma forma de construir a frase que coloca o foco na ação ou no resultado em vez de na pessoa ou entidade que realiza a ação.

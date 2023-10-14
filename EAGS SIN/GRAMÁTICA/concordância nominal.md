@@ -1,4 +1,4 @@
-### 1. adjetivo com substantivo
+### 1. adjetivo e substantivo
 
 #### sub1 + adj1
 
@@ -69,33 +69,16 @@ Mas, a expressão "em anexo" não varia. Exemplos:
 
 #### Bastante(s) , Meio , Só , Sós
 
-Quando tem a função de adjetivo, a palavra "bastante" deve concordar em gênero e número com o substantivo.Se muito for para o plural, bastante também irá. Caso contrário, bastante continua no singular. Exemplos:
+Bastante(s) , Meio , Só , Sós irão variar quando forem adjetivo , mas quando forem advérbio não variam
 
-- Recebemos **bastantes telefonemas**.
-- Venderam **bastantes produtos**.
-- Haverá **bastantes** profissionais envolvidos
+- Joaquim tinha motivos **bastantes** para sorrir.(adjetivo ,como adjetivo indica uma quantidade de algo)
+- Fomos **bastante amigos**.(advérbio de intensidade ,como advérbio não indica quantidade)
 
+- Atrasado, tomou **meia xícara** de leite e saiu correndo.(adjetivo tem sentido "de metade")
+- Ele é **meio maluco** (advérbio de intensidade tem sentido de "um pouco")
 
-Quando tem a função de advérbio, a palavra "bastante" não varia. Exemplos:
-
-- Eles **cantam bastante** bem.
-- Fomos **bastante amigos**.
-
-Quando tem a função de adjetivo, a palavra "meio" deve concordar em gênero e número com o substantivo. Exemplos:
-
-- Atrasado, tomou **meio copo** de leite e saiu correndo.
-- Atrasado, tomou **meia xícara** de leite e saiu correndo.
-
-Quando tem a função de advérbio, a palavra "meio" não varia. Exemplos:
-
-- Ele é **meio maluco**.
-- Ela é **meio maluca**.
-
-Quando adjetivos, serão variáveis, quando advérbios, serão invariáveis.  
-Exemplos:  
-  
-- **A criança** ficou **só**./ **As crianças** ficaram **sós**. (adjetivo)  
-- Depois da briga, **só** restaram copos e garrafas quebrados. (advérbio)
+- **A criança** ficou **só**./ **As crianças** ficaram **sós**. (adjetivo ,como adjetivo tem sentido de sozinho) 
+- Depois da briga, **só** restaram copos e garrafas quebrados. (advérbio , como adverbio é sinônimo de somente e apenas.)
 #### Menos , Alerta
 
 A palavra "menos" e "alerta" não variam. Exemplos:
@@ -136,8 +119,9 @@ Caso o nome da cor faça referência a um substantivo (laranja, rosa etc.), a co
 
 Quando o nome da cor é constituído de dois adjetivos (o segundo envolvendo tonalidades), costuma-se deixar o primeiro invariável na forma do masculino e o segundo fazendo a concordância:
 
-- A mochila é amarelo-clara.
+- As mochila são amarelo-claras.
 - Os lençóis são azul-escuros.
+
 
 Porém, se o segundo adjetivo fizer referência a um substantivo, voltamos à regra da cor ser invariável.
 

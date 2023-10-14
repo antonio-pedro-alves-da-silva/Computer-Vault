@@ -137,14 +137,32 @@ No caso em que a palavra "se" é partícula apassivadora, o verbo deve ser conju
 
 #### haver
 
-1.haver com sentido de existir é conjugado na 3 pessoa do singular
+1.haver com sentido de existir,acontecer ou ideia de tempo é conjugado na 3 pessoa do singular.
+- **Há** vídeos novos no canal!
+- **Houve** problemas na impressão dos exames.
+- **Havia** anos que não vinha me visitar.
 
-2.Apresenta conjugações completas quando é um verbo principal ou quando é um verbo auxiliar, apesar de ter um uso reduzido: havíamos dito, haviam falado, hei de conseguir, houveram de ir conversar com ele.
+2.haver sendo verbo auxiliar do verbo principal no participio pode ser conjugado no singular ou plural.
 
+- **Havíamos** provado todos os doces naquele dia. 
+- Ela(s) **havia(m)** experimentado todas as roupas daquela loja! 
+- **Haverão** feito as contas de todos os gastos da festa? 
+
+3.Quando o verbo haver tem o sentido de existir e está acompanhado por um verbo auxiliar, os dois verbos devem ficar no singular.
+
+- **Deve** **haver** uma saída.
+- **Deve** **haver** soluções para esse caso.
+- **Pode** **haver** alguma complicação.
+- **Pode** **haver** sérias complicações.
+
+
+4.No sentido de ocorrer ou acontecer: Em algumas construções, o verbo "haver" pode concordar com o sujeito quando usado no sentido de "acontecer". Por exemplo:
+
+- "Haviam eventos importantes programados para o fim de semana."
 
 #### fazer 
 
-1.com sentido de tempo decorrido é conjugado na 3 pessoa do singular
+1.com sentido de tempo é conjugado na 3 pessoa do singular
 
 #### verbos que manifestam fenômenos naturais
 
@@ -216,3 +234,4 @@ o verbo fica sempre na 3ª pessoa (do singular ou do plural).
 - Vossa Alteza pediu silêncio./ Vossas Altezas pediram silêncio.
 ### Referências
 - https://www.todamateria.com.br/concordancia-verbal/
+- https://www.todamateria.com.br/verbo-haver/
