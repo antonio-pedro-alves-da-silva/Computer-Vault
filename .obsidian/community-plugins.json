@@ -1,5 +1,7 @@
 [
   "obsidian-importer",
   "obsidian-annotator",
-  "recent-files-obsidian"
+  "recent-files-obsidian",
+  "quick-latex",
+  "obsidian-git"
 ]

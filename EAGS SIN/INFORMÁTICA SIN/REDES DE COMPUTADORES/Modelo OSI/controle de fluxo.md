@@ -11,7 +11,7 @@ o que é controle de fluxo ?
 				2.o recepetor recebe o quadro depois ele envia um quadro de confirmação de que ele recebeu o quadro
 				3.depois dessa confirmação o trasmissor envia o próximo quadro
 			3.no uso do protocolo sliding window(janela deslizante)
-			    ![[print_screen.png]]
+			    ![[print_screen 1.png]]
 				1.o trasmissor envia uma janela de quadro ou seja uma quantidade de quadros de uma vez e ele vai deslizando conforme vai enviando os quadros pode ser que essa janela fique travada por que o transmissor não recebeu a confirmação de um quadro
 	
 				
