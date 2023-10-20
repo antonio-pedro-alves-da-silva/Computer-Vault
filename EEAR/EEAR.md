@@ -944,7 +944,7 @@ MATEMÁTICA
 	ÁLGEBRA I
 		Funções
 			[[definição de função]]
-			 [[domínio, imagem e contradomínio]]
+			[[domínio, imagem e contradomínio]]
 			[[LEI DE FORMAÇÃO , VALOR NUMÉRICO E RAIZ]]
 			[[funções definidas por fórmulas]]
 			[[diferentes tipos de funções]]
@@ -1054,7 +1054,7 @@ MATEMÁTICA
 				entre reta e circunferência 
 				entre duas circunferências
 	ÁLGEBRA III
-		Números Complexos
+		[[Números Complexos]]
 			conceitos
 			conjugado 
 			igualdade 
@@ -1064,7 +1064,8 @@ MATEMÁTICA
 			módulo
 			argumento
 			forma trigonométrica e operações na forma trigonométrica
-		Polinômios 
+		[[Produto Notaveis]]
+		[[Polinômios ]]
 			conceito
 			grau
 			valor numérico 
@@ -1216,3 +1217,19 @@ FÍSICA
 		Transformações nucleares e radioatividades.
 
 
+AS MATÉRIAS QUE MAIS CAEM
+	MATEMÁTICA
+		Funções: 1° e 2° grau, logarítmica, exponencial, modular
+		Polinômios
+		- Geometria Analítica: Estudo da reta, pontos, circunferências, esfera
+		- Geometria Plana: Circunferência e círculo, triângulos, áreas e perímetros
+		- Geometria Espacial: Cilindro, cone, esfera e prismas
+		- Trigonometria
+		- Logaritmo
+		- Estatística
+		- Progressão Aritmética e Geométrica
+		- Análise Combinatória
+		- Números Complexos
+		- Matriz e determinantes
+		- Probabilidade
+	
