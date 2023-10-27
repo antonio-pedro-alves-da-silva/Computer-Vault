@@ -963,8 +963,10 @@ MATEMÁTICA
 		Sequências
 		progressões aritmética e geométrica
 	GEOMETRIA PLANA
-		Ângulos
-		Polígonos
+		[[Ângulos]]
+			Ângulo interno e ângulo externo de um poligono regular
+			Teorema do ângulo externo
+		[[Polígonos]]
 			definição
 			elementos
 			nomeclatura
@@ -995,7 +997,7 @@ MATEMÁTICA
 				comprimento da circuferência
 			Círculo e suas partes 
 				conceitos e áreas
-			TRIGONOMETRIA
+			[[TRIGONOMETRIA]]
 				Razões trigonométricas no triângulo retângulo
 				arcos e ângulos em graus e radianos
 				relações de conversão
@@ -1004,28 +1006,29 @@ MATEMÁTICA
 				funções trigonométricas
 				relações e identidades trigonométricas
 				fórmulas de adição, subtração, duplicação e bissecção de arcos equações e inequações trigonométricas
-				leis dos senos e dos cossenos. 
-			ÁLGEBRA II
-				Matrizes
-					conceitos, igualdade e operações. 
-					Determinantes. 
-					Sistemas lineares. 
-				Análise combinatória
-					princípio fundamental da contagem
-					arranjos, combinações e permutações simples probabilidades
-		ESTATÍSTICA
-			Conceitos
-			população
-			amostra
-			variável
-			tabelas
-			gráficos
-			distribuição de frequência
-			tipos de frequências
-			histograma
-			polígono de frequência
-			medidas de tendência central
-				moda, média e mediana. 
+				leis dos senos e dos cossenos.
+		Teorema de tales 
+	ÁLGEBRA II
+		Matrizes
+			conceitos, igualdade e operações. 
+			Determinantes. 
+			Sistemas lineares. 
+			Análise combinatória
+				princípio fundamental da contagem
+				arranjos, combinações e permutações simples probabilidades
+	ESTATÍSTICA
+		Conceitos
+		população
+		amostra
+		variável
+		tabelas
+		gráficos
+		distribuição de frequência
+		tipos de frequências
+		histograma
+		polígono de frequência
+		medidas de tendência central
+			moda, média e mediana. 
 	GEOMETRIA ESPACIAL
 		Poliedro: 
 			conceitos e propriedades
@@ -1033,7 +1036,7 @@ MATEMÁTICA
 			conceitos, propriedades, diagonais, áreas e volumes. 
 		Pirâmide, cilindro, cone e esfera: conceitos, áreas e volumes. 
 	GEOMETRIA ANALÍTICA: 
-		Estudo Analítico: 
+		[[Estudo Analítico]]: 
 			**do Ponto** 
 				ponto médio
 				cálculo do baricentro
@@ -1044,15 +1047,23 @@ MATEMÁTICA
 				equação geral 
 				equação reduzida
 				equação segmentária
-				posição entre duas retas
-				paralelismo e perpendicularismo de retas
+				posição entre duas retas : paralelismo e perpendicularismo de retas
 				ângulo entre duas retas
 				distância de um ponto a uma reta
+				distancia entre duas retas
+				interseção entre retas
 			**da Circunferência** 
 				equações
 				posições relativas entre ponto e circunferência
 				entre reta e circunferência 
 				entre duas circunferências
+					1.Circuferências externas
+					2.Circuferências tangentes externas
+					3.Circuferências tangentes internas
+					4. Circuferências secantes
+					5. Circuferências interior a outra
+			1. 
+			**Área do triângulo equilátero**
 	ÁLGEBRA III
 		[[Números Complexos]]
 			conceitos
@@ -1216,15 +1227,14 @@ FÍSICA
 		Natureza corpuscular das ondas eletromagnéticas. 
 		Transformações nucleares e radioatividades.
 
-
 AS MATÉRIAS QUE MAIS CAEM
 	MATEMÁTICA
 		Funções: 1° e 2° grau, logarítmica, exponencial, modular
 		Polinômios
-		- Geometria Analítica: Estudo da reta, pontos, circunferências, esfera
-		- Geometria Plana: Circunferência e círculo, triângulos, áreas e perímetros
+		Trigonometria
+		Geometria Analítica
+		Geometria Plana
 		- Geometria Espacial: Cilindro, cone, esfera e prismas
-		- Trigonometria
 		- Logaritmo
 		- Estatística
 		- Progressão Aritmética e Geométrica
@@ -1232,4 +1242,3 @@ AS MATÉRIAS QUE MAIS CAEM
 		- Números Complexos
 		- Matriz e determinantes
 		- Probabilidade
-	

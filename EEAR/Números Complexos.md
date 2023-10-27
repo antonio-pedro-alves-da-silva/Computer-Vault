@@ -70,3 +70,18 @@ o conjugado de $z = a + bi$ é $\bar z =  a-bi$
 
 
 # INTERPRETAÇÃO GEOMÉTRICA E MODULO
+
+![[print_screen_135.png]]
+
+**MODULO**
+
+![[print_screen_136.png]]
+
+
+
+# ARGUMENTO (Ângulo)
+
+# FORMA TRIGONOMÉTRICA (ou polar) E OPERAÇÕES NA FORMA TRIGONOMÉTRICA
+
+![[print_screen_137.png]]
+

@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "80828d19a0ae0925",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EEAR/Polinômios.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "760b8722ff721c30",
             "type": "leaf",
             "state": {
@@ -32,19 +20,18 @@
             }
           },
           {
-            "id": "0f3700ae4b9a0a2c",
+            "id": "137e1b9475eb4de9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Números Complexos.md",
+                "file": "Ângulos.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,52 +181,53 @@
   },
   "active": "760b8722ff721c30",
   "lastOpenFiles": [
-    "Números Complexos.md",
+    "Ângulos.md",
+    "EEAR/Polígonos.md",
     "EEAR/EEAR.md",
-    "imagens/print_screen_132.png",
-    "imagens/print_screen_131.png",
-    "imagens/print_screen_130.png",
-    "imagens/print_screen_129.png",
-    "imagens/print_screen_128.png",
+    "Excalidraw/bico(pontos notáveis).md",
+    "Excalidraw/Drawing 2023-10-26 21.14.18.excalidraw.md",
+    "imagens/print_screen_200.png",
+    "imagens/print_screen_199.png",
+    "imagens/print_screen_198.png",
+    "imagens/print_screen_197.png",
+    "EEAR/TRIGONOMETRIA.md",
+    "imagens/print_screen_192.png",
+    "imagens/print_screen_196.png",
+    "imagens/print_screen_195.png",
+    "imagens/print_screen_194.png",
+    "imagens/print_screen_193.png",
+    "imagens/print_screen_191.png",
+    "imagens/print_screen_188.xcf",
+    "Estudo Analítico.md",
     "EEAR/Polinômios.md",
-    "imagens/print_screen_127.png",
-    "imagens/print_screen_126.png",
-    "imagens/print_screen_125.png",
-    "imagens/print_screen_124.png",
-    "print_screen.png",
-    "Produto Notaveis.md",
+    "EEAR/Números Complexos.md",
+    "Excalidraw/Polinômios Teorema do resto.excalidraw.md",
+    "Excalidraw/Polinômios grau par e graup impar.excalidraw.md",
+    "EEAR/Produto Notaveis.md",
+    "Excalidraw/Função seno , cosseno e tangente.md",
+    "Excalidraw/Função de seno.md",
+    "Excalidraw/Drawing 2023-10-21 21.46.15.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-21 16.53.45.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-16 16.04.26.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-19 20.50.12.excalidraw.md",
+    "Untitled.canvas",
+    "EEAR/Calculando seno na circuferência.md",
+    "Razões trigonométricas no triângulo retângulo.md",
     "delete.md",
     "LATEX/Simbolos em Latex.md",
     "EEAR/diferentes tipos de funções.md",
-    "Excalidraw/Drawing 2023-10-19 20.50.12.excalidraw.md",
-    "Untitled.canvas",
     "LATEX/to use latex.md",
     "LATEX/latex_primer.pdf",
-    "Excalidraw/Drawing 2023-10-16 16.04.26.excalidraw.md",
     "Excalidraw",
     "imagens/funções do 1° grau ou função afim.md",
     "imagens/funções definidas por fórmulas.md",
-    "EEAR/definição de função.md",
-    "EEAR/CONJUNTOS NUMÉRICOS.md",
-    "EAGS SIN/GRAMÁTICA/pronomes relativos.md",
-    "EEAR/LEI DE FORMAÇÃO , VALOR NUMÉRICO E RAIZ.md",
-    "LATEX/how to use math ?.md",
-    "EAGS SIN/GRAMÁTICA/concordância verbal.md",
     "LATEX",
-    "EEAR/domínio, imagem e contradomínio.md",
-    "EAGS SIN/GRAMÁTICA/concordância nominal.md",
-    "Pasted image 20230724102140.png.md",
-    "EAGS SIN/EAGS SIN.md",
-    "Task-To-Do/Task To Do.md",
     "EEAR/Untitled",
     "EEAR",
-    "estratégia.md",
-    "EAGS SIN/palavras de dificil compreensão/ESTUDAR ÉTICA.md",
     "EAGS SIN/palavras de dificil compreensão",
     "EAGS SIN/GRAMÁTICA/Usos da Partícula Se.pdf",
     "EAGS SIN/GRAMÁTICA/processo de derivação",
     "EAGS SIN/GRAMÁTICA/Unconfirmed 438243.crdownload",
-    "EAGS SIN/GRAMÁTICA/oração",
     "Untitled 1.canvas"
   ]
 }

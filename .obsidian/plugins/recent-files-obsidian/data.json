@@ -5,28 +5,72 @@
       "path": "EEAR/EEAR.md"
     },
     {
-      "basename": "Números Complexos",
-      "path": "Números Complexos.md"
+      "basename": "Ângulos",
+      "path": "Ângulos.md"
+    },
+    {
+      "basename": "Polígonos",
+      "path": "EEAR/Polígonos.md"
+    },
+    {
+      "basename": "Drawing 2023-10-26 21.14.18.excalidraw",
+      "path": "Excalidraw/Drawing 2023-10-26 21.14.18.excalidraw.md"
+    },
+    {
+      "basename": "TRIGONOMETRIA",
+      "path": "EEAR/TRIGONOMETRIA.md"
+    },
+    {
+      "basename": "print_screen_192",
+      "path": "imagens/print_screen_192.png"
+    },
+    {
+      "basename": "Estudo Analítico",
+      "path": "Estudo Analítico.md"
     },
     {
       "basename": "Polinômios",
       "path": "EEAR/Polinômios.md"
     },
     {
-      "basename": "print_screen_127",
-      "path": "imagens/print_screen_127.png"
+      "basename": "Números Complexos",
+      "path": "EEAR/Números Complexos.md"
+    },
+    {
+      "basename": "Polinômios Teorema do resto.excalidraw",
+      "path": "Excalidraw/Polinômios Teorema do resto.excalidraw.md"
+    },
+    {
+      "basename": "Polinômios grau par e graup impar.excalidraw",
+      "path": "Excalidraw/Polinômios grau par e graup impar.excalidraw.md"
     },
     {
       "basename": "Produto Notaveis",
-      "path": "Produto Notaveis.md"
+      "path": "EEAR/Produto Notaveis.md"
     },
     {
-      "basename": "Simbolos em Latex",
-      "path": "LATEX/Simbolos em Latex.md"
+      "basename": "Função seno , cosseno e tangente",
+      "path": "Excalidraw/Função seno , cosseno e tangente.md"
     },
     {
-      "basename": "diferentes tipos de funções",
-      "path": "EEAR/diferentes tipos de funções.md"
+      "basename": "Função de seno",
+      "path": "Excalidraw/Função de seno.md"
+    },
+    {
+      "basename": "Função seno , cosseno e tangente",
+      "path": "Excalidraw/Função seno , cosseno e tangente.png"
+    },
+    {
+      "basename": "Drawing 2023-10-21 21.46.15.excalidraw",
+      "path": "Excalidraw/Drawing 2023-10-21 21.46.15.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2023-10-21 16.53.45.excalidraw",
+      "path": "Excalidraw/Drawing 2023-10-21 16.53.45.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2023-10-16 16.04.26.excalidraw",
+      "path": "Excalidraw/Drawing 2023-10-16 16.04.26.excalidraw.md"
     },
     {
       "basename": "Drawing 2023-10-19 20.50.12.excalidraw",
@@ -37,16 +81,32 @@
       "path": "Untitled.canvas"
     },
     {
+      "basename": "Calculando seno na circuferência",
+      "path": "EEAR/Calculando seno na circuferência.md"
+    },
+    {
+      "basename": "print_screen_133",
+      "path": "imagens/print_screen_133.png"
+    },
+    {
+      "basename": "print_screen_127",
+      "path": "imagens/print_screen_127.png"
+    },
+    {
+      "basename": "Simbolos em Latex",
+      "path": "LATEX/Simbolos em Latex.md"
+    },
+    {
+      "basename": "diferentes tipos de funções",
+      "path": "EEAR/diferentes tipos de funções.md"
+    },
+    {
       "basename": "to use latex",
       "path": "LATEX/to use latex.md"
     },
     {
       "basename": "latex_primer",
       "path": "LATEX/latex_primer.pdf"
-    },
-    {
-      "basename": "Drawing 2023-10-16 16.04.26.excalidraw",
-      "path": "Excalidraw/Drawing 2023-10-16 16.04.26.excalidraw.md"
     },
     {
       "basename": "funções do 1° grau ou função afim",
@@ -135,42 +195,6 @@
     {
       "basename": "gramática normativa",
       "path": "EAGS SIN/GRAMÁTICA/gramática normativa.md"
-    },
-    {
-      "basename": "voz passiva",
-      "path": "EAGS SIN/voz passiva.md"
-    },
-    {
-      "basename": "crase",
-      "path": "EAGS SIN/crase.md"
-    },
-    {
-      "basename": "regras do acento gráfico",
-      "path": "EAGS SIN/GRAMÁTICA/regras do acento gráfico.md"
-    },
-    {
-      "basename": "Poesia do tempo",
-      "path": "EAGS SIN/palavras de dificil compreensão/Poesia do tempo.md"
-    },
-    {
-      "basename": "A Rosa do Povo",
-      "path": "EAGS SIN/palavras de dificil compreensão/A Rosa do Povo.md"
-    },
-    {
-      "basename": "pronome pessoais (neles se incluem os pronomes de tratamento)",
-      "path": "EAGS SIN/GRAMÁTICA/pronome pessoais (neles se incluem os pronomes de tratamento).md"
-    },
-    {
-      "basename": "uso do ponto-final",
-      "path": "EAGS SIN/GRAMÁTICA/uso do ponto-final.md"
-    },
-    {
-      "basename": "uso da virgula correto",
-      "path": "EAGS SIN/TEXTO/uso da virgula correto.md"
-    },
-    {
-      "basename": "omissão da virgula alterando o sentido da frase",
-      "path": "EAGS SIN/GRAMÁTICA/omissão da virgula alterando o sentido da frase.md"
     }
   ],
   "omittedPaths": [],

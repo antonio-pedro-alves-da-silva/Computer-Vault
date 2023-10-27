@@ -35,7 +35,7 @@
 
 
 ![[print_screen_121.png]]![[print_screen_123.png]]
-## Briot-ruffini divisão de polinômios
+z## Briot-ruffini divisão de polinômios
 
 ![[print_screen_125.png]]
 ![[print_screen_126.png]]
@@ -61,14 +61,17 @@ este polinômio possui raizes reais sendo x1 = 2 e x2 = 3 e an(coeficiente de ma
 $$x²-5x+6=1(x-2)(x-3)$$
 
 
+## Teorema do resto
+
 # multiplicidade de uma raiz ou raízes múltiplas
 
 ![[print_screen_124.png]]
 
 **encontrando as demais raizes usando briott-rufinni sabendo uma das raizes de um polinômio**
 ![[print_screen_127.png]]
-# raízes complexas e relações de Girard
+# raízes complexas e relações de Girard ou soma e produto
 
+![[print_screen_161.png]]
 
+![[Polinômios grau par e graup impar.excalidraw]]
 
- 
