@@ -11,3 +11,8 @@
 ![[print_screen_196.png]]
 
 
+
+# Ângulos na Circuferência
+
+![[Pasted image 20231027101919.png]]
+![[ci ie cs(angulos na circuferência)]]

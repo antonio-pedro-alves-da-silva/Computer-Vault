@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "760b8722ff721c30",
+            "id": "2c0f12e4622bd7f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,18 +20,77 @@
             }
           },
           {
-            "id": "137e1b9475eb4de9",
+            "id": "27458cb5c1183f91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ângulos.md",
+                "file": "GEOMETRIA ESPACIAL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d978b23ae4e8c050",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/GEOMETRIA ESPACIAL THODI.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "d536fbe5762788f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estudo Analítico.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13bc7c160baffff4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EEAR/diferentes tipos de funções.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e29eb7b622d49d44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EEAR/Polígonos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29f1c029bc1d2581",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estudo Analítico.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bico",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EEAR/EEAR.md",
+                "file": "GEOMETRIA ESPACIAL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EEAR/EEAR.md",
+                "file": "GEOMETRIA ESPACIAL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EEAR/EEAR.md"
+                "file": "GEOMETRIA ESPACIAL.md"
               }
             }
           },
@@ -179,26 +238,32 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "760b8722ff721c30",
+  "active": "27458cb5c1183f91",
   "lastOpenFiles": [
-    "Ângulos.md",
-    "EEAR/Polígonos.md",
+    "imagens/print_screen_212.png",
+    "imagens/print_screen_211.png",
+    "imagens/print_screen_210.png",
     "EEAR/EEAR.md",
+    "GEOMETRIA ESPACIAL.md",
+    "imagens/print_screen_209.png",
+    "Excalidraw/GEOMETRIA ESPACIAL THODI.excalidraw.md",
+    "imagens/print_screen_208.png",
+    "Pasted image 20231031155103.png",
+    "Pasted image 20231031153757.png",
+    "Pasted image 20231031151346.png",
+    "Estudo Analítico.md",
+    "EEAR/diferentes tipos de funções.md",
+    "EEAR/Polígonos.md",
+    "imagens/print_screen_207.png",
+    "EEAR/TRIGONOMETRIA.md",
+    "Pasted image 20231030183458.png",
+    "Pasted image 20231030171834.png",
+    "Ângulos.md",
+    "Untitled.md",
+    "Excalidraw/ci ie cs(angulos na circuferência).md",
     "Excalidraw/bico(pontos notáveis).md",
     "Excalidraw/Drawing 2023-10-26 21.14.18.excalidraw.md",
-    "imagens/print_screen_200.png",
-    "imagens/print_screen_199.png",
-    "imagens/print_screen_198.png",
-    "imagens/print_screen_197.png",
-    "EEAR/TRIGONOMETRIA.md",
-    "imagens/print_screen_192.png",
-    "imagens/print_screen_196.png",
-    "imagens/print_screen_195.png",
-    "imagens/print_screen_194.png",
-    "imagens/print_screen_193.png",
-    "imagens/print_screen_191.png",
     "imagens/print_screen_188.xcf",
-    "Estudo Analítico.md",
     "EEAR/Polinômios.md",
     "EEAR/Números Complexos.md",
     "Excalidraw/Polinômios Teorema do resto.excalidraw.md",
@@ -213,14 +278,8 @@
     "Untitled.canvas",
     "EEAR/Calculando seno na circuferência.md",
     "Razões trigonométricas no triângulo retângulo.md",
-    "delete.md",
-    "LATEX/Simbolos em Latex.md",
-    "EEAR/diferentes tipos de funções.md",
-    "LATEX/to use latex.md",
     "LATEX/latex_primer.pdf",
     "Excalidraw",
-    "imagens/funções do 1° grau ou função afim.md",
-    "imagens/funções definidas por fórmulas.md",
     "LATEX",
     "EEAR/Untitled",
     "EEAR",

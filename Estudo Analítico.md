@@ -4,6 +4,7 @@
 ## Equação reduzida da reta
 
 ![[print_screen_162.png]]
+coeficiente angular se uma reta passa por dois pontos
 ![[print_screen_164.png]]
 
 ## Posições entre duas retas

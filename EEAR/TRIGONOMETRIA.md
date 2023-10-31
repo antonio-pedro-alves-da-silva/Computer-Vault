@@ -8,6 +8,10 @@
 
 [[Drawing 2023-10-21 21.46.15.excalidraw|valores de seno e cosseno na circuferência]]
 
+
+![[Pasted image 20231030171834.png]]
+
+
 # co-tangente,secante,cossecante
 
 ![[Pasted image 20231023202016.png]]

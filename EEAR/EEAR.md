@@ -979,6 +979,7 @@ MATEMÁTICA
 				classificação
 				propriedades
 				congruências
+				áreas do triângulo usando o seno
 				mediana,bissetriz,altura e pontos notáveis
 				semelhança
 				relações métricas e áreas
@@ -1029,7 +1030,7 @@ MATEMÁTICA
 		polígono de frequência
 		medidas de tendência central
 			moda, média e mediana. 
-	GEOMETRIA ESPACIAL
+	[[GEOMETRIA ESPACIAL]]
 		Poliedro: 
 			conceitos e propriedades
 		Prisma: 
@@ -1234,7 +1235,7 @@ AS MATÉRIAS QUE MAIS CAEM
 		Trigonometria
 		Geometria Analítica
 		Geometria Plana
-		- Geometria Espacial: Cilindro, cone, esfera e prismas
+		Geometria Espacial: Cilindro, cone, esfera e prismas
 		- Logaritmo
 		- Estatística
 		- Progressão Aritmética e Geométrica
