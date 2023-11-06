@@ -4,7 +4,7 @@
 # Valor Númerico , Raiz e Polinômio Nulo
 
 ## Valor Númerico
-![[print_screen_112.png]]
+![[Pasted image 20231102133046.png]]
 
 ## Raiz
 
@@ -62,6 +62,8 @@ $$x²-5x+6=1(x-2)(x-3)$$
 
 
 ## Teorema do resto
+
+![[Pasted image 20231102133222.png]]
 
 # multiplicidade de uma raiz ou raízes múltiplas
 

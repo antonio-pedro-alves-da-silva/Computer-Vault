@@ -1018,17 +1018,14 @@ MATEMÁTICA
 				princípio fundamental da contagem
 				arranjos, combinações e permutações simples probabilidades
 	ESTATÍSTICA
-		Conceitos
-		população
-		amostra
-		variável
+		[[população , amostra , variável , rol e amplitude]]
 		tabelas
-		gráficos
-		distribuição de frequência
+		[[gráficos]]
+		[[distribuição de frequência]]
 		tipos de frequências
 		histograma
 		polígono de frequência
-		medidas de tendência central
+		[[medidas de tendência central]]
 			moda, média e mediana. 
 	[[GEOMETRIA ESPACIAL]]
 		Poliedro: 
@@ -1065,6 +1062,10 @@ MATEMÁTICA
 					5. Circuferências interior a outra
 			1. 
 			**Área do triângulo equilátero**
+	LOGARITMO
+		[[condição de existência]]
+		[[diferentes tipos de funções#Propriedades de potenciação|Propriedades de potenciação]]
+		[[diferentes tipos de funções#Propriedades operatórias|Propriedades operatórias]]
 	ÁLGEBRA III
 		[[Números Complexos]]
 			conceitos
@@ -1078,17 +1079,22 @@ MATEMÁTICA
 			forma trigonométrica e operações na forma trigonométrica
 		[[Produto Notaveis]]
 		[[Polinômios ]]
-			conceito
-			grau
-			valor numérico 
-			polinômio nulo
-			identidade e operações 
-			Equações Polinomiais 
-				conceitos
-				teorema fundamental da Álgebra 
-				teorema da decomposição 
-				multiplicidade de uma raiz
-				raízes complexas e relações de Girard
+			Polinômio Nulo
+			identidade
+			Divisão de polinômios
+				divisão normal
+				briot-ruffini
+			Equações polinômias		
+				Teorema da decomposição
+				Teorema do resto
+			Multiplicidade de uma raiz ou raízes
+			Raizes complexas e relações de girard ou soma e produto
+			definições importantes
+				![[print_screen_225.png]]
+				4) se a soma impar for igual a soma par então  o polinômio possui uma raiz igual a -1
+					![[print_screen_226.png]]
+			[[Teorema das raízes racionais]]
+				  
 FÍSICA
 	CONCEITOS BÁSICOS E FUNDAMENTAIS
 		Noções de ordem de grandeza
@@ -1236,8 +1242,8 @@ AS MATÉRIAS QUE MAIS CAEM
 		Geometria Analítica
 		Geometria Plana
 		Geometria Espacial: Cilindro, cone, esfera e prismas
-		- Logaritmo
-		- Estatística
+		Logaritmo
+		Estatística
 		- Progressão Aritmética e Geométrica
 		- Análise Combinatória
 		- Números Complexos

@@ -1,12 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "GEOMETRIA ESPACIAL",
-      "path": "GEOMETRIA ESPACIAL.md"
+      "basename": "diferentes tipos de funções",
+      "path": "EEAR/MATEMÁTICA/ÁLGEBRA/Funções/diferentes tipos de funções.md"
     },
     {
       "basename": "EEAR",
       "path": "EEAR/EEAR.md"
+    },
+    {
+      "basename": "Ângulos",
+      "path": "EEAR/MATEMÁTICA/GEOMETRIA PLANA/Ângulos.md"
+    },
+    {
+      "basename": "TRIGONOMETRIA",
+      "path": "EEAR/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md"
+    },
+    {
+      "basename": "Polígonos",
+      "path": "EEAR/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md"
+    },
+    {
+      "basename": "distribuição de frequência",
+      "path": "distribuição de frequência.md"
+    },
+    {
+      "basename": "medidas de tendência central",
+      "path": "EEAR/MATEMÁTICA/ESTATÍSTICA/medidas de tendência central.md"
+    },
+    {
+      "basename": "população , amostra , variável , rol e amplitude",
+      "path": "EEAR/MATEMÁTICA/ESTATÍSTICA/população , amostra , variável , rol e amplitude.md"
+    },
+    {
+      "basename": "condição de existência",
+      "path": "EEAR/MATEMÁTICA/LOGARTIMO/condição de existência.md"
+    },
+    {
+      "basename": "Teorema das raízes racionais",
+      "path": "EEAR/MATEMÁTICA/ÁLGEBRA III/Polinômios/Teorema das raízes racionais.md"
+    },
+    {
+      "basename": "Números Complexos",
+      "path": "EEAR/MATEMÁTICA/ÁLGEBRA III/Números Complexos.md"
+    },
+    {
+      "basename": "Polinômios",
+      "path": "EEAR/MATEMÁTICA/ÁLGEBRA III/Polinômios/Polinômios.md"
+    },
+    {
+      "basename": "GEOMETRIA ESPACIAL",
+      "path": "EEAR/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md"
     },
     {
       "basename": "GEOMETRIA ESPACIAL THODI.excalidraw",
@@ -14,27 +58,7 @@
     },
     {
       "basename": "Estudo Analítico",
-      "path": "Estudo Analítico.md"
-    },
-    {
-      "basename": "diferentes tipos de funções",
-      "path": "EEAR/diferentes tipos de funções.md"
-    },
-    {
-      "basename": "Polígonos",
-      "path": "EEAR/Polígonos.md"
-    },
-    {
-      "basename": "TRIGONOMETRIA",
-      "path": "EEAR/TRIGONOMETRIA.md"
-    },
-    {
-      "basename": "Ângulos",
-      "path": "Ângulos.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
+      "path": "EEAR/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md"
     },
     {
       "basename": "ci ie cs(angulos na circuferência)",
@@ -49,14 +73,6 @@
       "path": "imagens/print_screen_192.png"
     },
     {
-      "basename": "Polinômios",
-      "path": "EEAR/Polinômios.md"
-    },
-    {
-      "basename": "Números Complexos",
-      "path": "EEAR/Números Complexos.md"
-    },
-    {
       "basename": "Polinômios Teorema do resto.excalidraw",
       "path": "Excalidraw/Polinômios Teorema do resto.excalidraw.md"
     },
@@ -66,7 +82,7 @@
     },
     {
       "basename": "Produto Notaveis",
-      "path": "EEAR/Produto Notaveis.md"
+      "path": "EEAR/MATEMÁTICA/ÁLGEBRA III/Produto Notaveis.md"
     },
     {
       "basename": "Função seno , cosseno e tangente",
@@ -95,14 +111,6 @@
     {
       "basename": "Drawing 2023-10-19 20.50.12.excalidraw",
       "path": "Excalidraw/Drawing 2023-10-19 20.50.12.excalidraw.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.canvas"
-    },
-    {
-      "basename": "Calculando seno na circuferência",
-      "path": "EEAR/Calculando seno na circuferência.md"
     },
     {
       "basename": "print_screen_133",
@@ -158,7 +166,7 @@
     },
     {
       "basename": "definição de função",
-      "path": "EEAR/definição de função.md"
+      "path": "EEAR/MATEMÁTICA/ÁLGEBRA/Funções/definição de função.md"
     },
     {
       "basename": "CONJUNTOS NUMÉRICOS",
@@ -170,7 +178,7 @@
     },
     {
       "basename": "LEI DE FORMAÇÃO , VALOR NUMÉRICO E RAIZ",
-      "path": "EEAR/LEI DE FORMAÇÃO , VALOR NUMÉRICO E RAIZ.md"
+      "path": "EEAR/MATEMÁTICA/ÁLGEBRA/Funções/LEI DE FORMAÇÃO , VALOR NUMÉRICO E RAIZ.md"
     },
     {
       "basename": "concordância verbal",
@@ -178,7 +186,7 @@
     },
     {
       "basename": "domínio, imagem e contradomínio",
-      "path": "EEAR/domínio, imagem e contradomínio.md"
+      "path": "EEAR/MATEMÁTICA/ÁLGEBRA/Funções/domínio, imagem e contradomínio.md"
     },
     {
       "basename": "print_screen 1",
@@ -187,18 +195,6 @@
     {
       "basename": "print_screen",
       "path": "imagens/print_screen.png"
-    },
-    {
-      "basename": "concordância nominal",
-      "path": "EAGS SIN/GRAMÁTICA/concordância nominal.md"
-    },
-    {
-      "basename": "EAGS SIN",
-      "path": "EAGS SIN/EAGS SIN.md"
-    },
-    {
-      "basename": "Task To Do",
-      "path": "Task-To-Do/Task To Do.md"
     }
   ],
   "omittedPaths": [],

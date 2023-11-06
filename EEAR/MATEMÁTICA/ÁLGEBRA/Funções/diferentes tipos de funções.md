@@ -93,20 +93,29 @@ o x do vertice também pode ser dado como $\Large xv = \frac{x1 + x2}{2}$
 ![[print_screen_024.png]]![[print_screen_025.png]]![[print_screen_026.png]]![[print_screen_027.png]]
 
 
-# Função Modular 
+# Função Modular
 ## Módulo de um Número Real
 
 ![[print_screen_030.png]]![[print_screen_031.png]]![[print_screen_032.png]]
 
 
 ## Propriedades de um módulo
+
+
+4ª propriedade: o módulo da diferença é maior ou igual à diferença dos módulos.
+|n – m| ≥ |n| – |m|"
+
 ![[print_screen_033.png]]![[print_screen_034.png]]![[print_screen_035.png]]
+
 
 **porque fica + e - no cinco**
 **na 3 terceira linha tudo que nós fazemos no lado esquerdo nós devemos fazer no lado direto como colocar a raiz do lado esquerdo nos devemos colocar a raiz no lado direito**
 ![[print_screen_036.png]]
 
 ## Gráfico
+
+### função do primeiro grau crescente e decrescente
+![[print_screen_229.png]]
 
 ![[print_screen_037.png]]
 ![[print_screen_040.png]]![[print_screen_041.png]]![[print_screen_042.png]]
@@ -135,7 +144,7 @@ o x do vertice também pode ser dado como $\Large xv = \frac{x1 + x2}{2}$
 
 # Função Exponencial
 
-## Revisão de potenciação
+## Propriedades de potenciação
 
 ![[print_screen_053.png]]
 ![[print_screen_054.png]]
@@ -143,9 +152,6 @@ o x do vertice também pode ser dado como $\Large xv = \frac{x1 + x2}{2}$
 ![[print_screen_058.png]]
 $$\Large e) 3².5²=(3.5)²=15²$$
 ![[print_screen_059.png]]
-![[print_screen_060.png]]
-![[print_screen_062.png]]
-![[print_screen_064.png]]
 ### j)
 $$a^{n}.b^{m}.c^{r}=\frac{a^{n}}{b^{-(m)}.c^{-(r)}}$$
 $$4.3^{-1}.5^{-2}=\frac{4}{3^{-(-1)}.5^{-(-2)}}$$
@@ -155,6 +161,9 @@ $$4.3^{-1}.5^{-2}=\frac{4}{3^{-(-1)}.5^{-(-2)}}$$
 ![[print_screen_065.png]]
 
 ## Gráfico
+
+dominio,imagem,contradominio
+crescente e decrescente
 
 ![[print_screen_066.png]]![[print_screen_067.png]]
 
@@ -224,7 +233,9 @@ $$4.3^{-1}.5^{-2}=\frac{4}{3^{-(-1)}.5^{-(-2)}}$$
 ![[print_screen_099.png]]
 ![[print_screen_100.png]]
 ![[print_screen_101.png]]
-
+![[print_screen_228.png]]
+$$$$
+![[print_screen_230.png]]
 
 ## Função Logarítmica e Gráfico
 ### Definição
@@ -246,9 +257,9 @@ $$4.3^{-1}.5^{-2}=\frac{4}{3^{-(-1)}.5^{-(-2)}}$$
 ![[print_screen_107.png]]
 
 **Função inversa logarítmica**
-![[print_screen_108.png]]
- 
 
+ 
+![[Pasted image 20231106120334.png]]
 
 
 
@@ -261,10 +272,13 @@ $$4.3^{-1}.5^{-2}=\frac{4}{3^{-(-1)}.5^{-(-2)}}$$
 
 ![[print_screen_111.png]]
 ## Equações logarítimicas
+
 ![[print_screen_109.png]]
 a solução não admite numeros negativos pois a definição da função logaritima diz que o x pertence ao reais positivos e diferente de zero veja : [[print_screen_102.png|definição]]
 
 ![[print_screen_110.png]]
+
+
 
 
 

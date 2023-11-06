@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7fd532d4c3e15157",
+        "id": "254401f7f312c973",
         "type": "tabs",
         "children": [
           {
-            "id": "2c0f12e4622bd7f9",
+            "id": "d6fcb29fdb58e396",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,77 +20,31 @@
             }
           },
           {
-            "id": "27458cb5c1183f91",
+            "id": "c5dd170c098c3f71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GEOMETRIA ESPACIAL.md",
+                "file": "EEAR/MATEMÁTICA/GEOMETRIA PLANA/Ângulos.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d978b23ae4e8c050",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/GEOMETRIA ESPACIAL THODI.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "d536fbe5762788f9",
+            "id": "33ad0e8f828d3229",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudo Analítico.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13bc7c160baffff4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EEAR/diferentes tipos de funções.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e29eb7b622d49d44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EEAR/Polígonos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29f1c029bc1d2581",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Estudo Analítico.md",
+                "file": "EEAR/MATEMÁTICA/ÁLGEBRA/Funções/diferentes tipos de funções.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bico",
+                "query": "mediana",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GEOMETRIA ESPACIAL.md",
+                "file": "EEAR/MATEMÁTICA/ÁLGEBRA/Funções/diferentes tipos de funções.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GEOMETRIA ESPACIAL.md",
+                "file": "EEAR/MATEMÁTICA/ÁLGEBRA/Funções/diferentes tipos de funções.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GEOMETRIA ESPACIAL.md"
+                "file": "EEAR/MATEMÁTICA/ÁLGEBRA/Funções/diferentes tipos de funções.md"
               }
             }
           },
@@ -238,55 +192,55 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "27458cb5c1183f91",
+  "active": "33ad0e8f828d3229",
   "lastOpenFiles": [
-    "imagens/print_screen_212.png",
-    "imagens/print_screen_211.png",
-    "imagens/print_screen_210.png",
+    "imagens/print_screen_230.png",
+    "Pasted image 20231106120334.png",
     "EEAR/EEAR.md",
-    "GEOMETRIA ESPACIAL.md",
-    "imagens/print_screen_209.png",
-    "Excalidraw/GEOMETRIA ESPACIAL THODI.excalidraw.md",
-    "imagens/print_screen_208.png",
-    "Pasted image 20231031155103.png",
-    "Pasted image 20231031153757.png",
-    "Pasted image 20231031151346.png",
-    "Estudo Analítico.md",
-    "EEAR/diferentes tipos de funções.md",
-    "EEAR/Polígonos.md",
-    "imagens/print_screen_207.png",
-    "EEAR/TRIGONOMETRIA.md",
-    "Pasted image 20231030183458.png",
-    "Pasted image 20231030171834.png",
-    "Ângulos.md",
+    "EEAR/MATEMÁTICA/ÁLGEBRA/Funções/diferentes tipos de funções.md",
+    "imagens/print_screen_229.png",
+    "EEAR/MATEMÁTICA/GEOMETRIA PLANA/Ângulos.md",
+    "EEAR/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md",
+    "EEAR/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
+    "distribuição de frequência.md",
+    "EEAR/MATEMÁTICA/ESTATÍSTICA/medidas de tendência central.md",
+    "gráficos.md",
+    "EEAR/MATEMÁTICA/ESTATÍSTICA/população , amostra , variável , rol e amplitude.md",
+    "imagens/print_screen_228.png",
+    "EEAR/MATEMÁTICA/LOGARTIMO/condição de existência.md",
+    "EEAR/MATEMÁTICA/LOGARTIMO/LOGARITMO.md",
     "Untitled.md",
+    "imagens/print_screen_227.png",
+    "EEAR/MATEMÁTICA/ÁLGEBRA III/Polinômios",
+    "EEAR/Calculando seno na circuferência.md",
+    "EEAR/MATEMÁTICA/ÁLGEBRA/Funções",
+    "EEAR/MATEMÁTICA/ÁLGEBRA III",
+    "EEAR/MATEMÁTICA/LOGARTIMO",
+    "EEAR/MATEMÁTICA/GEOMETRIA ANALÍTICA",
+    "EEAR/MATEMÁTICA/GEOMETRIA ESPACIAL",
+    "EEAR/MATEMÁTICA/ESTATÍSTICA",
+    "EEAR/MATEMÁTICA/ÁLGEBRA II",
+    "EEAR/MATEMÁTICA/GEOMETRIA PLANA",
+    "EEAR/MATEMÁTICA/ÁLGEBRA",
+    "imagens/Pasted image 20231103103301.png",
+    "imagens/Pasted image 20231103103219.png",
+    "imagens/Pasted image 20231102133222.png",
+    "imagens/Pasted image 20231102133046.png",
+    "imagens/Pasted image 20231101094601.png",
+    "imagens/Pasted image 20231101071244.png",
+    "Untitled.canvas",
+    "EEAR/MATEMÁTICA/ÁLGEBRA III/Polinômios/Teorema das raízes racionais.md",
+    "EEAR/MATEMÁTICA/ÁLGEBRA III/Números Complexos.md",
+    "EEAR/MATEMÁTICA/ÁLGEBRA III/Polinômios/Polinômios.md",
+    "EEAR/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
+    "Excalidraw/GEOMETRIA ESPACIAL THODI.excalidraw.md",
+    "EEAR/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md",
     "Excalidraw/ci ie cs(angulos na circuferência).md",
     "Excalidraw/bico(pontos notáveis).md",
     "Excalidraw/Drawing 2023-10-26 21.14.18.excalidraw.md",
-    "imagens/print_screen_188.xcf",
-    "EEAR/Polinômios.md",
-    "EEAR/Números Complexos.md",
     "Excalidraw/Polinômios Teorema do resto.excalidraw.md",
     "Excalidraw/Polinômios grau par e graup impar.excalidraw.md",
-    "EEAR/Produto Notaveis.md",
-    "Excalidraw/Função seno , cosseno e tangente.md",
-    "Excalidraw/Função de seno.md",
-    "Excalidraw/Drawing 2023-10-21 21.46.15.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-21 16.53.45.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-16 16.04.26.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-19 20.50.12.excalidraw.md",
-    "Untitled.canvas",
-    "EEAR/Calculando seno na circuferência.md",
-    "Razões trigonométricas no triângulo retângulo.md",
-    "LATEX/latex_primer.pdf",
-    "Excalidraw",
-    "LATEX",
-    "EEAR/Untitled",
-    "EEAR",
-    "EAGS SIN/palavras de dificil compreensão",
-    "EAGS SIN/GRAMÁTICA/Usos da Partícula Se.pdf",
-    "EAGS SIN/GRAMÁTICA/processo de derivação",
-    "EAGS SIN/GRAMÁTICA/Unconfirmed 438243.crdownload",
+    "EEAR/MATEMÁTICA/ÁLGEBRA III/Produto Notaveis.md",
     "Untitled 1.canvas"
   ]
 }
