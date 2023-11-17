@@ -87,6 +87,10 @@ MACETE PARA SE LEBRAR BICO(BARICENTRO,INCENTRO,CIRCUCENTRO,ORTOCENTRO)
 
 
 
+# Triângulo egípicio
+
+![[Pasted image 20231111153400.png]]
+
 # Relações métricas e áreas
 
 ![[print_screen_179.png]]

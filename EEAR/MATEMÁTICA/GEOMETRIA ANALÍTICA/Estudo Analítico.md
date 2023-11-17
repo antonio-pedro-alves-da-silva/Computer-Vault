@@ -7,7 +7,7 @@
 coeficiente angular se uma reta passa por dois pontos
 ![[print_screen_164.png]]
 
-## Posições entre duas retas
+## Posições relativa entre duas retas
 
 ![[print_screen_166.png]]
 

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "254401f7f312c973",
+        "id": "28002f525e979b04",
         "type": "tabs",
         "children": [
           {
-            "id": "d6fcb29fdb58e396",
+            "id": "c752426626f2536a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,31 +20,18 @@
             }
           },
           {
-            "id": "c5dd170c098c3f71",
+            "id": "db2dddc65f0a266e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EEAR/MATEMÁTICA/GEOMETRIA PLANA/Ângulos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33ad0e8f828d3229",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EEAR/MATEMÁTICA/ÁLGEBRA/Funções/diferentes tipos de funções.md",
+                "file": "regência verbal.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mediana",
+                "query": "linguagem c",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,12 +85,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 332.51103591918945,
-    "collapsed": true
+    "width": 332.51103591918945
   },
   "right": {
     "id": "ee4e8bcf9413ed0e",
@@ -119,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EEAR/MATEMÁTICA/ÁLGEBRA/Funções/diferentes tipos de funções.md",
+                "file": "EEAR/EEAR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EEAR/MATEMÁTICA/ÁLGEBRA/Funções/diferentes tipos de funções.md",
+                "file": "EEAR/EEAR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EEAR/MATEMÁTICA/ÁLGEBRA/Funções/diferentes tipos de funções.md"
+                "file": "EEAR/EEAR.md"
               }
             }
           },
@@ -192,55 +179,55 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "33ad0e8f828d3229",
+  "active": "46925ea84d43e3d5",
   "lastOpenFiles": [
-    "imagens/print_screen_230.png",
-    "Pasted image 20231106120334.png",
+    "regência verbal.md",
     "EEAR/EEAR.md",
-    "EEAR/MATEMÁTICA/ÁLGEBRA/Funções/diferentes tipos de funções.md",
-    "imagens/print_screen_229.png",
-    "EEAR/MATEMÁTICA/GEOMETRIA PLANA/Ângulos.md",
-    "EEAR/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md",
+    "EAGS SIN/EAGS SIN.md",
+    "EAGS SIN/GRAMÁTICA/colocação pronominal.md",
+    "EAGS SIN/GRAMÁTICA/pronome pessoais (neles se incluem os pronomes de tratamento).md",
+    "EAGS SIN/GRAMÁTICA/concordância verbal.md",
+    "EAGS SIN/GRAMÁTICA/regras do acento gráfico.md",
+    "EEAR/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
     "EEAR/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
+    "EAGS SIN/GRAMÁTICA/Usos da Partícula Se.pdf",
+    "EEAR/MATEMÁTICA/ÁLGEBRA/progressões aritmética e geométrica.md",
+    "EEAR/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md",
+    "TRIGONOMETRIA 2023-11-10 15.20.17.excalidraw.md",
+    "EEAR/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md",
+    "EEAR/MATEMÁTICA/ÁLGEBRA/Funções/diferentes tipos de funções.md",
+    "EEAR/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md",
+    "EEAR/MATEMÁTICA/ÁLGEBRA III/Números Complexos.md",
+    "EEAR/MATEMÁTICA/PROBABILIDADE/PROBRABILIDADE.md",
+    "EEAR/MATEMÁTICA/PROBABILIDADE",
+    "EEAR/MATEMÁTICA/Untitled.md",
+    "EEAR/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md",
+    "imagens/print_screen_245.png",
+    "imagens/print_screen_244.png",
+    "imagens/print_screen_243.png",
+    "Pasted image 20231114090420.png",
+    "Pasted image 20231114072734.png",
+    "imagens/print_screen_242.png",
+    "imagens/print_screen_241.png",
+    "imagens/print_screen_240.png",
+    "Pasted image 20231113132228.png",
+    "Pasted image 20231113124649.jpg",
+    "EEAR/MATEMÁTICA/ÁLGEBRA III/Produto Notaveis.md",
+    "Excalidraw/TRIGONOMETRIA 2023-11-10 15.20.17.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-10 17.27.29.excalidraw.md",
+    "Excalidraw/Função seno , cosseno e tangente.md",
+    "Harry Potter and the Philosopher’s Stone/Harry Potter and thePhilosopher’s Stone.md",
+    "Untitled/Untitled.md",
+    "Harry Potter and the Philosopher’s Stone",
+    "EEAR/MATEMÁTICA/ÁLGEBRA II/Matrizes",
     "distribuição de frequência.md",
-    "EEAR/MATEMÁTICA/ESTATÍSTICA/medidas de tendência central.md",
-    "gráficos.md",
-    "EEAR/MATEMÁTICA/ESTATÍSTICA/população , amostra , variável , rol e amplitude.md",
-    "imagens/print_screen_228.png",
-    "EEAR/MATEMÁTICA/LOGARTIMO/condição de existência.md",
-    "EEAR/MATEMÁTICA/LOGARTIMO/LOGARITMO.md",
-    "Untitled.md",
-    "imagens/print_screen_227.png",
     "EEAR/MATEMÁTICA/ÁLGEBRA III/Polinômios",
-    "EEAR/Calculando seno na circuferência.md",
     "EEAR/MATEMÁTICA/ÁLGEBRA/Funções",
     "EEAR/MATEMÁTICA/ÁLGEBRA III",
     "EEAR/MATEMÁTICA/LOGARTIMO",
     "EEAR/MATEMÁTICA/GEOMETRIA ANALÍTICA",
     "EEAR/MATEMÁTICA/GEOMETRIA ESPACIAL",
-    "EEAR/MATEMÁTICA/ESTATÍSTICA",
-    "EEAR/MATEMÁTICA/ÁLGEBRA II",
-    "EEAR/MATEMÁTICA/GEOMETRIA PLANA",
-    "EEAR/MATEMÁTICA/ÁLGEBRA",
-    "imagens/Pasted image 20231103103301.png",
-    "imagens/Pasted image 20231103103219.png",
-    "imagens/Pasted image 20231102133222.png",
-    "imagens/Pasted image 20231102133046.png",
-    "imagens/Pasted image 20231101094601.png",
-    "imagens/Pasted image 20231101071244.png",
     "Untitled.canvas",
-    "EEAR/MATEMÁTICA/ÁLGEBRA III/Polinômios/Teorema das raízes racionais.md",
-    "EEAR/MATEMÁTICA/ÁLGEBRA III/Números Complexos.md",
-    "EEAR/MATEMÁTICA/ÁLGEBRA III/Polinômios/Polinômios.md",
-    "EEAR/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
-    "Excalidraw/GEOMETRIA ESPACIAL THODI.excalidraw.md",
-    "EEAR/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md",
-    "Excalidraw/ci ie cs(angulos na circuferência).md",
-    "Excalidraw/bico(pontos notáveis).md",
-    "Excalidraw/Drawing 2023-10-26 21.14.18.excalidraw.md",
-    "Excalidraw/Polinômios Teorema do resto.excalidraw.md",
-    "Excalidraw/Polinômios grau par e graup impar.excalidraw.md",
-    "EEAR/MATEMÁTICA/ÁLGEBRA III/Produto Notaveis.md",
     "Untitled 1.canvas"
   ]
 }

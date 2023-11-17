@@ -9,7 +9,7 @@
 
 
 $i⁰=1$
-$i¹=i$
+$i¹=i = \sqrt{-1}$
 $i²=-1$
 $i³=-i$
 $i⁴=1$
@@ -41,7 +41,8 @@ $\Large i³=-i$
 
 ![[print_screen_130.png]]
 ## IGUALDADE
-![[print_screen_131.png]]
+
+![[Pasted image 20231108120640.png]]
 
 
 

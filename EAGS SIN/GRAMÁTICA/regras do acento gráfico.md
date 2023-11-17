@@ -84,8 +84,6 @@ ele mantém eles contêm
 
 3.**Pôde** é a forma do verbo poder conjugada na 3.ª pessoa do singular do pretérito perfeito do indicativo.
 
-Resumo
-singular plural ,  por , pôde
 ### Referências
 - https://escolakids.uol.com.br/portugues/acento-agudo.htm#:~:text=Regras%20gerais%3A,-Proparox%C3%ADtonas%3A%20todas%20s%C3%A3o&text=Ox%C3%ADtonas%3A%20acentuam%2Dse%20as%20terminadas,%2C%20r%2C%20x%2C%20n.
 - https://www.portugues.com.br/gramatica/acento-agudo.html

@@ -146,7 +146,6 @@ LINGUA PORTUGUESA
 				encontro consonantal misto
 					as consoantes ficam na mesma silaba e em silabas diferentes na palavra
 			tonicidade
-				palavras com acentos que podem cair na prova 
 		Morfologia
 			processos de formação de palavras
 				processo de derivação
@@ -546,6 +545,12 @@ LINGUA PORTUGUESA
 					os advérbios , as preposições , conjuções e as interjeições
 			[[colocação pronominal]]
 			[[Usos da Partícula Se.pdf]]
+				particula apassivadora
+				indice de indeterminação
+				particula expletiva ou de realce
+				pronome reflexivo
+				conjugação integrante
+				 Conjunção subordinativa condicional
 			[[tempo composto]]
 		Sintaxe
 			verbos transitivos
@@ -781,7 +786,7 @@ LINGUA PORTUGUESA
 			regência verbal e nominal
 				o que é um termo regente ?
 					é aquele que exige um complemento para ter determinado sentido
-				regência verbal
+				[[regência verbal]]
 					o que é regência de um verbo ?
 						é a preposição de um verbo
 					termos regentes
@@ -798,7 +803,6 @@ LINGUA PORTUGUESA
 						esquecer
 				[[crase]]
 				[[regência nominal]]
-			[[Uso da ]]
 			Estilística
 					figuras de linguagem
 						figuras de palavras
@@ -940,7 +944,7 @@ LÍNGUA INGLESA
 			Prefixos e Sufixos
 			Artigos definidos e indefinidos
 MATEMÁTICA 
-	[[CONJUNTOS NUMÉRICOS]]
+	[[CONJUNTOS NUMÉRICO]]
 	ÁLGEBRA I
 		Funções
 			[[definição de função]]
@@ -961,7 +965,7 @@ MATEMÁTICA
 				 logarítmica.
 		Resolução de equações , inequações e sistemas
 		Sequências
-		progressões aritmética e geométrica
+		[[progressões aritmética e geométrica]]
 	GEOMETRIA PLANA
 		[[Ângulos]]
 			Ângulo interno e ângulo externo de um poligono regular
@@ -1010,11 +1014,14 @@ MATEMÁTICA
 				leis dos senos e dos cossenos.
 		Teorema de tales 
 	ÁLGEBRA II
-		Matrizes
+		[[Matrizes]]
+			Lei de formação
+			Matriz transposta , oposta , simétrica e antisimétrica
 			conceitos, igualdade e operações. 
 			Determinantes. 
 			Sistemas lineares. 
-			Análise combinatória
+			
+			[[Análise combinatória]]
 				princípio fundamental da contagem
 				arranjos, combinações e permutações simples probabilidades
 	ESTATÍSTICA
@@ -1022,9 +1029,10 @@ MATEMÁTICA
 		tabelas
 		[[gráficos]]
 		[[distribuição de frequência]]
-		tipos de frequências
-		histograma
-		polígono de frequência
+			tipos de frequências
+		[[histograma]]
+			polígono de frequência
+			grafico da ogiva
 		[[medidas de tendência central]]
 			moda, média e mediana. 
 	[[GEOMETRIA ESPACIAL]]
@@ -1094,7 +1102,9 @@ MATEMÁTICA
 				4) se a soma impar for igual a soma par então  o polinômio possui uma raiz igual a -1
 					![[print_screen_226.png]]
 			[[Teorema das raízes racionais]]
-				  
+	[[PROBRABILIDADE]]
+		
+
 FÍSICA
 	CONCEITOS BÁSICOS E FUNDAMENTAIS
 		Noções de ordem de grandeza
@@ -1244,8 +1254,8 @@ AS MATÉRIAS QUE MAIS CAEM
 		Geometria Espacial: Cilindro, cone, esfera e prismas
 		Logaritmo
 		Estatística
-		- Progressão Aritmética e Geométrica
-		- Análise Combinatória
-		- Números Complexos
-		- Matriz e determinantes
-		- Probabilidade
+		Progressão Aritmética e Geométrica
+		Análise Combinatória
+		Números Complexos
+		Matriz e determinantes
+		Probabilidade

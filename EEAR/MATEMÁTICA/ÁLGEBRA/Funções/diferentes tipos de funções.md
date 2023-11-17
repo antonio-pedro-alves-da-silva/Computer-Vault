@@ -81,6 +81,8 @@ c mostra onde a parábola corta exatamente o eixo y
 ## Grafico da parábola vértices
 ![[print_screen_016.png]]
 o x do vertice também pode ser dado como $\Large xv = \frac{x1 + x2}{2}$
+o x do vertice também pode ser dado como $\Large f(xv)=yv$ então se você passar o valor do x do vertice pela função o valor será o y do vértice
+
 
 ![[print_screen_018.png]]
 

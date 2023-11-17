@@ -121,7 +121,7 @@ Quando os sujeitos são ligados por "não só, mas também", "tanto, quanto", "n
 - **Tanto Rafael como Marina participaram** da mostra.
 - **Tanto Rafael como Marina participou** da mostra.
 
-### 15. Concordância com a partícula "se"
+### ==15. Concordância com a partícula "se"==
 
 No caso em que a palavra "se" é índice de indeterminação do sujeito, o verbo deve ser conjugado na 3.ª pessoa do singular. Exemplos:
 
@@ -133,7 +133,7 @@ No caso em que a palavra "se" é partícula apassivadora, o verbo deve ser conju
 - **Construiu-se uma igreja**.
 - **Construíram-se novas igrejas**.
 
-### 16. Concordância com verbos impessoais
+### ==16. Concordância com verbos impessoais==
 
 #### haver
 

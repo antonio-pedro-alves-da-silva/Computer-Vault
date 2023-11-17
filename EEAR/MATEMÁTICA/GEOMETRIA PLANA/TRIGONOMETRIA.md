@@ -14,7 +14,8 @@
 
 # co-tangente,secante,cossecante
 
-![[Pasted image 20231023202016.png]]
+ciclo trigonométrico -> https://www.geogebra.org/m/gcnxqh8e
+
 ![[Pasted image 20231023202425.png]]
 
 # Relaçaõ fundamental da trigonometria
@@ -22,6 +23,9 @@
 
 ![[Pasted image 20231023204305.png]]
 
+# Relação decorrente da relação fundamental da trigonometria
+
+![[relações decorrentes da relação fundamental da trigonometria.jpeg]]
 # arcos congruos e simétricos
 
 Dizemos que dois arcos são côngruos se eles tiverem as mesmas extremidades. No contexto do ciclo trigonométrico, são aqueles que possuem a mesma origem no ponto A e o final no ponto B, como indicado abaixo.
@@ -34,16 +38,28 @@ $\Large \frac{45\pi}{11}$
 ![[print_screen_140.png]]
 
 
-# [Calculando seno na circuferência](https://www.youtube.com/watch?v=o0mC7VwnZnI&list=PLEfwqyY2ox86JU-fviQa08fMH67W6oAKo&index=8)
 
 # Funções trigonométricas
 
-## Gráfico da Função seno
+## Função seno e cosseno
 
-### 
+![[print_screen_233.png]]
+
+$amplitude da função seno ou cosseno= \frac{MaiorValordaImage-MenorValordaImagem}{2}$
+
+https://www.geogebra.org/m/Bbzfry8U
+
+$a=$ eixo de simetria na função seno ,nada de espcial na cosseno, define o deslocamento da função seno e cosseno 
+$b=$ inverte a função quando com sinal negativo indica onde o a função cosseno corta o eixo y
+k= modifica o periodo da função quanto maior menor o periodo
+n= desloca  a função para a direita(sinal negativo) ou para esquerda(sinal positivo)
+
+### Gráfico da Função seno
+
+
 ![[print_screen_141.png]]
-Período na realidade é $\Large \frac{2\pi}{|c|}$
-## Gráfico da função cosseno
+
+### Gráfico da função cosseno
 
 cosseno de x é igual a cosseno de -x já que eles tem a mesma medida
 
@@ -54,15 +70,27 @@ cosseno de x é igual a cosseno de -x já que eles tem a mesma medida
 
 
 
+
+
 ## Como saber se a função é seno ou cosseno
 a função cosseno vai cortar o eixo y no valor máximo ou  no valor minimo
 a função seno vai cortar o eixo y no eixo de simétria da função
-## Gráfico da função tangente
+## Função tangente 
+
+![[print_screen_235.png]]
+ **Dom(tan)={x ∈ R│x ≠ de π/2 + kπ; K ∈ Z}**
+
+
+
+### Gráfico da função tangente
 
 ![[print_screen_148.png]]
-## [[Função seno , cosseno e tangente]]
 
-# [Exercicios Resolvidos de Funções trigonométricas](https://www.youtube.com/watch?v=T-PoZNSp6lM)
+
+
+
+
+
 # Formulas trigonométricas
 
 ## Formulas trigonométricas de adição
@@ -73,7 +101,7 @@ a função seno vai cortar o eixo y no eixo de simétria da função
 
 
 ![[print_screen_153.png]]
-
+![[print_screen_237.png]]
 
 
 ## Arco Metade (bissecção)
