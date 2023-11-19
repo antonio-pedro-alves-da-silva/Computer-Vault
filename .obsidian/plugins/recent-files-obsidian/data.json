@@ -5,6 +5,30 @@
       "path": "EEAR/EEAR.md"
     },
     {
+      "basename": "concordância verbal",
+      "path": "EAGS SIN/GRAMÁTICA/concordância verbal.md"
+    },
+    {
+      "basename": "Números Complexos",
+      "path": "EEAR/MATEMÁTICA/ÁLGEBRA III/Números Complexos.md"
+    },
+    {
+      "basename": "diferentes tipos de funções",
+      "path": "EEAR/MATEMÁTICA/ÁLGEBRA/Funções/diferentes tipos de funções.md"
+    },
+    {
+      "basename": "Polígonos",
+      "path": "EEAR/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md"
+    },
+    {
+      "basename": "GEOMETRIA ESPACIAL",
+      "path": "EEAR/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md"
+    },
+    {
+      "basename": "Estudo Analítico",
+      "path": "EEAR/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md"
+    },
+    {
       "basename": "regência verbal",
       "path": "regência verbal.md"
     },
@@ -21,20 +45,8 @@
       "path": "EAGS SIN/GRAMÁTICA/pronome pessoais (neles se incluem os pronomes de tratamento).md"
     },
     {
-      "basename": "concordância verbal",
-      "path": "EAGS SIN/GRAMÁTICA/concordância verbal.md"
-    },
-    {
       "basename": "regras do acento gráfico",
       "path": "EAGS SIN/GRAMÁTICA/regras do acento gráfico.md"
-    },
-    {
-      "basename": "GEOMETRIA ESPACIAL",
-      "path": "EEAR/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md"
-    },
-    {
-      "basename": "Polígonos",
-      "path": "EEAR/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md"
     },
     {
       "basename": "Usos da Partícula Se",
@@ -53,20 +65,8 @@
       "path": "TRIGONOMETRIA 2023-11-10 15.20.17.excalidraw.md"
     },
     {
-      "basename": "Estudo Analítico",
-      "path": "EEAR/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md"
-    },
-    {
-      "basename": "diferentes tipos de funções",
-      "path": "EEAR/MATEMÁTICA/ÁLGEBRA/Funções/diferentes tipos de funções.md"
-    },
-    {
       "basename": "Análise combinatória",
       "path": "EEAR/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md"
-    },
-    {
-      "basename": "Números Complexos",
-      "path": "EEAR/MATEMÁTICA/ÁLGEBRA III/Números Complexos.md"
     },
     {
       "basename": "PROBRABILIDADE",

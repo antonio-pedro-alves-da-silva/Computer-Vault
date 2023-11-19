@@ -36,7 +36,7 @@ Com nomes próprios, a concordância deve ser feita considerando a presença ou 
 - **Os** Estados Unidos **influenciam** o mundo.
 - Estados Unidos **influencia** o mundo.
 
-### 5. Concordância com pronome relativo "que"
+### ==5. Concordância com pronome relativo "que"==
 
 O verbo deve concordar com o antecedente do pronome “que”. Exemplos:
 
@@ -97,7 +97,7 @@ Mas, quando a ação verbal é aplicada a apenas um dos elementos, o verbo perma
 - **Laís ou Elisa ganhará** mais tempo.
 - **O marido ou a mulher vai** ao supermercado hoje.
 
-### 12. Concordância com sujeitos ligados por "nem"
+### 12. ==Concordância com sujeitos ligados por "nem"==
 
 Quando os sujeitos são ligados por "nem", o verbo vai para o plural. Exemplos:
 
@@ -154,11 +154,6 @@ No caso em que a palavra "se" é partícula apassivadora, o verbo deve ser conju
 - **Deve** **haver** soluções para esse caso.
 - **Pode** **haver** alguma complicação.
 - **Pode** **haver** sérias complicações.
-
-
-4.No sentido de ocorrer ou acontecer: Em algumas construções, o verbo "haver" pode concordar com o sujeito quando usado no sentido de "acontecer". Por exemplo:
-
-- "Haviam eventos importantes programados para o fim de semana."
 
 #### fazer 
 

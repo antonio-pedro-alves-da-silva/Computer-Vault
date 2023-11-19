@@ -44,4 +44,4 @@ coeficiente angular se uma reta passa por dois pontos
 
 
 
-# Área do triângulo  e o equilátero
+# Área do triângulo  e do equilátero

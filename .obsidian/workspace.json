@@ -18,18 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "db2dddc65f0a266e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "regência verbal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "linguagem c",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.51103591918945
+    "width": 330.5,
+    "collapsed": true
   },
   "right": {
     "id": "ee4e8bcf9413ed0e",
@@ -179,25 +168,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "46925ea84d43e3d5",
+  "active": "c752426626f2536a",
   "lastOpenFiles": [
-    "regência verbal.md",
+    "EAGS SIN/GRAMÁTICA/concordância verbal.md",
     "EEAR/EEAR.md",
+    "EEAR/MATEMÁTICA/ÁLGEBRA III/Números Complexos.md",
+    "EEAR/MATEMÁTICA/ÁLGEBRA/Funções/diferentes tipos de funções.md",
+    "EEAR/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
+    "EEAR/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
+    "EEAR/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md",
+    "regência verbal.md",
     "EAGS SIN/EAGS SIN.md",
     "EAGS SIN/GRAMÁTICA/colocação pronominal.md",
     "EAGS SIN/GRAMÁTICA/pronome pessoais (neles se incluem os pronomes de tratamento).md",
-    "EAGS SIN/GRAMÁTICA/concordância verbal.md",
     "EAGS SIN/GRAMÁTICA/regras do acento gráfico.md",
-    "EEAR/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
-    "EEAR/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
     "EAGS SIN/GRAMÁTICA/Usos da Partícula Se.pdf",
     "EEAR/MATEMÁTICA/ÁLGEBRA/progressões aritmética e geométrica.md",
     "EEAR/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md",
     "TRIGONOMETRIA 2023-11-10 15.20.17.excalidraw.md",
-    "EEAR/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md",
-    "EEAR/MATEMÁTICA/ÁLGEBRA/Funções/diferentes tipos de funções.md",
     "EEAR/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md",
-    "EEAR/MATEMÁTICA/ÁLGEBRA III/Números Complexos.md",
     "EEAR/MATEMÁTICA/PROBABILIDADE/PROBRABILIDADE.md",
     "EEAR/MATEMÁTICA/PROBABILIDADE",
     "EEAR/MATEMÁTICA/Untitled.md",

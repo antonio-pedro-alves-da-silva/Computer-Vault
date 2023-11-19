@@ -1103,7 +1103,6 @@ MATEMÁTICA
 					![[print_screen_226.png]]
 			[[Teorema das raízes racionais]]
 	[[PROBRABILIDADE]]
-		
 
 FÍSICA
 	CONCEITOS BÁSICOS E FUNDAMENTAIS
