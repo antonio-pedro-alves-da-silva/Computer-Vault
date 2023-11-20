@@ -1,4 +1,5 @@
-### 1. adjetivo e substantivo
+
+### ==1. adjetivo e substantivo==
 
 #### sub1 + adj1
 
@@ -88,7 +89,7 @@ A palavra "menos" e "alerta" não variam. Exemplos:
 - **Os alunos** ficaram **alerta**.
 #### ![Tirinha com exemplo de erro de concordância nominal](https://static.todamateria.com.br/upload/ti/ri/tirinha-0.jpg)
 
-#### É proibido, é bom, é necessário
+#### ==É proibido, é bom, é necessário==
 
 As expressões "é proibido, é bom, é necessário" não variam, a não ser que sejam acompanhadas por determinantes que as modifiquem. Exemplos:
 
@@ -172,8 +173,19 @@ se o sujeito apresenta uma **forma de tratamento**, o adjetivo predicativo conc
 
 
 
+### ==8. Obrigado== 
+
+**Assim**:
+
+- O homem ao agradecer deve dizer obrigado.
+- A mulher ao agradecer deve dizer obrigada.
+- O homem ao agradecer em nome de outras pessoas deve dizer obrigados.
+- A mulher ao agradecer em nome de outras pessoas, incluindo homens e mulheres, deve dizer obrigados.
+- A mulher ao agradecer em nome de outras pessoas, incluindo apenas mulheres, deve dizer obrigadas.
+
 # Referências
 - https://www.todamateria.com.br/concordancia-nominal/
 - https://brasilescola.uol.com.br/gramatica/concordancia-nominal-regra-geral.htm
 - https://www.portugues.com.br/gramatica/concordancia-nominal-.html 
 - https://mundoeducacao.uol.com.br/gramatica/concordancia-nominal.htm#:~:text=Concord%C3%A2ncia%20nominal%20%C3%A9%20um%20fen%C3%B4meno,devem%20ser%20levados%20em%20conta.
+- https://www.ufla.br/dcom/2014/08/04/dicas-de-portugues-obrigado-ou-obrigada/#:~:text=O%20homem%20ao%20agradecer%20deve,e%20mulheres%2C%20deve%20dizer%20obrigados.

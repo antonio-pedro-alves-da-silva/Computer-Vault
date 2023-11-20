@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "EEAR",
-      "path": "EEAR/EEAR.md"
+      "basename": "regras do acento gráfico",
+      "path": "EAGS SIN/GRAMÁTICA/regras do acento gráfico.md"
+    },
+    {
+      "basename": "EAGS SIN",
+      "path": "EAGS SIN/EAGS SIN.md"
+    },
+    {
+      "basename": "CINEMÁTICA",
+      "path": "CINEMÁTICA.md"
+    },
+    {
+      "basename": "ditongo aberto e fechado",
+      "path": "EAGS SIN/GRAMÁTICA/ditongo aberto e fechado.md"
     },
     {
       "basename": "concordância verbal",
       "path": "EAGS SIN/GRAMÁTICA/concordância verbal.md"
+    },
+    {
+      "basename": "EEAR",
+      "path": "EEAR/EEAR.md"
+    },
+    {
+      "basename": "GEOMETRIA ESPACIAL",
+      "path": "EEAR/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md"
+    },
+    {
+      "basename": "concordância nominal",
+      "path": "EAGS SIN/GRAMÁTICA/concordância nominal.md"
+    },
+    {
+      "basename": "Usos da Partícula Se",
+      "path": "EAGS SIN/GRAMÁTICA/Usos da Partícula Se.pdf"
+    },
+    {
+      "basename": "tipos de discurso",
+      "path": "EAGS SIN/TEXTO/tipos de discurso.md"
     },
     {
       "basename": "Números Complexos",
@@ -21,20 +53,12 @@
       "path": "EEAR/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md"
     },
     {
-      "basename": "GEOMETRIA ESPACIAL",
-      "path": "EEAR/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md"
-    },
-    {
       "basename": "Estudo Analítico",
       "path": "EEAR/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md"
     },
     {
       "basename": "regência verbal",
-      "path": "regência verbal.md"
-    },
-    {
-      "basename": "EAGS SIN",
-      "path": "EAGS SIN/EAGS SIN.md"
+      "path": "EAGS SIN/GRAMÁTICA/regência verbal.md"
     },
     {
       "basename": "colocação pronominal",
@@ -45,24 +69,12 @@
       "path": "EAGS SIN/GRAMÁTICA/pronome pessoais (neles se incluem os pronomes de tratamento).md"
     },
     {
-      "basename": "regras do acento gráfico",
-      "path": "EAGS SIN/GRAMÁTICA/regras do acento gráfico.md"
-    },
-    {
-      "basename": "Usos da Partícula Se",
-      "path": "EAGS SIN/GRAMÁTICA/Usos da Partícula Se.pdf"
-    },
-    {
       "basename": "progressões aritmética e geométrica",
       "path": "EEAR/MATEMÁTICA/ÁLGEBRA/progressões aritmética e geométrica.md"
     },
     {
       "basename": "TRIGONOMETRIA",
       "path": "EEAR/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md"
-    },
-    {
-      "basename": "TRIGONOMETRIA 2023-11-10 15.20.17.excalidraw",
-      "path": "TRIGONOMETRIA 2023-11-10 15.20.17.excalidraw.md"
     },
     {
       "basename": "Análise combinatória",
@@ -187,18 +199,6 @@
     {
       "basename": "Simbolos em Latex",
       "path": "LATEX/Simbolos em Latex.md"
-    },
-    {
-      "basename": "to use latex",
-      "path": "LATEX/to use latex.md"
-    },
-    {
-      "basename": "latex_primer",
-      "path": "LATEX/latex_primer.pdf"
-    },
-    {
-      "basename": "funções do 1° grau ou função afim",
-      "path": "imagens/funções do 1° grau ou função afim.md"
     }
   ],
   "omittedPaths": [],

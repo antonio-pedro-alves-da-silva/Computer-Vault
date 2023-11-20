@@ -1114,6 +1114,12 @@ FÍSICA
 		Conceituação de grandezas vetoriais e escalares
 		Operações básicas com vetores 
 		composição e decomposição de vetores
+	[[CINEMÁTICA]]
+		movimento uniforme
+		movimento uniformente variado
+		gráficos
+		equação de torriceli
+		lançamentos e queda livre
 	O MOVIMENTO, O EQUILÍBRIO E A DESCOBERTA DAS LEIS FÍSICAS: 
 		Grandezas fundamentais da mecânica: 
 			tempo, espaço, velocidade e aceleração. 
@@ -1243,7 +1249,22 @@ FÍSICA
 		Natureza corpuscular das ondas eletromagnéticas. 
 		Transformações nucleares e radioatividades.
 
-AS MATÉRIAS QUE MAIS CAEM
+
+AS MATÉRIAS QUE MAIS CAEM DE FÍSICA
+	Cinemática: M.U , M.U.V , equações, gráficos, torricelli, lançamentos e queda livre
+	- Vetores: Lei dos cossenos, Pitágoras, Decomposição de vetores
+	- Leis de Newton: conceitos, blocos, polias e roldanas, plano inclinado
+	- Energia: Cinética, Potencial Gravitacional, Potencial Elástica
+	- Ondas: equação fundamental, qualidades fisiológicas do som
+	- Óptica: princípios da óptica geométrica, espelhos, lentes
+	- Calorimetria: calor sensível, calor latente, capacidade térmica, trocas de calor
+	- Hidrostática: Stevin e Pascal
+	- Eletrostática: Força e campo elétrico, potêncial elétrico
+	- Resistores: Associação em série, paralelo e mista
+	- Potência e Energia Elétrica: Potência elétrica e energia elétrica.
+	- Eletromagnetismo: Ímas, campo magnético, força magnética, Lei de Faraday e Lenz
+
+AS MATÉRIAS QUE MAIS CAEM DE MATMÁTICA
 	MATEMÁTICA
 		Funções: 1° e 2° grau, logarítmica, exponencial, modular
 		Polinômios
@@ -1258,3 +1279,4 @@ AS MATÉRIAS QUE MAIS CAEM
 		Números Complexos
 		Matriz e determinantes
 		Probabilidade
+		

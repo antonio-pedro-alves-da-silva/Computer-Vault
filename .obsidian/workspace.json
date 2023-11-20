@@ -13,13 +13,84 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EEAR/EEAR.md",
+                "file": "EAGS SIN/EAGS SIN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f74b80a1dafd3580",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EAGS SIN/GRAMÁTICA/regras do acento gráfico.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c59b8a5b0f32264",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CINEMÁTICA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8742b10280db0d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EEAR/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eeed5967a8fecf41",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "EAGS SIN/GRAMÁTICA/Usos da Partícula Se.pdf"
+              }
+            }
+          },
+          {
+            "id": "9cb89bddc11f42bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EAGS SIN/GRAMÁTICA/concordância verbal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7137cdc84565aaa0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EAGS SIN/GRAMÁTICA/concordância nominal.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EEAR/EEAR.md",
+                "file": "EAGS SIN/GRAMÁTICA/regras do acento gráfico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EEAR/EEAR.md",
+                "file": "EAGS SIN/GRAMÁTICA/regras do acento gráfico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EEAR/EEAR.md"
+                "file": "EAGS SIN/GRAMÁTICA/regras do acento gráfico.md"
               }
             }
           },
@@ -168,54 +239,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c752426626f2536a",
+  "active": "f74b80a1dafd3580",
   "lastOpenFiles": [
+    "EAGS SIN/EAGS SIN.md",
+    "CINEMÁTICA.md",
+    "EAGS SIN/GRAMÁTICA/regras do acento gráfico.md",
+    "EAGS SIN/GRAMÁTICA/ditongo aberto e fechado.md",
     "EAGS SIN/GRAMÁTICA/concordância verbal.md",
     "EEAR/EEAR.md",
+    "EEAR/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
+    "EAGS SIN/GRAMÁTICA/concordância nominal.md",
+    "Pasted image 20231120101346.png",
+    "imagens/print_screen_246.png",
+    "EEAR/FÍSICA/CINEMÁTICA",
+    "EEAR/FÍSICA",
+    "EEAR/Untitled.md",
+    "TRIGONOMETRIA 2023-11-10 15.20.17.excalidraw.md",
+    "imagens/Pasted image 20231114090420.png",
+    "imagens/Pasted image 20231114072734.png",
+    "imagens/Pasted image 20231113132228.png",
+    "imagens/Pasted image 20231113122942.png",
+    "imagens/Pasted image 20231111153400.png",
+    "imagens/Pasted image 20231109134851.png",
+    "imagens/Pasted image 20231108120640.png",
+    "imagens/Pasted image 20231108071657.png",
+    "EAGS SIN/GRAMÁTICA/Usos da Partícula Se.pdf",
+    "EAGS SIN/TEXTO/tipos de discurso.md",
     "EEAR/MATEMÁTICA/ÁLGEBRA III/Números Complexos.md",
     "EEAR/MATEMÁTICA/ÁLGEBRA/Funções/diferentes tipos de funções.md",
     "EEAR/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
-    "EEAR/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
     "EEAR/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md",
-    "regência verbal.md",
-    "EAGS SIN/EAGS SIN.md",
+    "EAGS SIN/GRAMÁTICA/regência verbal.md",
     "EAGS SIN/GRAMÁTICA/colocação pronominal.md",
     "EAGS SIN/GRAMÁTICA/pronome pessoais (neles se incluem os pronomes de tratamento).md",
-    "EAGS SIN/GRAMÁTICA/regras do acento gráfico.md",
-    "EAGS SIN/GRAMÁTICA/Usos da Partícula Se.pdf",
     "EEAR/MATEMÁTICA/ÁLGEBRA/progressões aritmética e geométrica.md",
     "EEAR/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md",
-    "TRIGONOMETRIA 2023-11-10 15.20.17.excalidraw.md",
     "EEAR/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md",
     "EEAR/MATEMÁTICA/PROBABILIDADE/PROBRABILIDADE.md",
     "EEAR/MATEMÁTICA/PROBABILIDADE",
     "EEAR/MATEMÁTICA/Untitled.md",
     "EEAR/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md",
-    "imagens/print_screen_245.png",
-    "imagens/print_screen_244.png",
-    "imagens/print_screen_243.png",
-    "Pasted image 20231114090420.png",
-    "Pasted image 20231114072734.png",
-    "imagens/print_screen_242.png",
-    "imagens/print_screen_241.png",
-    "imagens/print_screen_240.png",
-    "Pasted image 20231113132228.png",
-    "Pasted image 20231113124649.jpg",
     "EEAR/MATEMÁTICA/ÁLGEBRA III/Produto Notaveis.md",
     "Excalidraw/TRIGONOMETRIA 2023-11-10 15.20.17.excalidraw.md",
-    "Excalidraw/Drawing 2023-11-10 17.27.29.excalidraw.md",
-    "Excalidraw/Função seno , cosseno e tangente.md",
-    "Harry Potter and the Philosopher’s Stone/Harry Potter and thePhilosopher’s Stone.md",
-    "Untitled/Untitled.md",
     "Harry Potter and the Philosopher’s Stone",
     "EEAR/MATEMÁTICA/ÁLGEBRA II/Matrizes",
-    "distribuição de frequência.md",
     "EEAR/MATEMÁTICA/ÁLGEBRA III/Polinômios",
     "EEAR/MATEMÁTICA/ÁLGEBRA/Funções",
     "EEAR/MATEMÁTICA/ÁLGEBRA III",
     "EEAR/MATEMÁTICA/LOGARTIMO",
-    "EEAR/MATEMÁTICA/GEOMETRIA ANALÍTICA",
-    "EEAR/MATEMÁTICA/GEOMETRIA ESPACIAL",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

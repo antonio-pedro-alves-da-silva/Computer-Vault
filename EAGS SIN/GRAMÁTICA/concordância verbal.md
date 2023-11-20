@@ -231,7 +231,11 @@ o verbo fica sempre na 3ª pessoa (do singular ou do plural).
 
 - No seu Estado, 75% da população **ganha** menos de dois salários mínimos (concorda com população).
 - No seu Estado, 75% da população **ganham** menos de dois salários mínimos (concorda com 75%).
-### Referências
+### ==25.sujeito composto==
+
+a) **Quando o sujeito composto estiver antes do verbo, esse último ficará no plural**. Exemplo: Paola e Pedro gostaram do seu interesse em vender a casa. b) Quando o sujeito vier depois do verbo, esse último ficará no plural ou com o núcleo do sujeito que estiver mais próximo ao verbo.
+
+# Referências
 - https://www.todamateria.com.br/concordancia-verbal/
 - https://www.todamateria.com.br/verbo-haver/
 - https://www.tjsc.jus.br/web/servidor/dicas-de-portugues/-/asset_publisher/0rjJEBzj2Oes/content/como-concordar-frases-com-percentual-ou-porcentual-#:~:text=Com%20as%20express%C3%B5es%20que%20indicam,m%C3%ADnimos%20(concorda%20com%20popula%C3%A7%C3%A3o).
