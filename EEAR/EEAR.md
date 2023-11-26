@@ -117,8 +117,9 @@ LINGUA PORTUGUESA
 			lacunas dos períodos acima.
 			a) se não, mais, mal / Há cerca, afim, porque
 			b) se não, mas, mau / Acerca, a fim, porque
-			c) senão, mas, mal / Há cerca, a fim, por que
+			**c) senão, mas, mal / Há cerca, a fim, por que**
 			d) senão, mais, mau / Acerca, afim, por que 
+		[[erros de ortografia]]
 	GRAMÁTICA
 		Fonética
 			sílaba
@@ -902,6 +903,22 @@ LINGUA PORTUGUESA
 										- **Nossa**! Como você conseguiu?
 										- **Minha Filha**! Que linda você está!
 		[[gramática normativa]]
+	FONOLOGIA
+		[[MONOSSÍLABA TÔNICA E ÁTONA]]
+	o que revisar
+		crase
+		concordância verbal
+		separação silábica
+		regras de pronome relativo
+		acento gráfico
+		gênero de substatnivo
+			uniforme 
+			biforme
+		ortografia
+			quando usar x ou ch
+			erros de ortografia
+			
+		
 LÍNGUA INGLESA 
 	GRAMÁTICA 
 		Substantivos 
@@ -960,7 +977,6 @@ MATEMÁTICA
 				 inversa
 				 polinomial do 1º grau
 				 quadrática
-				 modular
 				 exponencial
 				 logarítmica.
 		Resolução de equações , inequações e sistemas
@@ -1105,21 +1121,24 @@ MATEMÁTICA
 	[[PROBRABILIDADE]]
 
 FÍSICA
-	CONCEITOS BÁSICOS E FUNDAMENTAIS
+	[[raiz quadrada de 11 até 30]]
+	[[CONCEITOS BÁSICOS E FUNDAMENTAIS]]
 		Noções de ordem de grandeza
 		Notação científica 
 		Observações e mensurações
 		representação de grandezas físicas como grandezas mensuráveis sistemas de unidades
-		Gráficos e vetores
-		Conceituação de grandezas vetoriais e escalares
-		Operações básicas com vetores 
-		composição e decomposição de vetores
+		[[vetores]]
+			[grandezas vetoriais e escalares](https://www.google.com/search?q=o+que+%C3%A9+uma+grandeza+vetorial&oq=o+que+%C3%A9+uma+grandeza+ve&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIICAUQABgWGB4yCAgGEAAYFhgeMggIBxAAGBYYHjIICAgQABgWGB4yCAgJEAAYFhgeqAIAsAIA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:a65fddf3,vid:oZPWOXtIUFI,st:0)
+			Gráficos e vetores
+			Operações básicas com vetores
+			Lei dos cossenos
+			composição e decomposição de vetores
 	[[CINEMÁTICA]]
 		movimento uniforme
 		movimento uniformente variado
 		gráficos
-		equação de torriceli
 		lançamentos e queda livre
+		Movimento Rétilineo Circular uniforme
 	O MOVIMENTO, O EQUILÍBRIO E A DESCOBERTA DAS LEIS FÍSICAS: 
 		Grandezas fundamentais da mecânica: 
 			tempo, espaço, velocidade e aceleração. 
@@ -1156,7 +1175,7 @@ FÍSICA
 				condições de flutuação
 				relação entre diferença de nível e pressão hidrostática. 
 				Empuxo. 
-	ENERGIA, TRABALHO E POTÊNCIA 
+	[[ENERGIA, TRABALHO E POTÊNCIA]]
 		Trabalho, energia, potência e rendimento. 
 		Energia potencial e energia cinética. 
 		Conservação de energia mecânica e dissipação de energia. 
@@ -1249,7 +1268,6 @@ FÍSICA
 		Natureza corpuscular das ondas eletromagnéticas. 
 		Transformações nucleares e radioatividades.
 
-
 AS MATÉRIAS QUE MAIS CAEM DE FÍSICA
 	Cinemática: M.U , M.U.V , equações, gráficos, torricelli, lançamentos e queda livre
 	- Vetores: Lei dos cossenos, Pitágoras, Decomposição de vetores
@@ -1279,4 +1297,3 @@ AS MATÉRIAS QUE MAIS CAEM DE MATMÁTICA
 		Números Complexos
 		Matriz e determinantes
 		Probabilidade
-		

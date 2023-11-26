@@ -73,9 +73,9 @@ _– Minha linda chefe [_**_permita-me aqui um elogio_**_], a senhora tem muito 
 
 _– O rapaz estuda na melhor escola da cidade,_ **_diga-se de passagem_**_, e não consegue ser aprovado no vestibular._
 
-### 3 - Separar orações subordinadas
+### ==3 - Separar orações subordinadas==
 
-#### a)- Separar orações subordinadas adjetivas explicativas
+#### ==a)- Separar orações subordinadas adjetivas explicativas==
 
 Coloca-se a vírgula antes e após a oração subordinada adjetiva explicativa, como:
 
@@ -109,6 +109,10 @@ Pode-se empregar a vírgula para separar orações subordinadas adverbiais, como
 - **Porém**, quando o adjunto adverbial tiver menos de quatro palavras, pode-se omitir a vírgula, como:
 
 - **Dentro de** casa eles mal(advérbio de modo) se viam.
+
+- **No mês passado**, os governos do Brasil, África do Sul, Índia e China, grupo chamado de Basic, finalizaram declaração conjunta sobre as medidas de redução de emissões de gases de efeito estufa.
+
+- **Nas cozinhas modernas** , é comum ver tecnologias como o cooktop um fogão moderno com sistema de indução eletromagnética.
 
 ##### predicativo do sujeito
 

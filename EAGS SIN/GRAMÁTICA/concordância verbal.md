@@ -1,3 +1,5 @@
+
+
 ### 1. Concordância com sujeito coletivo
 
 Quando o sujeito é coletivo, o verbo fica sempre no singular. Exemplos:
@@ -235,7 +237,24 @@ o verbo fica sempre na 3ª pessoa (do singular ou do plural).
 
 a) **Quando o sujeito composto estiver antes do verbo, esse último ficará no plural**. Exemplo: Paola e Pedro gostaram do seu interesse em vender a casa. b) Quando o sujeito vier depois do verbo, esse último ficará no plural ou com o núcleo do sujeito que estiver mais próximo ao verbo.
 
+### ==26.Concordância dos particípios==
+  
+Os particípios concordarão com o substantivo a que se referirem.  
+Exemplos:  
+  
+Os livros foram comprados a prazo./ As mercadorias foram compradas a prazo.  
+
+É importante que esses assuntos sejam discutidos reservadamente 
+
+**Dicas:  
+Se o particípio pertencer a um tempo composto, será invariável.**  
+Exemplos:  
+  
+O juiz tinha iniciado o jogo de vôlei./ A juíza tinha iniciado o jogo de vôlei.
+
+
 # Referências
 - https://www.todamateria.com.br/concordancia-verbal/
 - https://www.todamateria.com.br/verbo-haver/
 - https://www.tjsc.jus.br/web/servidor/dicas-de-portugues/-/asset_publisher/0rjJEBzj2Oes/content/como-concordar-frases-com-percentual-ou-porcentual-#:~:text=Com%20as%20express%C3%B5es%20que%20indicam,m%C3%ADnimos%20(concorda%20com%20popula%C3%A7%C3%A3o).
+- https://www.portugues.com.br/gramatica/concordancia-nominal-.html#:~:text=8%20%2D%20Concord%C3%A2ncia%20dos%20partic%C3%ADpios,mercadorias%20foram%20compradas%20a%20prazo.

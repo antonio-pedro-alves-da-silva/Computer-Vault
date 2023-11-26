@@ -29,6 +29,11 @@ A expressão “a fim de” é uma locução prepositiva É usada para indicar 
 ### quando usar os porqueses
 
 ## 3)Acerca de, a cerca de ou há cerca de
+
+Acerca - a respeito de
+a cerca de - a cerca de vinte metros
+ha'cerca de - há cerca de 20 minutos
+
 - “Acerca de” equivale à expressão “a respeito de”, “a cerca de” tem valor de “aproximadamente”, e “há cerca de” significa “há/faz aproximadamente”.
 
 - "a cerca de"  **marca distância aproximada no espaço e no tempo futuro**.
@@ -57,6 +62,11 @@ se não - como condição
 "avista"
 - é o verbo avista na 3ª pessoa do singular do presente do indicativo ou na 2ª pessoa do singular do modo imperativo.  
 
+## 5)hesitar ou exitar
+
+**hesitar** tem origem no latim _haesitare_ e significa «_estar indeciso; mostrar receio_».  
+  
+**exitar** é um verbo usado no Brasil, que resulta da junção do nome _êxito_ e do sufixo _-ar_, e significa «_ter êxito_».
 # Porquês
 por que - é usado no inicio de frase para fazer perguntas se usado no meio tem sentido de [[eags-2007-sin-11)|pela qual]]
 por quê - é usado apenas no final para fazer perguntas

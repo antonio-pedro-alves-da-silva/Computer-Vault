@@ -1,3 +1,4 @@
+
 # regras de quando usar crase
 
 Com origem na Grécia, a palavra **crase** significa “mistura” ou “fusão”. Na língua portuguesa, a [crase](https://www.portugues.com.br/gramatica/o-uso-crase-.html) indica a **contração de duas vogais idênticas**, mais precisamente, a **junção da [preposição](https://www.portugues.com.br/gramatica/preposicoes.html)** ****“****_**a”**_ **com o artigo feminino “**_**a”**_ **e com o “**_**a”**_ **do início de pronomes**. Sempre que isso ocorrer, o fenômeno será indicado por intermédio do _acento grave_, também chamado de _acento indicador de crase_.
@@ -7,12 +8,12 @@ Com origem na Grécia, a palavra **crase** significa “mistura” ou “fusã
 
 - Você já esteve em Roma? Eu irei à Roma logo. (errado)
 - Você já esteve em Roma? Eu irei a Roma logo. (certo)
-### 1. antes de palavras femininas
+### ==1. antes de palavras femininas==
 
 - Fui à escola. (Fui a + a escola)
 - Fomos à praça. (Fomos a + a praça)
 - Você vai à padaria agora? (Você vai a + a padaria agora ?)
-### 2. após verbos que indicam destino(ir, voltar,vir)
+### ==2. após verbos que indicam destino(ir, voltar,vir)==
 
 não se usa crase quando o substantivo não for especificado :
 
@@ -48,7 +49,7 @@ Exceção à regra é a locução “a distância”, se não estiver determinad
 - Estávamos observando tudo a distância.
 - Estávamos observando tudo à distância de cinco metros."
 
-###  4. antes dos pronomes demonstrativos aquele , aquela , aquilo
+###  4. ==antes dos pronomes demonstrativos aquele , aquela , aquilo==
 
 "Quando os pronomes demonstrativos “aquele(s)”, “aquela(s)” e “aquilo” exercem a função de complemento de termo que exija a preposição “a”"
 
@@ -99,7 +100,7 @@ Dedicamo-nos a + as tarefas = Dedicamo-nos às tarefas."
 
 
 # regras de quando NÃO usar crase
-###  1)antes de palavras masculinas
+###  ==1)antes de palavras masculinas==
 - Jorge tem um carro a álcool.
 - Samuel comprou um jipe a diesel.
 - Escreveu a lápis.
@@ -113,7 +114,7 @@ Ele cantou a canção **à** Roberto Carlos. (Ele cantou a canção à moda de
 Ele fez um gol **à** Pele. (Ele fez um gol à moda de Pelé.)
 
 Ele comprou sapatos **à** Luís XV. (Ele comprou sapatos à moda de Luís XV.)
-### 2)antes de verbos
+### ==2)antes de verbos==
 	- Estava disposto a salvar a menina.
 	- Passava o dia a cantar.
 	- Comprometeu-se a estudar mais.
@@ -214,7 +215,7 @@ Casos em que há contração da preposição com o artigo:
 “Pedi carona ao Carlos.”
 
 “Pedi Carona à Carla.”
-### antes dos pronomes possesivos femininos
+### ==antes dos pronomes possesivos femininos==
 os pronomes possessivos femininos são: minha(s), tua(s), sua(s), nossa(s), vossa(s).
 
 não dão valor **à nossa** opinião.
@@ -234,10 +235,9 @@ Não podemos mais voltar à Escócia.
 ou
 Não podemos mais voltar a Escócia.
 
-# to-memorize
-	[[crase#1. antes de palavras femininas|f]][[crase#2. após verbos que indicam destino(ir, voltar,vir)|i]][[crase#3. em locuções adverbiais, [prepositivas](http //www.nilc.icmc.usp.br/nilc/minigramatica/mini/locucaoprepositivaxlocucaoadverbial.htm ~ text=Uma%20locu%C3%A7%C3%A3o%20prepositiva%20exerce%20a,pelo%20%C3%BAltimo%20elemento%20da%20locu%C3%A7%C3%A3o.) e conjutivas|l]][[crase#4. antes dos pronomes demonstrativos aquele , aquela , aquilo|a]]-[[crase#5. quando nos referimos a um lugar , a um objeto indireto ou complemento nominal|r]][[crase#6. antes da locução "à moda de" quando ela estiver subentendida|a]][[crase#7. na indicação de horas exatas.|h]][[crase#8.Quando os pronomes relativos “a qual” e “as quais” exercem a função de complemento de termo que exija a preposição “a”|a]]
-	[[crase#1)antes de palavras masculinas|m]][[crase#2)antes de verbos|v]][[crase#3)antes de pronomes pessoais do caso reto (eu, tu, ele, nós, vós, eles) e do caso oblíquo (me, mim, comigo, te, ti, contigo, se, si, o, lhe)|p]][[crase#4)antes dos pronomes demonstrativos isso, esse, este, esta, essa.|d]]-[[crase#5)quando indicamos tempo futuro|f]][[crase#6)antes de artigo indefinido uma|u]][[crase#7)Entre palavras idênticas repetidas, como nas expressões cara a cara, boca a boca etc.|i]][[crase#8)Antes de palavras femininas de caráter genérico|g]]-[[crase#9)Antes de nome de cidade ou vila|v]][[crase#10)"Antes das palavras “casa” (no sentido de “lar”) e “terra” (em sentido oposto a “bordo”)|t]][[crase#11)Antes de nomes de pessoas famosas|f]][[crase#12)"Antes dos seguintes pronomes “ninguém”, “essa”, “toda”, “cada”, “qualquer”, “tudo”"|s]]-[[crase#13)Antes de numerais|n]][[crase#14)Em expressões adverbiais de modo com substantivo no plural|e]]
-	[[crase#depois da preposição até|a]][[crase#antes de nomes próprios femininos|p]][[crase#antes dos pronomes possesivos femininos|p]][[crase#[as vezes ou ás vezes](https //www.trf3.jus.br/emag/emagconecta/conexaoemag-lingua-portuguesa/as-vezes-as-vezes ~ text=%E2%80%9C%C3%80s%20vezes%E2%80%9D%2C%20com%20crase,eficaz%20de%20combater%20a%20depress%C3%A3o.%E2%80%9D)|a]][[crase#Antes dos seguintes nomes de lugar Europa, Ásia, África, França, Inglaterra, Espanha, Holanda, Escócia e Flandres.|l]]
+
+
+
 # Referências
 - https://www.todamateria.com.br/crase/
 - https://mundoeducacao.uol.com.br/gramatica/as-vezes-ou-as-vezes.htm

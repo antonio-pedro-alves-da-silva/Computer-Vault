@@ -1,44 +1,108 @@
 {
   "recentFiles": [
     {
-      "basename": "regras do acento gráfico",
-      "path": "EAGS SIN/GRAMÁTICA/regras do acento gráfico.md"
-    },
-    {
-      "basename": "EAGS SIN",
-      "path": "EAGS SIN/EAGS SIN.md"
-    },
-    {
-      "basename": "CINEMÁTICA",
-      "path": "CINEMÁTICA.md"
-    },
-    {
-      "basename": "ditongo aberto e fechado",
-      "path": "EAGS SIN/GRAMÁTICA/ditongo aberto e fechado.md"
+      "basename": "EEAR",
+      "path": "EEAR/EEAR.md"
     },
     {
       "basename": "concordância verbal",
       "path": "EAGS SIN/GRAMÁTICA/concordância verbal.md"
     },
     {
-      "basename": "EEAR",
-      "path": "EEAR/EEAR.md"
+      "basename": "ENERGIA, TRABALHO E POTÊNCIA",
+      "path": "EEAR/FÍSICA/ENERGIA, TRABALHO E POTÊNCIA/ENERGIA, TRABALHO E POTÊNCIA.md"
+    },
+    {
+      "basename": "CINEMÁTICA",
+      "path": "EEAR/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
+    },
+    {
+      "basename": "gramática normativa",
+      "path": "EAGS SIN/GRAMÁTICA/gramática normativa.md"
+    },
+    {
+      "basename": "erros de ortografia",
+      "path": "EEAR/ORTOGRAFIA/erros de ortografia.md"
+    },
+    {
+      "basename": "tipos de discurso",
+      "path": "EAGS SIN/TEXTO/tipos de discurso.md"
+    },
+    {
+      "basename": "vetores",
+      "path": "CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md"
+    },
+    {
+      "basename": "Polígonos",
+      "path": "EEAR/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md"
     },
     {
       "basename": "GEOMETRIA ESPACIAL",
       "path": "EEAR/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md"
     },
     {
+      "basename": "grandezas vetoriais e escalares",
+      "path": "grandezas vetoriais e escalares.md"
+    },
+    {
+      "basename": "quando usar o x ou ch",
+      "path": "EAGS SIN/GRAMÁTICA/quando usar o x ou ch.md"
+    },
+    {
+      "basename": "uso da virgula correto",
+      "path": "EAGS SIN/TEXTO/uso da virgula correto.md"
+    },
+    {
+      "basename": "crase",
+      "path": "EAGS SIN/crase.md"
+    },
+    {
+      "basename": "raiz quadrada de 11 até 30",
+      "path": "raiz quadrada de 11 até 30.md"
+    },
+    {
+      "basename": "MONOSSÍLABA TÔNICA E ÁTONA",
+      "path": "EAGS SIN/FONOLOGIA/MONOSSÍLABA TÔNICA E ÁTONA.md"
+    },
+    {
       "basename": "concordância nominal",
       "path": "EAGS SIN/GRAMÁTICA/concordância nominal.md"
     },
     {
-      "basename": "Usos da Partícula Se",
-      "path": "EAGS SIN/GRAMÁTICA/Usos da Partícula Se.pdf"
+      "basename": "regras do acento gráfico",
+      "path": "EAGS SIN/GRAMÁTICA/regras do acento gráfico.md"
     },
     {
-      "basename": "tipos de discurso",
-      "path": "EAGS SIN/TEXTO/tipos de discurso.md"
+      "basename": "pronomes relativos",
+      "path": "EAGS SIN/GRAMÁTICA/pronomes relativos.md"
+    },
+    {
+      "basename": "uso do dois-ponto",
+      "path": "EAGS SIN/TEXTO/uso do dois-ponto.md"
+    },
+    {
+      "basename": "EAGS SIN",
+      "path": "EAGS SIN/EAGS SIN.md"
+    },
+    {
+      "basename": "regência nominal",
+      "path": "EAGS SIN/GRAMÁTICA/regência nominal.md"
+    },
+    {
+      "basename": "7 erros com pronomes pessoais",
+      "path": "EAGS SIN/GRAMÁTICA/pronome/7 erros com pronomes pessoais.md"
+    },
+    {
+      "basename": "exercícios de lingua portuguesa",
+      "path": "EAGS SIN/GRAMÁTICA/exercícios de lingua portuguesa.md"
+    },
+    {
+      "basename": "ditongo aberto e fechado",
+      "path": "EAGS SIN/GRAMÁTICA/ditongo aberto e fechado.md"
+    },
+    {
+      "basename": "Usos da Partícula Se",
+      "path": "EAGS SIN/GRAMÁTICA/Usos da Partícula Se.pdf"
     },
     {
       "basename": "Números Complexos",
@@ -47,10 +111,6 @@
     {
       "basename": "diferentes tipos de funções",
       "path": "EEAR/MATEMÁTICA/ÁLGEBRA/Funções/diferentes tipos de funções.md"
-    },
-    {
-      "basename": "Polígonos",
-      "path": "EEAR/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md"
     },
     {
       "basename": "Estudo Analítico",
@@ -139,66 +199,6 @@
     {
       "basename": "Polinômios",
       "path": "EEAR/MATEMÁTICA/ÁLGEBRA III/Polinômios/Polinômios.md"
-    },
-    {
-      "basename": "GEOMETRIA ESPACIAL THODI.excalidraw",
-      "path": "Excalidraw/GEOMETRIA ESPACIAL THODI.excalidraw.md"
-    },
-    {
-      "basename": "ci ie cs(angulos na circuferência)",
-      "path": "Excalidraw/ci ie cs(angulos na circuferência).md"
-    },
-    {
-      "basename": "Drawing 2023-10-26 21.14.18.excalidraw",
-      "path": "Excalidraw/Drawing 2023-10-26 21.14.18.excalidraw.md"
-    },
-    {
-      "basename": "print_screen_192",
-      "path": "imagens/print_screen_192.png"
-    },
-    {
-      "basename": "Polinômios Teorema do resto.excalidraw",
-      "path": "Excalidraw/Polinômios Teorema do resto.excalidraw.md"
-    },
-    {
-      "basename": "Polinômios grau par e graup impar.excalidraw",
-      "path": "Excalidraw/Polinômios grau par e graup impar.excalidraw.md"
-    },
-    {
-      "basename": "Função de seno",
-      "path": "Excalidraw/Função de seno.md"
-    },
-    {
-      "basename": "Função seno , cosseno e tangente",
-      "path": "Excalidraw/Função seno , cosseno e tangente.png"
-    },
-    {
-      "basename": "Drawing 2023-10-21 21.46.15.excalidraw",
-      "path": "Excalidraw/Drawing 2023-10-21 21.46.15.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2023-10-21 16.53.45.excalidraw",
-      "path": "Excalidraw/Drawing 2023-10-21 16.53.45.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2023-10-16 16.04.26.excalidraw",
-      "path": "Excalidraw/Drawing 2023-10-16 16.04.26.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2023-10-19 20.50.12.excalidraw",
-      "path": "Excalidraw/Drawing 2023-10-19 20.50.12.excalidraw.md"
-    },
-    {
-      "basename": "print_screen_133",
-      "path": "imagens/print_screen_133.png"
-    },
-    {
-      "basename": "print_screen_127",
-      "path": "imagens/print_screen_127.png"
-    },
-    {
-      "basename": "Simbolos em Latex",
-      "path": "LATEX/Simbolos em Latex.md"
     }
   ],
   "omittedPaths": [],

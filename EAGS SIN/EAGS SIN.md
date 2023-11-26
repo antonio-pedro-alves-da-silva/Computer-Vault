@@ -1,3 +1,4 @@
+
 LINGUA PORTUGUESA
 	TEXTO
 		Interpretação de textos literários ou não literários.
@@ -897,6 +898,7 @@ LINGUA PORTUGUESA
 										- **Nossa**! Como você conseguiu?
 										- **Minha Filha**! Que linda você está!
 		[[gramática normativa]]
+	[[exercícios de lingua portuguesa]]
 INFORMÁTICA SIN
 	conceitos básicos da computação
 		o que é camada de abstração ?

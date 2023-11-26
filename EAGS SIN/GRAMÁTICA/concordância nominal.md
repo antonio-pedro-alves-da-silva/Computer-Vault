@@ -107,7 +107,7 @@ As expressões "é proibido, é bom, é necessário" não variam, a não ser que
 O verbo "é necessário" concorda com o substantivo "uniforme" no singular, e a preposição "para" é utilizada para indicar a quem se destina o uniforme, que no caso é "os alunos", que está no plural. Portanto, a concordância correta seria "o uniforme" (singular) e "os alunos" (plural).
 - 
 
-### 4. Cores
+### ==4. Cores==
 A concordância envolvendo cores gera muitas dúvidas. Na regra geral, as cores devem concordar com o substantivo a que se referem, quando são variáveis:
 
 - A mochila é amarela.

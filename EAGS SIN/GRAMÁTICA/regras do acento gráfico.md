@@ -6,7 +6,9 @@ todas são acentuadas. Exemplos: lâmpada, cálice.
 para memorizar 
 ==recebem acento quando terminadas em: -i (s), u(s), um, uns, l, r, x, n , m , ditongo oral seguido ou não de s. Além dessas terminações, também são acentuadas quando terminam em ditongo oral seguido ou não de s (vogal e semivogal na mesma sílaba, sem a presença do til ou das consoantes que podem indicar nasalização, m e n) , -guam, -guem ,  -ons, -ps , -ei , -eis ==
 
-==oi e ei deixaram de ser acentuados como paroxítonas.
+
+==deixam de ser acentuada
+oi e ei deixaram de ser acentuados como paroxítonas.
 i e  u precedidas de ditongo
 -o de -oo deixa de ser acentuada.
 Hiato de paroxítona cuja terminação é -em
@@ -71,9 +73,9 @@ São acentuados os monossílabos terminados em:
 
 ### **Os ditongos abertos(==éi(s),éu(s),ói(s),ai==)
 
-sendo a ultima silába se acentua Ex.:coronéis , anéis , fiéis , heróis , troféus.
+==sendo a ultima silába se acentua== Ex.:coronéis , anéis , fiéis , heróis , troféus.
 
-Em contrapartida, os ditongos abertos em palavras paroxítonas **NÃO** são acentuados. Exemplos: boia, estreia, heroico, ideia, jiboia, paranoia, plateia, colmeia, assembleia. Entretanto, nas oxítonas, o acento agudo existe. Ex.: herói, troféu.
+Em contrapartida, os ditongos abertos ==em palavras paroxítonas **NÃO** são acentuados==. Exemplos: boia, estreia, heroico, ideia, jiboia, paranoia, plateia, colmeia, assembleia. Entretanto, nas oxítonas, o acento agudo existe. Ex.: herói, troféu.
 
 ### acentos diferencias
 
