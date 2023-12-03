@@ -13,9 +13,9 @@
 
 # Operações básicas com vetores
 
-![[Pasted image 20231125102138.png]]
 
-
+**pitagoras**
+![[print_screen_273.png]]
 
 ![[Pasted image 20231125105757.png]]
 ![[print_screen_256.png]]
@@ -24,5 +24,7 @@
 # Decomposição de um vetor
 
 ![[Pasted image 20231125114906.png]]
+
+![[print_screen_274.png]]
 
 

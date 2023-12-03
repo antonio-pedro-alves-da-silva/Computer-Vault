@@ -9,7 +9,7 @@ para memorizar
 
 ==deixam de ser acentuada
 oi e ei deixaram de ser acentuados como paroxítonas.
-i e  u precedidas de ditongo
+ditongo + i ou u
 -o de -oo deixa de ser acentuada.
 Hiato de paroxítona cuja terminação é -em
 paroxítonas homógrafas==
@@ -63,6 +63,10 @@ São acentuados os monossílabos terminados em:
 - **as vogais “i” e “u” devem ser acentuadas** quando forem a ==**segunda vogal do hiato**==
 
 - A regra do hiato ainda traz consigo a **obrigatoriedade de acentuar ==hiato posposto a ditongos==.** Para entender melhor essa regra, observe o exemplo a seguir: Pi-au-í. 
+
+**QA** 
+i ou u como segunda vogal do hiato
+DT + vogal(qualquer)
 #### quando não acrecentar o acento
 
 1) Não se deve acentuar quando, ==após a vogal, vier “nh”==. Ex: ra-i-nha, ba-i-nha;
@@ -70,6 +74,12 @@ São acentuados os monossílabos terminados em:
 	No entanto, em se tratando de palavra proparoxítona, haverá o acento, já que a regra de acentuação das proparoxítonas prevalece sobre a dos hiatos:
 	Ex.: fri-ís-si-mo, se-ri-ís-si-mo
 3) Como exceção à regra temos que, quando o ==ditongo é decrescente e a vogal do hiato ocupa a posição de paroxítona,== esta não deve ser acentuada. Exemplo: bai-u-ca.
+
+**QÑ**
+NH
+XIITA
+DTD + VOGAL
+
 
 ### **Os ditongos abertos(==éi(s),éu(s),ói(s),ai==)
 

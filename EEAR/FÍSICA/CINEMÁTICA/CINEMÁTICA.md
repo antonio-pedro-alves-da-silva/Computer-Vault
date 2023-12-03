@@ -29,6 +29,7 @@ frequência **é o número de voltas executadas em um intervalo de tempo**
 
 ![[Pasted image 20231124113647.png]]
 ![[Pasted image 20231124120455.png]]
+
 # Acoplamento de polia e roda dentada
 
 

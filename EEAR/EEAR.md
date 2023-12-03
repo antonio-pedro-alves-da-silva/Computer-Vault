@@ -446,7 +446,8 @@ LINGUA PORTUGUESA
 								imperfeito do indicativo
 									(eu) lia, (tu) lias, (ele) lia, (nós) líamos, (vós) líeis, (eles) liam.
 								mais-que-perfeito
-									eu) lera, (tu) leras, (ele) lera, (nós) lêramos, (vós) lêreis, (eles) leram.
+									(eu) lera, (tu) leras, (ele) lera, (nós) lêramos, (vós) lêreis, (eles) leram.
+									(eu) tinha lido, (tu) tinha lido, (ele) tinha lido,etc...
 							futuro
 								futuro do presente
 									(eu) lerei, (tu) lerás, (ele) lerá, (nós) leremos, (vós) lereis, (eles) lerão.
@@ -457,6 +458,7 @@ LINGUA PORTUGUESA
 									(que eu) leia, (que tu) leias, (que ele) leia, (que nós) leiamos, (que vós) leiais, (que eles) leiam.
 								pretérito imperfeito do subjuntivo
 									(se eu) lesse, (se tu) lesses, (se ele) lesse, (se nós) lêssemos, (se vós) lêsseis, (se eles) lessem.
+									(que ele marchasse) (que nós marchássemos) etc. 
 								futuro do subjuntivo
 									(quando eu) ler, (quando tu) leres, (quando ele) ler, (quando nós) lermos, (quando vós) lerdes, (quando eles) lerem.
 							tempos do imperativo
@@ -532,8 +534,7 @@ LINGUA PORTUGUESA
 				pronome
 					o que é um pronome ?
 						Os pronomes são palavras que indicam pessoas do discurso, posse e posições. Eles acompanham ou substituem os substantivos.
-					tipos de pronomes
-						[[pronome pessoais (neles se incluem os pronomes de tratamento)]]
+					tipos de pronomes						[[pronome pessoais (neles se incluem os pronomes de tratamento)]]
 						possesivos
 						desmonstrativos
 							[[pronomes demonstrativos a(s) o(s)]]
@@ -906,6 +907,7 @@ LINGUA PORTUGUESA
 	FONOLOGIA
 		[[MONOSSÍLABA TÔNICA E ÁTONA]]
 	o que revisar
+		formação de palavras
 		crase
 		concordância verbal
 		separação silábica
@@ -917,8 +919,10 @@ LINGUA PORTUGUESA
 		ortografia
 			quando usar x ou ch
 			erros de ortografia
-			
-		
+		gramativa normativa
+		plural dos substantivos
+		[[regência verbal]]
+		transposição do discurso direto para o discurso indireto
 LÍNGUA INGLESA 
 	GRAMÁTICA 
 		Substantivos 
@@ -1122,6 +1126,7 @@ MATEMÁTICA
 
 FÍSICA
 	[[raiz quadrada de 11 até 30]]
+	[[multiplos de 36 ou 3,6]]
 	[[CONCEITOS BÁSICOS E FUNDAMENTAIS]]
 		Noções de ordem de grandeza
 		Notação científica 
@@ -1139,6 +1144,7 @@ FÍSICA
 		gráficos
 		lançamentos e queda livre
 		Movimento Rétilineo Circular uniforme
+	[[DINÂMICA]]
 	O MOVIMENTO, O EQUILÍBRIO E A DESCOBERTA DAS LEIS FÍSICAS: 
 		Grandezas fundamentais da mecânica: 
 			tempo, espaço, velocidade e aceleração. 
@@ -1180,20 +1186,22 @@ FÍSICA
 		Energia potencial e energia cinética. 
 		Conservação de energia mecânica e dissipação de energia. 
 		Forças conservativas e dissipativas.    
-	MECÂNICA E O FUNCIONAMENTO DO UNIVERSO
+	[[MECÂNICA E O FUNCIONAMENTO DO UNIVERSO]]
 		Força peso
 		Aceleração gravitacional
 		Lei da Gravitação universal 
 		Leis de Kepler
 		Movimentos de corpos celestes
-	FENÔMENOS ELÉTRICOS E MAGNÉTICOS 
+	[[ELETRODINÂMICA]]
+	[[FENÔMENOS ELÉTRICOS E MAGNÉTICOS]]
 		Carga elétrica e corrente elétrica. 
 		Conceito e processos de eletrização e princípios da eletrostática. 
 		Lei de Coulomb. 
 		Campo, trabalho e potencial elétricos. 
 		Linhas de campo. 
 		Superfícies equipotenciais e Lei de Gauss. 
-		Poder das pontas. Blindagem. 
+		Poder das pontas. 
+		Blindagem. 
 		Capacidade elétrica. 
 		Capacitores e associações. 
 		Diferença de potencial e trabalho num campo elétrico. 
@@ -1227,7 +1235,7 @@ FÍSICA
 			Lei de Faraday. 
 			Lei de Lenz. 
 			Transformadores. 
-	OSCILAÇÕES, ONDAS, ÓPTICA 
+	[[OSCILAÇÕES, ONDAS, ÓPTICA]] 
 		Pulsos e ondas 
 		Período, frequência e ciclo. 
 		Ondas periódicas 
@@ -1267,13 +1275,14 @@ FÍSICA
 		Potências de ondas eletromagnéticas. 
 		Natureza corpuscular das ondas eletromagnéticas. 
 		Transformações nucleares e radioatividades.
-
+	
+	
 AS MATÉRIAS QUE MAIS CAEM DE FÍSICA
 	Cinemática: M.U , M.U.V , equações, gráficos, torricelli, lançamentos e queda livre
-	- Vetores: Lei dos cossenos, Pitágoras, Decomposição de vetores
-	- Leis de Newton: conceitos, blocos, polias e roldanas, plano inclinado
-	- Energia: Cinética, Potencial Gravitacional, Potencial Elástica
-	- Ondas: equação fundamental, qualidades fisiológicas do som
+	Vetores: Lei dos cossenos, Pitágoras, Decomposição de vetores
+	Leis de Newton: conceitos, blocos, polias e roldanas, plano inclinado
+	Energia: Cinética, Potencial Gravitacional, Potencial Elástica
+	Ondas: equação fundamental, qualidades fisiológicas do som
 	- Óptica: princípios da óptica geométrica, espelhos, lentes
 	- Calorimetria: calor sensível, calor latente, capacidade térmica, trocas de calor
 	- Hidrostática: Stevin e Pascal

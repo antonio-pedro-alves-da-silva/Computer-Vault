@@ -1,11 +1,15 @@
 # transposição do discurso direto para o discurso indireto
 
-### 1) Verbo no **presente do indicativo** passa **a pretérito imperfeito do indicativo**
-### 2) Verbo no **pretérito perfeito** passa **a pretérito mais-que-perfeito**
+## Quanto aos tempos verbais
 
-**– Eu** já terminei **minhas** tarefas, disse a garota. => A garota disse que **ela** já tinha terminado as **suas** tarefas /as tarefas **dela**.
-### 3) Verbo no **futuro do indicativo** passa a **futuro do pretérito**
-### 4)Verbo no **imperativo** => **pretérito imperfeito do subjuntivo**
+**Presente do indicativo** passa para **pretérito imperfeito do indicativo**; 
+**Pretérito perfeito do indicativo** passa para **pretérito mais-que-perfeito;** 
+**Futuro do presente do indicativo** passa para **futuro do pretérito do indicativo;**
+
+**Presente do subjuntivo** passa para **pretérito imperfeito do subjuntivo**; 
+**Futuro do subjuntivo** passa para **pretérito imperfeito do subjuntivo;** 
+**Imperativo** passa para **pretérito imperfeito do subjuntivo.**
+## Quanto aos advérbios
 ### 5) **Ontem** => **no dia anterior**
 ### 6)**Hoje** e **agora** => **naquele dia** e **naquele momento**
 ### 7)**Amanhã** => **no dia seguinte**

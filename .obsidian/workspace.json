@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1314f528cee5959b",
+            "id": "892b0255db5c8239",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,18 +20,31 @@
             }
           },
           {
-            "id": "a740869907b5df39",
+            "id": "a2b002c2598578db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EEAR/FÍSICA/ENERGIA, TRABALHO E POTÊNCIA/ENERGIA, TRABALHO E POTÊNCIA.md",
+                "file": "EEAR/FÍSICA/ELETRODINÂMICA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13f2853510e68c78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EAGS SIN/GRAMÁTICA/concordância nominal.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "senão",
+                "query": "egíp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EEAR/EEAR.md",
+                "file": "EEAR/FÍSICA/ELETRODINÂMICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EEAR/EEAR.md",
+                "file": "EEAR/FÍSICA/ELETRODINÂMICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EEAR/EEAR.md"
+                "file": "EEAR/FÍSICA/ELETRODINÂMICA.md"
               }
             }
           },
@@ -179,48 +192,48 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1314f528cee5959b",
+  "active": "a2b002c2598578db",
   "lastOpenFiles": [
-    "EAGS SIN/GRAMÁTICA/concordância verbal.md",
-    "EEAR/FÍSICA/ENERGIA, TRABALHO E POTÊNCIA/ENERGIA, TRABALHO E POTÊNCIA.md",
-    "imagens/print_screen_272.png",
     "EEAR/EEAR.md",
-    "imagens/print_screen_271.png",
-    "EEAR/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
-    "Pasted image 20231126131118.png",
-    "imagens/print_screen_270.png",
-    "Pasted image 20231126123844.png",
-    "EAGS SIN/GRAMÁTICA/gramática normativa.md",
-    "EEAR/ORTOGRAFIA/erros de ortografia.md",
-    "EEAR/ORTOGRAFIA",
-    "EAGS SIN/TEXTO/tipos de discurso.md",
-    "imagens/print_screen_269.png",
-    "imagens/print_screen_268.png",
-    "imagens/print_screen_267.png",
-    "Pasted image 20231126080455.png",
-    "Pasted image 20231126080157.png",
-    "EEAR/FÍSICA/ENERGIA, TRABALHO E POTÊNCIA/Trabalho, energia, potência e rendimento..md",
-    "EEAR/FÍSICA/ENERGIA, TRABALHO E POTÊNCIA",
-    "CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
+    "EAGS SIN/GRAMÁTICA/concordância nominal.md",
+    "EEAR/FÍSICA/FENÔMENOS ELÉTRICOS E MAGNÉTICOS.md",
+    "EEAR/FÍSICA/ELETRODINÂMICA.md",
+    "imagens/print_screen_367.png",
+    "imagens/print_screen_366.png",
+    "imagens/print_screen_365.png",
+    "imagens/print_screen_364.png",
+    "imagens/print_screen_363.png",
+    "imagens/print_screen_362.png",
+    "imagens/print_screen_361.png",
+    "imagens/print_screen_360.png",
+    "imagens/print_screen_359.png",
+    "imagens/print_screen_358.png",
+    "EEAR/FÍSICA/MECÂNICA E O FUNCIONAMENTO DO UNIVERSO.md",
     "EEAR/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
+    "EEAR/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md",
+    "EEAR/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md",
+    "EAGS SIN/TEXTO/transposição de discurso.md",
+    "EAGS SIN/TEXTO/tipos de discurso.md",
+    "print_screen_306.png.md",
+    "EAGS SIN/GRAMÁTICA/regência verbal.md",
+    "EEAR/FÍSICA/OSCILAÇÕES, ONDAS, ÓPTICA.md",
+    "EEAR/FÍSICA/ENERGIA, TRABALHO E POTÊNCIA/ENERGIA, TRABALHO E POTÊNCIA.md",
+    "EEAR/FÍSICA/multiplos de 36 ou 3,6.md",
+    "EEAR/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md",
+    "EEAR/FÍSICA/DINÂMICA.md",
+    "EEAR/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
+    "CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
     "EEAR/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
-    "grandezas vetoriais e escalares.md",
+    "raiz quadrada de 11 até 30.md",
+    "EAGS SIN/GRAMÁTICA/gramática normativa.md",
+    "EAGS SIN/GRAMÁTICA/pronomes relativos.md",
+    "EAGS SIN/GRAMÁTICA/regência nominal.md",
+    "EAGS SIN/GRAMÁTICA/regras do acento gráfico.md",
+    "EEAR/ORTOGRAFIA",
+    "EEAR/FÍSICA/ENERGIA, TRABALHO E POTÊNCIA",
     "CONCEITOS BÁSICOS E FUNDAMENTAIS",
     "Noções de orem de grandeza",
-    "EAGS SIN/GRAMÁTICA/quando usar o x ou ch.md",
-    "EAGS SIN/TEXTO/uso da virgula correto.md",
-    "EAGS SIN/crase.md",
-    "raiz quadrada de 11 até 30.md",
-    "EAGS SIN/FONOLOGIA/MONOSSÍLABA TÔNICA E ÁTONA.md",
     "EAGS SIN/FONOLOGIA",
-    "EAGS SIN/GRAMÁTICA/concordância nominal.md",
-    "EAGS SIN/GRAMÁTICA/regras do acento gráfico.md",
-    "EAGS SIN/GRAMÁTICA/pronomes relativos.md",
-    "EAGS SIN/TEXTO/uso do dois-ponto.md",
-    "EAGS SIN/EAGS SIN.md",
-    "EAGS SIN/GRAMÁTICA/regência nominal.md",
-    "EAGS SIN/GRAMÁTICA/pronome/7 erros com pronomes pessoais.md",
-    "EAGS SIN/GRAMÁTICA/exercícios de lingua portuguesa.md",
     "EEAR/FÍSICA/CINEMÁTICA",
     "EEAR/FÍSICA",
     "EAGS SIN/GRAMÁTICA/Usos da Partícula Se.pdf",

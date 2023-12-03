@@ -15,7 +15,7 @@ $A^{T} = -A$
 # MULTIPLICAÇÃO DE  MATRIZES
 
 - 1 - a multiplicação so pode ser feita se O número de colunas da matriz da esquerda for igual ao número de linhas da matriz da direita.
-- 2 - o numero de linhas e colunas da multiplicação será (o numero de linha da esquerda)x(o numero de linhas da direita)
+
 
 ![[print_screen_245.png]]
 

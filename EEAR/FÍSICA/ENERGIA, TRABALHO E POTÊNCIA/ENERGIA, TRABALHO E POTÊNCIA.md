@@ -1,5 +1,4 @@
 
-
 # Trabalho de uma força constante e trabalho da força peso(energia potencial)
 ![[print_screen_258.png]]
 
@@ -48,4 +47,21 @@ mais comuns são : giga,mega,quilo
 
 ![[print_screen_270.png]]
 ![[print_screen_271.png]]
+![[print_screen_275.png]]
 
+
+
+# Energia Mecânica
+
+![[print_screen_292.png]]
+
+![[print_screen_293.png]]
+![[print_screen_294.png]]
+
+![[print_screen_295.png]]
+![[print_screen_296.png]]
+
+![[print_screen_297.png]]
+![[print_screen_298.png]]
+
+![[print_screen_299.png]]
