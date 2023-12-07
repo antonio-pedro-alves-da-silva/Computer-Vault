@@ -1,6 +1,4 @@
-
-
-### 1. Concordância com sujeito coletivo
+### ==1. Concordância com sujeito coletivo==
 
 Quando o sujeito é coletivo, o verbo fica sempre no singular. Exemplos:
 
@@ -137,6 +135,8 @@ No caso em que a palavra "se" é partícula apassivadora, o verbo deve ser conju
 
 ### ==16. Concordância com verbos impessoais==
 
+haver é apenas conjugado quando é verbo auxiliar do verbo principal
+fazer fica no singular da 3 pessoa com sentido de tempo decorrido
 #### haver
 
 1.haver com sentido de existir,acontecer ou ideia de tempo é conjugado na 3 pessoa do singular.
@@ -238,8 +238,10 @@ o verbo fica sempre na 3ª pessoa (do singular ou do plural).
 a) **Quando o sujeito composto estiver antes do verbo, esse último ficará no plural**. Exemplo: Paola e Pedro gostaram do seu interesse em vender a casa. b) Quando o sujeito vier depois do verbo, esse último ficará no plural ou com o núcleo do sujeito que estiver mais próximo ao verbo.
 
 ### ==26.Concordância dos particípios==
-  
-Os particípios concordarão com o substantivo a que se referirem.  
+
+
+se estiverem no tempo composto será invariável se não eles irão concordar com o substantivo que se referirem'
+
 Exemplos:  
   
 Os livros foram comprados a prazo./ As mercadorias foram compradas a prazo.  
@@ -251,8 +253,6 @@ Se o particípio pertencer a um tempo composto, será invariável.**
 Exemplos:  
   
 O juiz tinha iniciado o jogo de vôlei./ A juíza tinha iniciado o jogo de vôlei.
-
-
 # Referências
 - https://www.todamateria.com.br/concordancia-verbal/
 - https://www.todamateria.com.br/verbo-haver/

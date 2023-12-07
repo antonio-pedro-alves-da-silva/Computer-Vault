@@ -908,10 +908,12 @@ LINGUA PORTUGUESA
 		[[MONOSSÍLABA TÔNICA E ÁTONA]]
 	o que revisar
 		formação de palavras
+			derivação regressiva
+			derivação imprópria
 		crase
 		concordância verbal
 		separação silábica
-		regras de pronome relativo
+		pronome relativo
 		acento gráfico
 		gênero de substatnivo
 			uniforme 
@@ -923,6 +925,9 @@ LINGUA PORTUGUESA
 		plural dos substantivos
 		[[regência verbal]]
 		transposição do discurso direto para o discurso indireto
+		uso da virgula correto
+		diferença entre adjunto adnominal e adverbial
+		pronome substantivo
 LÍNGUA INGLESA 
 	GRAMÁTICA 
 		Substantivos 

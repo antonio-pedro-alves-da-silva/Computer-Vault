@@ -1,32 +1,76 @@
 {
   "recentFiles": [
     {
-      "basename": "ELETRODINÂMICA",
-      "path": "EEAR/FÍSICA/ELETRODINÂMICA.md"
+      "basename": "concordância nominal",
+      "path": "EAGS SIN/GRAMÁTICA/concordância nominal.md"
     },
     {
       "basename": "EEAR",
       "path": "EEAR/EEAR.md"
     },
     {
-      "basename": "concordância nominal",
-      "path": "EAGS SIN/GRAMÁTICA/concordância nominal.md"
+      "basename": "crase",
+      "path": "EAGS SIN/crase.md"
+    },
+    {
+      "basename": "concordância verbal",
+      "path": "EAGS SIN/GRAMÁTICA/concordância verbal.md"
+    },
+    {
+      "basename": "erros de ortografia",
+      "path": "EEAR/ORTOGRAFIA/erros de ortografia.md"
     },
     {
       "basename": "FENÔMENOS ELÉTRICOS E MAGNÉTICOS",
       "path": "EEAR/FÍSICA/FENÔMENOS ELÉTRICOS E MAGNÉTICOS.md"
     },
     {
-      "basename": "MECÂNICA E O FUNCIONAMENTO DO UNIVERSO",
-      "path": "EEAR/FÍSICA/MECÂNICA E O FUNCIONAMENTO DO UNIVERSO.md"
+      "basename": "GEOMETRIA ESPACIAL",
+      "path": "EEAR/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md"
     },
     {
       "basename": "Polígonos",
       "path": "EEAR/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md"
     },
     {
+      "basename": "Análise combinatória",
+      "path": "EEAR/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md"
+    },
+    {
+      "basename": "progressões aritmética e geométrica",
+      "path": "EEAR/MATEMÁTICA/ÁLGEBRA/progressões aritmética e geométrica.md"
+    },
+    {
+      "basename": "ELETRODINÂMICA",
+      "path": "EEAR/FÍSICA/ELETRODINÂMICA.md"
+    },
+    {
+      "basename": "pronomes relativos",
+      "path": "EAGS SIN/GRAMÁTICA/pronomes relativos.md"
+    },
+    {
+      "basename": "uso da virgula correto",
+      "path": "EAGS SIN/TEXTO/uso da virgula correto.md"
+    },
+    {
+      "basename": "print_screen_390",
+      "path": "imagens/print_screen_390.png"
+    },
+    {
+      "basename": "diferentes tipos de funções",
+      "path": "EEAR/MATEMÁTICA/ÁLGEBRA/Funções/diferentes tipos de funções.md"
+    },
+    {
+      "basename": "GEOMETRIA ESPACIAL THODI.excalidraw",
+      "path": "Excalidraw/GEOMETRIA ESPACIAL THODI.excalidraw.md"
+    },
+    {
       "basename": "Estudo Analítico",
       "path": "EEAR/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md"
+    },
+    {
+      "basename": "MECÂNICA E O FUNCIONAMENTO DO UNIVERSO",
+      "path": "EEAR/FÍSICA/MECÂNICA E O FUNCIONAMENTO DO UNIVERSO.md"
     },
     {
       "basename": "Pasted image 20231201133941",
@@ -93,20 +137,12 @@
       "path": "CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md"
     },
     {
-      "basename": "GEOMETRIA ESPACIAL",
-      "path": "EEAR/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md"
-    },
-    {
       "basename": "raiz quadrada de 11 até 30",
       "path": "raiz quadrada de 11 até 30.md"
     },
     {
       "basename": "gramática normativa",
       "path": "EAGS SIN/GRAMÁTICA/gramática normativa.md"
-    },
-    {
-      "basename": "pronomes relativos",
-      "path": "EAGS SIN/GRAMÁTICA/pronomes relativos.md"
     },
     {
       "basename": "regência nominal",
@@ -117,28 +153,12 @@
       "path": "EAGS SIN/GRAMÁTICA/regras do acento gráfico.md"
     },
     {
-      "basename": "concordância verbal",
-      "path": "EAGS SIN/GRAMÁTICA/concordância verbal.md"
-    },
-    {
-      "basename": "erros de ortografia",
-      "path": "EEAR/ORTOGRAFIA/erros de ortografia.md"
-    },
-    {
       "basename": "grandezas vetoriais e escalares",
       "path": "grandezas vetoriais e escalares.md"
     },
     {
       "basename": "quando usar o x ou ch",
       "path": "EAGS SIN/GRAMÁTICA/quando usar o x ou ch.md"
-    },
-    {
-      "basename": "uso da virgula correto",
-      "path": "EAGS SIN/TEXTO/uso da virgula correto.md"
-    },
-    {
-      "basename": "crase",
-      "path": "EAGS SIN/crase.md"
     },
     {
       "basename": "MONOSSÍLABA TÔNICA E ÁTONA",
@@ -173,32 +193,12 @@
       "path": "EEAR/MATEMÁTICA/ÁLGEBRA III/Números Complexos.md"
     },
     {
-      "basename": "diferentes tipos de funções",
-      "path": "EEAR/MATEMÁTICA/ÁLGEBRA/Funções/diferentes tipos de funções.md"
-    },
-    {
       "basename": "colocação pronominal",
       "path": "EAGS SIN/GRAMÁTICA/colocação pronominal.md"
     },
     {
       "basename": "pronome pessoais (neles se incluem os pronomes de tratamento)",
       "path": "EAGS SIN/GRAMÁTICA/pronome pessoais (neles se incluem os pronomes de tratamento).md"
-    },
-    {
-      "basename": "progressões aritmética e geométrica",
-      "path": "EEAR/MATEMÁTICA/ÁLGEBRA/progressões aritmética e geométrica.md"
-    },
-    {
-      "basename": "Análise combinatória",
-      "path": "EEAR/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md"
-    },
-    {
-      "basename": "PROBRABILIDADE",
-      "path": "EEAR/MATEMÁTICA/PROBABILIDADE/PROBRABILIDADE.md"
-    },
-    {
-      "basename": "print_screen_242",
-      "path": "imagens/print_screen_242.png"
     }
   ],
   "omittedPaths": [],

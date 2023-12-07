@@ -73,7 +73,7 @@ Vale lembrar que a contração “à” antecede sempre uma palavra feminina. A 
 - Veste roupas à (moda de) Luís XV.
 - Dribla à (moda de) Pelé.
 - Escreve à (moda de) José de Alencar.
-###  7. na indicação de horas exatas.
+###  ==7. na indicação de horas exatas.==
 - Termino meu trabalho às cinco horas da tarde.
 - Saio da escola às 12h30.
 - Entro à uma.
@@ -101,6 +101,7 @@ Dedicamo-nos a + as tarefas = Dedicamo-nos às tarefas."
 
 # regras de quando NÃO usar crase
 ###  ==1)antes de palavras masculinas==
+
 - Jorge tem um carro a álcool.
 - Samuel comprou um jipe a diesel.
 - Escreveu a lápis.
@@ -118,27 +119,26 @@ Ele comprou sapatos **à** Luís XV. (Ele comprou sapatos à moda de Luís XV.
 	- Estava disposto a salvar a menina.
 	- Passava o dia a cantar.
 	- Comprometeu-se a estudar mais.
-### 3)antes de pronomes pessoais do caso reto (eu, tu, ele, nós, vós, eles) e do caso oblíquo (me, mim, comigo, te, ti, contigo, se, si, o, lhe)
+### ==3)antes de pronomes pessoais do caso reto (eu, tu, ele, nós, vós, eles) e do caso oblíquo (me, mim, comigo, te, ti, contigo, se, si, o, lhe)==
 	- Falamos a ela sobre o ocorrido.
 	- Ofereceram a mim as entradas para o cinema.
 	- Deram o troco a ele?
-### 4)antes dos pronomes demonstrativos isso, esse, este, esta, essa.
+### ==4)antes dos pronomes demonstrativos isso, esse, este, esta, essa==.
 	- Era a isso que nos referíamos.
 	- Quando aderir a esse plano, a internet ficará mais barata.
 	- Já aderiu a este plano?
-### 5)quando indicamos tempo futuro
+### ==5)quando indicamos tempo futuro==
 **A**  
 	Sempre que indicamos tempo futuro, usamos a preposição “a” sem contração com o artigo definido feminino “a”, ou seja, sem crase.  
 	– Daqui a 10 minutos chego aí.  
 	– Vou te encontrar na sede daqui a pouco.
-mvpdt
-### 6)antes de artigo indefinido um, uma, uns, umas
+### ==6)antes de artigo indefinido um, uma, uns, umas==
 #### **pronomes indefinidos que não admitem artigo :**
 **um, uma, uns, umas** , **alguém, alguma, nenhuma, cada, certa, determinada, pouca, quanta, tal, tamanha, tanta, toda, ninguém, muita, outra, tudo, qual, qualquer, quaisquer**.
 
 - Obedeço à **toda** norma do colégio.(errado)
 - Obedeço a toda norma do colégio. (certo)
-### 7)Entre palavras idênticas repetidas, como nas expressões: cara a cara, boca a boca etc.:
+### ==7)Entre palavras idênticas repetidas, como nas expressões: cara a cara, boca a boca etc==.:
 
 - Depois do afogamento, foi preciso fazer respiração **boca a boca.**
 - Todas as vezes em que o poeta ficava **cara a cara** com suas emoções
@@ -185,7 +185,7 @@ No entanto, se essas duas palavras (“casa” e “terra”) forem qualificadas
 - Ao chegar à terra dos renegados, o marinheiro foi até o local marcado."
 
 ### 11)Antes de nomes de pessoas famosas
-### 12)"Antes dos seguintes pronomes: “ninguém”, “essa”, “toda”, “cada”, “qualquer”, “tudo”"
+### ==12)"Antes dos seguintes pronomes: “ninguém”, “essa”, “toda”, “cada”, “qualquer”, “tudo”"==
 
 ### 13)Antes de numerais
 
