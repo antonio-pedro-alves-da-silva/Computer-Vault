@@ -9,7 +9,7 @@ para memorizar
 
 ==deixam de ser acentuada
 oi e ei deixaram de ser acentuados como paroxítonas.
-ditongo + i ou u
+ditongo + i ou u  (i ou u deixam de ser acentudas)
 -o de -oo deixa de ser acentuada.
 Hiato de paroxítona cuja terminação é -em
 paroxítonas homógrafas==

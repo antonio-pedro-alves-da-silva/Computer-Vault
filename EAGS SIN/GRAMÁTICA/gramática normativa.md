@@ -67,7 +67,7 @@ se não - como condição
 **hesitar** tem origem no latim _haesitare_ e significa «_estar indeciso; mostrar receio_».  
   
 **exitar** é um verbo usado no Brasil, que resulta da junção do nome _êxito_ e do sufixo _-ar_, e significa «_ter êxito_».
-# Porquês
+# ==Porquês==
 por que - é usado no inicio de frase para fazer perguntas se usado no meio tem sentido de [[eags-2007-sin-11)|pela qual]]
 por quê - é usado apenas no final para fazer perguntas
 porque - é usado no meio para responder

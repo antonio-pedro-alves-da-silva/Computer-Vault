@@ -1,12 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "concordância nominal",
-      "path": "EAGS SIN/GRAMÁTICA/concordância nominal.md"
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "FENÔMENOS ELÉTRICOS E MAGNÉTICOS",
+      "path": "EEAR/FÍSICA/FENÔMENOS ELÉTRICOS E MAGNÉTICOS.md"
+    },
+    {
+      "basename": "regência verbal",
+      "path": "EAGS SIN/GRAMÁTICA/regência verbal.md"
     },
     {
       "basename": "EEAR",
       "path": "EEAR/EEAR.md"
+    },
+    {
+      "basename": "Polinômios",
+      "path": "EEAR/MATEMÁTICA/ÁLGEBRA III/Polinômios/Polinômios.md"
+    },
+    {
+      "basename": "gramática normativa",
+      "path": "EAGS SIN/GRAMÁTICA/gramática normativa.md"
+    },
+    {
+      "basename": "erros de ortografia",
+      "path": "EEAR/ORTOGRAFIA/erros de ortografia.md"
+    },
+    {
+      "basename": "quando usar o x ou ch",
+      "path": "EAGS SIN/GRAMÁTICA/quando usar o x ou ch.md"
+    },
+    {
+      "basename": "regras do acento gráfico",
+      "path": "EAGS SIN/GRAMÁTICA/regras do acento gráfico.md"
+    },
+    {
+      "basename": "TRIGONOMETRIA",
+      "path": "EEAR/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md"
+    },
+    {
+      "basename": "pronomes relativos",
+      "path": "EAGS SIN/GRAMÁTICA/pronomes relativos.md"
+    },
+    {
+      "basename": "diferentes tipos de funções",
+      "path": "EEAR/MATEMÁTICA/ÁLGEBRA/Funções/diferentes tipos de funções.md"
+    },
+    {
+      "basename": "pronome pessoais (neles se incluem os pronomes de tratamento)",
+      "path": "EAGS SIN/GRAMÁTICA/pronome pessoais (neles se incluem os pronomes de tratamento).md"
+    },
+    {
+      "basename": "concordância nominal",
+      "path": "EAGS SIN/GRAMÁTICA/concordância nominal.md"
     },
     {
       "basename": "crase",
@@ -15,14 +63,6 @@
     {
       "basename": "concordância verbal",
       "path": "EAGS SIN/GRAMÁTICA/concordância verbal.md"
-    },
-    {
-      "basename": "erros de ortografia",
-      "path": "EEAR/ORTOGRAFIA/erros de ortografia.md"
-    },
-    {
-      "basename": "FENÔMENOS ELÉTRICOS E MAGNÉTICOS",
-      "path": "EEAR/FÍSICA/FENÔMENOS ELÉTRICOS E MAGNÉTICOS.md"
     },
     {
       "basename": "GEOMETRIA ESPACIAL",
@@ -45,20 +85,12 @@
       "path": "EEAR/FÍSICA/ELETRODINÂMICA.md"
     },
     {
-      "basename": "pronomes relativos",
-      "path": "EAGS SIN/GRAMÁTICA/pronomes relativos.md"
-    },
-    {
       "basename": "uso da virgula correto",
       "path": "EAGS SIN/TEXTO/uso da virgula correto.md"
     },
     {
       "basename": "print_screen_390",
       "path": "imagens/print_screen_390.png"
-    },
-    {
-      "basename": "diferentes tipos de funções",
-      "path": "EEAR/MATEMÁTICA/ÁLGEBRA/Funções/diferentes tipos de funções.md"
     },
     {
       "basename": "GEOMETRIA ESPACIAL THODI.excalidraw",
@@ -75,10 +107,6 @@
     {
       "basename": "Pasted image 20231201133941",
       "path": "Pasted image 20231201133941.png"
-    },
-    {
-      "basename": "TRIGONOMETRIA",
-      "path": "EEAR/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md"
     },
     {
       "basename": "print_screen_322",
@@ -99,10 +127,6 @@
     {
       "basename": "print_screen_307",
       "path": "imagens/print_screen_307.png"
-    },
-    {
-      "basename": "regência verbal",
-      "path": "EAGS SIN/GRAMÁTICA/regência verbal.md"
     },
     {
       "basename": "OSCILAÇÕES, ONDAS, ÓPTICA",
@@ -141,24 +165,12 @@
       "path": "raiz quadrada de 11 até 30.md"
     },
     {
-      "basename": "gramática normativa",
-      "path": "EAGS SIN/GRAMÁTICA/gramática normativa.md"
-    },
-    {
       "basename": "regência nominal",
       "path": "EAGS SIN/GRAMÁTICA/regência nominal.md"
     },
     {
-      "basename": "regras do acento gráfico",
-      "path": "EAGS SIN/GRAMÁTICA/regras do acento gráfico.md"
-    },
-    {
       "basename": "grandezas vetoriais e escalares",
       "path": "grandezas vetoriais e escalares.md"
-    },
-    {
-      "basename": "quando usar o x ou ch",
-      "path": "EAGS SIN/GRAMÁTICA/quando usar o x ou ch.md"
     },
     {
       "basename": "MONOSSÍLABA TÔNICA E ÁTONA",
@@ -187,18 +199,6 @@
     {
       "basename": "Usos da Partícula Se",
       "path": "EAGS SIN/GRAMÁTICA/Usos da Partícula Se.pdf"
-    },
-    {
-      "basename": "Números Complexos",
-      "path": "EEAR/MATEMÁTICA/ÁLGEBRA III/Números Complexos.md"
-    },
-    {
-      "basename": "colocação pronominal",
-      "path": "EAGS SIN/GRAMÁTICA/colocação pronominal.md"
-    },
-    {
-      "basename": "pronome pessoais (neles se incluem os pronomes de tratamento)",
-      "path": "EAGS SIN/GRAMÁTICA/pronome pessoais (neles se incluem os pronomes de tratamento).md"
     }
   ],
   "omittedPaths": [],

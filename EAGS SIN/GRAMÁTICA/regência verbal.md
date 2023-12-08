@@ -1,6 +1,4 @@
 
-
-
 # custar
 
 ter valor - transitivo direto
@@ -31,8 +29,6 @@ A regência do verbo “dizer” é a seguinte: 
 ## Verbo chegar como verbo intransitivo
 
 
-O verbo chegar é intransitivo, não necessitando de complementos verbais, com os seguintes sentidos:
-
 ==Quando indica a ação completa de ir a algum lugar.==
 
 - Ele ainda não chegou.
@@ -43,16 +39,18 @@ O verbo chegar é intransitivo, não necessitando de complementos verbais, com o
 - O verão chegou!
 - As férias já chegaram!
 
-## Verbo chegar sem regência de preposição
+
+## Verbo chegar como transitivo direto
+
 
 ==O verbo chegar apresenta uma transitividade direta, não necessitando da presença de uma preposição, quando indica o ato de aproximar ou movimentar alguma coisa.==
 
 - Chega o teu banco para perto do meu.
 - Chega as tuas mãos para lá!
+## Verbo chegar como verbo transitivo indireto 
 
-## Verbo chegar com regência da preposição a
+### Verbo chegar com regência da preposição a
 
-==O verbo chegar apresenta uma transitividade indireta, estabelecendo regência com a preposição a com os seguintes sentidos:==
 
 ==Quando indica o ato de se aproximar de um lugar para onde se foi.==
 
@@ -65,20 +63,8 @@ O verbo chegar é intransitivo, não necessitando de complementos verbais, com o
 - A dívida do condomínio chega a vinte mil reais.
 - Você nunca chegará aos pés dele.
 
-### Atenção: preposição em!
 
-o uso da preposição em está errado em uma questão da eear então vou deduzir que estaria errado usá-lo
-
-Embora o uso da preposição a seja o correto, há uma preferência entre os falantes para o uso da preposição em nesses sentidos. Embora esse uso já esteja consagrado pelo uso, deverá ocorrer apenas em contextos informais.
-
-- Já cheguei em casa.
-- Ainda não cheguei no trabalho.
-- O trem chegou no fim da linha.
-- Você não chega nos meus pés.
-
-## Verbo chegar com regência da preposição de
-
-O verbo chegar apresenta uma transitividade indireta, estabelecendo regência com a preposição de com os seguintes sentidos:
+### Verbo chegar com regência da preposição de
 
 Quando indica o ato de vir.
 
@@ -90,7 +76,7 @@ Quando indica o ato de ser o bastante.
 - Já chega dessa conversa.
 - Chega de malandragem! Vamos trabalhar!
 
-## Verbo chegar com regência da preposição para
+### Verbo chegar com regência da preposição para
 
 O verbo chegar apresenta uma transitividade indireta, estabelecendo regência com a preposição para quando indica o ato de dar, sendo o suficiente.
 
@@ -100,6 +86,18 @@ O verbo chegar apresenta uma transitividade indireta, estabelecendo regência co
 ### Atenção: preposição em!
 
 - o uso da preposição em está errado
+
+Embora o uso da preposição a seja o correto, há uma preferência entre os falantes para o uso da preposição em nesses sentidos. Embora esse uso já esteja consagrado pelo uso, deverá ocorrer apenas em contextos informais.
+
+- Já cheguei em casa.
+- Ainda não cheguei no trabalho.
+- O trem chegou no fim da linha.
+- Você não chega nos meus pés.
+
+
+## Atenção: preposição em!
+
+o uso da preposição em está errado em uma questão da eear então vou deduzir que estaria errado usá-lo
 
 Embora o uso da preposição a seja o correto, há uma preferência entre os falantes para o uso da preposição em nesses sentidos. Embora esse uso já esteja consagrado pelo uso, deverá ocorrer apenas em contextos informais.
 

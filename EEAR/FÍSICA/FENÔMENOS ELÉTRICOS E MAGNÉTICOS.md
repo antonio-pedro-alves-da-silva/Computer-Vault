@@ -1,11 +1,6 @@
 # ELETROESTÁTICA
-## conceitos iniciais
 
-- um corpo eletricamente neutro tem para cada proton um elétron
-
-![[Pasted image 20231129181728.png]]
-
-## CARGA ELÉTRICA E INTENSIDADE DA CORRENTE ELÉTRICA
+# CARGA ELÉTRICA E INTENSIDADE DA CORRENTE ELÉTRICA
 
 n = diferença entre o n° de prótons e o n° de elétronss
 ![[print_screen_329.png]]
@@ -14,29 +9,29 @@ $E=1,6*10^{-19}$
 ![[print_screen_352.png]]
 
 
-## ELETRIZAÇÃO POR ATRITO E POR CONTATO
+# ELETRIZAÇÃO POR ATRITO E POR CONTATO
 
 ![[print_screen_330.png]]
-## ELETRIZAÇÃO POR CONTATO
+# ELETRIZAÇÃO POR CONTATO
 ![[print_screen_331.png]]
-
+# PROCESSO DE ELETRIZAÇÃO
 ![[print_screen_332.png]]
-## ELETRIZAÇÃO POR  INDUÇÃO
+# ELETRIZAÇÃO POR  INDUÇÃO
 
 ![[Pasted image 20231201133941.png]]
 
 ![[print_screen_334.png]]
 ![[print_screen_349.png]]
 
-## FORÇA ELÉTRICA(Lei de Coulomb)
+# FORÇA ELÉTRICA ENTRE CARGAS PUNTIFORMES(Lei de Coulomb)
 
 ![[print_screen_307.png]]
-![[print_screen_307.png]]
+
 ![[Pasted image 20231129183558.png]]
 
 
 
-## CAMPO ELÉTRICO
+# CAMPO ELÉTRICO
 
 
 ![[print_screen_318.png]]
@@ -45,14 +40,15 @@ Basicamente, **a carga fonte representa a carga elétrica que gera o campo elé
 
 ![[print_screen_319.png]]
 ![[print_screen_320.png]]
-![[print_screen_321.png]]
-![[print_screen_322.png]]
+
+
 ![[print_screen_323.png]]
 ![[print_screen_324.png]]
 
 ![[print_screen_335.png]]
 ![[print_screen_336.png]]
 
+![[Pasted image 20231208132929.png]]
 intensidade do campo eletrico de carga puntiforme e intensidade de campo elétrico da expressão geral
 ![[print_screen_337.png]]
 
@@ -67,12 +63,12 @@ d) é a resposta correta
 ![[print_screen_351.png]]
 
 
-## ENERGIA POTENCIAL ELÉTRICA
+# ENERGIA POTENCIAL ELÉTRICA
 
 ![[print_screen_341.png]]
 ![[print_screen_342.png]]
 
-## POTENCIAL ELÉTRICO
+# POTENCIAL ELÉTRICO
 
 ![[print_screen_343.png]]
 ![[print_screen_344.png]]
@@ -88,7 +84,7 @@ d) é a resposta correta
 ### superfícies equipotenciais
 
 ![[print_screen_326.png]]
-## Diferença de potencial entre dois pontos de um campo elétrico uniforme
+### Diferença de potencial entre dois pontos de um campo elétrico uniforme
 ![[print_screen_328.png]]
 
 # ELETROESTÁTICA EXERCICIOS 
@@ -164,7 +160,7 @@ $\Large R=\frac{m.v.sen\theta}{|q|.b}$
 ![[Pasted image 20231206105554.png]]
 
 
-## FORÇA MAGNÉTICA ENTRE DOIS FIOS
+## FORÇA MAGNÉTICA ENTRE DOIS FIOS CONDUTORES RETILÍNEOS E PARALELOS 
 
 ![[print_screen_408.png]]
 ## Fluxo magnético

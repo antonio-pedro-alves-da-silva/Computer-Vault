@@ -1,6 +1,4 @@
 
-
-
 28 - Assinale a alternativa que preenche com correção
 			ortográfica e respectivamente as lacunas das seguintes frases:
 			I – Este ano o Governo Federal decidiu aumentar
@@ -15,7 +13,7 @@
 		CUMPRIMENTO - DE EXECUTAR  
 		COMPRIMENTO - DE SAUDAR
 		SESSÃO - o tempo de duração de uma reunião, consulta, exercício ou espetáculo.
-		SEÇÃO - PORÇÃ DE UM TODO
+		SEÇÃO - PORÇÃO DE UM TODO
 		SECÇÃO - TEM O MESMO SIGNIFICADO QUE SEÇÃO , MAS ELA É MAIS USADA EM PORTUGAL
 		EMINENTE - Que se destaca, Excelente, Elevado, Notório, Ilustre, Alto, Importante, Superior
 		IMINENTE - AMEÇA a SE CONCRETIZAR

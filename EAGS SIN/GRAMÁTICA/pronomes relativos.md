@@ -1,5 +1,5 @@
-
 ## O que são pronomes relativos ?
+
 Os pronomes relativos retomam um substantivo mencionado anteriormente na frase. Eles podem ser variáveis ou invariáveis e podem estar acompanhados ou não por uma preposição.
 
 ## **Quais são os pronomes relativos?**
@@ -10,6 +10,10 @@ Os pronomes relativos retomam um substantivo mencionado anteriormente na frase. 
 |O qual, a qual, os quais, as quais, cujo, cuja, cujos, cujas, quanto, quanta, quantos, quantas.|Que, quem, onde.|
 
 ## ==regras do pronome “cujo”==
+
+- o pronome cujo vem entre substantivo
+- não se usa artigo após ao pronome cujo
+- o pronome cujo pode vir preposicionado
 
  Quando pairar dúvidas acerca do uso do pronome cujo, siga as seguintes estratégias com as informações já citadas anteriormente:
 
@@ -77,7 +81,7 @@ A palavra **onde**, como _pronome relativo_, somente pode ser utilizada para s
 - _Tudo **quanto** peço, eu consigo._
 # ==regras do pronome qual==
 
-O pronome relativo "qual" é usado para se referir a pessoas ou coisas. Ele deve sempre vir precedido de um artigo, como "o qual", "a qual", "os quais" ou "as quais". É usado preferencialmente após preposições com duas ou mais sílabas ou após locuções prepositivas. 
+O pronome relativo "qual" é usado para se referir a pessoas ou coisas. Ele deve sempre vir precedido de um artigo, como "o qual", "a qual", "os quais" ou "as quais". É usado preferencialmente após preposições com duas ou mais sílabas ou após locuções prepositivas.
 
 - "Aquele é o livro com que trabalho".
 - "Li um livro sobre o qual nunca tinha ouvido falar nada".

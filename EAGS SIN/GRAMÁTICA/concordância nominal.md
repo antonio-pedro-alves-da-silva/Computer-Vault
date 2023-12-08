@@ -43,8 +43,8 @@ Colocando o substantivo e o artigo que o antecede no plural. Exemplo:
 - Adoro **as comidas** italiana e chinesa.
 - Conhece **as literaturas** brasileira e inglesa.
 
-### 2. substantivos com númerais
-
+### ==2. substantivos com númerais
+==
 #### num2 + sub1
 
 - A segunda e a terceira **casa**.
@@ -54,9 +54,9 @@ Colocando o substantivo e o artigo que o antecede no plural. Exemplo:
 - **As casas** segunda e terceira.
 - **Os lugares** primeiro e segundo.
 
-### 3. Concordância entre expressões
+### ==3. Concordância entre expressões==
 
-#### Anexo
+#### ==Anexo==
 
 A palavra "anexo" deve concordar em gênero e número com o substantivo. Exemplos:
 
@@ -68,7 +68,7 @@ Mas, a expressão "em anexo" não varia. Exemplos:
 - Segue **em anexo o recibo**.
 - Segue **em anexo a fatura**.
 
-#### Bastante(s) , Meio , Só , Sós
+#### ==Bastante(s),Meio,Só(s)==
 
 Bastante(s) , Meio , Só , Sós irão variar quando forem adjetivo , mas quando forem advérbio não variam
 
@@ -80,7 +80,7 @@ Bastante(s) , Meio , Só , Sós irão variar quando forem adjetivo , mas quando 
 
 - **A criança** ficou **só**./ **As crianças** ficaram **sós**. (adjetivo ,como adjetivo tem sentido de sozinho) 
 - Depois da briga, **só** restaram copos e garrafas quebrados. (advérbio , como adverbio é sinônimo de somente e apenas.)
-#### Menos , Alerta
+#### ==Menos , Alerta==
 
 A palavra "menos" e "alerta" não variam. Exemplos:
 
@@ -108,6 +108,10 @@ O verbo "é necessário" concorda com o substantivo "uniforme" no singular, e a 
 - 
 
 ### ==4. Cores==
+
+caso a cor faça referência a um substantivo ela será invariável se não concordara com o substantivo que se refere
+a tonalidade da cor concorda com o substantivo
+
 A concordância envolvendo cores gera muitas dúvidas. Na regra geral, as cores devem concordar com o substantivo a que se referem, quando são variáveis:
 
 - A mochila é amarela.
@@ -130,7 +134,7 @@ Porém, se o segundo adjetivo fizer referência a um substantivo, voltamos à re
 - Os lençóis são azul-celeste
 
 
-### 5. **Concordância dos particípios**  
+### ==5. **Concordância dos particípios**==  
 
 #### variavel
 Os particípios concordarão com o substantivo a que se referirem.  
@@ -143,7 +147,7 @@ Exemplos:
 Se o particípio pertencer a um [[tempo composto]], será invariável.
 
 - O juiz tinha iniciado o jogo de vôlei./ A juíza tinha iniciado o jogo de vôlei.
-### 6.Predicativo do sujeito com o sujeito
+### ==6.Predicativo do sujeito com o sujeito==
 
 - O adjetivo predicativo concorda em gênero e número **com o sujeito**.
     Exemplos:
@@ -151,10 +155,6 @@ Se o particípio pertencer a um [[tempo composto]], será invariável.
 	A desonestidade é **humana**.
 	
 	A ciência e a razão são **irmãs**.
-#### gêneros distintos
-O adjetivo predicativo fica no masculino plural **se o sujeito é composto por substantivos de gêneros distintos**
-
-- O amor e a amizade são **poderosos**.
 #### pronome de tratamento
 se o sujeito apresenta uma **forma de tratamento**, o adjetivo predicativo concorda com o gênero do indivíduo ao qual nos referimos.
 
