@@ -197,9 +197,9 @@ No entanto, se essas duas palavras (“casa” e “terra”) forem qualificadas
 
 # quando a crase é facultativa
 A crase será facultativa **quando a presença do artigo definido feminino “a” ou a preposição “a” também for facultativa, podendo ou não estar presente na frase**. Dessa forma, se o artigo e a preposição estiverem na frase, o uso da crase é obrigatório, pois há contração da preposição “a” com o artigo “a”
-### depois da preposição até
+### ==depois da preposição até==
 	fui até á praça ou fui até a praça
-### antes de nomes próprios femininos
+### ==antes de nomes próprios femininos==
 **Explicação**
 Fazendo uma análise das frases, percebemos que a presença do artigo definido “a” pode ou não ocorrer.
 

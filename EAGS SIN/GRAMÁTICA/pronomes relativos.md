@@ -81,6 +81,8 @@ A palavra **onde**, como _pronome relativo_, somente pode ser utilizada para s
 - _Tudo **quanto** peço, eu consigo._
 # ==regras do pronome qual==
 
+- o pronome qual deve ser sempre precedido de artigo
+
 O pronome relativo "qual" é usado para se referir a pessoas ou coisas. Ele deve sempre vir precedido de um artigo, como "o qual", "a qual", "os quais" ou "as quais". É usado preferencialmente após preposições com duas ou mais sílabas ou após locuções prepositivas.
 
 - "Aquele é o livro com que trabalho".

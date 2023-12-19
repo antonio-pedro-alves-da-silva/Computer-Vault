@@ -68,10 +68,12 @@ se não - como condição
   
 **exitar** é um verbo usado no Brasil, que resulta da junção do nome _êxito_ e do sufixo _-ar_, e significa «_ter êxito_».
 # ==Porquês==
-por que - é usado no inicio de frase para fazer perguntas se usado no meio tem sentido de [[eags-2007-sin-11)|pela qual]]
-por quê - é usado apenas no final para fazer perguntas
 porque - é usado no meio para responder
+por que - é usado no inicio de frase para fazer perguntas se usado no meio tem sentido de [[eags-2007-sin-11)|pela qual]]
+
 porquê - é usado para indicar motivo ou causa exemplos :
+por quê - é usado apenas no final para fazer perguntas
+
 - Me diga o porquê de você não querer ir à excursão
 - Qual é o porquê de toda essa festa?
 

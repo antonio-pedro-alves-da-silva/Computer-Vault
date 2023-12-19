@@ -926,7 +926,7 @@ LINGUA PORTUGUESA
 		[[regência verbal]]
 		transposição do discurso direto para o discurso indireto
 		uso da virgula correto
-		diferença entre adjunto adnominal e adverbial
+		[[diferença entre adjunto adnominal e complemento nominal]]
 		pronome substantivo
 LÍNGUA INGLESA 
 	GRAMÁTICA 
@@ -1250,9 +1250,10 @@ FÍSICA
 			Ondas em diferentes meios de propagação
 			Feixes e frentes de ondas 
 			Fenômenos ondulatórios
-		reflexão, refração, difração, polarização e interferência , princípio da superposição, princípio de Huygens 
+				reflexão, refração, difração, polarização e interferência , princípio da superposição, princípio de Huygens 
 		Movimento harmônico simples (M.H.S.)
-		Ondas sonoras, propriedades, propagação e qualidades do som, tubos sonoros, efeito Doppler Princípios da óptica geométrica, tipos de fontes e meios de propagação 
+		Ondas sonoras, propriedades, propagação e qualidades do som, tubos sonoros, efeito Doppler 
+		Princípios da óptica geométrica, tipos de fontes e meios de propagação 
 		Sombra e penumbra 
 		Reflexão 
 			conceito, leis e espelhos planos e esféricos. 
@@ -1261,16 +1262,16 @@ FÍSICA
 			Formação de imagens. 
 			Instrumentos ópticos simples. 
 			Olho humano (principais defeitos da visão). 
-	CALOR E FENÔMENOS TÉRMICOS
-		Calor e temperatura
-		Escalas termométricas 
-		Transferência de calor e equilíbrio térmico
-		Capacidade calorífica e calor específico
-		Condução do calor
-		Dilatação térmica
-		Mudanças de estado físico e calor latente de transformação
-		Comportamento de gases ideais (equação de Clapeyron)
-		Máquinas térmicas
+	[[CALOR E FENÔMENOS TÉRMICOS]]
+		- Calor e temperatura
+		- Escalas termométricas 
+		- Transferência de calor e equilíbrio térmico
+		- Capacidade calorífica e calor específico
+		- Condução do calor
+		- Dilatação térmica
+		- Mudanças de estado físico e calor latente de transformação
+		- Comportamento de gases ideais (equação de Clapeyron)
+		- Máquinas térmicas
 		Ciclo de Carnot
 		Leis da Termodinâmica
 	MATÉRIA E RADIAÇÃO 
@@ -1296,6 +1297,7 @@ AS MATÉRIAS QUE MAIS CAEM DE FÍSICA
 	- Potência e Energia Elétrica: Potência elétrica e energia elétrica.
 	- Eletromagnetismo: Ímas, campo magnético, força magnética, Lei de Faraday e Lenz
 
+
 AS MATÉRIAS QUE MAIS CAEM DE MATMÁTICA
 	MATEMÁTICA
 		Funções: 1° e 2° grau, logarítmica, exponencial, modular
@@ -1311,3 +1313,4 @@ AS MATÉRIAS QUE MAIS CAEM DE MATMÁTICA
 		Números Complexos
 		Matriz e determinantes
 		Probabilidade
+	

@@ -25,7 +25,7 @@ por se movimento uniforme vx também pode ser $Vx=\Large \frac{\Delta s}{\Delta 
 
 **Périodo e frequência**
 periodo e o tempo de uma volta
-frequência **é o número de voltas executadas em um intervalo de tempo**
+frequência **é o número de voltas executadas em um intervalo de tempo** sua unidade é em hertz ou em rpm
 
 ![[Pasted image 20231124113647.png]]
 ![[Pasted image 20231124120455.png]]

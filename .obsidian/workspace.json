@@ -8,19 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "892b0255db5c8239",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EEAR/FÍSICA/FENÔMENOS ELÉTRICOS E MAGNÉTICOS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb13aad1d731a8ea",
+            "id": "030cec97787d4cee",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,26 +18,69 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "d869568cc3e857a6",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "756ac2ec9857de0f",
+            "id": "abb99bd7471654be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "EEAR/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57f1b8da67bde226",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EEAR/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "72cdad266c9bd16c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EEAR/EEAR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58a19bb854a7167d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EEAR/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1dc626ebff09ede",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EEAR/FÍSICA/CALOR E FENÔMENOS TÉRMICOS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -124,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "EEAR/FÍSICA/CALOR E FENÔMENOS TÉRMICOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "EEAR/FÍSICA/CALOR E FENÔMENOS TÉRMICOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "EEAR/FÍSICA/CALOR E FENÔMENOS TÉRMICOS.md"
               }
             }
           },
@@ -197,43 +228,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "756ac2ec9857de0f",
+  "active": "f1dc626ebff09ede",
   "lastOpenFiles": [
-    "EEAR/FÍSICA/FENÔMENOS ELÉTRICOS E MAGNÉTICOS.md",
-    "Untitled.md",
-    "Pasted image 20231208165005.png",
-    "EAGS SIN/GRAMÁTICA/regência verbal.md",
-    "Pasted image 20231208132929.png",
+    "EEAR/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md",
     "EEAR/EEAR.md",
-    "EEAR/MATEMÁTICA/ÁLGEBRA III/Polinômios/Polinômios.md",
+    "EEAR/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md",
+    "EEAR/FÍSICA/CALOR E FENÔMENOS TÉRMICOS.md",
+    "EEAR/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
+    "imagens/print_screen_494.png",
+    "imagens/print_screen_493.png",
+    "imagens/print_screen_492.png",
+    "imagens/print_screen_491.png",
+    "imagens/print_screen_490.png",
+    "imagens/print_screen_489.png",
+    "Pasted image 20231218132309.png",
+    "imagens/print_screen_488.png",
+    "imagens/print_screen_487.png",
+    "imagens/print_screen_486.png",
+    "EEAR/FÍSICA/OSCILAÇÕES, ONDAS, ÓPTICA.md",
+    "EAGS SIN/GRAMÁTICA/concordância verbal.md",
+    "EAGS SIN/crase.md",
+    "EEAR/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "EAGS SIN/TEXTO/transposição de discurso.md",
+    "EAGS SIN/GRAMÁTICA/regência verbal.md",
     "EAGS SIN/GRAMÁTICA/gramática normativa.md",
     "EEAR/ORTOGRAFIA/erros de ortografia.md",
-    "EAGS SIN/GRAMÁTICA/quando usar o x ou ch.md",
-    "EAGS SIN/GRAMÁTICA/regras do acento gráfico.md",
-    "EEAR/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md",
     "EAGS SIN/GRAMÁTICA/pronomes relativos.md",
-    "EEAR/MATEMÁTICA/ÁLGEBRA/Funções/diferentes tipos de funções.md",
-    "EAGS SIN/GRAMÁTICA/pronome pessoais (neles se incluem os pronomes de tratamento).md",
-    "EAGS SIN/GRAMÁTICA/concordância nominal.md",
-    "EAGS SIN/crase.md",
-    "EAGS SIN/GRAMÁTICA/concordância verbal.md",
-    "EEAR/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
-    "EEAR/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
-    "EEAR/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md",
-    "EEAR/MATEMÁTICA/ÁLGEBRA/progressões aritmética e geométrica.md",
-    "imagens/print_screen_415.png",
-    "imagens/print_screen_414.png",
-    "imagens/print_screen_413.png",
-    "imagens/print_screen_412.png",
-    "imagens/print_screen_411.png",
-    "imagens/print_screen_410.png",
-    "imagens/print_screen_409.png",
-    "Pasted image 20231206105554.png",
-    "EEAR/FÍSICA/ELETRODINÂMICA.md",
+    "EAGS SIN/GRAMÁTICA/regras do acento gráfico.md",
     "EAGS SIN/TEXTO/uso da virgula correto.md",
-    "Excalidraw/GEOMETRIA ESPACIAL THODI.excalidraw.md",
-    "EEAR/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md",
+    "EAGS SIN/GRAMÁTICA/diferença entre adjunto adnominal e complemento nominal.md",
+    "EEAR/FÍSICA/ENERGIA, TRABALHO E POTÊNCIA/ENERGIA, TRABALHO E POTÊNCIA.md",
+    "EEAR/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
+    "EEAR/FÍSICA/DINÂMICA.md",
     "EEAR/FÍSICA/MECÂNICA E O FUNCIONAMENTO DO UNIVERSO.md",
+    "EEAR/FÍSICA/FENÔMENOS ELÉTRICOS E MAGNÉTICOS.md",
+    "EEAR/FÍSICA/ELETRODINÂMICA.md",
+    "Untitled.md",
     "EEAR/ORTOGRAFIA",
     "EEAR/FÍSICA/ENERGIA, TRABALHO E POTÊNCIA",
     "CONCEITOS BÁSICOS E FUNDAMENTAIS",

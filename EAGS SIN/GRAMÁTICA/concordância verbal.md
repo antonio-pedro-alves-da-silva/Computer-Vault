@@ -1,3 +1,4 @@
+
 ### ==1. Concordância com sujeito coletivo==
 
 Quando o sujeito é coletivo, o verbo fica sempre no singular. Exemplos:

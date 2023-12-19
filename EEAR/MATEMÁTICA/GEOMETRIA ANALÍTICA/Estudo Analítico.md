@@ -23,7 +23,7 @@ coeficiente angular se uma reta passa por dois pontos
 ![[print_screen_171.png]]
 ## Interseção entre retas
 # da circuferência
-
+![[print_screen_461.png]]
 ## Equação reduzida da circuferência
 
 ![[print_screen_169.png]]
@@ -44,4 +44,7 @@ coeficiente angular se uma reta passa por dois pontos
 
 
 
+
 # Área do triângulo  e do equilátero
+
+

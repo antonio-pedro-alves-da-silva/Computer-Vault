@@ -152,3 +152,47 @@ Com a presença da preposição a, ocorre contração dessa preposição com o a
 
 - preposição a + artigo definido a = à;
 - preposição a + artigo definido o = ao.
+
+# Lembrar
+
+## Lembrar com regência da preposição de
+
+Atuando como um verbo transitivo indireto, estabelece principalmente regência com a preposição de:
+
+- Lembro-me de você.
+- Lembro-me de tudo.
+- Lembro-me da história.
+- Lembro-me da confusão.
+- Lembro-me do teu pai.
+- Lembro-me dos acontecimentos.
+
+## Lembrar como verbo pronominal
+
+Privilegia-se o uso do verbo lembrar como verbo pronominal quando indica o ato de recordar de alguma coisa:
+
+- Ele não se lembrou do que aconteceu.
+- Ninguém se lembrava do que tinha acontecido.
+- Como você não se lembra disso?
+- Eu já me lembrei de tudo!
+
+## Lembrar sem regência de preposição
+
+Maioritariamente, estabelece regência sem a presença de uma preposição quando indica o ato de sugerir, trazendo algo à memória:
+
+- Esse cheiro lembra minha infância.
+- Meu filho lembra meu irmão.
+- Essa casa lembra a fazendo do meu avô.
+
+## Lembrar como verbo transitivo direto e indireto
+
+Com o sentido de prevenir, advertir ou sugerir, o verbo lembrar pode ser complementado por um objeto direto e por um objeto indireto, apresentando duas possíveis estruturas frásicas.
+
+Lembrar a alguém alguma coisa:
+
+- A Helena lembrou ao filho o combinado.
+- A Madalena lembrou à Sofia o teste de matemática.
+
+Lembrar alguém de alguma coisa:
+
+- Lembrei o diretor do acordo estabelecido.
+- Lembrei-a dos seus direitos.

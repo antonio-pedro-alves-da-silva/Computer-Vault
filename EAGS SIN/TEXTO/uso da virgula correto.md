@@ -82,7 +82,7 @@ Coloca-se a vírgula antes e após a oração subordinada adjetiva explicativa, 
 Manoel, que trabalha com o papai, ligou ontem à noite.
 
 Meu amigo Lucas, aquele que mora em Santos, vai se mudar para o Chile.
-#### b) – Separar as orações subordinadas adverbiais
+#### ==b) – Separar as orações subordinadas adverbiais(cctc)==
 
 Pode-se empregar a vírgula para separar orações subordinadas adverbiais, como causais, condicionais, temporais e concessivas. Veja:
 
@@ -155,11 +155,13 @@ Alunos, ouçam o que tenho a dizer.
 
 A vírgula é colocada antes e após o aposto (termo utilizado para tecer explicações ou definições sobre um substantivo da frase). Veja:
 
+Dona Benta, de Monteiro Lobato, é a avó mais famosa da literatura brasileira.
+
 Matheus, o professor de química, me mandou e-mail ontem.
 
 João, o seu amigo, me adicionou no _Facebook_.
 
-### 8 – Isolar datas
+### 8 – separar o nome de lugares na indicação de datas
 
 A vírgula é colocada após o substantivo que indica o local, como:
 
@@ -189,7 +191,7 @@ Aos pais, nada lhes foi solicitado.
 
 O salário, o patrão se recusava a pagá-lo.
 
-### 11 - Depois dos advérbios “sim” e “não”
+### 11 - Depois de “sim” e “não” sendo usados para resposta
 
 A vírgula é usada após esses advérbios quando eles iniciam uma oração que atue como resposta.
 
@@ -200,6 +202,18 @@ Sim, estamos satisfeitos com os resultados.
 
 
 
+
+### 12 - separar orações cordenadas assindética
+
+As cortinas abriram a música tocou e começou o espetáculo.
+
+Está errada, porque as orações coordenadas assindéticas "As cortinas abriram" e "a música tocou" devem ser separadas por vírgulas. O correto seria: As cortinas abriram, a música tocou e começou o espetáculo.
+
+### 13 - orações cordenadas alternativas que enfatizam uma escolha
+
+c) Ou você vem ou não.
+
+Está errada, porque as orações coordenadas alternativas (que enfatizam uma escolha) devem ser separadas por vírgulas. O correto seria: Ou você vem, ou não.
 
 # Quando não usar a vírgula
 
