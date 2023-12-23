@@ -129,7 +129,7 @@ No caso em que a palavra "se" é índice de indeterminação do sujeito, o verbo
 - **Confia-se** em todos.
 - **Alegra-se** com tudo.
 
-No caso em que a palavra "se" é partícula apassivadora, o verbo deve ser conjugado concrdando com o sujeito da oração. Exemplos:
+No caso em que a palavra "se" é partícula apassivadora, o verbo deve ser conjugado concordando com o sujeito da oração. Exemplos:
 
 - **Construiu-se uma igreja**.
 - **Construíram-se novas igrejas**.

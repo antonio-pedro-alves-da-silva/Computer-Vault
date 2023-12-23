@@ -1,4 +1,3 @@
-
 ### ==1. adjetivo e substantivo==
 
 #### sub1 + adj1
@@ -136,6 +135,10 @@ Porém, se o segundo adjetivo fizer referência a um substantivo, voltamos à re
 
 ### ==5. **Concordância dos particípios**==  
 
+#### invariável
+Se o particípio pertencer a um [[tempo composto]], será invariável.
+
+- O juiz tinha iniciado o jogo de vôlei./ A juíza tinha iniciado o jogo de vôlei.
 #### variavel
 Os particípios concordarão com o substantivo a que se referirem.  
 Exemplos: 
@@ -143,19 +146,9 @@ Exemplos:
 - Foram **mortas** centenas de peixes em afluentes do Rio Tietê, em razão do excesso de poluição – concordância nominal correta, pois, na voz passiva, o particípio concorda em gênero e número com o sujeito.
 
 - Os livros foram comprados a prazo./ As mercadorias foram compradas a prazo.  
-#### invariável
-Se o particípio pertencer a um [[tempo composto]], será invariável.
 
-- O juiz tinha iniciado o jogo de vôlei./ A juíza tinha iniciado o jogo de vôlei.
-### ==6.Predicativo do sujeito com o sujeito==
+### ==6.predicativo do sujeito do pronome de tratamento==
 
-- O adjetivo predicativo concorda em gênero e número **com o sujeito**.
-    Exemplos:
-
-	A desonestidade é **humana**.
-	
-	A ciência e a razão são **irmãs**.
-#### pronome de tratamento
 se o sujeito apresenta uma **forma de tratamento**, o adjetivo predicativo concorda com o gênero do indivíduo ao qual nos referimos.
 
 - Vossa Excelência está **confuso**.

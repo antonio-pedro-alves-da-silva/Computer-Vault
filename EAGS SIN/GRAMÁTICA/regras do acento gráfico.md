@@ -11,7 +11,7 @@ para memorizar
 oi e ei deixaram de ser acentuados como paroxítonas.
 ditongo + i ou u  (i ou u deixam de ser acentudas)
 -o de -oo deixa de ser acentuada.
-Hiato de paroxítona cuja terminação é -em
+Hiato como paroxítona cuja terminação é -em
 paroxítonas homógrafas==
 
 1 - recebem acento quando terminadas em: -i (s), u(s), um, uns, l, r, x, n , m , ditongo oral seguido ou não de s. Além dessas terminações, também são acentuadas quando terminam em ditongo oral seguido ou não de s (vogal e semivogal na mesma sílaba, sem a presença do til ou das consoantes que podem indicar nasalização, m e n) , -guam, -guem ,  -ons, -ps , -ei , -eis 

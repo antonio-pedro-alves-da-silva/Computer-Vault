@@ -265,7 +265,7 @@ LINGUA PORTUGUESA
 										- o crocodilo (o crocodilo macho, o crocodilo fêmea)
 										- a onça (a onça macho, a onça fêmea)
 										- o sabiá (o sabiá macho, o sabiá fêmea).
-								substantivos sobrecomuns e gênero vacilante
+								substantivos sobrecomuns ou gênero vacilante
 									São aqueles que têm somente um gênero gramatical para designar as pessoas de ambos os sexos.
 									Exemplos: a criança, a pessoa, a testemunha.
 								substantivos comuns de dois gêneros
@@ -1274,7 +1274,7 @@ FÍSICA
 		- Máquinas térmicas
 		Ciclo de Carnot
 		Leis da Termodinâmica
-	MATÉRIA E RADIAÇÃO 
+	[[MATÉRIA E RADIAÇÃO]] 
 		Modelos atômicos e as propriedades dos materiais (térmicas, elétricas, magnéticas, etc.) 
 		Espectro eletromagnético (das ondas de rádio aos raios y) e suas tecnologias (radar, rádio, forno de micro-ondas, tomografia, etc.). 
 		Radiações e meios materiais (fotocélulas, emissão e transmissão de luz, telas de monitores, radiografias). 
@@ -1313,4 +1313,9 @@ AS MATÉRIAS QUE MAIS CAEM DE MATMÁTICA
 		Números Complexos
 		Matriz e determinantes
 		Probabilidade
-	
+
+cfs
+computer-vault
+series
+
+

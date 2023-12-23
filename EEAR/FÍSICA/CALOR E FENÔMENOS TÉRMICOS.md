@@ -20,10 +20,8 @@ $\Large\frac{c}{5}=\frac{f-32}{9}=\frac{k-273}{5}=\frac{Re}{4}$
 ### Dilatação superficial
 
 ![[print_screen_463.png]]
-### Dilataçãos superficial da placa que tem um furo
+### DILATAÇÃO SUPERFICIAL DO FURO
 
-formula
-$\Delta A=A_0(1+\beta*\Delta \theta)$
 
 (UNIC –MT) Uma chapa de alumínio tem um furo central de 100cm de raio, estando numa temperatura de 12°C.
 
@@ -70,21 +68,17 @@ A [dilatação anômala da água](https://mundoeducacao.uol.com.br/fisica/anoma
 
 e
 ## Quantidade de calor
-
-
 ![[Pasted image 20231215142505.png]]
 
 **calor específico** - _Calor específico_ é a quantidade de calor necessária para que cada grama de uma substância sofra uma variação de temperatura correspondente a 1°C.
 
-**capacidade termica** - A _capacidade térmica_ é a quantidade de calor que deve ser absorvida ou cedida por um corpo para que ocorra variação de 1 °C
+**capacidade termica** - A _capacidade térmica_ é a quantidade de calor que deve ser absorvida ou cedida por um corpo para que ocorra variação de 1 °C 
 
 **calor latente** - O calor latente é o tipo de energia associada à mudança de fase de agregação de uma substância qualquer.
 
 ## Potência térmica
 
 ![[print_screen_466.png]]
-
-
 
 ## Mudança de estado físico
 
@@ -108,7 +102,7 @@ $\Large Q_{água}+Q_{Lantente-do-gelo} = 0$
 ## Processos de propagação de calor
 
 ![[Pasted image 20231215174339.png]]
-**convecção** -  É um dos processos de transferência de calor que ocorre por meio da movimentação interna de fluidos, como a água ou o ar atmosférico.
+**convecção** -  É um dos processos de transferência de calor que ocorre por meio da movimentação interna de fluidos, como a água ou o ar atmosférico , e ela não ocorre apenas nos sólidos.
 
 **condução** - A condução de calor é o processo de transferência de calor entre partículas. É um tipo de propagação de calor que ocorre num meio material
 
@@ -154,13 +148,17 @@ A **evaporação** é o mais lento dos processos, e ocorre com pressão consta
 ![[print_screen_469.png]]
 
 **ISOTÉRMICA** - isotérmica quando tem sua pressão e volume alterados, mas sua temperatura é mantida constante
-**ISOBÁRICA** - quando sua pressão se mantem constante
-**ISOVOLUMÉTRICA ou ISOMÉTRICA ou ISOCÓRICA** - quando o volume se mante constante
-**ADIABÁTICA** - Transformação adiabática é uma transformação termodinâmica em que não há troca de calor com o ambiente
+**ISOBÁRICA** - quando sua pressão se mantem constante e sua temperatura e volume variam
+**ISOVOLUMÉTRICA ou ISOMÉTRICA ou ISOCÓRICA** - quando o volume se mante constante , em que a pressão e a temperatura variam
+**ADIABÁTICA** - Transformação adiabática é uma transformação termodinâmica em que não há troca de calor com o ambiente , onde nada é constante
+
 ### EQUAÇÃO GERAL DOS GASES
 
 ![[Pasted image 20231216071540.png]]
+
 TEMPERATURA TEM QUE SER EM KELVIN
+
+É comum, na Termodinâmica, utilizar a seguinte expressão: (P1V1)/T1 é igual a (P2V2)/T2. Nessa expressão, P, V e T representam, respectivamente, a pressão, o volume e a temperatura de uma amostra de um gás ideal. Os números representam os estados inicial (1) e final (2). Para utilizar corretamente essa expressão é necessário que **o número de mols, ou de partículas, do estado final seja o mesmo** do estado inicial e que a **composição** **dessa amostra seja a mesma** nos estados final e inicial.
 ### EQUAÇÃO DE CLAPEYRON 
 
 ![[Pasted image 20231216091346.png]]
@@ -181,6 +179,8 @@ $N_{0}$ = avogrado
 ![[print_screen_478.png]]
 
 
+## LEI ZERO DA TERMODINÂMICA
+A lei zero da termodinâmica afirma que se dois corpos A e B estão em equilíbrio térmico com um terceiro corpo C, então A e B estão em equilíbrio térmico entre si.
 ## PRIMEIRA LEI DA TERMODINÂMICA
 A PRIMEIRA LEI DA TERMODINÂMICA TRATA DA CONSERVAÇÃO DA ENERGIA
 ![[print_screen_481.png]]
@@ -215,6 +215,7 @@ um motor térmico transforma parcialmente calor quente em trabalho , nem todo ca
 ![[print_screen_489.png]]
 ![[print_screen_490.png]]
 ![[print_screen_491.png]]
+A TEMPERATURA FICA EM KELVIN
 ## 2° LEI DA TERMODINÂMICA
 
 A segunda **lei da termodinâmica** propõe a existência da entropia, uma grandeza física responsável por mensurar o grau de desorganização das partículas em um sistema físico ou o grau de irreversibilidade dos processos **termodinâmicos** envolvidos nas máquinas térmicas, tratando-se de um fenômeno espontâneo, inevitável,
@@ -222,3 +223,84 @@ A segunda **lei da termodinâmica** propõe a existência da entropia, uma gra
 ![[print_screen_492.png]]
 ![[print_screen_492.png]]
 ![[print_screen_493.png]]![[print_screen_494.png]]
+
+# TERMOLOGIA EXERCICOS
+
+1-CERTO
+2-CERTO
+3-CERTO
+4-CERTO
+5-CERTO
+6-CERTO
+7-ERRADO
+8-CERTO
+9-CERTO
+10-CERTO
+11-CERTO
+12-ERRADO
+13-CERTO
+14-CERTO
+15-CERTO
+16-CERTO
+17-CERTO
+18-CERTO
+19-CERTO
+20-CERTO
+21-CERTO
+22-ERRADO
+23-CERTO
+24-CERTO
+25-ERRADO
+26-CERTO
+27-CERTO
+28-CERTO
+29-CERTO
+30-CERTO
+31-CERTO
+32-CERTO
+33-ANULADA
+34-CERTO
+35-CERTO
+36-ERRADO
+37-CERTO
+38-CERTO
+39-CERTO
+40-CERTO
+41-CERTO
+42-CERTO
+43-CERTO
+44-CERTO
+45-ERRADO
+46-CERTO
+47-CERTO
+48-CERTO
+49-CERTO
+50-CERTO
+51-CERTO
+52-CERTO
+53-CERTO
+54-CERTO
+55-CERTO
+56-ERRADO
+57-ERRADO
+58-CERTO
+59-CERTO
+60-CERTO
+61-CERTO
+62-CERTO
+63-CERTO
+64-CERTO
+65-CERTO
+66-CERTO
+67-CERTO
+68-CERTO
+69-CERTO
+70-ANULADA
+71-CERTO
+72-ERRADO
+73-CERTO
+74-ANULADA
+75-CERTO
+76-ERRADO
+77-CERTO
+

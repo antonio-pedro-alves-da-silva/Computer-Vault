@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "28002f525e979b04",
+        "id": "70cf26ca69934d24",
         "type": "tabs",
         "children": [
           {
-            "id": "030cec97787d4cee",
+            "id": "a0f3fde21fd5048f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,67 +20,42 @@
             }
           },
           {
-            "id": "abb99bd7471654be",
+            "id": "c63506de2cb872cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EEAR/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md",
+                "file": "CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "57f1b8da67bde226",
+            "id": "30b5003197ec005a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EEAR/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md",
+                "file": "EEAR/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "72cdad266c9bd16c",
+            "id": "8ed0e8a0a4a84728",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EEAR/EEAR.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58a19bb854a7167d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EEAR/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1dc626ebff09ede",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EEAR/FÍSICA/CALOR E FENÔMENOS TÉRMICOS.md",
+                "file": "EEAR/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EEAR/FÍSICA/CALOR E FENÔMENOS TÉRMICOS.md",
+                "file": "EEAR/EEAR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EEAR/FÍSICA/CALOR E FENÔMENOS TÉRMICOS.md",
+                "file": "EEAR/EEAR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EEAR/FÍSICA/CALOR E FENÔMENOS TÉRMICOS.md"
+                "file": "EEAR/EEAR.md"
               }
             }
           },
@@ -228,44 +203,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f1dc626ebff09ede",
+  "active": "a0f3fde21fd5048f",
   "lastOpenFiles": [
-    "EEAR/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md",
+    "CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
+    "EEAR/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
+    "EEAR/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
+    "imagens/print_screen_499.png",
+    "imagens/print_screen_498.png",
+    "imagens/print_screen_497.png",
     "EEAR/EEAR.md",
-    "EEAR/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md",
-    "EEAR/FÍSICA/CALOR E FENÔMENOS TÉRMICOS.md",
     "EEAR/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
-    "imagens/print_screen_494.png",
-    "imagens/print_screen_493.png",
-    "imagens/print_screen_492.png",
-    "imagens/print_screen_491.png",
-    "imagens/print_screen_490.png",
-    "imagens/print_screen_489.png",
-    "Pasted image 20231218132309.png",
-    "imagens/print_screen_488.png",
-    "imagens/print_screen_487.png",
-    "imagens/print_screen_486.png",
-    "EEAR/FÍSICA/OSCILAÇÕES, ONDAS, ÓPTICA.md",
-    "EAGS SIN/GRAMÁTICA/concordância verbal.md",
+    "CONCEITOS BÁSICOS E FUNDAMENTAIS.md",
+    "EEAR/FÍSICA/MATÉRIA E RADIAÇÃO.md",
+    "Pasted image 20231221124126.png",
+    "Pasted image 20231221123916.png",
+    "Pasted image 20231221123813.png",
+    "imagens/print_screen_496.png",
+    "Pasted image 20231221092641.png",
+    "Pasted image 20231221092611.png",
+    "Pasted image 20231221092542.png",
+    "EEAR/FÍSICA/CALOR E FENÔMENOS TÉRMICOS.md",
+    "EAGS SIN/GRAMÁTICA/regras do acento gráfico.md",
+    "EEAR/ORTOGRAFIA/erros de ortografia.md",
+    "EAGS SIN/GRAMÁTICA/pronomes relativos.md",
     "EAGS SIN/crase.md",
+    "EAGS SIN/GRAMÁTICA/concordância nominal.md",
+    "EAGS SIN/GRAMÁTICA/concordância verbal.md",
+    "EEAR/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md",
+    "EEAR/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md",
+    "EEAR/FÍSICA/OSCILAÇÕES, ONDAS, ÓPTICA.md",
     "EEAR/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md",
     "Untitled 2.md",
     "Untitled 1.md",
     "EAGS SIN/TEXTO/transposição de discurso.md",
     "EAGS SIN/GRAMÁTICA/regência verbal.md",
     "EAGS SIN/GRAMÁTICA/gramática normativa.md",
-    "EEAR/ORTOGRAFIA/erros de ortografia.md",
-    "EAGS SIN/GRAMÁTICA/pronomes relativos.md",
-    "EAGS SIN/GRAMÁTICA/regras do acento gráfico.md",
     "EAGS SIN/TEXTO/uso da virgula correto.md",
     "EAGS SIN/GRAMÁTICA/diferença entre adjunto adnominal e complemento nominal.md",
-    "EEAR/FÍSICA/ENERGIA, TRABALHO E POTÊNCIA/ENERGIA, TRABALHO E POTÊNCIA.md",
-    "EEAR/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
-    "EEAR/FÍSICA/DINÂMICA.md",
-    "EEAR/FÍSICA/MECÂNICA E O FUNCIONAMENTO DO UNIVERSO.md",
-    "EEAR/FÍSICA/FENÔMENOS ELÉTRICOS E MAGNÉTICOS.md",
-    "EEAR/FÍSICA/ELETRODINÂMICA.md",
-    "Untitled.md",
     "EEAR/ORTOGRAFIA",
     "EEAR/FÍSICA/ENERGIA, TRABALHO E POTÊNCIA",
     "CONCEITOS BÁSICOS E FUNDAMENTAIS",

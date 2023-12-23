@@ -1,24 +1,72 @@
 {
   "recentFiles": [
     {
+      "basename": "EEAR",
+      "path": "EEAR/EEAR.md"
+    },
+    {
+      "basename": "vetores",
+      "path": "CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md"
+    },
+    {
+      "basename": "Polígonos",
+      "path": "EEAR/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md"
+    },
+    {
+      "basename": "CINEMÁTICA",
+      "path": "EEAR/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
+    },
+    {
+      "basename": "print_screen_497",
+      "path": "imagens/print_screen_497.png"
+    },
+    {
+      "basename": "GEOMETRIA ESPACIAL",
+      "path": "EEAR/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md"
+    },
+    {
+      "basename": "CONCEITOS BÁSICOS E FUNDAMENTAIS",
+      "path": "CONCEITOS BÁSICOS E FUNDAMENTAIS.md"
+    },
+    {
+      "basename": "MATÉRIA E RADIAÇÃO",
+      "path": "EEAR/FÍSICA/MATÉRIA E RADIAÇÃO.md"
+    },
+    {
       "basename": "CALOR E FENÔMENOS TÉRMICOS",
       "path": "EEAR/FÍSICA/CALOR E FENÔMENOS TÉRMICOS.md"
+    },
+    {
+      "basename": "regras do acento gráfico",
+      "path": "EAGS SIN/GRAMÁTICA/regras do acento gráfico.md"
+    },
+    {
+      "basename": "erros de ortografia",
+      "path": "EEAR/ORTOGRAFIA/erros de ortografia.md"
+    },
+    {
+      "basename": "pronomes relativos",
+      "path": "EAGS SIN/GRAMÁTICA/pronomes relativos.md"
+    },
+    {
+      "basename": "crase",
+      "path": "EAGS SIN/crase.md"
+    },
+    {
+      "basename": "concordância nominal",
+      "path": "EAGS SIN/GRAMÁTICA/concordância nominal.md"
+    },
+    {
+      "basename": "concordância verbal",
+      "path": "EAGS SIN/GRAMÁTICA/concordância verbal.md"
     },
     {
       "basename": "Análise combinatória",
       "path": "EEAR/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md"
     },
     {
-      "basename": "EEAR",
-      "path": "EEAR/EEAR.md"
-    },
-    {
       "basename": "Matrizes",
       "path": "EEAR/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md"
-    },
-    {
-      "basename": "GEOMETRIA ESPACIAL",
-      "path": "EEAR/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md"
     },
     {
       "basename": "OSCILAÇÕES, ONDAS, ÓPTICA",
@@ -27,14 +75,6 @@
     {
       "basename": "Pasted image 20231215211849",
       "path": "Pasted image 20231215211849.png"
-    },
-    {
-      "basename": "concordância verbal",
-      "path": "EAGS SIN/GRAMÁTICA/concordância verbal.md"
-    },
-    {
-      "basename": "crase",
-      "path": "EAGS SIN/crase.md"
     },
     {
       "basename": "Pasted image 20231215142444",
@@ -65,18 +105,6 @@
       "path": "EAGS SIN/GRAMÁTICA/gramática normativa.md"
     },
     {
-      "basename": "erros de ortografia",
-      "path": "EEAR/ORTOGRAFIA/erros de ortografia.md"
-    },
-    {
-      "basename": "pronomes relativos",
-      "path": "EAGS SIN/GRAMÁTICA/pronomes relativos.md"
-    },
-    {
-      "basename": "regras do acento gráfico",
-      "path": "EAGS SIN/GRAMÁTICA/regras do acento gráfico.md"
-    },
-    {
       "basename": "uso da virgula correto",
       "path": "EAGS SIN/TEXTO/uso da virgula correto.md"
     },
@@ -87,10 +115,6 @@
     {
       "basename": "ENERGIA, TRABALHO E POTÊNCIA",
       "path": "EEAR/FÍSICA/ENERGIA, TRABALHO E POTÊNCIA/ENERGIA, TRABALHO E POTÊNCIA.md"
-    },
-    {
-      "basename": "CINEMÁTICA",
-      "path": "EEAR/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
     },
     {
       "basename": "DINÂMICA",
@@ -133,14 +157,6 @@
       "path": "EAGS SIN/GRAMÁTICA/pronome pessoais (neles se incluem os pronomes de tratamento).md"
     },
     {
-      "basename": "concordância nominal",
-      "path": "EAGS SIN/GRAMÁTICA/concordância nominal.md"
-    },
-    {
-      "basename": "Polígonos",
-      "path": "EEAR/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md"
-    },
-    {
       "basename": "progressões aritmética e geométrica",
       "path": "EEAR/MATEMÁTICA/ÁLGEBRA/progressões aritmética e geométrica.md"
     },
@@ -179,26 +195,6 @@
     {
       "basename": "multiplos de 36 ou 3,6",
       "path": "EEAR/FÍSICA/multiplos de 36 ou 3,6.md"
-    },
-    {
-      "basename": "vetores",
-      "path": "CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md"
-    },
-    {
-      "basename": "raiz quadrada de 11 até 30",
-      "path": "raiz quadrada de 11 até 30.md"
-    },
-    {
-      "basename": "regência nominal",
-      "path": "EAGS SIN/GRAMÁTICA/regência nominal.md"
-    },
-    {
-      "basename": "grandezas vetoriais e escalares",
-      "path": "grandezas vetoriais e escalares.md"
-    },
-    {
-      "basename": "MONOSSÍLABA TÔNICA E ÁTONA",
-      "path": "EAGS SIN/FONOLOGIA/MONOSSÍLABA TÔNICA E ÁTONA.md"
     }
   ],
   "omittedPaths": [],
