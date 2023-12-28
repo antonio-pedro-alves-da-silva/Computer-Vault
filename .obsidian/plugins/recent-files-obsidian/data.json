@@ -1,20 +1,92 @@
 {
   "recentFiles": [
     {
+      "basename": "DINÂMICA",
+      "path": "EEAR/FÍSICA/DINÂMICA.md"
+    },
+    {
+      "basename": "ELETROESTÁTICA E ELETROMAGNETISMO",
+      "path": "EEAR/FÍSICA/ELETROESTÁTICA E ELETROMAGNETISMO.md"
+    },
+    {
+      "basename": "GRAVITAÇÃO",
+      "path": "EEAR/FÍSICA/GRAVITAÇÃO.md"
+    },
+    {
+      "basename": "ONDULATÓRIA E ÓPTICA GEOMÉTRICA",
+      "path": "EEAR/FÍSICA/ONDULATÓRIA E ÓPTICA GEOMÉTRICA.md"
+    },
+    {
+      "basename": "TERMOLOGIA",
+      "path": "EEAR/FÍSICA/TERMOLOGIA.md"
+    },
+    {
       "basename": "EEAR",
       "path": "EEAR/EEAR.md"
+    },
+    {
+      "basename": "diferentes tipos de funções",
+      "path": "EEAR/MATEMÁTICA/ÁLGEBRA/Funções/diferentes tipos de funções.md"
+    },
+    {
+      "basename": "CINEMÁTICA",
+      "path": "EEAR/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
+    },
+    {
+      "basename": "gramática normativa",
+      "path": "EAGS SIN/GRAMÁTICA/gramática normativa.md"
+    },
+    {
+      "basename": "crase",
+      "path": "EAGS SIN/crase.md"
     },
     {
       "basename": "vetores",
       "path": "CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md"
     },
     {
-      "basename": "Polígonos",
-      "path": "EEAR/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md"
+      "basename": "regência verbal",
+      "path": "EAGS SIN/GRAMÁTICA/regência verbal.md"
     },
     {
-      "basename": "CINEMÁTICA",
-      "path": "EEAR/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
+      "basename": "+",
+      "path": "+.md"
+    },
+    {
+      "basename": "ENERGIA, TRABALHO E POTÊNCIA",
+      "path": "EEAR/FÍSICA/ENERGIA, TRABALHO E POTÊNCIA/ENERGIA, TRABALHO E POTÊNCIA.md"
+    },
+    {
+      "basename": "uso do travessão",
+      "path": "EAGS SIN/TEXTO/uso do travessão.md"
+    },
+    {
+      "basename": "uso do ponto e virgula correto",
+      "path": "EAGS SIN/TEXTO/uso do ponto e virgula correto.md"
+    },
+    {
+      "basename": "uso do ponto-final",
+      "path": "EAGS SIN/GRAMÁTICA/uso do ponto-final.md"
+    },
+    {
+      "basename": "uso da virgula correto",
+      "path": "EAGS SIN/TEXTO/uso da virgula correto.md"
+    },
+    {
+      "basename": "transposição de discurso",
+      "path": "EAGS SIN/TEXTO/transposição de discurso.md"
+    },
+    {
+      "basename": "TRIGONOMETRIA",
+      "path": "EEAR/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md"
+    },
+    {
+      "basename": "Matrizes",
+      "path": "EEAR/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md"
+    },
+    {
+      "basename": "Polígonos",
+      "path": "EEAR/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md"
     },
     {
       "basename": "print_screen_497",
@@ -29,14 +101,6 @@
       "path": "CONCEITOS BÁSICOS E FUNDAMENTAIS.md"
     },
     {
-      "basename": "MATÉRIA E RADIAÇÃO",
-      "path": "EEAR/FÍSICA/MATÉRIA E RADIAÇÃO.md"
-    },
-    {
-      "basename": "CALOR E FENÔMENOS TÉRMICOS",
-      "path": "EEAR/FÍSICA/CALOR E FENÔMENOS TÉRMICOS.md"
-    },
-    {
       "basename": "regras do acento gráfico",
       "path": "EAGS SIN/GRAMÁTICA/regras do acento gráfico.md"
     },
@@ -47,10 +111,6 @@
     {
       "basename": "pronomes relativos",
       "path": "EAGS SIN/GRAMÁTICA/pronomes relativos.md"
-    },
-    {
-      "basename": "crase",
-      "path": "EAGS SIN/crase.md"
     },
     {
       "basename": "concordância nominal",
@@ -65,76 +125,16 @@
       "path": "EEAR/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md"
     },
     {
-      "basename": "Matrizes",
-      "path": "EEAR/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md"
-    },
-    {
-      "basename": "OSCILAÇÕES, ONDAS, ÓPTICA",
-      "path": "EEAR/FÍSICA/OSCILAÇÕES, ONDAS, ÓPTICA.md"
-    },
-    {
-      "basename": "Pasted image 20231215211849",
-      "path": "Pasted image 20231215211849.png"
-    },
-    {
-      "basename": "Pasted image 20231215142444",
-      "path": "Pasted image 20231215142444.png"
-    },
-    {
       "basename": "Estudo Analítico",
       "path": "EEAR/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md"
-    },
-    {
-      "basename": "Untitled 2",
-      "path": "Untitled 2.md"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "Untitled 1.md"
-    },
-    {
-      "basename": "transposição de discurso",
-      "path": "EAGS SIN/TEXTO/transposição de discurso.md"
-    },
-    {
-      "basename": "regência verbal",
-      "path": "EAGS SIN/GRAMÁTICA/regência verbal.md"
-    },
-    {
-      "basename": "gramática normativa",
-      "path": "EAGS SIN/GRAMÁTICA/gramática normativa.md"
-    },
-    {
-      "basename": "uso da virgula correto",
-      "path": "EAGS SIN/TEXTO/uso da virgula correto.md"
     },
     {
       "basename": "diferença entre adjunto adnominal e complemento nominal",
       "path": "EAGS SIN/GRAMÁTICA/diferença entre adjunto adnominal e complemento nominal.md"
     },
     {
-      "basename": "ENERGIA, TRABALHO E POTÊNCIA",
-      "path": "EEAR/FÍSICA/ENERGIA, TRABALHO E POTÊNCIA/ENERGIA, TRABALHO E POTÊNCIA.md"
-    },
-    {
-      "basename": "DINÂMICA",
-      "path": "EEAR/FÍSICA/DINÂMICA.md"
-    },
-    {
-      "basename": "MECÂNICA E O FUNCIONAMENTO DO UNIVERSO",
-      "path": "EEAR/FÍSICA/MECÂNICA E O FUNCIONAMENTO DO UNIVERSO.md"
-    },
-    {
-      "basename": "FENÔMENOS ELÉTRICOS E MAGNÉTICOS",
-      "path": "EEAR/FÍSICA/FENÔMENOS ELÉTRICOS E MAGNÉTICOS.md"
-    },
-    {
       "basename": "ELETRODINÂMICA",
       "path": "EEAR/FÍSICA/ELETRODINÂMICA.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
     },
     {
       "basename": "Polinômios",
@@ -143,14 +143,6 @@
     {
       "basename": "quando usar o x ou ch",
       "path": "EAGS SIN/GRAMÁTICA/quando usar o x ou ch.md"
-    },
-    {
-      "basename": "TRIGONOMETRIA",
-      "path": "EEAR/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md"
-    },
-    {
-      "basename": "diferentes tipos de funções",
-      "path": "EEAR/MATEMÁTICA/ÁLGEBRA/Funções/diferentes tipos de funções.md"
     },
     {
       "basename": "pronome pessoais (neles se incluem os pronomes de tratamento)",
@@ -169,32 +161,8 @@
       "path": "Excalidraw/GEOMETRIA ESPACIAL THODI.excalidraw.md"
     },
     {
-      "basename": "Pasted image 20231201133941",
-      "path": "Pasted image 20231201133941.png"
-    },
-    {
       "basename": "print_screen_322",
       "path": "imagens/print_screen_322.png"
-    },
-    {
-      "basename": "tipos de discurso",
-      "path": "EAGS SIN/TEXTO/tipos de discurso.md"
-    },
-    {
-      "basename": "print_screen_306.png",
-      "path": "print_screen_306.png.md"
-    },
-    {
-      "basename": "print_screen_307",
-      "path": "imagens/print_screen_307.png"
-    },
-    {
-      "basename": "print_screen_296",
-      "path": "imagens/print_screen_296.png"
-    },
-    {
-      "basename": "multiplos de 36 ou 3,6",
-      "path": "EEAR/FÍSICA/multiplos de 36 ou 3,6.md"
     }
   ],
   "omittedPaths": [],

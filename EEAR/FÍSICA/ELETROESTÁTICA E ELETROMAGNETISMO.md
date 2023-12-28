@@ -138,7 +138,7 @@ Um campo magnético estacionário é um campo magnético constante que é criado
 $\Large R=\frac{m.v.sen\theta}{|q|.b}$
 
 ![[print_screen_315.png]]
-![[Pasted image 20231209081926.png]]
+
 
 ## FIO CONDUTOR EM UM CAMPO MAGNÉTICO UNIFORME
 

@@ -1,4 +1,3 @@
-
 # custar
 
 ter valor - transitivo direto
@@ -196,3 +195,8 @@ Lembrar alguém de alguma coisa:
 
 - Lembrei o diretor do acordo estabelecido.
 - Lembrei-a dos seus direitos.
+
+# agradecer
+
+- agracer a pessoa se usa preposição
+- agradecer a coisa não se usa preposição

@@ -1,8 +1,10 @@
-# quando uma função é sobrejetora ou sobrejetiva ?
-Dizemos então que uma função é sobrejetora quando todos elementos do contradomínio recebem flechas.
+# quando uma função é sobrejetora/sobrejetiva ?
+**é aquela que possui imagem igual ao contradomínio, ou seja, em que todos os elementos do contradomínio estão relacionados a elementos do domínio**
 
-# quando uma função é injetiva ?
-será injetora quando elemento do conjuto A possuirem imagens distintas 
+# quando uma função é injetiva/injentora ?
+será injetora quando :
+ - todos elemento do dominio possuirem uma imagem unica 
+- quando não houver nenhum elemento com a mesma imagem
 ![[Pasted image 20231015181556.png]]
 # quando uma função é bijetora
 Uma função f: A → B será bijetora se, e somente se, ela for injetora e sobrejetora simultaneamente
@@ -258,7 +260,7 @@ $$$$
 
 ![[print_screen_107.png]]
 
-**Função inversa logarítmica**
+**Função inversa logarítmica é uma função exponencial** 
 
  
 ![[Pasted image 20231106120334.png]]

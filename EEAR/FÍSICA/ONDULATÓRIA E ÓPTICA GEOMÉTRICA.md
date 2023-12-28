@@ -30,7 +30,6 @@
 No século XIX, foi o físico escocês [James C. Maxwell](https://mundoeducacao.uol.com.br/fisica/as-equacoes-maxwell.htm) o primeiro a demonstrar que a oscilação de uma [carga elétrica](https://mundoeducacao.uol.com.br/fisica/carga-eletrica.htm) dá origem a [campos magnéticos](https://mundoeducacao.uol.com.br/fisica/campo-magnetico.htm). Esses campos, por sua vez, produzem campos elétricos, assim como a variação de fluxo de campos elétricos origina campos magnéticos. A interação entre esses campos é responsável pelo surgimento das ondas eletromagnéticas.
 ## EQUAÇÃO FUNDAMENTAL DA ONDULATÓRIA
 
-
 ## Qualidades do som
 ### itensidade
 
@@ -46,6 +45,7 @@ a altura define a frequência
 ### timbre
 
 - O timbre é uma característica do som que permite diferenciar sons com a mesma altura e intensidade.
+- O timbre depende do número de harmônicos que acompanham o som gerador.
 ## Efeitos doppler
 
 ![[Pasted image 20231210170517.png]]
@@ -83,7 +83,7 @@ Onde d é a densidade linear da corda, ou seja:
 ### REFRAÇÃO
 
 - a unica coisa que muda na refração é a velocidade e o comprimento da onda
-- a frequência , periodo e frequência 
+- a frequência , periodo e frequência  permanecem os mesmos
 
 ### DIFRAÇÃO
 
@@ -105,17 +105,47 @@ n for par -> I.C
 ### RESONÂNCIA
 
 ## Movimento harmônico simples (M.H.S.)
-### Movimento harmônico simples Linear
 
+### Força no MHS
+![[print_screen_500.png]]
+
+### Energia no MHS
+
+![[print_screen_501.png]]
+### Periodo
 ![[print_screen_424.png]]
-![[print_screen_425.png]]
+### Função horária da elongação
 
+![[print_screen_502.png]]
+amplitude é igual ao raio
+### Função horária da velocidade 
+função horária da velocidade
+mhs/mcu
+velocidade escalar
+velocidade escalar máxima
 
+![[print_screen_505.png]]
+![[print_screen_507.png]]
+![[print_screen_506.png]]
+![[print_screen_504.png]]
 
+### Função horária da aceleração
 
+função horária da aceleração
+aceleração em função da elongação ou aceleração máxima
 
+![[print_screen_508.png]]
 
-
+### exercicios do movimento harmônico do qconcurso
+1-certo
+2-certo
+3-certo
+4-certo
+5-certo
+6-certo
+7-certo
+8-certo
+9-certo
 ## Cor por reflexão
 
 ![[print_screen_457.png]]

@@ -5,10 +5,18 @@
 ![[print_screen_239.png]]I
 # Matriz Transposta , oposta , simétrica e antisimétrica 
 
-matriz simétrica
+matriz transposta 
+para fazer a matriz transposta basta colocar as linhas como colunas
+![[Pasted image 20231224160025.png]]
+matriz oposta tem o oposto do sinal  da matriz normal
+![[Pasted image 20231224160537.png]]
+
+matriz simétrica é a matriz que possui sua matriz transposta igual a sua matriz normal
+
 $A^{T} = A$
 
-matriz antisimétrica
+matriz antisimétrica  é a matriz que possui sua matriz transposta igual a sua oposta
+
 $A^{T} = -A$
 
 # MATRIZES: IGUALDADE, MULTIPLICAÇÃO POR ESCALAR, ADIÇÃO E SUBTRAÇÃO

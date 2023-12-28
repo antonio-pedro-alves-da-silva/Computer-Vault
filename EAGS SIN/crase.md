@@ -40,9 +40,10 @@ Para saber se a crase é utilizada nos verbos de destino, utilize esse macete:
 - **à medida que**
 - **à proporção que**
 - **á maneira de**
-- **à moda de**
+- Era um senhor distinto, possuía calçados **á** Luís XV. (elipse da expressão [á moda de ] diante de palavra masculina,)
 - **às custas de**
 - **à procura de**
+
 
 Exceção à regra é a locução “a distância”, se não estiver determinada:
 
@@ -95,6 +96,7 @@ Assim:
 Assisti a + a peça = Assisti à peça.
 
 Dedicamo-nos a + as tarefas = Dedicamo-nos às tarefas."
+
 
 
 
@@ -195,6 +197,10 @@ No entanto, se essas duas palavras (“casa” e “terra”) forem qualificadas
 - **Os funcionários** resolveram tudo **a pauladas**.
 
 
+### ==15)Por outro lado, **quando acompanhadas de preposições (para, desde, após, perante, com), não se utiliza a crase**==
+
+- Logo após à promulgação do decreto, houve protestos em várias cidades.
+
 # quando a crase é facultativa
 A crase será facultativa **quando a presença do artigo definido feminino “a” ou a preposição “a” também for facultativa, podendo ou não estar presente na frase**. Dessa forma, se o artigo e a preposição estiverem na frase, o uso da crase é obrigatório, pois há contração da preposição “a” com o artigo “a”
 ### ==depois da preposição até==
@@ -227,8 +233,13 @@ Não dão valor **a nossa** opinião."
 
 ### [as vezes ou ás vezes](https://www.trf3.jus.br/emag/emagconecta/conexaoemag-lingua-portuguesa/as-vezes-as-vezes#:~:text=%E2%80%9C%C3%80s%20vezes%E2%80%9D%2C%20com%20crase,eficaz%20de%20combater%20a%20depress%C3%A3o.%E2%80%9D)
 
-
-
+- “Às vezes”, com crase, é uma locução adverbial indicativa de tempo, que significa “ocasionalmente”, “de vez em quando”, “de quando em quando”, “em alguns momentos ou situações”.
+- as vezes sem crase tem sentido de "fazes as vezes de" , 'as ocasiões'
+- 
+### avista , a vista , Á vista
+avista - verbo avistar
+a vista - a paisagem ou o orgão ocular
+Á vista - forma de pagamento ou visível
 ### Antes dos seguintes nomes de lugar: Europa, Ásia, África, França, Inglaterra, Espanha, Holanda, Escócia e Flandres.
 
 Não podemos mais voltar à Escócia.
@@ -238,6 +249,12 @@ Não podemos mais voltar a Escócia.
 
 
 
+# crase exercicios qconcurso
+
+[1](https://www.qconcursos.com/questoes-militares/questoes/5a6b0a23-16)-errado
+[2](https://www.qconcursos.com/questoes-militares/questoes/a6912acf-6b)-errado
+[3](https://www.qconcursos.com/questoes-militares/questoes/744039d3-0d)-errado
+[4](https://www.qconcursos.com/questoes-militares/questoes/744039d3-0d)-errado
 # Referências
 - https://www.todamateria.com.br/crase/
 - https://mundoeducacao.uol.com.br/gramatica/as-vezes-ou-as-vezes.htm
@@ -245,3 +262,4 @@ Não podemos mais voltar a Escócia.
 - https://brasilescola.uol.com.br/gramatica/crase.htm
 - https://www.educamaisbrasil.com.br/enem/lingua-portuguesa/crase-facultativa
 - https://www.portugues.com.br/gramatica/cinco-dicas-simples-sobre-uso-crase.html#:~:text=Existe%20um%20caso%20em%20que,de%E2%80%9D%20estiver%20impl%C3%ADcita%20na%20frase.
+

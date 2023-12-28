@@ -104,6 +104,8 @@ Pode-se empregar a vírgula para separar orações subordinadas adverbiais, como
 
 - Quem diria que, **aos poucos**, eles mudariam seus hábitos.
 
+- O sertanejo é , **antes de tudo,** um forte.
+
 - **Depois de** assistir ao filme, fomos comer.
 
 - **Porém**, quando o adjunto adverbial tiver menos de quatro palavras, pode-se omitir a vírgula, como:
@@ -127,7 +129,7 @@ Costuma-se empregar a vírgula **quando a oração subordinada precede a princi
 - Por atacar PPPs, empreiteiros criticam Tasso.
     
 - Quando houve o ataque às torres gêmeas no EUA, muitas pessoas ainda estavam trabalhando nos prédios.
-### 4 – Separar [[expressões explicativas]]
+### ==4 – Separar [[expressões explicativas]]==
 
 São utilizadas para ratificar ou explicar algo dito anteriormente, juntamente com expressões como isto é, ou seja, por exemplo, a meu ver. Por isso, elas aparecem entre vírgulas. Veja os exemplos:
 
@@ -135,7 +137,7 @@ A Holanda, por exemplo, é um local onde a maioria da população fala inglês
 
 O time não se preparou adequadamente, isto é, não estava se importando muito com o jogo.
 
-### 5 – Separar orações cordenadas sindéticas adversativas , conclusivas e explicativas
+### ==5 – Separar orações cordenadas sindéticas adversativas , conclusivas e explicativas==
 
 - O Holocausto nos mostrou a necessidade de uma educação voltada para a autonomia, mas os modelos de ensino ainda se pautam no autoritarismo.
     
@@ -143,7 +145,7 @@ O time não se preparou adequadamente, isto é, não estava se importando muit
     
 - "Sucedeu, porém, que como eu vinha cansado, fechei os olhos três ou quatro vezes" (Machado de Assis).
 
-### 6 – Isolar o vocativo
+### ==6 – Isolar o vocativo==
 
 A vírgula é colocada após o vocativo (termo utilizado para evocar o interlocutor). Veja:
 
@@ -151,7 +153,7 @@ Carlos, pegue a caneta para mim.
 
 Alunos, ouçam o que tenho a dizer.
 
-### 7 – Isolar o aposto
+### ==7 – Isolar o aposto==
 
 A vírgula é colocada antes e após o aposto (termo utilizado para tecer explicações ou definições sobre um substantivo da frase). Veja:
 
@@ -161,7 +163,7 @@ Matheus, o professor de química, me mandou e-mail ontem.
 
 João, o seu amigo, me adicionou no _Facebook_.
 
-### 8 – separar o nome de lugares na indicação de datas
+### ==8 – separar o nome de lugares na indicação de datas==
 
 A vírgula é colocada após o substantivo que indica o local, como:
 
@@ -171,7 +173,7 @@ Já nos casos em que precisamos isolar o número de um endereço, usa-se a vírg
 
 Rua dos Jacarandás, 345.
 
-### 9 –  zeugma ou vírgula vicária
+### ==9 –  zeugma ou vírgula vicária==
 
 Zeugma é um tipo de elipse utilizado para não se repetir termos de uma oração. Para indicá-la é preciso utilizar uma vírgula no lugar do termo não repetido, como no exemplo:
 
@@ -183,7 +185,7 @@ Zeugma é um tipo de elipse utilizado para não se repetir termos de uma oraçã
 No exemplo anterior, a oração omite o verbo “gostar”. Para marcar tal ação, utiliza-se a vírgula.
 
 
-### 10 – objeto pleonástico antes do verbo
+### ==10 – objeto pleonástico antes do verbo==
 
 Emprega-se a vírgula quando você usar algum [[objeto pleonástico]] antes do verbo, como:
 
@@ -191,7 +193,7 @@ Aos pais, nada lhes foi solicitado.
 
 O salário, o patrão se recusava a pagá-lo.
 
-### 11 - Depois de “sim” e “não” sendo usados para resposta
+### ==11 - Depois de “sim” e “não” sendo usados para resposta==
 
 A vírgula é usada após esses advérbios quando eles iniciam uma oração que atue como resposta.
 
@@ -203,13 +205,13 @@ Sim, estamos satisfeitos com os resultados.
 
 
 
-### 12 - separar orações cordenadas assindética
+### ==12 - separar orações cordenadas assindética==
 
 As cortinas abriram a música tocou e começou o espetáculo.
 
 Está errada, porque as orações coordenadas assindéticas "As cortinas abriram" e "a música tocou" devem ser separadas por vírgulas. O correto seria: As cortinas abriram, a música tocou e começou o espetáculo.
 
-### 13 - orações cordenadas alternativas que enfatizam uma escolha
+### ==13 - orações cordenadas alternativas que enfatizam uma escolha==
 
 c) Ou você vem ou não.
 

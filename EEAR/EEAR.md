@@ -928,6 +928,7 @@ LINGUA PORTUGUESA
 		uso da virgula correto
 		[[diferença entre adjunto adnominal e complemento nominal]]
 		pronome substantivo
+		pontuação
 LÍNGUA INGLESA 
 	GRAMÁTICA 
 		Substantivos 
@@ -1131,7 +1132,6 @@ MATEMÁTICA
 
 FÍSICA
 	[[raiz quadrada de 11 até 30]]
-	[[multiplos de 36 ou 3,6]]
 	[[CONCEITOS BÁSICOS E FUNDAMENTAIS]]
 		Noções de ordem de grandeza
 		Notação científica 
@@ -1150,55 +1150,14 @@ FÍSICA
 		lançamentos e queda livre
 		Movimento Rétilineo Circular uniforme
 	[[DINÂMICA]]
-	O MOVIMENTO, O EQUILÍBRIO E A DESCOBERTA DAS LEIS FÍSICAS: 
-		Grandezas fundamentais da mecânica: 
-			tempo, espaço, velocidade e aceleração. 
-		Descrições do movimento e sua interpretação: 
-			quantificação do movimento e sua descrição matemática e gráfica Casos especiais de movimentos e suas regularidades observáveis 
-		Movimento Retilíneo Uniforme (M.R.U.): 
-			conceituação
-			equação horária e gráficos 
-		Movimento Retilíneo Uniformemente Variado (M.R.U.V.): 
-			conceito
-			equações horárias e de Torricelli e gráficos 
-			aceleração da gravidade
-			queda livre e lançamento de projéteis
-		Movimento Circular Uniforme (M.C.U.): 
-			conceito de inércia
-			sistemas de referência inerciais e não inerciais
-			Massa e quantidade de movimento (momento linear). 
-			Força e variação da quantidade de movimento. 
-			Leis de Newton. 
-			Lei de Hooke. 
-			Centro de massa, centro de gravidade e a idéia de ponto material. 
-			Conceito de forças externas e internas. 
-			Lei da conservação da quantidade de movimento (momento linear) 
-			teorema do impulso e colisões. 
-			Momento de uma força (torque). 
-			Condições de equilíbrio estático de ponto material e de corpos extensos. 
-			Força de atrito, força peso, força normal de contato e tração. 
-			Diagramas de forças. 
-			Forças que atuam nos movimentos circulares. 
-			Pressão e densidade. 
-			Pressão atmosférica e experiência de Torricelli. 
-			Princípios de Pascal
-			Arquimedes e Stevin
-				condições de flutuação
-				relação entre diferença de nível e pressão hidrostática. 
-				Empuxo. 
-	[[ENERGIA, TRABALHO E POTÊNCIA]]
-		Trabalho, energia, potência e rendimento. 
-		Energia potencial e energia cinética. 
-		Conservação de energia mecânica e dissipação de energia. 
-		Forças conservativas e dissipativas.    
-	[[MECÂNICA E O FUNCIONAMENTO DO UNIVERSO]]
+	[[GRAVITAÇÃO]]
 		Força peso
 		Aceleração gravitacional
 		Lei da Gravitação universal 
 		Leis de Kepler
 		Movimentos de corpos celestes
 	[[ELETRODINÂMICA]]
-	[[FENÔMENOS ELÉTRICOS E MAGNÉTICOS]]
+	[[ELETROESTÁTICA E ELETROMAGNETISMO]]
 		Carga elétrica e corrente elétrica. 
 		Conceito e processos de eletrização e princípios da eletrostática. 
 		Lei de Coulomb. 
@@ -1240,7 +1199,7 @@ FÍSICA
 			Lei de Faraday. 
 			Lei de Lenz. 
 			Transformadores. 
-	[[OSCILAÇÕES, ONDAS, ÓPTICA]] 
+	[[ONDULATÓRIA E ÓPTICA GEOMÉTRICA]] 
 		Pulsos e ondas 
 		Período, frequência e ciclo. 
 		Ondas periódicas 
@@ -1262,7 +1221,7 @@ FÍSICA
 			Formação de imagens. 
 			Instrumentos ópticos simples. 
 			Olho humano (principais defeitos da visão). 
-	[[CALOR E FENÔMENOS TÉRMICOS]]
+	[[TERMOLOGIA]]
 		- Calor e temperatura
 		- Escalas termométricas 
 		- Transferência de calor e equilíbrio térmico
@@ -1313,9 +1272,4 @@ AS MATÉRIAS QUE MAIS CAEM DE MATMÁTICA
 		Números Complexos
 		Matriz e determinantes
 		Probabilidade
-
-cfs
-computer-vault
-series
-
 
