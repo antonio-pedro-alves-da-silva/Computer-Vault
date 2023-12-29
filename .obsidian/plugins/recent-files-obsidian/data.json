@@ -1,8 +1,72 @@
 {
   "recentFiles": [
     {
+      "basename": "EEAR",
+      "path": "EEAR/EEAR.md"
+    },
+    {
+      "basename": "questões erradas de português",
+      "path": "EAGS SIN/GRAMÁTICA/questões erradas de português.md"
+    },
+    {
+      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
+      "path": "EEAR/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+    },
+    {
+      "basename": "Polinômios",
+      "path": "EEAR/MATEMÁTICA/ÁLGEBRA III/Polinômios/Polinômios.md"
+    },
+    {
+      "basename": "Polígonos",
+      "path": "EEAR/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md"
+    },
+    {
+      "basename": "Matrizes",
+      "path": "EEAR/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md"
+    },
+    {
+      "basename": "GEOMETRIA ESPACIAL",
+      "path": "EEAR/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md"
+    },
+    {
+      "basename": "crase",
+      "path": "EAGS SIN/crase.md"
+    },
+    {
       "basename": "DINÂMICA",
       "path": "EEAR/FÍSICA/DINÂMICA.md"
+    },
+    {
+      "basename": "PROBRABILIDADE",
+      "path": "EEAR/MATEMÁTICA/PROBABILIDADE/PROBRABILIDADE.md"
+    },
+    {
+      "basename": "CINEMÁTICA",
+      "path": "EEAR/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
+    },
+    {
+      "basename": "Estudo Analítico",
+      "path": "EEAR/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md"
+    },
+    {
+      "basename": "ESTÁTICA",
+      "path": "EEAR/FÍSICA/ESTÁTICA.md"
+    },
+    {
+      "basename": "vetores",
+      "path": "EEAR/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md"
+    },
+    {
+      "basename": "Simbolos em Latex",
+      "path": "LATEX/Simbolos em Latex.md"
+    },
+    {
+      "basename": "to use latex",
+      "path": "LATEX/to use latex.md"
+    },
+    {
+      "basename": "latex_primer",
+      "path": "LATEX/latex_primer.pdf"
     },
     {
       "basename": "ELETROESTÁTICA E ELETROMAGNETISMO",
@@ -21,36 +85,16 @@
       "path": "EEAR/FÍSICA/TERMOLOGIA.md"
     },
     {
-      "basename": "EEAR",
-      "path": "EEAR/EEAR.md"
-    },
-    {
       "basename": "diferentes tipos de funções",
       "path": "EEAR/MATEMÁTICA/ÁLGEBRA/Funções/diferentes tipos de funções.md"
-    },
-    {
-      "basename": "CINEMÁTICA",
-      "path": "EEAR/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
     },
     {
       "basename": "gramática normativa",
       "path": "EAGS SIN/GRAMÁTICA/gramática normativa.md"
     },
     {
-      "basename": "crase",
-      "path": "EAGS SIN/crase.md"
-    },
-    {
-      "basename": "vetores",
-      "path": "CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md"
-    },
-    {
       "basename": "regência verbal",
       "path": "EAGS SIN/GRAMÁTICA/regência verbal.md"
-    },
-    {
-      "basename": "+",
-      "path": "+.md"
     },
     {
       "basename": "ENERGIA, TRABALHO E POTÊNCIA",
@@ -81,24 +125,8 @@
       "path": "EEAR/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md"
     },
     {
-      "basename": "Matrizes",
-      "path": "EEAR/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md"
-    },
-    {
-      "basename": "Polígonos",
-      "path": "EEAR/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md"
-    },
-    {
       "basename": "print_screen_497",
       "path": "imagens/print_screen_497.png"
-    },
-    {
-      "basename": "GEOMETRIA ESPACIAL",
-      "path": "EEAR/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md"
-    },
-    {
-      "basename": "CONCEITOS BÁSICOS E FUNDAMENTAIS",
-      "path": "CONCEITOS BÁSICOS E FUNDAMENTAIS.md"
     },
     {
       "basename": "regras do acento gráfico",
@@ -125,20 +153,12 @@
       "path": "EEAR/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md"
     },
     {
-      "basename": "Estudo Analítico",
-      "path": "EEAR/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md"
-    },
-    {
       "basename": "diferença entre adjunto adnominal e complemento nominal",
       "path": "EAGS SIN/GRAMÁTICA/diferença entre adjunto adnominal e complemento nominal.md"
     },
     {
       "basename": "ELETRODINÂMICA",
       "path": "EEAR/FÍSICA/ELETRODINÂMICA.md"
-    },
-    {
-      "basename": "Polinômios",
-      "path": "EEAR/MATEMÁTICA/ÁLGEBRA III/Polinômios/Polinômios.md"
     },
     {
       "basename": "quando usar o x ou ch",

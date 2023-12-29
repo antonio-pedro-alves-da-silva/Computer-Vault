@@ -33,7 +33,7 @@
 
 ![[print_screen_212.png]]
 
-## Tetraedo regular
+## Tetraedo regular ou pirâmide regular
 
 ![[print_screen_213.png]]
 ## Altura da pirâmide

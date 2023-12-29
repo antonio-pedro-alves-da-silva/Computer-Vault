@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "338ae5c364c6e20e",
+        "id": "6fac7132807229df",
         "type": "tabs",
         "children": [
           {
-            "id": "a1c454bd69a9f326",
+            "id": "642a657bd6bbaa21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EEAR/FÍSICA/DINÂMICA.md",
+                "file": "EEAR/EEAR.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 330.5,
+    "collapsed": true
   },
   "right": {
     "id": "ee4e8bcf9413ed0e",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EEAR/FÍSICA/DINÂMICA.md",
+                "file": "EEAR/EEAR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EEAR/FÍSICA/DINÂMICA.md",
+                "file": "EEAR/EEAR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EEAR/FÍSICA/DINÂMICA.md"
+                "file": "EEAR/EEAR.md"
               }
             }
           },
@@ -143,7 +144,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -166,54 +169,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a1c454bd69a9f326",
+  "active": "642a657bd6bbaa21",
   "lastOpenFiles": [
+    "EAGS SIN/GRAMÁTICA/questões erradas de português.md",
+    "EEAR/EEAR.md",
+    "EEAR/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "EEAR/MATEMÁTICA/ÁLGEBRA III/Polinômios/Polinômios.md",
+    "EEAR/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
+    "EEAR/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md",
+    "EEAR/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
+    "EAGS SIN/crase.md",
+    "EEAR/FÍSICA/DINÂMICA.md",
+    "EEAR/MATEMÁTICA/PROBABILIDADE/PROBRABILIDADE.md",
+    "EEAR/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
+    "EEAR/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md",
+    "EEAR/FÍSICA/ESTÁTICA.md",
+    "imagens/print_screen_540.png",
+    "imagens/print_screen_539.png",
+    "imagens/print_screen_538.png",
+    "EEAR/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
+    "imagens/print_screen_537.png",
+    "imagens/print_screen_536.png",
+    "imagens/print_screen_535.png",
+    "imagens/print_screen_534.png",
+    "LATEX/Simbolos em Latex.md",
+    "LATEX/to use latex.md",
+    "LATEX/latex_primer.pdf",
+    "print_screen_306.png.md",
+    "grandezas vetoriais e escalares.md",
+    "CONCEITOS BÁSICOS E FUNDAMENTAIS.md",
+    "+.md",
     "imagens/Pasted image 20231227161652.png",
     "imagens/Pasted image 20231225220906.png",
     "imagens/Pasted image 20231224160537.png",
-    "imagens/Pasted image 20231224160025.png",
-    "imagens/Pasted image 20231224081308.png",
-    "imagens/Pasted image 20231221124126.png",
-    "imagens/Pasted image 20231221123916.png",
-    "imagens/Pasted image 20231221123813.png",
-    "imagens/Pasted image 20231221092641.png",
-    "imagens/Pasted image 20231221092611.png",
-    "imagens/Pasted image 20231221092542.png",
     "EEAR/FÍSICA/ELETROESTÁTICA E ELETROMAGNETISMO.md",
     "EEAR/FÍSICA/GRAVITAÇÃO.md",
     "EEAR/FÍSICA/ONDULATÓRIA E ÓPTICA GEOMÉTRICA.md",
-    "EEAR/FÍSICA/DINÂMICA.md",
     "EEAR/FÍSICA/TERMOLOGIA.md",
     "Untitled 4.md",
-    "EEAR/EEAR.md",
     "EEAR/MATEMÁTICA/ÁLGEBRA/Funções/diferentes tipos de funções.md",
-    "EEAR/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
-    "EAGS SIN/GRAMÁTICA/gramática normativa.md",
-    "EAGS SIN/crase.md",
-    "CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
-    "EAGS SIN/GRAMÁTICA/regência verbal.md",
-    "+.md",
-    "EEAR/FÍSICA/ENERGIA, TRABALHO E POTÊNCIA/ENERGIA, TRABALHO E POTÊNCIA.md",
-    "EAGS SIN/TEXTO/uso do travessão.md",
-    "EAGS SIN/TEXTO/uso do ponto e virgula correto.md",
-    "EAGS SIN/GRAMÁTICA/uso do ponto-final.md",
-    "EAGS SIN/TEXTO/uso da virgula correto.md",
-    "EAGS SIN/TEXTO/transposição de discurso.md",
-    "EEAR/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md",
-    "EEAR/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md",
-    "Untitled 3.md",
-    "EEAR/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
-    "EEAR/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
     "EEAR/ORTOGRAFIA",
     "EEAR/FÍSICA/ENERGIA, TRABALHO E POTÊNCIA",
-    "CONCEITOS BÁSICOS E FUNDAMENTAIS",
+    "EEAR/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS",
     "Noções de orem de grandeza",
     "EAGS SIN/FONOLOGIA",
     "EEAR/FÍSICA/CINEMÁTICA",
     "EEAR/FÍSICA",
     "EAGS SIN/GRAMÁTICA/Usos da Partícula Se.pdf",
     "EEAR/MATEMÁTICA/PROBABILIDADE",
-    "Harry Potter and the Philosopher’s Stone",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

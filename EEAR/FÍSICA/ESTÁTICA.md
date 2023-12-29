@@ -1,0 +1,9 @@
+# EQUILÍBRIO DE UM PONTO MATERIAL
+# EQUILÍBRIO DE UM CORPO EXTENSO
+
+![[print_screen_539.png]]
+![[print_screen_540.png]]
+
+
+# MOMENTO DE UMA FORÇA TORQUE E ALAVANCAS
+

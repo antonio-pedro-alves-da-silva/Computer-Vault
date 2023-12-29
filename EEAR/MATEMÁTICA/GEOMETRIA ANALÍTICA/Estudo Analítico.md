@@ -27,8 +27,7 @@ coeficiente angular se uma reta passa por dois pontos
 ## Equação reduzida da circuferência
 
 ![[print_screen_169.png]]
-## [Equação geral da circuferência](https://www.youtube.com/watch?v=tu81HCPl4mU&t=145s)
-
+## [Equação geral da circuferência]
 ## posições relativas entre ponto e circunferência
 
 ![[print_screen_170.png]]

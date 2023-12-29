@@ -191,7 +191,18 @@ análise unidimensional
 ![[print_screen_532.png]]
 
 # CENTRO DE MASSA E CENTRO E GRAVIDADE
+## CENTRO DE MASSA
+centro de massa de corpo homogêneo
+centro de massa de corpo não homgênero(lançamento obliquo)
+centro de massa de particulas
 
+![[print_screen_534.png]]
+![[print_screen_537.png]]
+![[print_screen_536.png]]
+
+## CENTRO DE GRAVIDADE
+-  o centro de gravidade de um corpo rígido ou de um sistema de pontos materias é o ponto por onde passa a lnha de ação do peso resultante
+**note:** nos nossos estudos cm e cg coincidem pois o campo gravitacional é constatne
 # leis de newton e exercícios qconcurso
 [1](https://www.qconcursos.com/questoes-militares/questoes/a7b8a728-6b)-errado*
 [2](https://www.qconcursos.com/questoes-militares/questoes/a774f8c1-6b)-errado*
@@ -214,6 +225,7 @@ análise unidimensional
 [4](https://www.qconcursos.com/questoes-militares/questoes/476fc910-9b)-errado
 [5](https://www.qconcursos.com/questoes-de-concursos/questoes/a20dd731-55)-errado**
 [6](https://www.qconcursos.com/questoes-militares/questoes/c8b66595-ea)-errado
+[7](https://www.qconcursos.com/questoes-militares/questoes/a7a64086-6b)-errado
 
 # energia mecânica e sua conservação
 
@@ -224,3 +236,5 @@ análise unidimensional
 [1](https://www.qconcursos.com/questoes-militares/questoes/465be749-49)-errado
 [2](https://www.qconcursos.com/questoes-militares/questoes/8d416a19-f3)-errado
 [3](https://www.qconcursos.com/questoes-militares/questoes/76130350-55)-errado
+[4](https://www.qconcursos.com/questoes-militares/questoes/5b3f930c-16)-errado
+[5](https://www.qconcursos.com/questoes-militares/questoes/474c8501-9b)-errado

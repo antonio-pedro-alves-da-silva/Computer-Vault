@@ -82,7 +82,9 @@ $\Large W_{cat}.K.N_{catraca}=W_{coroa}.K.N_{coroa}$
 
 $\Large W_{cat}.N_{catraca}=W_{coroa}.N_{coroa}$
 
-## Impulso e quantidade de movimento
+
+## movimento de espelho e velocidade relativa entre espelho e observador
+![[print_screen_538.png]]
 
 # exercícios de mrcu
 
@@ -114,12 +116,6 @@ $\Large W_{cat}.N_{catraca}=W_{coroa}.N_{coroa}$
 26-certo
 # exercícios de cinemática
 
-8. Um balão em movimento vertical ascendente à velocidade constante de 10 m/s está a 75 m da Terra, quando dele se desprende um objeto. Considerando a aceleração da gravidade igual a 10 m/s2 e desprezando a resistência do ar, o tempo, em segundos, em que o objeto chegará a Terra, é:
-9. (UERJ) Um malabarista consegue manter cinco bolas em movimento, arremessando-as para cima, uma de cada vez, a intervalos de tempo regulares, de modo que todas saem da mão esquerda, alcançam uma mesma altura, igual a 2,5 m, e chegam à mão direita. Desprezando a distância entre as mãos, determine o tempo necessário para uma bola sair de uma das mãos do malabarista e chegar à outra, conforme o descrito acima. (Adote g 10 m/s2 .)
-11. 11. Um corpo de pequenas dimensões é abandonado, a partir do repouso, de uma determinada altitude da superfície da Terra. Despreza-se a resistência do ar e considera-se a aceleração da gravidade constante. Sabendo-se que, no primeiro segundo de queda, o corpo percorre uma distância H, no terceiro segundo desse mesmo movimento, percorrerá: 
-	  [resolução do 11](https://www.youtube.com/watch?v=Ko7N5gUz8ro)
-16. Abandona-se uma pedra de uma altura H do solo, num local onde a aceleração da gravidade é 10 m/s2 e o efeito do ar é desprezível. Verifica-se que, no último segundo de queda, a pedra percorre 3/4 H. Calcule: a) o tempo de queda; b) a altura H de queda;
-
-18. 13 – (Ufop - 2010) Uma pessoa lança uma pedra do alto de um edifício com velocidade inicial de 60 m/s e formando um ângulo de 30° com a horizontal, como mostrado na figura abaixo. Se a altura do edifício é 80 m, qual será o alcance máximo (Xf) da pedra, isto é, em que posição horizontal ela atingirá o solo? (dados: sen 30° = 0,5, cos 30° = 0,8 e g = 10 m/s2)
+[1](https://www.qconcursos.com/questoes-militares/questoes/4650a6c6-49)-errado
 
 

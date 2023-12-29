@@ -906,29 +906,7 @@ LINGUA PORTUGUESA
 		[[gramática normativa]]
 	FONOLOGIA
 		[[MONOSSÍLABA TÔNICA E ÁTONA]]
-	o que revisar
-		formação de palavras
-			derivação regressiva
-			derivação imprópria
-		crase
-		concordância verbal
-		separação silábica
-		pronome relativo
-		acento gráfico
-		gênero de substatnivo
-			uniforme 
-			biforme
-		ortografia
-			quando usar x ou ch
-			erros de ortografia
-		gramativa normativa
-		plural dos substantivos
-		[[regência verbal]]
-		transposição do discurso direto para o discurso indireto
-		uso da virgula correto
-		[[diferença entre adjunto adnominal e complemento nominal]]
-		pronome substantivo
-		pontuação
+	[[questões erradas de português]]
 LÍNGUA INGLESA 
 	GRAMÁTICA 
 		Substantivos 
@@ -972,7 +950,7 @@ LÍNGUA INGLESA
 			Artigos definidos e indefinidos
 MATEMÁTICA 
 	[[CONJUNTOS NUMÉRICO]]
-	ÁLGEBRA I
+	ÁLGEBRA 
 		Funções
 			[[definição de função]]
 			[[domínio, imagem e contradomínio]]
@@ -1129,7 +1107,9 @@ MATEMÁTICA
 					![[print_screen_226.png]]
 			[[Teorema das raízes racionais]]
 	[[PROBRABILIDADE]]
+	[[QUESTÕES ERRADAS DE MATEMÁTICA]]
 
+	 
 FÍSICA
 	[[raiz quadrada de 11 até 30]]
 	[[CONCEITOS BÁSICOS E FUNDAMENTAIS]]
@@ -1150,6 +1130,7 @@ FÍSICA
 		lançamentos e queda livre
 		Movimento Rétilineo Circular uniforme
 	[[DINÂMICA]]
+	[[ESTÁTICA]]
 	[[GRAVITAÇÃO]]
 		Força peso
 		Aceleração gravitacional

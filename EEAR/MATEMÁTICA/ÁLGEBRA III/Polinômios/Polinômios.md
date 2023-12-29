@@ -1,12 +1,8 @@
-# Definição ,Coeficientes e Grau
-
-![[print_screen_113.png]]
 # Valor Númerico , Raiz e Polinômio Nulo
 
 ## Valor Númerico
 ![[Pasted image 20231102133046.png]]
 
-## Raiz
 
 ## Polinômio Nulo
 
@@ -43,10 +39,8 @@ z## Briot-ruffini divisão de polinômios
 
 # Equações polinômiais
 
-## Teorema Fundamental da algebra e Teorema da decomposição
-
 ### Teorema Fundamental da algebra
-Teorema Fundamental da algebra diz que todo polinômio de grau n >= 1 admite ao menos uma raiz complexa.
+
 ### Teorema da decomposição
 
 um polinômio de grau 2° tem duas raizes um polinômio de grau 3° tem 3 raizes , um polinômio de grau 4° tem 4 raizes e assim por diante.
@@ -65,13 +59,8 @@ $$x²-5x+6=1(x-2)(x-3)$$
 
 ![[Pasted image 20231102133222.png]]
 
-# multiplicidade de uma raiz ou raízes múltiplas
 
-![[print_screen_124.png]]
-
-**encontrando as demais raizes usando briott-rufinni sabendo uma das raizes de um polinômio**
-![[print_screen_127.png]]
-# raízes complexas e relações de Girard ou soma e produto
+# relações de Girard
 
 ![[print_screen_161.png]]
 

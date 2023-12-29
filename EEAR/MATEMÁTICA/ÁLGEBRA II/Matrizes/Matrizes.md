@@ -20,7 +20,7 @@ matriz antisimétrica  é a matriz que possui sua matriz transposta igual a sua 
 $A^{T} = -A$
 
 # MATRIZES: IGUALDADE, MULTIPLICAÇÃO POR ESCALAR, ADIÇÃO E SUBTRAÇÃO
-# MULTIPLICAÇÃO DE  MATRIZES
+# REGRA DA MULTIPLICAÇÃO DE  MATRIZES
 
 - 1 - a multiplicação so pode ser feita se O número de colunas da matriz da esquerda for igual ao número de linhas da matriz da direita.
 
