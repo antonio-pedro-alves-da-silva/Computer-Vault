@@ -1,16 +1,84 @@
 {
   "recentFiles": [
     {
+      "basename": "DINÂMICA",
+      "path": "EEAR/FÍSICA/DINÂMICA.md"
+    },
+    {
+      "basename": "note-1",
+      "path": "notes/note-1.md"
+    },
+    {
       "basename": "EEAR",
       "path": "EEAR/EEAR.md"
+    },
+    {
+      "basename": "ONDULATÓRIA E ÓPTICA GEOMÉTRICA",
+      "path": "EEAR/FÍSICA/ONDULATÓRIA E ÓPTICA GEOMÉTRICA.md"
+    },
+    {
+      "basename": "template-note.md",
+      "path": "notes/template-note.md.md"
+    },
+    {
+      "basename": "print_screen_258",
+      "path": "imagens/print_screen_258.png"
+    },
+    {
+      "basename": "ELETRODINÂMICA",
+      "path": "EEAR/FÍSICA/ELETRODINÂMICA.md"
+    },
+    {
+      "basename": "ESTÁTICA",
+      "path": "EEAR/FÍSICA/ESTÁTICA.md"
+    },
+    {
+      "basename": "CINEMÁTICA",
+      "path": "EEAR/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
+    },
+    {
+      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
+      "path": "EEAR/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+    },
+    {
+      "basename": "vetores",
+      "path": "EEAR/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md"
+    },
+    {
+      "basename": "GRAVITAÇÃO",
+      "path": "EEAR/FÍSICA/GRAVITAÇÃO.md"
+    },
+    {
+      "basename": "TRIGONOMETRIA",
+      "path": "EEAR/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md"
+    },
+    {
+      "basename": "HIDROESTÁTICA",
+      "path": "EEAR/FÍSICA/HIDROESTÁTICA.md"
+    },
+    {
+      "basename": "Função de seno",
+      "path": "Excalidraw/Função de seno.md"
+    },
+    {
+      "basename": "Matrizes",
+      "path": "EEAR/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md"
     },
     {
       "basename": "questões erradas de português",
       "path": "EAGS SIN/GRAMÁTICA/questões erradas de português.md"
     },
     {
-      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
-      "path": "EEAR/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+      "basename": "EAGS SIN",
+      "path": "EAGS SIN/EAGS SIN.md"
+    },
+    {
+      "basename": "ELETROESTÁTICA E ELETROMAGNETISMO",
+      "path": "EEAR/FÍSICA/ELETROESTÁTICA E ELETROMAGNETISMO.md"
+    },
+    {
+      "basename": "concordância nominal",
+      "path": "EAGS SIN/GRAMÁTICA/concordância nominal.md"
     },
     {
       "basename": "Polinômios",
@@ -21,10 +89,6 @@
       "path": "EEAR/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md"
     },
     {
-      "basename": "Matrizes",
-      "path": "EEAR/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md"
-    },
-    {
       "basename": "GEOMETRIA ESPACIAL",
       "path": "EEAR/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md"
     },
@@ -33,28 +97,12 @@
       "path": "EAGS SIN/crase.md"
     },
     {
-      "basename": "DINÂMICA",
-      "path": "EEAR/FÍSICA/DINÂMICA.md"
-    },
-    {
       "basename": "PROBRABILIDADE",
       "path": "EEAR/MATEMÁTICA/PROBABILIDADE/PROBRABILIDADE.md"
     },
     {
-      "basename": "CINEMÁTICA",
-      "path": "EEAR/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
-    },
-    {
       "basename": "Estudo Analítico",
       "path": "EEAR/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md"
-    },
-    {
-      "basename": "ESTÁTICA",
-      "path": "EEAR/FÍSICA/ESTÁTICA.md"
-    },
-    {
-      "basename": "vetores",
-      "path": "EEAR/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md"
     },
     {
       "basename": "Simbolos em Latex",
@@ -67,18 +115,6 @@
     {
       "basename": "latex_primer",
       "path": "LATEX/latex_primer.pdf"
-    },
-    {
-      "basename": "ELETROESTÁTICA E ELETROMAGNETISMO",
-      "path": "EEAR/FÍSICA/ELETROESTÁTICA E ELETROMAGNETISMO.md"
-    },
-    {
-      "basename": "GRAVITAÇÃO",
-      "path": "EEAR/FÍSICA/GRAVITAÇÃO.md"
-    },
-    {
-      "basename": "ONDULATÓRIA E ÓPTICA GEOMÉTRICA",
-      "path": "EEAR/FÍSICA/ONDULATÓRIA E ÓPTICA GEOMÉTRICA.md"
     },
     {
       "basename": "TERMOLOGIA",
@@ -121,10 +157,6 @@
       "path": "EAGS SIN/TEXTO/transposição de discurso.md"
     },
     {
-      "basename": "TRIGONOMETRIA",
-      "path": "EEAR/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md"
-    },
-    {
       "basename": "print_screen_497",
       "path": "imagens/print_screen_497.png"
     },
@@ -141,10 +173,6 @@
       "path": "EAGS SIN/GRAMÁTICA/pronomes relativos.md"
     },
     {
-      "basename": "concordância nominal",
-      "path": "EAGS SIN/GRAMÁTICA/concordância nominal.md"
-    },
-    {
       "basename": "concordância verbal",
       "path": "EAGS SIN/GRAMÁTICA/concordância verbal.md"
     },
@@ -155,34 +183,6 @@
     {
       "basename": "diferença entre adjunto adnominal e complemento nominal",
       "path": "EAGS SIN/GRAMÁTICA/diferença entre adjunto adnominal e complemento nominal.md"
-    },
-    {
-      "basename": "ELETRODINÂMICA",
-      "path": "EEAR/FÍSICA/ELETRODINÂMICA.md"
-    },
-    {
-      "basename": "quando usar o x ou ch",
-      "path": "EAGS SIN/GRAMÁTICA/quando usar o x ou ch.md"
-    },
-    {
-      "basename": "pronome pessoais (neles se incluem os pronomes de tratamento)",
-      "path": "EAGS SIN/GRAMÁTICA/pronome pessoais (neles se incluem os pronomes de tratamento).md"
-    },
-    {
-      "basename": "progressões aritmética e geométrica",
-      "path": "EEAR/MATEMÁTICA/ÁLGEBRA/progressões aritmética e geométrica.md"
-    },
-    {
-      "basename": "print_screen_390",
-      "path": "imagens/print_screen_390.png"
-    },
-    {
-      "basename": "GEOMETRIA ESPACIAL THODI.excalidraw",
-      "path": "Excalidraw/GEOMETRIA ESPACIAL THODI.excalidraw.md"
-    },
-    {
-      "basename": "print_screen_322",
-      "path": "imagens/print_screen_322.png"
     }
   ],
   "omittedPaths": [],

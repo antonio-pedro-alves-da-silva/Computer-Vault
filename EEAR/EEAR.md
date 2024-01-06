@@ -289,33 +289,34 @@ LINGUA PORTUGUESA
 								igualdade
 								superioridade
 								inferioridade
-							superlativo relativo
-								ele eleva algo em relação a um conjunto
-								superioridade
-									exemplo:O menino é o mais atencioso daquele grupo
-	                                exemplo:O menino é o menos atencioso daquele grupo
-								inferioridade
-							superlativo absoluto
-								ele eleva um de forma isolada
-								analítico
-									geralmente ele é feita com o auxilio de um adverbio
-									exemplo : o menino é o mais atencioso
-									exemplo: o menino é muito atencioso
-								superlativo absoulto sintético
-									[regras da conjugação do superlativo absoltuto sintético](https://mundoeducacao.uol.com.br/gramatica/grau-superlativo-absoluto-sintetico.htm)
-										-a , -e , -o
-											issimo
-										-vel
-											remove o -vel e coloca o -bil
-										-m e -aõ
-											-m muda para -n
-											-ão muda para -an
-										-z
-											troca-se para -c	
-										-l
-											se acrecenta o -imo(a)
-										-u , -r
-											esses não tem sua forma alterada
+							superlativo
+								relativo
+									ele eleva algo em relação a um conjunto
+									superioridade
+										exemplo:O menino é o mais atencioso daquele grupo
+										exemplo:O menino é o menos atencioso daquele grupo
+									inferioridade
+								absoluto
+									ele eleva um de forma isolada
+									analítico
+										geralmente ele é feita com o auxilio de um adverbio
+										exemplo : o menino é o mais atencioso
+										exemplo: o menino é muito atencioso
+									sintético
+										[regras da conjugação do superlativo absoltuto sintético](https://mundoeducacao.uol.com.br/gramatica/grau-superlativo-absoluto-sintetico.htm)
+											-a , -e , -o
+												issimo
+											-vel
+												remove o -vel e coloca o -bil
+											-m e -aõ
+												-m muda para -n
+												-ão muda para -an
+											-z
+												troca-se para -c	
+											-l
+												se acrecenta o -imo(a)
+											-u , -r
+												esses não tem sua forma alterada
 					locução adjetiva
 						a locução adjetiva é composta por duas ou mais palavras que juntas tem o valor de um único adjetivo. exemplo : “dona de casa”), adjetiva (“de amigo”), pronominal (“seja quem for”) e adverbiais (“à esquerda” e “de manhã”).
 				advérbio
@@ -907,6 +908,31 @@ LINGUA PORTUGUESA
 	FONOLOGIA
 		[[MONOSSÍLABA TÔNICA E ÁTONA]]
 	[[questões erradas de português]]
+	o que revisar 
+		formação de palavras 
+			derivação regressiva 
+			derivação imprópria 
+			diferença entre derivação parassintética da derivação prefixal sufixal
+		crase 
+		concordância verbal 
+		separação silábica 
+		pronome relativo 
+		acento gráfico 
+		gênero de substatnivo 
+			uniforme 
+			biforme 
+		ortografia 
+		quando usar x ou ch 
+		erros de ortografia 
+		gramativa normativa 
+		plural dos substantivos 
+		[[regência verbal]] 
+		transposição do discurso direto para o discurso indireto 
+		uso da virgula correto 
+		[[diferença entre adjunto adnominal e complemento nominal]] 
+		pronome substantivo
+		grau do adjetivo
+		 tempos verbais
 LÍNGUA INGLESA 
 	GRAMÁTICA 
 		Substantivos 
@@ -1109,14 +1135,9 @@ MATEMÁTICA
 	[[PROBRABILIDADE]]
 	[[QUESTÕES ERRADAS DE MATEMÁTICA]]
 
-	 
 FÍSICA
 	[[raiz quadrada de 11 até 30]]
 	[[CONCEITOS BÁSICOS E FUNDAMENTAIS]]
-		Noções de ordem de grandeza
-		Notação científica 
-		Observações e mensurações
-		representação de grandezas físicas como grandezas mensuráveis sistemas de unidades
 		[[vetores]]
 			[grandezas vetoriais e escalares](https://www.google.com/search?q=o+que+%C3%A9+uma+grandeza+vetorial&oq=o+que+%C3%A9+uma+grandeza+ve&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIICAUQABgWGB4yCAgGEAAYFhgeMggIBxAAGBYYHjIICAgQABgWGB4yCAgJEAAYFhgeqAIAsAIA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:a65fddf3,vid:oZPWOXtIUFI,st:0)
 			Gráficos e vetores
@@ -1131,6 +1152,7 @@ FÍSICA
 		Movimento Rétilineo Circular uniforme
 	[[DINÂMICA]]
 	[[ESTÁTICA]]
+	[[HIDROESTÁTICA]]
 	[[GRAVITAÇÃO]]
 		Força peso
 		Aceleração gravitacional
@@ -1214,14 +1236,7 @@ FÍSICA
 		- Máquinas térmicas
 		Ciclo de Carnot
 		Leis da Termodinâmica
-	[[MATÉRIA E RADIAÇÃO]] 
-		Modelos atômicos e as propriedades dos materiais (térmicas, elétricas, magnéticas, etc.) 
-		Espectro eletromagnético (das ondas de rádio aos raios y) e suas tecnologias (radar, rádio, forno de micro-ondas, tomografia, etc.). 
-		Radiações e meios materiais (fotocélulas, emissão e transmissão de luz, telas de monitores, radiografias). 
-		Potências de ondas eletromagnéticas. 
-		Natureza corpuscular das ondas eletromagnéticas. 
-		Transformações nucleares e radioatividades.
-	
+
 	
 AS MATÉRIAS QUE MAIS CAEM DE FÍSICA
 	Cinemática: M.U , M.U.V , equações, gráficos, torricelli, lançamentos e queda livre

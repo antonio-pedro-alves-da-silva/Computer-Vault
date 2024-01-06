@@ -33,25 +33,3 @@
 
 # exercícios de vetores qconcursos
 
-1 - errado*
-2 - certo
-3-errado*
-4-certo
-5-repetido=3
-6-errado*
-7-certo
-8-repetido=8
-9-errado*
-10-certo
-11-errado*
-12-certo
-13-certo
-14-errado*
-15-errado*
-16-repetido=15
-17-certo
-18-certo
-19-repetido
-20-repetido
-21-errado*
-[22](https://www.qconcursos.com/questoes-militares/questoes/20fe83e9-4d)-errado

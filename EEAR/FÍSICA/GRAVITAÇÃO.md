@@ -12,4 +12,16 @@
 
 ![[print_screen_303.png]]
 
-# Movimentos de corpos celestes
+# GRAVITAÇÃO UNIVERSAL DE NEWTON
+
+# exercícios de gravitação errados
+
+[1](https://www.qconcursos.com/questoes-militares/questoes/b1c1639e-01)
+[2](https://www.qconcursos.com/questoes-militares/questoes/4dff74b0-58)
+[3](https://www.qconcursos.com/questoes-militares/questoes/8d2031db-f3)
+[4](https://www.qconcursos.com/questoes-militares/questoes/d7122045-4b)
+[5](https://www.qconcursos.com/questoes-militares/questoes/ae7ae06a-55)
+[6](https://www.qconcursos.com/questoes-militares/questoes/4d88409b-42)
+[7](https://www.qconcursos.com/questoes-militares/questoes/b9118faa-3d)
+
+

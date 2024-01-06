@@ -1,49 +1,43 @@
+LEIS DE NEWTON E SUAS APLICAÇÕES
+Polias e Roldanas
+	[[print_screen_278.png|polia fixa]]
+	[[print_screen_512.png|força da polia móvel]]
+	[[print_screen_513.png|força da polia móvel-2]]
+Força de atrito
+	[[note-1|Força de atrito esático e dinâmico]]
+Plano inclinado
+	[[print_screen_281.png|plano inclinado sem atrito]]
+	[[print_screen_283.png|plano inclinado com atrito]]
+Pêndulo
+	[[print_screen_509.png|pendulo simples parado e oscilando no ponto mais alto]]
+	[[print_screen_510.png|pendulo simples oscilando no ponto mais baixo]]
+	[[print_screen_511.png|pêndulo cônico]]
+energia , trabalho e potência
+	[[print_screen_258.png|Trabalho motor e trabalho resistênte]]
+	 [[print_screen_259.png|Trabalho de uma força]]
+	 [[Pasted image 20231126074712.png|formulas relacionadas a força elástica]]
+	 [[print_screen_263.png|trabalho da força elástica]]
+	 formula da potência média
+	 formula da energia cinética
+	 [[print_screen_270.png|Teorema da energia cinética]]
+	 [[print_screen_267.png|Rendimento]]
 # LEIS DE NEWTON E SUAS APLICAÇÕES
 
 
 # Polias e Roldanas
 
-![[print_screen_278.png]]
-![[print_screen_512.png]]
-![[print_screen_513.png]]
-
-
 # Força de atrito
 
-**força de atrito estático**: atua sobre o objeto quando ele está em repouso e impossibilita que ele se mova
-
-- **Força de atrito cinético (ou dinâmico)**: já força de atrito cinético
-- é uma força que surge em oposição ao movimento de objetos que estão se movendo; Para que ocorra o movimento, é necessário que a força aplicada sobre o corpo seja maior que a força de atrito estática máxima , a partir dai a força de atrito dinâmico atua sobre o corpo
 
 
 
-Observe que o coeficiente de atrito estático é sempre maior que o cinético. Isso significa que a força de atrito estático sempre será maior do que a força de atrito dinâmico e sempre será mais difícil iniciar o movimento de um corpo do que mantê-lo em movimento.
-
-resposta correta b)
-a força de atrito (a resistência do ar nesse caso) aumenta até entrar em equilibrio com a força peso quando ela entra em equilibiro o movimento passa a ser constante , passando a ser um movimento retilíneo uniforme
-
-![[print_screen_279.png]][]
-
-
-
-
-
-
-f
 # Plano Inclinado
 
 ## Plano Inclinado sem atrito
 
-
 ![[print_screen_281.png]]
 
 ![[print_screen_282.png]]
-![[print_screen_284.png]]
-![[print_screen_286.png]]
-
-
-
-
 ## Plano com atrito
 
 
@@ -60,17 +54,10 @@ pendulo simples oscilando ponto mais alto
 pendulo simples oscialdno ponto mais baixo
 pêndulo cônico
 
-![[print_screen_509.png]]
+
 ![[print_screen_510.png]]
 ![[print_screen_511.png]]
 $\Large \frac{v²}{g}=\frac{tx}{ty}$
-
-
-
-
-
-
-
 
 # energia , trabalho e potência
 ## Trabalho de uma força constante e trabalho da força peso(energia potencial)
@@ -91,7 +78,7 @@ força peso com o mesmo sentido  da bola é positiva
 ## Trabalho da força elástica
 
 
-![[Pasted image 20231126074712.png]]
+
 
 ![[print_screen_263.png]]
 
@@ -105,11 +92,10 @@ para resolver a letra c) se subtrai a energia elástica de  (3m a 0 ) - (1m a 0)
 
 ## Potência média
 
-![[Pasted image 20231126080157.png]]
 mais comuns são : giga,mega,quilo
 
 ![[Pasted image 20231126080455.png]]
-![[print_screen_267.png]]
+
 ![[print_screen_268.png]]
 ![[print_screen_269.png]]
 
@@ -117,9 +103,9 @@ mais comuns são : giga,mega,quilo
 
 
 ![[Pasted image 20231126123844.png]]
-## Teorema da energia cinética
+## Teorema da energia cinética(trabalho total da forças internas e externas realizado sobre um corpo)
 
-![[print_screen_270.png]]
+
 ![[print_screen_271.png]]
 ![[print_screen_275.png]]
 
@@ -155,8 +141,8 @@ mais comuns são : giga,mega,quilo
 
 
 # COLISÃO
-## colisão elástica e coeficiente de restituição
-colisão choque mecânico
+## colisão elástica e tipos de colisão e coeficiente de restituição
+[[colisão choque mecânico]]
 coeficiente de restituição
 tipos de colisões
 colisões elásticas
@@ -170,10 +156,6 @@ particulas de mesma massa se colidindo(permuta da velocidade)
 ![[print_screen_527.png]]
 ![[print_screen_528.png]]
 
-## COLISÃO INELÁSTICA
-
-- neste tipo de colisão ocorre a máxima perda de energia cinética que não é necessariamente a energia total 
-## COLISÃO PARCIALMENTE INELÁSTICA
 
 ## COLISÃO BIDIMENSIONAL
 
@@ -201,8 +183,7 @@ centro de massa de particulas
 ![[print_screen_536.png]]
 
 ## CENTRO DE GRAVIDADE
--  o centro de gravidade de um corpo rígido ou de um sistema de pontos materias é o ponto por onde passa a lnha de ação do peso resultante
-**note:** nos nossos estudos cm e cg coincidem pois o campo gravitacional é constatne
+- é o ponto onde a força peso é aplicada
 # leis de newton e exercícios qconcurso
 [1](https://www.qconcursos.com/questoes-militares/questoes/a7b8a728-6b)-errado*
 [2](https://www.qconcursos.com/questoes-militares/questoes/a774f8c1-6b)-errado*
@@ -238,3 +219,4 @@ centro de massa de particulas
 [3](https://www.qconcursos.com/questoes-militares/questoes/76130350-55)-errado
 [4](https://www.qconcursos.com/questoes-militares/questoes/5b3f930c-16)-errado
 [5](https://www.qconcursos.com/questoes-militares/questoes/474c8501-9b)-errado
+

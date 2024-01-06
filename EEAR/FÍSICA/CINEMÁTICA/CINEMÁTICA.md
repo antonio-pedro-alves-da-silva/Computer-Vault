@@ -86,36 +86,18 @@ $\Large W_{cat}.N_{catraca}=W_{coroa}.N_{coroa}$
 ## movimento de espelho e velocidade relativa entre espelho e observador
 ![[print_screen_538.png]]
 
-# exercícios de mrcu
 
-1-errado
-2-errado
-3-certo
-4-certo
-5-certo
-6-certo
-7-errado
-8-errado
-9-certo
-10-certo
-11-errado
-12-certo
-13-certo
-14-certo
-15-certo
-16-certo
-17-certo
-18-errado
-19-certo
-20-certo
-21-certo
-22-errado
-23-certo
-24-certo
-25-certo
-26-certo
-# exercícios de cinemática
+# exercícios
+## movimento retilíneo uniforme
 
-[1](https://www.qconcursos.com/questoes-militares/questoes/4650a6c6-49)-errado
+[1](https://www.qconcursos.com/questoes-militares/questoes/8d4fca12-f3)
+[2](https://www.qconcursos.com/questoes-militares/questoes/213c7cb2-4d)
+[3](https://www.qconcursos.com/questoes-militares/questoes/ae8cffad-55)
+## movimento retilíneo uniformemente variado
 
-
+## queda livre
+## lançamento vertical
+## lançamento horizontal
+## lançamento oblíquo
+## acoplamento de polias e rodas dentadas
+## acoplamento de engrenagens
