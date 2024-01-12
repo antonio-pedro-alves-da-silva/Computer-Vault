@@ -1,0 +1,1 @@
+Força contraeletromotriz diz respeito à **quantidade de energia que os receptores elétricos consomem durante seu funcionamento**.Quando a corrente elétrica passa em um receptor, ela o percorre no sentido do maior para o menor potencial,

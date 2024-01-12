@@ -1,0 +1,2 @@
+![[print_screen_523.png]]
+elas se encontram é ocorre uma deformação , a energia cinética se transforma em energia potencial elástica , ela deforma atinge a deformação máxima e depois da deformação máxima , ela começa a se restituir(a voltar , voltar e voltar)

@@ -200,3 +200,5 @@ Lembrar alguém de alguma coisa:
 
 - agracer a pessoa se usa preposição
 - agradecer a coisa não se usa preposição
+
+

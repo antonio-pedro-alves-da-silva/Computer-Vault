@@ -22,4 +22,18 @@
 [2](https://www.qconcursos.com/questoes-militares/questoes/7d2cf87f-3a)
 [3](https://www.qconcursos.com/questoes-militares/questoes/7d0c3f6f-3a)
 	prova de 2015
-
+[1](https://www.qconcursos.com/questoes-militares/questoes/5dea5714-dc)
+[2](https://www.qconcursos.com/questoes-militares/questoes/60e26984-dc)
+[3](https://www.qconcursos.com/questoes-militares/questoes/69cea7fa-dc)
+[4](https://www.qconcursos.com/questoes-militares/questoes/68d0ab9e-dc)
+[5](https://www.qconcursos.com/questoes-militares/questoes/5bec4ae3-dc)
+[6](https://www.qconcursos.com/questoes-militares/questoes/e70dea40-4d)
+[7](https://www.qconcursos.com/questoes-militares/questoes/7cec89d2-3a)
+	prova de 2014 bct
+[1](https://www.qconcursos.com/questoes-militares/questoes/4c0e667e-42) - transposição do discuros indireto para o direto
+[2](https://www.qconcursos.com/questoes-militares/questoes/4c260445-42)
+[3](https://www.qconcursos.com/questoes-militares/questoes/4c4cdbad-42)
+[4](https://www.qconcursos.com/questoes-militares/questoes/4c17f591-42)
+[5](https://www.qconcursos.com/questoes-militares/questoes/4c2a39b9-42)
+[6](https://www.qconcursos.com/questoes-militares/questoes/4c3d0241-42)
+[7](https://www.qconcursos.com/questoes-militares/questoes/4c58bf7b-42)

@@ -1,4 +1,3 @@
-
 # transposição do discurso direto para o discurso indireto
 
 ## Quanto aos tempos verbais

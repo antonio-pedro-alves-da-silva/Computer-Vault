@@ -913,6 +913,9 @@ LINGUA PORTUGUESA
 			derivação regressiva 
 			derivação imprópria 
 			diferença entre derivação parassintética da derivação prefixal sufixal
+				Claro que o sentido da palavra ficou comprometido sem os afixos. Está aqui a **diferença entre a derivação parassintética e a prefixal e sufixal**. Na parassíntese, é impossível retirar um dos afixos sem que haja perda de sentido. Já no segundo processo, é possível retirar um deles e, ainda assim, a palavra manter seu significado.
+			redução ou abreviação
+			onomatopeia
 		crase 
 		concordância verbal 
 		separação silábica 
@@ -1237,7 +1240,7 @@ FÍSICA
 		Ciclo de Carnot
 		Leis da Termodinâmica
 
-	
+
 AS MATÉRIAS QUE MAIS CAEM DE FÍSICA
 	Cinemática: M.U , M.U.V , equações, gráficos, torricelli, lançamentos e queda livre
 	Vetores: Lei dos cossenos, Pitágoras, Decomposição de vetores
