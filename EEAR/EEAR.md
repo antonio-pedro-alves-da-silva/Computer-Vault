@@ -1137,7 +1137,6 @@ MATEMÁTICA
 			[[Teorema das raízes racionais]]
 	[[PROBRABILIDADE]]
 	[[QUESTÕES ERRADAS DE MATEMÁTICA]]
-
 FÍSICA
 	[[raiz quadrada de 11 até 30]]
 	[[CONCEITOS BÁSICOS E FUNDAMENTAIS]]
@@ -1162,8 +1161,7 @@ FÍSICA
 		Lei da Gravitação universal 
 		Leis de Kepler
 		Movimentos de corpos celestes
-	[[ELETRODINÂMICA]]
-	[[ELETROESTÁTICA E ELETROMAGNETISMO]]
+	[[ELETRICIDADE]]
 		Carga elétrica e corrente elétrica. 
 		Conceito e processos de eletrização e princípios da eletrostática. 
 		Lei de Coulomb. 
@@ -1205,6 +1203,7 @@ FÍSICA
 			Lei de Faraday. 
 			Lei de Lenz. 
 			Transformadores. 
+	[[ELETROMAGNETISMO]]
 	[[ONDULATÓRIA E ÓPTICA GEOMÉTRICA]] 
 		Pulsos e ondas 
 		Período, frequência e ciclo. 
@@ -1239,6 +1238,7 @@ FÍSICA
 		- Máquinas térmicas
 		Ciclo de Carnot
 		Leis da Termodinâmica
+
 
 
 AS MATÉRIAS QUE MAIS CAEM DE FÍSICA

@@ -1,0 +1,1 @@
+There are different types of formatting contexts. Notable among them are **Block Formatting Context (BFC)**, **Inline Formatting Context (IFC)**, **Flex Formatting Context** and **Grid Formatting Context**.

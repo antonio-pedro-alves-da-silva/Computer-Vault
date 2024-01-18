@@ -17,6 +17,12 @@
 [1](https://www.qconcursos.com/questoes-militares/questoes/5b30af15-3d)
 [2](https://www.qconcursos.com/questoes-militares/questoes/b8add7c7-3d)
 [3](https://www.qconcursos.com/questoes-militares/questoes/5b20c6ca-3d)
-
-
+	 prova de 2016
+[1](O conjunto solução da inequação 22x +1 < 5/4 . 2x+2 - 2 é)
+[2](https://www.qconcursos.com/questoes-militares/questoes/7de8f92f-3a)
+[3](https://www.qconcursos.com/questoes-militares/questoes/7de8f92f-3a)
+[4](https://www.qconcursos.com/questoes-militares/questoes/851fe1d1-53)
+[5](https://www.qconcursos.com/questoes-militares/questoes/85275445-53)- formulas trigonométricas
+[6](https://www.qconcursos.com/questoes-militares/questoes/85275445-53)
+[7](https://www.qconcursos.com/questoes-militares/questoes/7e13fff4-3a)
 

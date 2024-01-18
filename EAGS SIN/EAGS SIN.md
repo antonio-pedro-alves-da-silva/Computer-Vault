@@ -1,4 +1,3 @@
-
 LINGUA PORTUGUESA
 	TEXTO
 		Interpretação de textos literários ou não literários.
@@ -2021,4 +2020,30 @@ INFORMÁTICA SIN
 		Circuito regulador de tensão. 
 		Placas de vídeo. 
 		Monitores de vídeo. 
-		Dispositivos de armazenamento. \i
+		Dispositivos de armazenamento.
+ELETRICIDADE
+	ELETRICIDADE BÁSICA
+		a natureza da eletricidade
+		Padronizações e convenções em eletricidade
+		Lei de Ohm e potência
+		Circuitos série de corrente contínua
+		Circuitos paralelos de corrente contínua
+		Baterias
+		Leis de Kirchhoff
+		Cálculo de redes
+		Eletromagnetismo
+		Geradores e motores de corrente contínua
+		Princípios da corrente alternada
+		Indutância, reatância indutiva e circuitos indutivos
+		Capacitância, reatância capacitiva e circuitos capacitivos
+		Circuitos Monofásicos
+		Geradores e motores de corrente alternada
+		Transformadores
+		Sistemas Trifásicos
+		Ressonância série e paralelo
+		Formas de Onda e Constantes de Tempo
+	CIRCUITOS ELÉTRICOS
+		
+	INSTALAÇÕES ELÉTRICOS 
+	INSTALAÇÕES ELÉTRICAS INDUSTRIAIS
+2.2.2 CIRCUITOS ELÉTRICOS 2.2.2.1 Introdução. Conceitos de Circuitos. Leis de Circuitos. Métodos de análise. Formas de onda e sinais. Circuitos de primeira ordem. Circuitos de ordem superior e frequência complexa. Análise de circuitos em regime permanente senoidal. Potência CA. Circuitos polifásicos. Resposta em frequência, filtros e ressonância. Indutância mútua e transformadores. 2.2.3 INSTALAÇÕES ELÉTRICAS 2.2.3.1 Introdução às instalações elétricas de baixa-tensão. Conceitos básicos necessários aos projetos das instalações elétricas. Projeto das instalações elétricas. Dispositivos de seccionamento e proteção. Aterramento de instalações de baixa tensão. Instalações para força motriz e serviços de segurança. Transmissão de dados, circuitos de comando e sinalização. Instalações de para-raios prediais. Correção do fator de potência e instalação de capacitores. Técnica da execução das instalações elétricas. Entrada de energia elétrica nos prédios em baixa tensão. Projeto de uma subestação abaixadora. Noções de luminotécnica. 2.2.4 INSTALAÇÕES ELÉTRICAS INDUSTRIAIS 2.2.4.1 Elementos de projeto. Iluminação industrial. Dimensionamento de condutores elétricos. Fator de potência. Curto-circuito nas instalações elétricas. Motores elétricos. Partida de motores elétricos de indução. Materiais elétricos. Proteção e coordenação. Sistemas de aterramento. Subestação de consumidor. Proteção contra descargas atmosféricas. Eficiência energética. Usinas de geração industrial.

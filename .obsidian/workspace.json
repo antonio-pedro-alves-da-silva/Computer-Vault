@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9597ff36cae8b9d1",
+            "id": "ad6ee9002c08b176",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,31 +20,19 @@
             }
           },
           {
-            "id": "affbc70a56204fd3",
+            "id": "fc5018076687b417",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EEAR/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0c676211724c2e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EEAR/FÍSICA/ELETRODINÂMICA.md",
+                "file": "EAGS SIN/GRAMÁTICA/questões erradas de português.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EEAR/FÍSICA/ELETRODINÂMICA.md",
+                "file": "EAGS SIN/GRAMÁTICA/questões erradas de português.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EEAR/FÍSICA/ELETRODINÂMICA.md",
+                "file": "EAGS SIN/GRAMÁTICA/questões erradas de português.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EEAR/FÍSICA/ELETRODINÂMICA.md"
+                "file": "EAGS SIN/GRAMÁTICA/questões erradas de português.md"
               }
             }
           },
@@ -194,44 +182,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b0c676211724c2e8",
+  "active": "fc5018076687b417",
   "lastOpenFiles": [
-    "EEAR/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
-    "EAGS SIN/GRAMÁTICA/questões erradas de português.md",
     "EEAR/EEAR.md",
-    "EEAR/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
-    "EEAR/FÍSICA/ELETRODINÂMICA.md",
-    "EAGS SIN/TEXTO/transposição de discurso.md",
-    "imagens/print_screen_359.png",
-    "imagens/print_screen_577.png",
-    "imagens/print_screee_577.png",
-    "imagens/print_screen_786.png",
-    "imagens/print_screen_785.png",
-    "imagens/print_screen_578.png",
-    "imagens/print_screen_576.png",
-    "imagens/print_screen_575.png",
-    "imagens/print_screen_574.png",
-    "imagens/print_screen_569.png",
-    "EEAR/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md",
-    "notes/note-12.md",
-    "EEAR/FÍSICA/HIDROESTÁTICA.md",
-    "notes/Untitled.md",
-    "EEAR/FÍSICA/ELETROESTÁTICA E ELETROMAGNETISMO.md",
-    "notes/note-11.md",
-    "notes/note-10.md",
-    "notes/note-9.md",
-    "EEAR/MATEMÁTICA/ÁLGEBRA/Funções/diferentes tipos de funções.md",
+    "EAGS SIN/GRAMÁTICA/questões erradas de português.md",
+    "EAGS SIN/GRAMÁTICA/concordância verbal.md",
     "EEAR/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md",
-    "EEAR/FÍSICA/GRAVITAÇÃO.md",
-    "EEAR/FÍSICA/DINÂMICA.md",
-    "EAGS SIN/GRAMÁTICA/regência verbal.md",
-    "notes/note-8.md",
+    "EEAR/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "notes/–.md",
+    "EEAR/FÍSICA/ELETROMAGNETISMO.md",
+    "notes/note-21.md",
+    "Pasted image 20240117161132.png",
+    "EEAR/FÍSICA/ELETRICIDADE.md",
+    "imagens/print_screen_366.png",
+    "notes/note-25.md",
+    "imagens/print_screen_602.png",
+    "notes/note-24.md",
+    "FULL-STACK DEVELOPER.md",
+    "notes/formatting context.md",
+    "notes/FRONT-END DEVELOPER.md",
+    "Pasted image 20240117122432.png",
+    "Pasted image 20240117122302.png",
+    "notes/note-23.md",
+    "Pasted image 20240117113917.png",
+    "EEAR/FÍSICA/ONDULATÓRIA E ÓPTICA GEOMÉTRICA.md",
+    "notes/note-22.md",
+    "Pasted image 20240117111236.png",
+    "Pasted image 20240117111206.png",
+    "imagens/sintaxe css.png",
+    "Excalidraw/FULL-STACK DEVELOPER 2024-01-17 10.59.38.excalidraw.md",
+    "EAGS SIN/EAGS SIN.md",
     "EEAR/FÍSICA/ESTÁTICA.md",
-    "notes/note-7.md",
-    "EEAR/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
-    "notes/note-6.md",
-    "notes/note-5.md",
-    "notes/note-4.md",
+    "notes/note-20.md",
+    "Pasted image 20240116212546.png",
+    "notes/note-19.md",
+    "notes/note-17.md",
+    "notes/note-18.md",
+    "EEAR/FÍSICA/ELETRODINÂMICA.md",
+    "notes/note-16.md",
+    "imagens/print_screen_587.png.crdownload",
+    "imagens/print_screen_586.png.crdownload",
     "notes",
     "LATEX/latex_primer.pdf",
     "EEAR/ORTOGRAFIA",
@@ -240,8 +230,6 @@
     "Noções de orem de grandeza",
     "EAGS SIN/FONOLOGIA",
     "EEAR/FÍSICA/CINEMÁTICA",
-    "EEAR/FÍSICA",
-    "EAGS SIN/GRAMÁTICA/Usos da Partícula Se.pdf",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
