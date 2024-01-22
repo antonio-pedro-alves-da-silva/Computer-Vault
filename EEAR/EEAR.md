@@ -1,4 +1,4 @@
-
+  
 LINGUA PORTUGUESA
 	TEXTO
 		Interpretação de textos literários ou não literários.
@@ -438,36 +438,7 @@ LINGUA PORTUGUESA
 							indica um fato
 							subjuntivo
 								indica um fato duvidoso , desejos ou possibilidades
-						tempo
-							presente do indicativo
-								(eu) leio, (tu) lês, (ele) lê, (nós) lemos, (vós) ledes, (eles) leem.
-							pretérito
-								perfeito
-									(eu) li, (tu) leste, (ele) leu, (nós) lemos, (vós) lestes, (eles) leram.
-								imperfeito do indicativo
-									(eu) lia, (tu) lias, (ele) lia, (nós) líamos, (vós) líeis, (eles) liam.
-								mais-que-perfeito
-									(eu) lera, (tu) leras, (ele) lera, (nós) lêramos, (vós) lêreis, (eles) leram.
-									(eu) tinha lido, (tu) tinha lido, (ele) tinha lido,etc...
-							futuro
-								futuro do presente
-									(eu) lerei, (tu) lerás, (ele) lerá, (nós) leremos, (vós) lereis, (eles) lerão.
-								futuro do pretérito
-									eu) leria, (tu) lerias, (ele) leria, (nós) leríamos, (vós) leríeis, (eles) leriam.
-							tempos do subjuntivo
-								presente do subjuntivo
-									(que eu) leia, (que tu) leias, (que ele) leia, (que nós) leiamos, (que vós) leiais, (que eles) leiam.
-								pretérito imperfeito do subjuntivo
-									(se eu) lesse, (se tu) lesses, (se ele) lesse, (se nós) lêssemos, (se vós) lêsseis, (se eles) lessem.
-									(que ele marchasse) (que nós marchássemos) etc. 
-								futuro do subjuntivo
-									(quando eu) ler, (quando tu) leres, (quando ele) ler, (quando nós) lermos, (quando vós) lerdes, (quando eles) lerem.
-							tempos do imperativo
-								o modo imperativo se apresenta apenas no presente e pode ser afirmativo ou negativo
-								presente do imperativo afirmativo
-									lê (tu), leia (você), leiamos (nós), lede (vós), leiam (vocês).
-								presente do imperativo negativo
-									não leias (tu), não leia (você), não leiamos (nós), não leiais (vós), não leiam (vocês).
+						[[note-27|tempo]]
 						voz
 							o que são vozes verbais ?
 							vozes verbais determinam se o sujeito pratica ou recebe a ação
@@ -1204,7 +1175,7 @@ FÍSICA
 			Lei de Lenz. 
 			Transformadores. 
 	[[ELETROMAGNETISMO]]
-	[[ONDULATÓRIA E ÓPTICA GEOMÉTRICA]] 
+	[[ONDULATÓRIA e ÓPTICA GEOMÉTRICA]] 
 		Pulsos e ondas 
 		Período, frequência e ciclo. 
 		Ondas periódicas 

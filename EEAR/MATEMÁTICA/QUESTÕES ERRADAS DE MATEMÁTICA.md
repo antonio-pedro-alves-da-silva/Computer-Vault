@@ -25,4 +25,7 @@
 [5](https://www.qconcursos.com/questoes-militares/questoes/85275445-53)- formulas trigonométricas
 [6](https://www.qconcursos.com/questoes-militares/questoes/85275445-53)
 [7](https://www.qconcursos.com/questoes-militares/questoes/7e13fff4-3a)
-
+[8](https://www.qconcursos.com/questoes-militares/questoes/7e4b03e3-3a)
+[9](https://www.qconcursos.com/questoes-militares/questoes/7e4b03e3-3a)-lei dos cossenos
+	prova de 2015
+[1](https://www.qconcursos.com/questoes-militares/questoes/88b5051e-dc)

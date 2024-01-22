@@ -1,0 +1,2 @@
+- O timbre é uma característica do som que permite diferenciar sons com a mesma altura e intensidade.
+- O timbre depende do número de harmônicos que acompanham o som gerador.

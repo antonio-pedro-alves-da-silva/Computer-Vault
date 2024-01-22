@@ -121,6 +121,7 @@ ouvir com atenção transitivo direto
 Significado de Escutar **verbo transitivo direto** Ouvir com atenção e ter a consciência do que está ouvindo: ouviu a conversa, mas não quis saber. Dar atenção a algo ou a alguém; estar atento: ouviu todas as suas reclamações
 
 
+## beijar
 # aspirar
 
 ## Verbo aspirar sem regência de preposição

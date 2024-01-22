@@ -1,0 +1,1 @@
+- a intensidade do som se relaciona com a amplitude quanto maior a amplitude maior a intensidade

@@ -125,18 +125,6 @@ eletricidade
 		o que é corrente elétrica ??
 			1)Corrente elétrica é o deslocamento de cargas dentro de um condutor quando existe uma diferença de potencial elétrico entre as suas extremidades.
 	    [[note-14|o que é um curto-circuito]] ??
-		transformadores
-		    o que é um transformador ?
-				um transformador é usado para aumentar ou abaixar a tensão elétrica por meio da indução eletromagnética
-			o que acontece se abaixar ou aumentar a tensão elétrica com a corrente ?
-				 "Se um transformador abaixa uma tensão elétrica, ele automaticamente aumenta a intensidade da corrente elétrica de saída e vice-versa"
-			[[Pasted image 20240117122302.png|relação da tensão por numero de espiras]]
-				VP — tensão no enrolamento primário
-				VS — tensão no enrolamento secundário
-				NP — número de espiras no enrolamento primário
-				NS — número de espiras no enrolamento secundário
-			[[note-25|relação da corrente elétrica]]
-			[[print_screen_602.png|relação de potências]]
 		exercícios errados
 			resistores e potências
 				[1](https://www.qconcursos.com/questoes-militares/questoes/a7798860-6b)
@@ -162,6 +150,6 @@ eletricidade
 			ponte de wheatstone
 				[1](https://www.qconcursos.com/questoes-militares/questoes/9d3a0063-50)
 			transformadores	
-				[1](https://www.qconcursos.com/questoes-militares/questoes/d733cbaf-4b)
+				[1](https://www.qconcursos.com/questoes-militares/questoes/d733cbaf-4b)[2](https://www.qconcursos.com/questoes-militares/questoes/9d5467c1-50)
 
 
