@@ -537,7 +537,7 @@ LINGUA PORTUGUESA
 						desmonstrativos
 							[[pronomes demonstrativos a(s) o(s)]]
 						indefinidos
-						[[pronomes relativos]]
+						[[EAGS SIN/GRAMÁTICA/pronome relativo]]
 						[[pronome interrogativos]]
 						[[diferença entre pronomes substantivos e pronomes adjetivos]]
 					[[7 erros com pronomes pessoais]]

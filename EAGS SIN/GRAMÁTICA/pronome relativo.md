@@ -55,7 +55,7 @@ Caso a palavra posterior cumpra função preposicionada, a preposição será an
 - Não se apaga da memória a cidade **em cujas** ruas brincávamos. (brincávamos EM algum lugar; nas ruas)
 - Ele só aceitou as ideias **de cujo** autor não desconfiava. (não desconfiava DE alguém; do autor)
 - Você é a pessoa por cujos olhos me apaixonei.
-# ==regras do pronome onde==
+## ==regras do pronome onde==
 
 #### Uso de Onde como Pronome Relativo
 
@@ -65,7 +65,6 @@ A palavra **onde**, como _pronome relativo_, somente pode ser utilizada para s
 
 1. Na rua **onde** ele mora não há muito movimento. **[Adequado]**  
       
-    
 2. Na oração **onde** o fiel pedia perdão a Deus não havia sinceridade. **[Inadequado]**
     
     Na oração **em que** o fiel pedia perdão a Deus não havia sinceridade. **[Adequado]**
@@ -80,7 +79,7 @@ A palavra **onde**, como _pronome relativo_, somente pode ser utilizada para s
 - _A cidade **onde** moro incentiva o uso de energia solar._
 
 - _Tudo **quanto** peço, eu consigo._
-# ==regras do pronome qual==
+## ==regras do pronome qual==
 
 - o pronome qual deve ser sempre precedido de artigo
 
@@ -89,7 +88,7 @@ O pronome relativo "qual" é usado para se referir a pessoas ou coisas. Ele dev
 - "Aquele é o livro com que trabalho".
 - "Li um livro sobre o qual nunca tinha ouvido falar nada".
 - "O público perante o qual se pronunciou manteve-se indiferente".
-# Referência
+## Referência
 - https://brasilescola.uol.com.br/gramatica/pronome-relativo.htm#:~:text=O%20pronome%20relativo%20faz%20a,quantos%E2%80%9D%2C%20%E2%80%9Cquantas%E2%80%9D.
 - https://www.estrategiaconcursos.com.br/blog/pronome-relativo-cujo/#:~:text=Gravem%20estas%20regras%20do%20pronome%20%E2%80%9Ccujo%E2%80%9D&text=Foi%20uma%20senten%C3%A7a%20estranha%2C%20cuja,n%C3%A3o%20est%C3%A1%20entre%20dois%20substantivos)
 - http://www.nilc.icmc.usp.br/nilc/minigramatica/mini/usodeondecomopronomerelativo.htm#:~:text=A%20palavra%20onde%2C%20como%20pronome,em%20vez%20de%20%22onde%22.

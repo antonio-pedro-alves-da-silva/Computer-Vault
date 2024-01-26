@@ -1,0 +1,11 @@
+elementos geométricos
+	C = CENTRO DE CURVATURA
+	V =VERTICE DA CURVATURA
+	F = DISTÂNCIA FOCAL
+
+[[print_screen_604.png|SE UM RAIO INCIDENTE VAI EM DIREÇÃO A C]]
+[[print_screen_605.png|SE UM RAIO INCIDENTE VAI EM DIREÇÃO A V]]
+[[print_screen_606.png|RAIO INCIDENTE INDO EM PARALELO AO ESPELHO]]
+
+![[Pasted image 20231209200009.png]]
+

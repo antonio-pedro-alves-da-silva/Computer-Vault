@@ -1,4 +1,4 @@
-  
+
 LINGUA PORTUGUESA
 	TEXTO
 		Interpretação de textos literários ou não literários.
@@ -126,7 +126,6 @@ LINGUA PORTUGUESA
 				o que são sílabas tônicas e o que são sílabas átonas ?
 					a silaba atona é a silaba com maior intensidade podem haver apenas uma , e o restante das silabas então seria silabas átonas
 			separação sílábica
-				![[Pasted image 20230917212314.png]]
 			encontro vocálicos
 				classificação
 					hiato - vogal + vogal (na mesma silaba ou em silaba diferentes)
@@ -511,7 +510,7 @@ LINGUA PORTUGUESA
 						desmonstrativos
 							[[pronomes demonstrativos a(s) o(s)]]
 						indefinidos
-						[[pronomes relativos]]
+						[[EAGS SIN/GRAMÁTICA/pronome relativo]]
 						[[pronome interrogativos]]
 						[[diferença entre pronomes substantivos e pronomes adjetivos]]
 					[[7 erros com pronomes pessoais]]
@@ -879,34 +878,74 @@ LINGUA PORTUGUESA
 	FONOLOGIA
 		[[MONOSSÍLABA TÔNICA E ÁTONA]]
 	[[questões erradas de português]]
-	o que revisar 
+	o que revisar
 		formação de palavras 
-			derivação regressiva 
-			derivação imprópria 
-			diferença entre derivação parassintética da derivação prefixal sufixal
-				Claro que o sentido da palavra ficou comprometido sem os afixos. Está aqui a **diferença entre a derivação parassintética e a prefixal e sufixal**. Na parassíntese, é impossível retirar um dos afixos sem que haja perda de sentido. Já no segundo processo, é possível retirar um deles e, ainda assim, a palavra manter seu significado.
 			redução ou abreviação
+				 **transformação de uma palavra noutra mais pequena**
+				 televisão - tevê;
+				 você - cê
+			derivação regressiva 
+					uma palavra formada da retirada de um sufixo ou de uma parte da palavra
+					 trocar - troco ; 
+					 flamengo - mengo
+			derivação imprópria 
+				é quando a classe gramatical da palavra muda
+			diferença entre derivação parassintética da derivação prefixal sufixal
+				na derivação parassintética há perda de sentido se tirar um dos afixos
+				 na derivação prefixal sufixal não há perda de sentido se remover um dos afixos
 			onomatopeia
-		crase 
-		concordância verbal 
-		separação silábica 
-		pronome relativo 
-		acento gráfico 
+				é a imitação de um som
+				exemplos	
+					tic-tac
+					miau
+					zum-zum
+		[[crase]]
+		[[concordância verbal]]
+		[[Pasted image 20230917212314.png|separação silábica]] 
+			quando separar
+				 a-a
+				 ba-ú
+				 rr,ss
+			quando não separar
+				ditongos
+				trintongos
+				 br
+				 ch , lh
+		[[EAGS SIN/GRAMÁTICA/pronome relativo#==regras do pronome “cujo”==|pronome relativo cujo]]
+		[[regras do acento gráfico]]
 		gênero de substatnivo 
 			uniforme 
 			biforme 
-		ortografia 
-		quando usar x ou ch 
-		erros de ortografia 
-		gramativa normativa 
-		plural dos substantivos 
+		Expressões confudidas
+			mau ou mal
+			[[note-59|afim ou a fim]]
+			[[note-60|acerca de,a cerca de ou há cerca de]]
+			senão ou se não
+			[[note-54|A vista]], [[note-55|à vista]] ou [[note-56|avista ]]
+			[[note-57|h-esitar]] ou [[note-58|e-xitar]]
+		Porquês 
+			porque
+				é usado no meio para responder
+			por que
+				 para fazer perguntas , usado no meio tem sentido de [[eags-2007-sin-11)|pela qual]]
+			porquê 
+				tem sentido de porquê motivo
+				- Me diga o porquê de você não querer ir à excursão
+				- Qual é o porquê de toda essa festa?
+			por quê
+				é usado apenas no final para fazer perguntas
 		[[regência verbal]] 
-		transposição do discurso direto para o discurso indireto 
-		uso da virgula correto 
+		[[note-27|conjugação verbal]]
+		[[transposição de discurso]]
+		orações coordenadas sindéticas
+		orações subordinadas
+		[[uso da virgula correto]]
 		[[diferença entre adjunto adnominal e complemento nominal]] 
 		pronome substantivo
 		grau do adjetivo
-		 tempos verbais
+		tempos verbais 
+		[[quando usar x ou ch]]
+		erros de ortografia 
 LÍNGUA INGLESA 
 	GRAMÁTICA 
 		Substantivos 
@@ -1175,7 +1214,7 @@ FÍSICA
 			Lei de Lenz. 
 			Transformadores. 
 	[[ELETROMAGNETISMO]]
-	[[ONDULATÓRIA e ÓPTICA GEOMÉTRICA]] 
+	[[ONDULATÓRIA e ÓTICA]] 
 		Pulsos e ondas 
 		Período, frequência e ciclo. 
 		Ondas periódicas 

@@ -17,5 +17,6 @@ front-end developer
 			 float e hack clear flix 
 			 flex box
 			 css grid
-	  	 
+	js	 
 back-end developer
+	

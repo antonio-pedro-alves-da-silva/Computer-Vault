@@ -29,3 +29,6 @@
 [9](https://www.qconcursos.com/questoes-militares/questoes/7e4b03e3-3a)-lei dos cossenos
 	prova de 2015
 [1](https://www.qconcursos.com/questoes-militares/questoes/88b5051e-dc)
+[2](https://www.qconcursos.com/questoes-militares/questoes/b57d919e-55)(distância entre pontos e produtos notáveis)
+[3](https://www.qconcursos.com/questoes-militares/questoes/b590aac0-55)(estudo analítico da circuferência)
+	prova de 2014

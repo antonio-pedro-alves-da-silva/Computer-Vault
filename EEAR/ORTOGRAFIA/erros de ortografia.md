@@ -10,7 +10,7 @@
 			**b) subsídios – itinerário – reivindicavam**
 			c) subzídios – intinerário – reivindicavam
 			d) subsídeos – intinerário – reinvindicavam
-		CUMPRIMENTO - Saudação cortês
+		CUMPRIMENTO - Saudação cortês 
 		COMPRIMENTO - de medir distância 
 		SESSÃO - o tempo de duração de uma reunião, consulta, exercício ou espetáculo.
 		SEÇÃO - PORÇÃO DE UM TODO

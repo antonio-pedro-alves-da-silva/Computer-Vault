@@ -1,13 +1,28 @@
+revisão
+	quando usar
+		[[crase#==1. antes de palavras femininas==|1.]]
+		[[crase#==2. após verbos que indicam destino(ir, voltar,vir)==|2.]]
+		[[crase#4. ==antes dos pronomes demonstrativos aquele , aquela , aquilo==|4.]]
+		[[crase#==7. na indicação de horas exatas.==|7.]]
+	quando não usar
+		[[crase#==1)antes de palavras masculinas==|1.]]
+		[[crase#==2)antes de verbos==|2.]]
+		[[crase#==3)antes de pronomes pessoais do caso reto (eu, tu, ele, nós, vós, eles) e do caso oblíquo (me, mim, comigo, te, ti, contigo, se, si, o, lhe)==|3.]]
+		[[crase#==4)antes dos pronomes demonstrativos isso, esse, este, esta, essa==.|4.]]
+		[[crase#==5)quando indicamos tempo futuro==|5.]]
+		[[crase#==6)antes de artigo indefinido um, uma, uns, umas==|6.]]
+		[[crase#==7)Entre palavras idênticas repetidas, como nas expressões cara a cara, boca a boca etc==.|7.]]
+		[[crase#==12)"Antes dos seguintes pronomes “ninguém”, “essa”, “toda”, “cada”, “qualquer”, “tudo”"==|12.]]
+		[[crase#==15)Por outro lado, **quando acompanhadas de preposições (para, desde, após, perante, com), não se utiliza a crase**==|15.]]
+			para lembrar (pda)(pc)
+	quando o uso é facultativo
+		[[crase#==depois da preposição até==|1.]]
+		[[crase#==antes de nomes próprios femininos==|2]]
+		[[crase#==antes dos pronomes possesivos femininos==|3.]]
 
 # regras de quando usar crase
 
-Com origem na Grécia, a palavra **crase** significa “mistura” ou “fusão”. Na língua portuguesa, a [crase](https://www.portugues.com.br/gramatica/o-uso-crase-.html) indica a **contração de duas vogais idênticas**, mais precisamente, a **junção da [preposição](https://www.portugues.com.br/gramatica/preposicoes.html)** ****“****_**a”**_ **com o artigo feminino “**_**a”**_ **e com o “**_**a”**_ **do início de pronomes**. Sempre que isso ocorrer, o fenômeno será indicado por intermédio do _acento grave_, também chamado de _acento indicador de crase_.
 
-- nós referimos a + a reunião
-- nós referimos à reunião
-
-- Você já esteve em Roma? Eu irei à Roma logo. (errado)
-- Você já esteve em Roma? Eu irei a Roma logo. (certo)
 ### ==1. antes de palavras femininas==
 
 - Fui à escola. (Fui a + a escola)
@@ -188,7 +203,7 @@ No entanto, se essas duas palavras (“casa” e “terra”) forem qualificadas
 
 ### 11)Antes de nomes de pessoas famosas
 ### ==12)"Antes dos seguintes pronomes: “ninguém”, “essa”, “toda”, “cada”, “qualquer”, “tudo”"==
-
+para lebrar netcqt
 ### 13)Antes de numerais
 
 ### 14)Em expressões adverbiais de modo com substantivo no plural
@@ -199,7 +214,7 @@ No entanto, se essas duas palavras (“casa” e “terra”) forem qualificadas
 
 ### ==15)Por outro lado, **quando acompanhadas de preposições (para, desde, após, perante, com), não se utiliza a crase**==
 
-- Logo após à promulgação do decreto, houve protestos em várias cidades.
+- Logo após a promulgação do decreto, houve protestos em várias cidades.
 
 # quando a crase é facultativa
 A crase será facultativa **quando a presença do artigo definido feminino “a” ou a preposição “a” também for facultativa, podendo ou não estar presente na frase**. Dessa forma, se o artigo e a preposição estiverem na frase, o uso da crase é obrigatório, pois há contração da preposição “a” com o artigo “a”
@@ -236,10 +251,7 @@ Não dão valor **a nossa** opinião."
 - “Às vezes”, com crase, é uma locução adverbial indicativa de tempo, que significa “ocasionalmente”, “de vez em quando”, “de quando em quando”, “em alguns momentos ou situações”.
 - as vezes sem crase tem sentido de "fazes as vezes de" , 'as ocasiões'
 - 
-### avista , a vista , Á vista
-avista - verbo avistar
-a vista - a paisagem ou o orgão ocular
-Á vista - forma de pagamento ou visível
+
 ### Antes dos seguintes nomes de lugar: Europa, Ásia, África, França, Inglaterra, Espanha, Holanda, Escócia e Flandres.
 
 Não podemos mais voltar à Escócia.
