@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7f773529a2959a79",
+        "id": "35eb5b1b468e22b8",
         "type": "tabs",
         "children": [
           {
-            "id": "142b03066e53f217",
+            "id": "e1913cbe07da1449",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "aebbcc19ef67c167",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EEAR/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3cb771fb1813199",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EAGS SIN/TEXTO/uso da virgula correto.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -73,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "(a-b)",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -119,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EEAR/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "EEAR/EEAR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EEAR/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "EEAR/EEAR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EEAR/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+                "file": "EEAR/EEAR.md"
               }
             }
           },
@@ -194,44 +170,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aebbcc19ef67c167",
+  "active": "e1913cbe07da1449",
   "lastOpenFiles": [
+    "EEAR/FÍSICA/TERMOLOGIA.md",
     "EEAR/EEAR.md",
-    "EAGS SIN/TEXTO/uso da virgula correto.md",
-    "EAGS SIN/TEXTO/transposição de discurso.md",
-    "EAGS SIN/GRAMÁTICA/regência verbal.md",
-    "notes/note-55.md",
-    "EAGS SIN/GRAMÁTICA/regras do acento gráfico.md",
-    "notes/note-53.md",
-    "EAGS SIN/GRAMÁTICA/pronome relativo.md",
-    "EAGS SIN/GRAMÁTICA/concordância verbal.md",
-    "EAGS SIN/crase.md",
+    "notes/Quantitative Finance with Python.md",
+    "notes/note-120.md",
+    "notes/note-118.md",
+    "notes/note-119.md",
+    "EEAR/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "notes/note-117.md",
     "EAGS SIN/GRAMÁTICA/questões erradas de português.md",
-    "EEAR/FÍSICA/ONDULATÓRIA e ÓTICA.md",
-    "notes/note-68.md",
-    "notes/note-69.md",
-    "Pasted image 20240125202741.png",
-    "notes/note-67.md",
-    "Pasted image 20240125181236.png",
-    "Pasted image 20240125181223.png",
-    "Pasted image 20240125164437.png",
-    "notes/note-66.md",
-    "imagens/print_screen_619.png",
-    "Pasted image 20240125122910.png",
-    "notes/note-43.md",
-    "imagens/print_screen_618.png",
-    "notes/note-27.md",
-    "notes/note-65.md",
-    "notes/note-64.md",
-    "notes/note-63.md",
-    "notes/note-62.md",
-    "notes/note-61.md",
-    "EAGS SIN/GRAMÁTICA/gramática normativa.md",
-    "notes/note-60.md",
-    "notes/note-59.md",
-    "imagens/Pasted image 20230917212314.png",
-    "imagens/print_screen_612.png",
-    "Pasted image 20240123081503.png",
+    "notes/TRADER.md",
+    "notes/note-115.md",
+    "notes/note-116.md",
+    "EAGS SIN/GRAMÁTICA/Usos da Partícula Se.pdf",
+    "notes/note-114.md",
+    "Pasted image 20240131073911.png",
+    "notes/note-113.md",
+    "Pasted image 20240203142625.png",
+    "imagens/print_screen_624.png",
+    "EEAR/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
+    "EEAR/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md",
+    "Pasted image 20240202184837.png",
+    "Pasted image 20240202184827.png",
+    "EEAR/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
+    "EEAR/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md",
+    "EEAR/MATEMÁTICA/ÁLGEBRA III/Polinômios/Polinômios.md",
+    "EEAR/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md",
+    "notes/Untitled.md",
+    "notes/note-85.md",
+    "notes/note-109.md",
+    "notes/FULL-STACK DEVELOPER.md",
+    "Pasted image 20240201222901.png",
+    "notes/().md",
+    "notes/note-82.md",
+    "Pasted image 20240131070606.png",
+    "Pasted image 20240130090609.png",
+    "imagens/print_screen_480.png",
+    "Pasted image 20240129211500.png",
     "imagens/print_screen_587.png.crdownload",
     "imagens/print_screen_586.png.crdownload",
     "notes",
@@ -241,7 +218,6 @@
     "EEAR/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS",
     "Noções de orem de grandeza",
     "EAGS SIN/FONOLOGIA",
-    "EEAR/FÍSICA/CINEMÁTICA",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

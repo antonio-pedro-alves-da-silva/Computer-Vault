@@ -9,6 +9,8 @@ escutar
 	funciona apenas como transitivo direto
 beijar
 	funciona apenas como transitivo direto
+torturar
+	funciona apenas como transitivo direto
 
 [[note-65|aspirar]]
 

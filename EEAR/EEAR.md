@@ -161,7 +161,7 @@ LINGUA PORTUGUESA
 						as palavras são formadas pela união de dois ou mais radicais sofrendo alterações fonéticas exemeplo :vinagre (vinho + acre) exemplo : embora (em + boa + hora)
 			classes de palavras
 				substantivos
-					classificação
+					[[note-115|classificação]]
 					flexão
 						número
 							-vogal
@@ -518,12 +518,6 @@ LINGUA PORTUGUESA
 					os advérbios , as preposições , conjuções e as interjeições
 			[[colocação pronominal]]
 			[[Usos da Partícula Se.pdf]]
-				particula apassivadora
-				indice de indeterminação
-				particula expletiva ou de realce
-				pronome reflexivo
-				conjugação integrante
-				 Conjunção subordinativa condicional
 			[[tempo composto]]
 		Sintaxe
 			verbos transitivos
@@ -939,13 +933,16 @@ LINGUA PORTUGUESA
 		[[transposição de discurso]]
 		orações coordenadas sindéticas
 		orações subordinadas
+			substantivas
+			adejtivas
+			adverbiais
 		[[uso da virgula correto]]
 		[[diferença entre adjunto adnominal e complemento nominal]] 
-		pronome substantivo
+		[[diferença entre pronomes substantivos e pronomes adjetivos]]
 		grau do adjetivo
-		tempos verbais 
 		[[quando usar x ou ch]]
-		erros de ortografia 
+		erros de ortografia lis
+		 [[note-107|lista de verbos irregulares]]
 LÍNGUA INGLESA 
 	GRAMÁTICA 
 		Substantivos 
@@ -1063,7 +1060,6 @@ MATEMÁTICA
 			conceitos, igualdade e operações. 
 			Determinantes. 
 			Sistemas lineares. 
-			
 			[[Análise combinatória]]
 				princípio fundamental da contagem
 				arranjos, combinações e permutações simples probabilidades
@@ -1237,18 +1233,6 @@ FÍSICA
 			Instrumentos ópticos simples. 
 			Olho humano (principais defeitos da visão). 
 	[[TERMOLOGIA]]
-		- Calor e temperatura
-		- Escalas termométricas 
-		- Transferência de calor e equilíbrio térmico
-		- Capacidade calorífica e calor específico
-		- Condução do calor
-		- Dilatação térmica
-		- Mudanças de estado físico e calor latente de transformação
-		- Comportamento de gases ideais (equação de Clapeyron)
-		- Máquinas térmicas
-		Ciclo de Carnot
-		Leis da Termodinâmica
-
 
 
 AS MATÉRIAS QUE MAIS CAEM DE FÍSICA

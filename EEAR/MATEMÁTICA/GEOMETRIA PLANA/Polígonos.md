@@ -1,5 +1,3 @@
-**# Poligonos regulares
-
 ## 360°/5
 
 ![[print_screen_172.png]]

@@ -1,0 +1,1 @@
+- a transferência de calor ocorre sempre do mais quente para o mais frio

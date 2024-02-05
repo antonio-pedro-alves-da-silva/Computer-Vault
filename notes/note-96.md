@@ -1,0 +1,1 @@
+- **Pressão:** a pressão afeta os pontos de fusão e ebulição , aumentar a pressão eleva esses pontos

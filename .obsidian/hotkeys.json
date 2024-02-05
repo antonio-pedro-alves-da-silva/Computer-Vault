@@ -111,5 +111,15 @@
       ],
       "key": "H"
     }
+  ],
+  "obsidian-excalidraw-plugin:toggle-lock": [],
+  "editor:insert-codeblock": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "J"
+    }
   ]
 }

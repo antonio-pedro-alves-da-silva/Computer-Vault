@@ -1,34 +1,46 @@
-[1](https://www.qconcursos.com/questoes-militares/questoes/ae1edea0-55)-errado *o apótema é a altura da face da pirâmide tringular regular*
-[2](https://www.qconcursos.com/questoes-militares/questoes/2586276c-4e)-errado
-	Discussão e classificação de um sistema (2x2)
-	Discussão de um sistema (3x3)
-[3](https://www.qconcursos.com/questoes-militares/questoes/2599174b-4e)-errado
-[4](https://www.qconcursos.com/questoes-militares/questoes/25b8c262-4e)-errado
-	 REGRA DA MULTIPLICAÇÃO DE  MATRIZES
-	prova de 2019
-[5](https://brainly.com.br/tarefa/21576246#:~:text=O%20valor%20de%20n%20%C3%A9%20b)-
-[6](https://www.qconcursos.com/questoes-militares/questoes/fe1dcdf2-7e)-
-[7](https://www.qconcursos.com/questoes-militares/questoes/45ee02a5-49)-
-[8](https://www.qconcursos.com/questoes-militares/questoes/fe0b6c24-7e)
+[1](https://www.qconcursos.com/questoes-militares/questoes/ae1edea0-55)- [[print_screen_212.png|o apótema é a altura da face da pirâmide tringular regular]]
+[2](https://www.qconcursos.com/questoes-militares/questoes/2586276c-4e)-[[print_screen_243.png|Discussão e classificação de um sistema (2x2)]] e [[print_screen_244.png|Discussão de um sistema (3x3)]]
+[3](https://www.qconcursos.com/questoes-militares/questoes/2599174b-4e)- [[print_screen_140.png|Arcos congruos e simétricos]]
+[4](https://www.qconcursos.com/questoes-militares/questoes/25b8c262-4e)-[[print_screen_245.png|REGRAS DE MULTIPLICAÇÃO DE MATRIZES]]
+[5](https://brainly.com.br/tarefa/21576246#:~:text=O%20valor%20de%20n%20%C3%A9%20b)- [[print_screen_179.png|Relações trigonométricas]]
+[6](https://www.qconcursos.com/questoes-militares/questoes/fe1dcdf2-7e)- [[print_screen_161.png|Relações de girard]]
+[7](https://www.qconcursos.com/questoes-militares/questoes/45ee02a5-49)- Graus de Polinômios
+[8](https://www.qconcursos.com/questoes-militares/questoes/fe0b6c24-7e)- média de histograma
 	prova de 2018
-[1](https://www.qconcursos.com/questoes-militares/questoes/3e55d2fc-3b)
-[2](https://www.qconcursos.com/questoes-militares/questoes/5b251d62-3d)
-	prova de 2017
-[1](https://www.qconcursos.com/questoes-militares/questoes/5b30af15-3d)
-[2](https://www.qconcursos.com/questoes-militares/questoes/b8add7c7-3d)
-[3](https://www.qconcursos.com/questoes-militares/questoes/5b20c6ca-3d)
+[1](https://www.qconcursos.com/questoes-militares/questoes/3e55d2fc-3b)-[[print_screen_141.png|gráfico da função seno]] e [[print_screen_143.png|gráfico da função cosseno]]
+[2](https://www.qconcursos.com/questoes-militares/questoes/5b251d62-3d)-polinômios(aprendi a como resolver um sistema de polinômios)
+[1](https://www.qconcursos.com/questoes-militares/questoes/5b30af15-3d)-[[Pasted image 20240202184837.png|números de diagonais de um poligono]]
+[2](https://www.qconcursos.com/questoes-militares/questoes/b8add7c7-3d)-[[Pasted image 20231107212715.png|combinção simples]]
+[3](https://www.qconcursos.com/questoes-militares/questoes/5b20c6ca-3d)-cilindro equilátero e volume da esfera
 	 prova de 2016
-[1](O conjunto solução da inequação 22x +1 < 5/4 . 2x+2 - 2 é)
-[2](https://www.qconcursos.com/questoes-militares/questoes/7de8f92f-3a)
-[3](https://www.qconcursos.com/questoes-militares/questoes/7de8f92f-3a)
-[4](https://www.qconcursos.com/questoes-militares/questoes/851fe1d1-53)
-[5](https://www.qconcursos.com/questoes-militares/questoes/85275445-53)- formulas trigonométricas
-[6](https://www.qconcursos.com/questoes-militares/questoes/85275445-53)
-[7](https://www.qconcursos.com/questoes-militares/questoes/7e13fff4-3a)
-[8](https://www.qconcursos.com/questoes-militares/questoes/7e4b03e3-3a)
-[9](https://www.qconcursos.com/questoes-militares/questoes/7e4b03e3-3a)-lei dos cossenos
+[1](https://www.qconcursos.com/questoes-militares/questoes/7dde27f8-3a)-inequação 
+[2](https://www.qconcursos.com/questoes-militares/questoes/7de8f92f-3a)-progressão geométrica
+[6](https://www.qconcursos.com/questoes-militares/questoes/85275445-53)-formulas trigonométricas
+[7](https://www.qconcursos.com/questoes-militares/questoes/7e13fff4-3a)-volume de uma esfera
+[8](https://www.qconcursos.com/questoes-militares/questoes/7e4b03e3-3a)-lei do cossenos
 	prova de 2015
-[1](https://www.qconcursos.com/questoes-militares/questoes/88b5051e-dc)
+[1](https://www.qconcursos.com/questoes-militares/questoes/88b5051e-dc)-restrições de valores para x
 [2](https://www.qconcursos.com/questoes-militares/questoes/b57d919e-55)(distância entre pontos e produtos notáveis)
-[3](https://www.qconcursos.com/questoes-militares/questoes/b590aac0-55)(estudo analítico da circuferência)
-	prova de 2014
+[3](https://www.qconcursos.com/questoes-militares/questoes/b590aac0-55)(estudo analítico da circuferência)(distância entre pontos e produtos notáveis)
+prova de 2014
+prova de 2011
+[1](https://www.qconcursos.com/questoes-militares/questoes/adbc4f5d-55)-função modular
+[2](https://www.qconcursos.com/questoes-militares/questoes/adcf7f97-55)-quantas raizes uma função polinomial admite
+[3](https://www.qconcursos.com/questoes-militares/questoes/adf246e4-55)-função sobrejetora
+[4](https://www.qconcursos.com/questoes-militares/questoes/ae066507-55)([[note-117|como pegar o centro da equação geral da reta da circuferência]])
+[5](https://www.qconcursos.com/questoes-militares/questoes/ae16fcce-55)-distância entre pontos
+[6](https://www.qconcursos.com/questoes-militares/questoes/7c9d4c07-58)-Formula trigonométrica
+prova de 2024
+[1](https://www.qconcursos.com/questoes-militares/questoes/5ad19354-16)-função polinomial do 1° grau
+[2](https://www.youtube.com/watch?v=OakQs52IE2s)-(restrições de valores para x)
+[3](https://www.qconcursos.com/questoes-militares/questoes/5adcaf54-16)-[[print_screen_140.png|Arcos congruos e simétricos]]
+[4](https://www.qconcursos.com/questoes-militares/questoes/5adf51fa-16)-
+[5](https://www.qconcursos.com/questoes-militares/questoes/5aedf56e-16)
+[6](https://www.qconcursos.com/questoes-militares/questoes/5af09bec-16)
+[7](https://www.qconcursos.com/questoes-militares/questoes/5af629f6-16)
+[8](https://www.qconcursos.com/questoes-militares/questoes/5aff4fe2-16)
+[9](https://www.qconcursos.com/questoes-militares/questoes/5b04a469-16)
+[10](https://www.qconcursos.com/questoes-de-concursos/questoes/0923395e-d0)
+[11](https://brainly.com.br/tarefa/3938450#:~:text=Portanto%20s%C3%A3o%20200%20provas%20diferentes%20que%20o%20professor%20pode%20elaborar.)
+[12](https://www.qconcursos.com/questoes-militares/questoes/5b122d7d-16)
+

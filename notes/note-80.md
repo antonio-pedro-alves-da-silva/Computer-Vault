@@ -1,0 +1,1 @@
+- perda do alinhamento dos olhos , sua correção pode ser feita atraves de lentes prismáticas ou de cirurgia

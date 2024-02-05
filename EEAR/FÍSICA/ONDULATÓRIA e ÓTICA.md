@@ -128,8 +128,8 @@ ondulatória
 		[[print_screen_420.png|ordenadas e abscissas]]
 		[[Pasted image 20240122181909.png|equação dos pontos conjugados]]
 		[[print_screen_607.png|aumento linear transversal]]
-			O aumento linear transversal **é dado pela razão entre o tamanho da imagem e o tamanho do objeto**. Portanto, um aumento linear igual a -2 indica que a imagem é duas vezes maior que o seu objeto
-			 $\Large-2=\frac{i}{o}$
+			 se é uma imagem invertida o sinal do aumento linear será negativo
+			 se é uma imagem direita o sinal será positivo
 		[[note-45|convenções de sinais das ordenadas e abscissas]]
 			espelho côncavo ou convexo
 				f > 0 espelho côncavo
@@ -155,32 +155,38 @@ ondulatória
 		[[Pasted image 20240123101808.png|tipos de lentes esféricas]]
 		[[Pasted image 20240123102359.png|lentes convergentes e lentes divergentes]]
 		[[Pasted image 20240123102737.png|lentes esféricas convergentes e divergentes]]		
-		[principais defeitos da visão humana](https://www.infoescola.com/optica/anomalias-da-visao/)
-			que tipo de lentes pessoa com determinado problema de visão usa para corrigir o problema ?
-				  miopia
-					 globo ocular é um pouco mais comprido que normal. ,usam lentes divergentes
-				  hipermetropia
-					 globo ocular é mais curto do que o normal. , usam lentes convergentes 
-				  presbiopia
-						causado pela velhice ocorre devido a uma mudança no cristalino dentro do olho, pois ele se torna naturalmente mais espesso e enrijece com o tempo. , usam lentes convergentes
-				 astigmatismo
-					globo ocular esférico , usam lentes cilíndricas
-				 estrabismo
-					impede que os ohos fique em paralelo , usam lentes convergentes
 		[[print_screen_618.png|contrução geométrica de uma lente esférica convergente]]
 		classifição das imagens em todas as posições em lentes
-			convergentes
-				 é o mesmo que o espelho côncavo
-			divergentes
-				é o mesmo que o espelho convexo
+			[[note-43|lentes convergentes]]
+			[[note-44|lentes divergentes]]
 		convenções de sinais
 			f > 0 lente convergente
 			f < 0 lente divergente
+		[principais defeitos da visão humana](https://www.infoescola.com/optica/anomalias-da-visao/)
+				miopia
+					[[note-72|o que é miopia ?]]
+					[[note-74|vergência da miopia]]
+				hipermetropia
+					[[note-73|o que é hipermetropia ?]]
+					[[note-75|vergência da hipermetropia]]
+				presbiopia
+					[[note-77|o que é presbiopia ?]]
+				astigmatismo
+					[[note-79|o que é astigmatismo ?]]
+				estrabismo
+					[[note-80|o que é estrabismo ?]]
 		[[note-67|equação dos fabricantes de lentes]]
 		vergência e justaposição de lentes esféricas
 			[[note-68|o que é vergência ?]]
 				Vergência é a **medida da capacidade de uma lente de desviar a trajetória da luz**
 			[[note-69|justa posição de lentes esféricas]]
+	instrumentos ópticos
+		[[print_screen_620.png|lupa]]
+		[[Pasted image 20240127100642.png|telescópio refrator(luneta astronômica) ou microscópio composto]]
+		[[print_screen_621.png|ampliação da imagem]]
+		[[note-70|binóculo]]
+		[[Pasted image 20240127103236.png|telescópio refletor]]
+		[[print_screen_623.png|câmara fotográfica]]
 	exercicios errados 
 		refração da luz
 			 [1](https://www.qconcursos.com/questoes-militares/questoes/a79bf388-6b)(exercício de aplicação de indice de refração relativo)
@@ -189,12 +195,12 @@ ondulatória
 			 [4](https://www.qconcursos.com/questoes-militares/questoes/fdac0247-f8)(indice de refração relativo)
 		espelhos esféricos
 			 [2](https://www.qconcursos.com/questoes-militares/questoes/b200bff0-01)(equação de gauss e aumento linear transversal)
-			 [3](https://www.qconcursos.com/questoes-militares/questoes/fd9cb722-f8)
+			 [3](https://www.qconcursos.com/questoes-militares/questoes/fd9cb722-f8)(aumento linear)-revisar
 			 [4](https://www.qconcursos.com/questoes-militares/questoes/8d1008f3-f3)(regras da construção gráfica em espelho esféricos)
 			 [5](https://www.qconcursos.com/questoes-militares/questoes/21195fa9-4d)(regras da construção gráfica em espelho esféricos e aumento linear)
 			 [6](https://www.qconcursos.com/questoes-militares/questoes/588cc633-ad)
 			 [7](https://www.qconcursos.com/questoes-militares/questoes/dfc47b82-55)
-			 [8](https://www.qconcursos.com/questoes-militares/questoes/e7e73317-4d)
+			 [8](https://www.qconcursos.com/questoes-militares/questoes/e7e73317-4d)(errado)
 			 [9](https://www.qconcursos.com/questoes-militares/questoes/516262b9-dc)
 		lentes esféricas
 			[1](https://www.qconcursos.com/questoes-militares/questoes/463d0095-49)
@@ -202,115 +208,11 @@ ondulatória
 			[3](https://www.qconcursos.com/questoes-militares/questoes/d7a607c9-49)(vergência e justa posição de lentes esféricas)
 			[4](https://www.qconcursos.com/questoes-militares/questoes/d798e137-49)
 			[5](https://www.qconcursos.com/questoes-militares/questoes/b94c35e8-3d)
+			[6](https://www.qconcursos.com/questoes-militares/questoes/4db919ad-42)
+			[7](https://www.qconcursos.com/questoes-militares/questoes/4db919ad-42)
 		espelhos planos
 			[1](https://www.qconcursos.com/questoes-militares/questoes/79017296-bf)
 			[2](https://www.qconcursos.com/questoes-militares/questoes/9d59824f-50)(rotação de um espelho plano)
-### Principais defeitos da visão humana
-
-#### Miopia
-
-![[print_screen_446.png]]
-PRM(PONTO REMOTE DO MÍOPE) é a máxima distância que o miope enxerga com nitidez
-ESSE SINAL DE MENOS É PORQUE É UMA LENTE DIVERGENTE 
-![[print_screen_445.png]]
-
-
-#### Hipermetropia
-
-![[print_screen_447.png]]
-![[print_screen_452.png]]
-
-
-#### Presbiopia
-
-![[print_screen_449.png]]
-
-#### ASTIGMATISMO
-
-![[print_screen_450.png]]
-
-
-
-
-
-
-
-
-
-## Sombra e penumbra
-
-![[Pasted image 20231210181853.png]]
-![[Pasted image 20231210181957.png]]
-![[Pasted image 20231210182316.png]]
-
-
-
-
-## Câmara escura
-
-![[Pasted image 20231214164530.png]]
-
-
-## Ponto Objeto e Ponto Imagem
-
-se as setas estão saindo são ponto objeto
-se as setas estão entrando elas são ponto imagem
-![[Pasted image 20231214175729.png]]
-
-
-
-
-
-
-## Lâminas de faces paralelas
-
-![[print_screen_433.png]]
-
-## Prisma
-
-![[print_screen_434.png]]
-
-## Lentes esféricas
-#### tipos de Lentes esféricas
-
-
-![[Pasted image 20231211175206.png]]
-![[Pasted image 20231211180007.png]]
-#### Lentes Delgadas
-
-![[Pasted image 20231211195225.png]]
-a lente delgada da direita é uma lente de borda grossa
-![[print_screen_435.png]]
-#### Vergência
-
-![[print_screen_436.png]]
-
-
-
-
-#### Formação de Imagens
-
-![[print_screen_438.png]]
-![[print_screen_439.png]]
-
-## Instrumentos ópticos simples
-![[print_screen_440.png]]
-![[print_screen_441.png]]
-essses prismas dentro do binoculo são lentes objetivas e 3 e o 4 são as lentes
-
-binóculo
-![[Pasted image 20231212102331.png]]
- telescópio refletor
-![[Pasted image 20231212103204.png]]
-microscópio composto e câmara fotográfica
-![[print_screen_443.png]]
-
-
-
-
-
-## óptica visão humana
-
-![[print_screen_444.png]]
-- o cérebro desinverte a imagem para que nós possamo enxergar-la corretamente
-
+			[3](https://www.qconcursos.com/questoes-militares/questoes/763aebc5-55)+
+		instrumentos ópticos
+			

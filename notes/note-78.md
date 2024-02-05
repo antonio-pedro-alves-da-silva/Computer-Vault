@@ -1,0 +1,1 @@
+**Essa** **deficiência pode ser corrigida com lentes convergentes** **e da** **mesma maneira com que se corrige hipermetropia mas com vergência ou convergência maior pois deve convergir mais fortemente os raios de luz.**
