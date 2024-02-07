@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d8c08bc0985bd78f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EEAR/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "geometr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EEAR/EEAR.md",
+                "file": "EEAR/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EEAR/EEAR.md",
+                "file": "EEAR/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EEAR/EEAR.md"
+                "file": "EEAR/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
               }
             }
           },
@@ -170,45 +182,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e1913cbe07da1449",
+  "active": "d8c08bc0985bd78f",
   "lastOpenFiles": [
-    "EEAR/FÍSICA/TERMOLOGIA.md",
+    "notes/note-125.md",
+    "EEAR/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
     "EEAR/EEAR.md",
+    "notes/note-6.md",
+    "imagens/print_screen_538.png",
+    "imagens/print_screen_633.png",
+    "imagens/print_screen_632.png",
+    "imagens/print_screen_631.png",
+    "notes/note-122.md",
+    "notes/note-124.md",
+    "notes/note-5.md",
+    "notes/note-123.md",
+    "Pasted image 20240207081445.png",
+    "imagens/print_screen_252.png",
+    "imagens/print_screen_253.png",
+    "Pasted image 20240207080732.png",
+    "EEAR/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
+    "EEAR/MATEMÁTICA/GEOMETRIA PLANA/Ângulos.md",
+    "EEAR/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "imagens/print_screen_630.png",
+    "imagens/print_screen_629.png",
+    "EAGS SIN/GRAMÁTICA/regência nominal.md",
+    "EAGS SIN/GRAMÁTICA/questões erradas de português.md",
+    "notes/note-121.md",
+    "EEAR/FÍSICA/TERMOLOGIA.md",
     "notes/Quantitative Finance with Python.md",
     "notes/note-120.md",
     "notes/note-118.md",
     "notes/note-119.md",
-    "EEAR/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-117.md",
-    "EAGS SIN/GRAMÁTICA/questões erradas de português.md",
     "notes/TRADER.md",
     "notes/note-115.md",
     "notes/note-116.md",
     "EAGS SIN/GRAMÁTICA/Usos da Partícula Se.pdf",
     "notes/note-114.md",
-    "Pasted image 20240131073911.png",
     "notes/note-113.md",
-    "Pasted image 20240203142625.png",
-    "imagens/print_screen_624.png",
     "EEAR/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
-    "EEAR/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md",
-    "Pasted image 20240202184837.png",
-    "Pasted image 20240202184827.png",
-    "EEAR/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
-    "EEAR/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md",
-    "EEAR/MATEMÁTICA/ÁLGEBRA III/Polinômios/Polinômios.md",
-    "EEAR/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md",
-    "notes/Untitled.md",
-    "notes/note-85.md",
-    "notes/note-109.md",
-    "notes/FULL-STACK DEVELOPER.md",
-    "Pasted image 20240201222901.png",
-    "notes/().md",
-    "notes/note-82.md",
-    "Pasted image 20240131070606.png",
-    "Pasted image 20240130090609.png",
-    "imagens/print_screen_480.png",
-    "Pasted image 20240129211500.png",
     "imagens/print_screen_587.png.crdownload",
     "imagens/print_screen_586.png.crdownload",
     "notes",

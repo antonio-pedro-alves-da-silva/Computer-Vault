@@ -13,7 +13,7 @@ prova de 2018
 [2](https://www.qconcursos.com/questoes-militares/questoes/3daf0465-3b)-grau superlativo comparativo
 [3](https://www.qconcursos.com/questoes-militares/questoes/3dbf742d-3b)-diferença entre parassintética e derivação sufixal e prefixal 
 [4](https://www.qconcursos.com/questoes-militares/questoes/3d9aba99-3b)-classificação dos verbos 
-[5](https://www.qconcursos.com/questoes-militares/questoes/3dcafac1-3b)-errado 
+[5](https://www.qconcursos.com/questoes-militares/questoes/3dcafac1-3b)-errado
 prova de 2017
 [1](https://www.qconcursos.com/questoes-militares/questoes/b823e63b-3d)-pessoa gramaticais diferentes - errado
 [2](https://www.qconcursos.com/questoes-militares/questoes/b80d8cb9-3d)-pronome relativo cujo
@@ -44,7 +44,26 @@ prova de 2011
 [3](https://www.qconcursos.com/questoes-militares/questoes/acef6630-55)errado
 [4](https://www.qconcursos.com/questoes-militares/questoes/acf54ee8-55)- flexão de gênero(uniforme e biforme) , [[note-115|classificação dos substantivos]] , [[note-116|O substantivo fezes, embora termine em –s, pode ser empregado no singular ou no plural ?]]
 [5](https://www.qconcursos.com/questoes-militares/questoes/acf98981-55)-paralizar é escrito com z não com s
-[6](https://www.qconcursos.com/questoes-militares/questoes/acfed614-55)-qual substantivo que sem o acento se torna verbo ?
+[6](https://www.qconcursos.com/questoes-militares/questoes/acfed614-55)- qual substantivo que sem o acento se torna verbo ?
 [7](https://www.qconcursos.com/questoes-militares/questoes/ad030803-55) - complemento verbais
 [8](https://www.qconcursos.com/questoes-militares/questoes/ad194015-55)- voz passiva+
 [9](https://www.qconcursos.com/questoes-militares/questoes/ad2b07fd-55)- discurso indireto livre
+prova de 2023
+1-d-certo
+2-d-errado-b
+3-c-certo
+4-a-errado-d
+5-b-errado-c
+6-a-certo
+7-a-errado-b
+8-c-certo
+9-a-errado-d
+10-c-certo
+11-c-certo
+12-errado-c-[[regência nominal]]
+13-b-certo
+14-b-errado-c
+15-d-errado-c
+16-c-certo
+17-b-certo
+18-

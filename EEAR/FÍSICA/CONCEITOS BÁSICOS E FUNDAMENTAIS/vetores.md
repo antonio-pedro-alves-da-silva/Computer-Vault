@@ -1,35 +1,22 @@
-# [grandezas vetoriais e escalares](https://www.google.com/search?q=o+que+%C3%A9+uma+grandeza+vetorial&oq=o+que+%C3%A9+uma+grandeza+ve&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIICAUQABgWGB4yCAgGEAAYFhgeMggIBxAAGBYYHjIICAgQABgWGB4yCAgJEAAYFhgeqAIAsAIA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:a65fddf3,vid:oZPWOXtIUFI,st:0)
 
-# Direção e sentido
-
-![[Pasted image 20231225220906.png]]
-![[Pasted image 20231125094454.png]]
-
-# Soma de vetores
-
-![[Pasted image 20231125101423.png]]
-
-![[Pasted image 20231125101553.png]]
-![[print_screen_521.png]]
-
-# Operações básicas com vetores
-
-
-**pitagoras**
-![[print_screen_273.png]]
-
-![[Pasted image 20231125105757.png]]
-![[print_screen_256.png]]
-![[print_screen_255.png]]
-
-# Decomposição de um vetor
-
-![[Pasted image 20231125114906.png]]
-
-![[print_screen_274.png]]
+vetores
+	qual a diferença entre grandezas vetoriais e escalares ?
+	[[Pasted image 20231125094454.png|Direção e Sentido]]
+	[[Pasted image 20231225220906.png|Sinal da Direção]]
+	Soma de Vetores
+		[[note-121|regra do paralelogramo]]
+		[[print_screen_255.png|lei dos cossenos]]
+		[[Pasted image 20231125101423.png|regra da poligonal]]
+		[[Pasted image 20231125101553.png|regra do equilíbrio vetorial]]
+		[[Pasted image 20231125114906.png|decomposição de vetores]]
+	exercícios errados de vetores
+		[1](https://www.qconcursos.com/questoes-militares/questoes/d71f528c-49)(regra do paralelograma e lei dos cossenos)
+		[2](https://www.qconcursos.com/questoes-militares/questoes/4d6b1949-42)
+		[3](https://www.qconcursos.com/questoes-militares/questoes/ecce1e4a-a0)
 
 
 
 
-# exercícios de vetores qconcursos
+
+
 

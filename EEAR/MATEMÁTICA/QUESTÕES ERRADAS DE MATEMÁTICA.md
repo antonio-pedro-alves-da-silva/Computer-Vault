@@ -34,13 +34,13 @@ prova de 2024
 [1](https://www.qconcursos.com/questoes-militares/questoes/5ad19354-16)-função polinomial do 1° grau
 [2](https://www.youtube.com/watch?v=OakQs52IE2s)-(restrições de valores para x)
 [3](https://www.qconcursos.com/questoes-militares/questoes/5adcaf54-16)-[[print_screen_140.png|Arcos congruos e simétricos]]
-[4](https://www.qconcursos.com/questoes-militares/questoes/5adf51fa-16)-
-[5](https://www.qconcursos.com/questoes-militares/questoes/5aedf56e-16)
-[6](https://www.qconcursos.com/questoes-militares/questoes/5af09bec-16)
-[7](https://www.qconcursos.com/questoes-militares/questoes/5af629f6-16)
-[8](https://www.qconcursos.com/questoes-militares/questoes/5aff4fe2-16)
-[9](https://www.qconcursos.com/questoes-militares/questoes/5b04a469-16)
-[10](https://www.qconcursos.com/questoes-de-concursos/questoes/0923395e-d0)
+[4](https://www.qconcursos.com/questoes-militares/questoes/5adf51fa-16)-Questão Bem Elaborada de Geometria Analítica - errado
+[5](https://www.qconcursos.com/questoes-militares/questoes/5aedf56e-16)-Calcule a aŕea hachurada do hexágono
+[6](https://www.qconcursos.com/questoes-militares/questoes/5af09bec-16)-[[print_screen_179.png|Relações trigonométricas]] e semelhança de triangulo
+[7](https://www.qconcursos.com/questoes-militares/questoes/5af629f6-16)- Progressão Aritmética
+[8](https://www.qconcursos.com/questoes-militares/questoes/5aff4fe2-16)- Geometria Plana
+[9](https://www.qconcursos.com/questoes-militares/questoes/5b04a469-16)- [[Ângulos#Ângulos na Circuferência|Ângulos na circuferência]]
+[10](https://www.qconcursos.com/questoes-de-concursos/questoes/0923395e-d0)- 
 [11](https://brainly.com.br/tarefa/3938450#:~:text=Portanto%20s%C3%A3o%20200%20provas%20diferentes%20que%20o%20professor%20pode%20elaborar.)
 [12](https://www.qconcursos.com/questoes-militares/questoes/5b122d7d-16)
 
