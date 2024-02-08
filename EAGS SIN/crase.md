@@ -1,3 +1,4 @@
+
 revisão
 	quando usar
 		[[crase#==1. antes de palavras femininas==|1.]]
@@ -12,6 +13,7 @@ revisão
 		[[crase#==5)quando indicamos tempo futuro==|5.]]
 		[[crase#==6)antes de artigo indefinido um, uma, uns, umas==|6.]]
 		[[crase#==7)Entre palavras idênticas repetidas, como nas expressões cara a cara, boca a boca etc==.|7.]]
+		[[crase#==8)Antes de palavras femininas de caráter genérico==|8.]]
 		[[crase#==12)"Antes dos seguintes pronomes “ninguém”, “essa”, “toda”, “cada”, “qualquer”, “tudo”"==|12.]]
 		[[crase#==15)Por outro lado, **quando acompanhadas de preposições (para, desde, após, perante, com), não se utiliza a crase**==|15.]]
 			para lembrar (pda)(pc)
@@ -159,7 +161,7 @@ Ele comprou sapatos **à** Luís XV. (Ele comprou sapatos à moda de Luís XV.
 
 - Depois do afogamento, foi preciso fazer respiração **boca a boca.**
 - Todas as vezes em que o poeta ficava **cara a cara** com suas emoções
-### 8)Antes de palavras femininas de caráter genérico
+### ==8)Antes de palavras femininas de caráter genérico==
 
 Antes de palavra feminina de caráter genérico
 
@@ -168,21 +170,17 @@ Antes de palavra feminina de caráter genérico
 
 exemplos de palavras feminas de caráter genérico :
 
-1. A pessoa
+
+1. A sorte
 2. A criança
-3. A estudante
-4. A profissional
-5. A colega
-6. A testemunha
-7. A vítima
-8. A autoridade
-9. A juíza
-10. A médica
-11. A advogada
-12. A engenheira
-13. A policial
-14. A cientista
-15. A motorista
+3. A testemunha
+4. O indivíduo
+5. O ser humano
+6. O estudante
+7. O profissional
+8. O atleta
+9. O motorista
+10. O paciente
 
 Essas palavras podem ser usadas para se referir a pessoas de qualquer gênero, e não especificam o gênero da pessoa em questão. É importante notar que essa prática de usar o feminino como gênero genérico tem se tornado mais comum como uma forma de promover a igualdade de gênero e a inclusão.
 

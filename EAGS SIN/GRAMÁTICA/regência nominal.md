@@ -39,5 +39,5 @@ lista de palavra e suas preposições
 			3. Estamos ansiosos por participar do evento.
 	atencioso
 		**Preposição com**
-		**Preposição para com**
-		
+		**Preposição para com (álguem)**
+	

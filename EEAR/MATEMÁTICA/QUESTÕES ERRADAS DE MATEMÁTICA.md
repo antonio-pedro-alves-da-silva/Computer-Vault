@@ -19,7 +19,7 @@
 [7](https://www.qconcursos.com/questoes-militares/questoes/7e13fff4-3a)-volume de uma esfera
 [8](https://www.qconcursos.com/questoes-militares/questoes/7e4b03e3-3a)-lei do cossenos
 	prova de 2015
-[1](https://www.qconcursos.com/questoes-militares/questoes/88b5051e-dc)-restrições de valores para x
+[1](https://www.qconcursos.com/questoes-militares/questoes/88b5051e-dc)-[[note-127|restrições de valores para x]]
 [2](https://www.qconcursos.com/questoes-militares/questoes/b57d919e-55)(distância entre pontos e produtos notáveis)
 [3](https://www.qconcursos.com/questoes-militares/questoes/b590aac0-55)(estudo analítico da circuferência)(distância entre pontos e produtos notáveis)
 prova de 2014
@@ -32,7 +32,7 @@ prova de 2011
 [6](https://www.qconcursos.com/questoes-militares/questoes/7c9d4c07-58)-Formula trigonométrica
 prova de 2024
 [1](https://www.qconcursos.com/questoes-militares/questoes/5ad19354-16)-função polinomial do 1° grau
-[2](https://www.youtube.com/watch?v=OakQs52IE2s)-(restrições de valores para x)
+[2](https://www.youtube.com/watch?v=OakQs52IE2s)-([[note-127|restrições de valores para x]])
 [3](https://www.qconcursos.com/questoes-militares/questoes/5adcaf54-16)-[[print_screen_140.png|Arcos congruos e simétricos]]
 [4](https://www.qconcursos.com/questoes-militares/questoes/5adf51fa-16)-Questão Bem Elaborada de Geometria Analítica - errado
 [5](https://www.qconcursos.com/questoes-militares/questoes/5aedf56e-16)-Calcule a aŕea hachurada do hexágono
@@ -40,7 +40,7 @@ prova de 2024
 [7](https://www.qconcursos.com/questoes-militares/questoes/5af629f6-16)- Progressão Aritmética
 [8](https://www.qconcursos.com/questoes-militares/questoes/5aff4fe2-16)- Geometria Plana
 [9](https://www.qconcursos.com/questoes-militares/questoes/5b04a469-16)- [[Ângulos#Ângulos na Circuferência|Ângulos na circuferência]]
-[10](https://www.qconcursos.com/questoes-de-concursos/questoes/0923395e-d0)- 
-[11](https://brainly.com.br/tarefa/3938450#:~:text=Portanto%20s%C3%A3o%20200%20provas%20diferentes%20que%20o%20professor%20pode%20elaborar.)
-[12](https://www.qconcursos.com/questoes-militares/questoes/5b122d7d-16)
+[10](https://www.qconcursos.com/questoes-de-concursos/questoes/0923395e-d0)- Análise comibinatória - combinação simples de questões
+[11](https://www.qconcursos.com/questoes-militares/questoes/5b0c7f85-16)- Análise combinatória - Combinação simples
+[12](https://www.qconcursos.com/questoes-militares/questoes/5b122d7d-16)- Análise combinatória - Combinação simples e permutação
 

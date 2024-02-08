@@ -2,7 +2,7 @@ prova de 2020
 [1](https://www.qconcursos.com/questoes-militares/questoes/461f5d05-9b)-adjetivo no grau superlativo sintético erudito.
 [2](https://www.qconcursos.com/questoes-militares/questoes/464e8be1-9b)-concordância verbal
 [3](https://www.qconcursos.com/questoes-militares/questoes/465e68b9-9b)-regência verbal
-[4](https://www.qconcursos.com/questoes-militares/questoes/465b5747-9b)-conjugação do verbo
+[4](https://www.qconcursos.com/questoes-militares/questoes/465b5747-9b)-conjugação verbal
 
 prova de 2019
 [1](https://www.qconcursos.com/questoes-militares/questoes/fd5ef027-7e)- orações subordinadas substantivas
@@ -50,7 +50,7 @@ prova de 2011
 [9](https://www.qconcursos.com/questoes-militares/questoes/ad2b07fd-55)- discurso indireto livre
 prova de 2023
 1-d-certo
-2-d-errado-b
+2-errado-b
 3-c-certo
 4-a-errado-d
 5-b-errado-c
@@ -66,4 +66,12 @@ prova de 2023
 15-d-errado-c
 16-c-certo
 17-b-certo
-18-
+18-a-certo
+19-errado-a- pontuação
+20-a-certo
+21-c-certo
+22-a-certo
+23-c-certo
+24-anulada
+
+

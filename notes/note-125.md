@@ -1,2 +1,3 @@
-$\Large H_{máx} = \frac{vo^{2}}{2g}$
+$\Large H_{máx}=\frac{g.T_{s}^{2}}{2}$
+
 
