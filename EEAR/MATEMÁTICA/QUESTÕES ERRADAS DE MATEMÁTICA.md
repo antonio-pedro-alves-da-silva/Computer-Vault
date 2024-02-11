@@ -29,13 +29,13 @@ prova de 2011
 [3](https://www.qconcursos.com/questoes-militares/questoes/adf246e4-55)-função sobrejetora
 [4](https://www.qconcursos.com/questoes-militares/questoes/ae066507-55)([[note-117|como pegar o centro da equação geral da reta da circuferência]])
 [5](https://www.qconcursos.com/questoes-militares/questoes/ae16fcce-55)-distância entre pontos
-[6](https://www.qconcursos.com/questoes-militares/questoes/7c9d4c07-58)-Formula trigonométrica
+[6](https://www.qconcursos.com/questoes-militares/questoes/7c9d4c07-58)-Formula trigonométrica adição , bissecção e arco metade
 prova de 2024
 [1](https://www.qconcursos.com/questoes-militares/questoes/5ad19354-16)-função polinomial do 1° grau
 [2](https://www.youtube.com/watch?v=OakQs52IE2s)-([[note-127|restrições de valores para x]])
 [3](https://www.qconcursos.com/questoes-militares/questoes/5adcaf54-16)-[[print_screen_140.png|Arcos congruos e simétricos]]
 [4](https://www.qconcursos.com/questoes-militares/questoes/5adf51fa-16)-Questão Bem Elaborada de Geometria Analítica - errado
-[5](https://www.qconcursos.com/questoes-militares/questoes/5aedf56e-16)-Calcule a aŕea hachurada do hexágono
+[5](https://www.qconcursos.com/questoes-militares/questoes/5aedf56e-16)-Calcule a aŕea hachurada do hexágono+
 [6](https://www.qconcursos.com/questoes-militares/questoes/5af09bec-16)-[[print_screen_179.png|Relações trigonométricas]] e semelhança de triangulo
 [7](https://www.qconcursos.com/questoes-militares/questoes/5af629f6-16)- Progressão Aritmética
 [8](https://www.qconcursos.com/questoes-militares/questoes/5aff4fe2-16)- Geometria Plana

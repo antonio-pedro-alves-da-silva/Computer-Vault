@@ -46,32 +46,18 @@ prova de 2011
 [5](https://www.qconcursos.com/questoes-militares/questoes/acf98981-55)-paralizar é escrito com z não com s
 [6](https://www.qconcursos.com/questoes-militares/questoes/acfed614-55)- qual substantivo que sem o acento se torna verbo ?
 [7](https://www.qconcursos.com/questoes-militares/questoes/ad030803-55) - complemento verbais
-[8](https://www.qconcursos.com/questoes-militares/questoes/ad194015-55)- voz passiva+
+[8](https://www.qconcursos.com/questoes-militares/questoes/ad194015-55)- voz passiva
 [9](https://www.qconcursos.com/questoes-militares/questoes/ad2b07fd-55)- discurso indireto livre
 prova de 2023
-1-d-certo
 2-errado-b
-3-c-certo
 4-a-errado-d
-5-b-errado-c
-6-a-certo
-7-a-errado-b
-8-c-certo
-9-a-errado-d
-10-c-certo
-11-c-certo
-12-errado-c-[[regência nominal]]
-13-b-certo
-14-b-errado-c
-15-d-errado-c
-16-c-certo
-17-b-certo
-18-a-certo
+5-b-errado-c- locução adverbial 
+7-a-errado-b- periodo composto por coordenação
+9-a-errado-d- oração subordinada
+12-errado-c- [[regência nominal]]
+14-b-errado-c- oração subordinada 
+15-d-errado-c- uso da crase
 19-errado-a- pontuação
-20-a-certo
-21-c-certo
-22-a-certo
-23-c-certo
 24-anulada
 
 

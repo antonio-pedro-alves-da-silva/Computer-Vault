@@ -15,8 +15,7 @@ revisão
 		[[crase#==7)Entre palavras idênticas repetidas, como nas expressões cara a cara, boca a boca etc==.|7.]]
 		[[crase#==8)Antes de palavras femininas de caráter genérico==|8.]]
 		[[crase#==12)"Antes dos seguintes pronomes “ninguém”, “essa”, “toda”, “cada”, “qualquer”, “tudo”"==|12.]]
-		[[crase#==15)Por outro lado, **quando acompanhadas de preposições (para, desde, após, perante, com), não se utiliza a crase**==|15.]]
-			para lembrar (pda)(pc)
+		[[crase#==15)Por outro lado, **quando acompanhadas de preposições (para, desde, após, perante, com), não se utiliza a crase**==|15.]] - para lembrar (pda)(pc)
 	quando o uso é facultativo
 		[[crase#==depois da preposição até==|1.]]
 		[[crase#==antes de nomes próprios femininos==|2]]

@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e1913cbe07da1449",
+            "id": "0f9bd54e603151ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,45 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "af6235f2039dec61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EEAR/MATEMÁTICA/ÁLGEBRA III/Produto Notaveis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec5166d65f686a89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EEAR/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "72f5d7bae16868f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EEAR/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "formulas",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,13 +73,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 323.51103591918945,
-    "collapsed": true
+    "width": 323.51103591918945
   },
   "right": {
     "id": "ee4e8bcf9413ed0e",
@@ -132,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EEAR/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "Pasted image 20240208164844.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EEAR/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "Pasted image 20240208164844.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EEAR/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+                "file": "Pasted image 20240208164844.png"
               }
             }
           },
@@ -207,54 +168,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ec5166d65f686a89",
+  "active": "7d2ff1388fc577af",
   "lastOpenFiles": [
-    "notes/note-127.md",
-    "EEAR/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
-    "EEAR/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md",
-    "EEAR/MATEMÁTICA/ÁLGEBRA III/Produto Notaveis.md",
-    "EEAR/EEAR.md",
-    "EEAR/MATEMÁTICA/ÁLGEBRA/progressões aritmética e geométrica.md",
-    "EAGS SIN/GRAMÁTICA/questões erradas de português.md",
-    "EAGS SIN/GRAMÁTICA/regência verbal.md",
+    "notes/note-143.md",
+    "my-configuration-files/wallpaper/Car-Sports-Futuristic-Mountain-Scenery.webp",
+    "my-configuration-files/MY_PERSONAL_SCRIPTS/squareOfANumber.js",
+    "my-configuration-files/MY_PERSONAL_SCRIPTS/random_password.js",
+    "my-configuration-files/wallpaper/knight-holding-sword.jpg",
+    "my-configuration-files/wallpaper/fundo-de-galaxia-em-aquarela.jpg",
+    "my-configuration-files/installation.sh.save",
+    "my-configuration-files/MY_PERSONAL_SCRIPTS",
+    "my-configuration-files/wallpaper",
+    "my-configuration-files/uca.xml",
+    "my-configuration-files/vscode_shortcuts.txt",
+    "my-configuration-files/rc.xml",
+    "my-configuration-files/config",
+    "my-configuration-files/i3status.conf",
+    "EAGS SIN/GRAMÁTICA/concordância verbal.md",
     "EAGS SIN/crase.md",
-    "EAGS SIN/GRAMÁTICA/regência nominal.md",
-    "EEAR/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
-    "notes/note-123.md",
+    "EAGS SIN/GRAMÁTICA/questões erradas de português.md",
+    "EEAR/EEAR.md",
+    "notes/FULL-STACK DEVELOPER.md",
+    "notes/note-168.md",
+    "notes/note-171.md",
+    "notes/note-170.md",
+    "notes/note-169.md",
+    "Lista de Tarefas/Lista de Tarefa Do Dia.md",
+    "notes/note-166.md",
+    "notes/note-167.md",
+    "notes/note-164.md",
+    "notes/note-157.md",
+    "notes/note-163.md",
+    "notes/note-162.md",
+    "notes/note-161.md",
+    "notes/note-160.md",
+    "notes/note-159.md",
+    "notes/note-158.md",
+    "notes/note-156.md",
+    "notes/note-155.md",
+    "notes/note-154.md",
+    "notes/note-153.md",
+    "Pasted image 20240208164844.png",
     "imagens/print_screen_634.png",
-    "notes/note-125.md",
     "imagens/Pasted image 20231121201922.png",
     "imagens/print_screen_635.png",
-    "notes/note-126.md",
-    "notes/note-6.md",
     "imagens/print_screen_538.png",
     "imagens/print_screen_633.png",
     "imagens/print_screen_632.png",
-    "imagens/print_screen_631.png",
-    "notes/note-122.md",
-    "notes/note-124.md",
-    "notes/note-5.md",
-    "Pasted image 20240207081445.png",
-    "imagens/print_screen_252.png",
-    "imagens/print_screen_253.png",
-    "EEAR/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
-    "EEAR/MATEMÁTICA/GEOMETRIA PLANA/Ângulos.md",
-    "notes/note-121.md",
-    "EEAR/FÍSICA/TERMOLOGIA.md",
-    "notes/Quantitative Finance with Python.md",
-    "notes/note-120.md",
-    "notes/note-118.md",
-    "notes/note-119.md",
-    "EAGS SIN/GRAMÁTICA/Usos da Partícula Se.pdf",
-    "imagens/print_screen_587.png.crdownload",
-    "imagens/print_screen_586.png.crdownload",
-    "notes",
-    "LATEX/latex_primer.pdf",
-    "EEAR/ORTOGRAFIA",
-    "EEAR/FÍSICA/ENERGIA, TRABALHO E POTÊNCIA",
-    "EEAR/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS",
-    "Noções de orem de grandeza",
-    "EAGS SIN/FONOLOGIA",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

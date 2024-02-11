@@ -40,9 +40,15 @@ cinemática
 		[7](https://www.qconcursos.com/questoes-militares/questoes/b1ba749a-01)-
 		[8](https://www.qconcursos.com/questoes-militares/questoes/4df8c0cf-58)(energia cinética de dois sacos a 10m de altura , quando o objeto toca o solo não há energia cinética)
 		[9](https://www.qconcursos.com/questoes-militares/questoes/4654832b-49)-(acoplamento de engrenagens)
-		
-
-
+		[10](https://www.qconcursos.com/questoes-militares/questoes/8d4fca12-f3)(ultrapassagem de um carro até o caminhão)
+		[11](https://www.qconcursos.com/questoes-militares/questoes/8d098d68-f3)(altura máxima e energia cinética
+		[12](https://www.qconcursos.com/questoes-militares/questoes/25e76969-4e)(Lançamento vertical $\Delta xs$ e $\Delta xd$ )
+		[13](https://www.qconcursos.com/questoes-militares/questoes/b0d57b92-d0)(aceleração média através da performance)	
+		[14](https://www.qconcursos.com/questoes-militares/questoes/b0cce20c-d0)(velocidade tangencial, em km/h, do movimento de translação do planeta Terra em torno do Sol)
+		[15](https://www.qconcursos.com/questoes-militares/questoes/78d3721b-bf)(Velocidade Média)
+		[16](https://www.qconcursos.com/questoes-militares/questoes/3e6b0d13-3b)
+		[17](https://www.qconcursos.com/questoes-militares/questoes/c8a45a58-59)(lançamento vertical de uma granada)
+		[18](https://www.qconcursos.com/questoes-militares/questoes/c8780f97-59)(Lançamento Vertical)
 
 
 
