@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+<action>
+	<icon>utilities-terminal</icon>
+	<name>send to /Computer-Vault/imagens</name>
+	<unique-id>1704737518190435-1</unique-id>
+	<command>mv %f /home/antonio/Computer-Vault/imagens/</command>
+	<description></description>
+	<patterns>*</patterns>
+	<directories/>
+</action>
+<action>
+	<icon></icon>
+	<name>concatenate images vertically</name>
+	<unique-id>1704743120137780-2</unique-id>
+	<command>convert %N -append &quot;/home/antonio/Computer-Vault/imagens/$(ls -1 ~/Computer-Vault/imagens/ | wc -l).png&quot;</command>
+	<description></description>
+	<patterns>*</patterns>
+</action>
+</actions>

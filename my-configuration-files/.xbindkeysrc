@@ -1,0 +1,44 @@
+# Mod4 = windows 
+# Mod1 = Alt
+# Control = Ctrl
+
+"tilix"
+  Mod4 + Return
+
+  # Display Resolutions
+"xrandr -s 1366x768" 
+  Mod4 + Control + 1
+
+"xrandr -s 2048x1152"
+  Mod4 + Control + 2
+
+"wmctrl -r :ACTIVE: -b toggle,hidden"
+  Mod4 + n
+
+"wmctrl -r :ACTIVE: -b toggle,fullscreen"
+  Mod4 + f
+
+  # moving the window and resizing 50% of the width
+"wmctrl -r :ACTIVE: -e 0,0,0,0,0 ; xdotool getactivewindow windowsize 50% 100%"
+  Mod4 + Control + Left
+
+"wmctrl -r :ACTIVE: -e 0,$(xdpyinfo | awk '/dimensions/ {print $2}' | awk -F'x' '{print $1 / 2}'),0,0,0 ; xdotool getactivewindow windowsize 50% 100%"
+  Mod4 + Control + Right
+  # to close windows and open windows
+"xdotool getactivewindow windowkill"
+  Mod4 + c
+
+  # changing the brightness of the window
+"bash ~/my-configuration-files/diminuir-brilho.sh"
+  Mod4 + Alt + Left
+
+"bash ~/my-configuration-files/aumentar-brilho.sh"
+  Mod4 + Alt + Right
+ 
+
+  # changing the volume of the sound
+"nodejs ~/my-configuration-files/aumentar-volume.js"
+  Mod4 + Mod1 + Up
+
+"nodejs ~/my-configuration-files/diminuir-volume.js"
+  Mod4 + Mod1 + Down

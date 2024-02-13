@@ -1,0 +1,33 @@
+
+Ctrl + T	Abrir uma nova guia
+Ctrl + Shift + T	Reabrir a última guia fechada
+Ctrl + N	Abrir uma nova janela
+Ctrl + Shift + N	Abrir uma nova janela anônima
+Ctrl + Shift + B	Mostrar ou ocultar a barra de favoritos
+Ctrl + H	Abrir o histórico de navegação
+Ctrl + J	Abrir a lista de downloads
+Ctrl + D	Adicionar a página atual aos favoritos
+Ctrl + Shift + D	Adicionar todos os favoritos abertos à pasta atual
+Ctrl + L ou F6	Selecionar a barra de endereço
+Ctrl + W	Fechar a guia atual
+Ctrl + Shift + W	Fechar a janela atual
+Ctrl + Tab	Navegar para a próxima guia
+Ctrl + Shift + Tab	Navegar para a guia anterior
+Ctrl + 1 a 8	Navegar para a guia específica (1ª guia, 2ª guia, etc.)
+Ctrl + 9	Navegar para a última guia
+Alt + Home	Abrir a página inicial
+Alt + Left Arrow	Voltar para a página anterior
+Alt + Right Arrow	Avançar para a próxima página
+Ctrl + F	Abrir a caixa de pesquisa
+Ctrl + Shift + Delete	Abrir a caixa de diálogo de limpeza de dados
+F5 ou Ctrl + R	Atualizar a página atual
+Ctrl + P	Imprimir a página atual
+Ctrl + +	Ampliar a página
+Ctrl + -	Reduzir o zoom da página
+Ctrl + 0	Restaurar o zoom padrão da página
+ctrl + u    view Source
+F11	Alternar para o modo de tela cheia
+Esc	Parar o carregamento da página
+
+
+
