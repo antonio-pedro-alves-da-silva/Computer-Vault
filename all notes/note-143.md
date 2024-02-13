@@ -31,7 +31,7 @@ formação de palavras
 		trintongos
 		 br
 		 ch , lh
-[[EAGS SIN/GRAMÁTICA/pronome relativo#==regras do pronome “cujo”==|pronome relativo cujo]]
+[[all notes/GRAMÁTICA/pronome relativo#==regras do pronome “cujo”==|pronome relativo cujo]]
 [[regras do acento gráfico]]
 gênero de substatnivo 
 	uniforme 

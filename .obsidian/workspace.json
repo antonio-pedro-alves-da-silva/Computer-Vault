@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EEAR/EEAR.md",
+                "file": "MATÉRIAS/EEAR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "faf158bd1ec3c9f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "my-configuration-files/installation and configuration/installation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.51103591918945
+    "width": 323.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "ee4e8bcf9413ed0e",
@@ -93,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240208164844.png",
+                "file": "my-configuration-files/installation and configuration/installation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240208164844.png",
+                "file": "my-configuration-files/installation and configuration/installation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240208164844.png"
+                "file": "my-configuration-files/installation and configuration/installation.md"
               }
             }
           },
@@ -168,53 +182,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7d2ff1388fc577af",
+  "active": "faf158bd1ec3c9f5",
   "lastOpenFiles": [
-    "notes/note-143.md",
-    "my-configuration-files/wallpaper/Car-Sports-Futuristic-Mountain-Scenery.webp",
-    "my-configuration-files/MY_PERSONAL_SCRIPTS/squareOfANumber.js",
-    "my-configuration-files/MY_PERSONAL_SCRIPTS/random_password.js",
+    "my-configuration-files/auto-cpufreq/snap/gui/auto-cpufreq_auto-cpufreq.desktop",
+    "my-configuration-files/auto-cpufreq/snap/gui/auto-cpufreq.png",
+    "my-configuration-files/auto-cpufreq/snap/snapcraft.yaml",
+    "my-configuration-files/auto-cpufreq/snap/gui",
+    "my-configuration-files/auto-cpufreq/snap",
+    "my-configuration-files/auto-cpufreq/scripts/auto-cpufreq-s6/type",
+    "my-configuration-files/auto-cpufreq/scripts/auto-cpufreq-s6/run",
+    "my-configuration-files/auto-cpufreq/scripts/style.css",
+    "my-configuration-files/auto-cpufreq/scripts/start_app",
+    "my-configuration-files/auto-cpufreq/scripts/snapdaemon.sh",
+    "my-configuration-files/auto-cpufreq/scripts/org.auto-cpufreq.pkexec.policy",
+    "my-configuration-files/auto-cpufreq/scripts/cpufreqctl.sh",
+    "my-configuration-files/auto-cpufreq/images/icon.png",
+    "my-configuration-files/auto-cpufreq/README.md",
+    "MATÉRIAS/EEAR.md",
+    "my-configuration-files/installation and configuration/configurações-do-lubuntu.md",
+    "my-configuration-files/installation and configuration/installation.md",
     "my-configuration-files/wallpaper/knight-holding-sword.jpg",
     "my-configuration-files/wallpaper/fundo-de-galaxia-em-aquarela.jpg",
-    "my-configuration-files/installation.sh.save",
-    "my-configuration-files/MY_PERSONAL_SCRIPTS",
-    "my-configuration-files/wallpaper",
-    "my-configuration-files/uca.xml",
-    "my-configuration-files/vscode_shortcuts.txt",
-    "my-configuration-files/rc.xml",
-    "my-configuration-files/config",
-    "my-configuration-files/i3status.conf",
-    "EAGS SIN/GRAMÁTICA/concordância verbal.md",
-    "EAGS SIN/crase.md",
-    "EAGS SIN/GRAMÁTICA/questões erradas de português.md",
-    "EEAR/EEAR.md",
-    "notes/FULL-STACK DEVELOPER.md",
-    "notes/note-168.md",
-    "notes/note-171.md",
-    "notes/note-170.md",
-    "notes/note-169.md",
+    "my-configuration-files/wallpaper/Car-Sports-Futuristic-Mountain-Scenery.webp",
+    "all notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
+    "notes/Untitled 2.md",
+    "EEAR/Untitled.md",
+    "imagens/Pasted image 20240208164844.png",
+    "imagens/Pasted image 20240207081445.png",
+    "imagens/Pasted image 20240207080732.png",
+    "imagens/Pasted image 20240205174448.png",
+    "imagens/Pasted image 20240205140508.png",
+    "all notes/Untitled 1.md",
+    "all notes/note-143.md",
+    "all notes/GRAMÁTICA/concordância verbal.md",
+    "all notes/crase.md",
+    "all notes/GRAMÁTICA/questões erradas de português.md",
+    "MATÉRIAS/FULL-STACK DEVELOPER.md",
+    "all notes/note-168.md",
+    "all notes/note-171.md",
+    "all notes/note-170.md",
+    "all notes/note-169.md",
     "Lista de Tarefas/Lista de Tarefa Do Dia.md",
-    "notes/note-166.md",
-    "notes/note-167.md",
-    "notes/note-164.md",
-    "notes/note-157.md",
-    "notes/note-163.md",
-    "notes/note-162.md",
-    "notes/note-161.md",
-    "notes/note-160.md",
-    "notes/note-159.md",
-    "notes/note-158.md",
-    "notes/note-156.md",
-    "notes/note-155.md",
-    "notes/note-154.md",
-    "notes/note-153.md",
-    "Pasted image 20240208164844.png",
-    "imagens/print_screen_634.png",
-    "imagens/Pasted image 20231121201922.png",
-    "imagens/print_screen_635.png",
-    "imagens/print_screen_538.png",
-    "imagens/print_screen_633.png",
-    "imagens/print_screen_632.png",
+    "all notes/note-166.md",
+    "all notes/note-167.md",
+    "all notes/note-164.md",
+    "all notes/note-157.md",
+    "all notes/note-163.md",
+    "all notes/note-162.md",
+    "all notes/note-161.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
