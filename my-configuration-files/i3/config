@@ -34,12 +34,12 @@ exec --no-startup-id nm-applet
 # the powermanegement
 exec --no-startup-id $(which lxqt-powermanagement)
 #setting the image 
-exec feh --bg-scale ~/my-configuration-files/wallpaper/fundo-de-galaxia-em-aquarela.jpg
+exec feh --bg-scale ~/Computer-Vault/my-configuration-files/wallpaper/fundo-de-galaxia-em-aquarela.jpg
 # enabling the tapclick on touchpad
 exec xinput set-prop $(xinput list | grep "Touchpad" | grep -o 'id=[0-9]*' | grep -o '[0-9]*') "libinput Tapping Enabled" 1
 # adding a new display resolution 2048x1152
-bindsym Mod4+Mod1+plus exec bash ~/my-configuration-files/aumentar-resoluçao.sh
-bindsym Mod4+Mod1+minus exec bash ~/my-configuration-files/diminuir-resoluçao.sh
+bindsym Mod4+Mod1+plus exec bash ~/Computer-Vault/my-configuration-files/aumentar-resoluçao.sh
+bindsym Mod4+Mod1+minus exec bash ~/Computer-Vault/my-configuration-files/diminuir-resoluçao.sh
 # chainging the brightness
 bindsym Mod4+Mod1+Left exec lxqt-config-brightness -d 
 bindsym Mod4+Mod1+Right exec lxqt-config-brightness -i
