@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "faf158bd1ec3c9f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "my-configuration-files/installation and configuration/installation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.51103591918945,
-    "collapsed": true
+    "width": 323.51103591918945
   },
   "right": {
     "id": "ee4e8bcf9413ed0e",
@@ -107,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "my-configuration-files/installation and configuration/installation.md",
+                "file": "MATÉRIAS/EEAR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "my-configuration-files/installation and configuration/installation.md",
+                "file": "MATÉRIAS/EEAR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "my-configuration-files/installation and configuration/installation.md"
+                "file": "MATÉRIAS/EEAR.md"
               }
             }
           },
@@ -182,8 +168,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "faf158bd1ec3c9f5",
+  "active": "0f9bd54e603151ba",
   "lastOpenFiles": [
+    "my-configuration-files/installation and configuration/installation.md",
     "backup/my-configuration-files/tilix/tilix/scripts/tilix_int.sh",
     "backup/my-configuration-files/tilix/tilix/schemes/yaru.json",
     "backup/my-configuration-files/tilix/tilix/schemes/tango.json",
@@ -194,7 +181,6 @@
     "backup/my-configuration-files/tilix/tilix/schemes/material.json",
     "backup/my-configuration-files/tilix/tilix/schemes/linux.json",
     "backup/my-configuration-files/tilix/tilix/schemes/base16-twilight-dark.json",
-    "backup/my-configuration-files/tilix/tilix/resources/tilix.gresource",
     "backup/my-configuration-files/wallpaper/knight-holding-sword.jpg",
     "backup/my-configuration-files/wallpaper/fundo-de-galaxia-em-aquarela.jpg",
     "backup/my-configuration-files/wallpaper/Car-Sports-Futuristic-Mountain-Scenery.webp",
@@ -205,7 +191,6 @@
     "my-configuration-files/auto-cpufreq/README.md",
     "MATÉRIAS/EEAR.md",
     "my-configuration-files/installation and configuration/configurações-do-lubuntu.md",
-    "my-configuration-files/installation and configuration/installation.md",
     "my-configuration-files/wallpaper/knight-holding-sword.jpg",
     "my-configuration-files/wallpaper/fundo-de-galaxia-em-aquarela.jpg",
     "my-configuration-files/wallpaper/Car-Sports-Futuristic-Mountain-Scenery.webp",
