@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a936bcfc898748ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "my-configuration-files/installation and configuration/installation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.51103591918945
+    "width": 323.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "ee4e8bcf9413ed0e",
@@ -93,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "my-configuration-files/installation and configuration/installation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "my-configuration-files/installation and configuration/installation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATÉRIAS/EEAR.md"
+                "file": "my-configuration-files/installation and configuration/installation.md"
               }
             }
           },
@@ -168,19 +182,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0f9bd54e603151ba",
+  "active": "a936bcfc898748ad",
   "lastOpenFiles": [
+    "MATÉRIAS/EEAR.md",
+    "my-configuration-files/tilix/tilix/scripts/tilix_int.sh",
+    "my-configuration-files/tilix/tilix/schemes/yaru.json",
+    "my-configuration-files/tilix/tilix/schemes/tango.json",
+    "my-configuration-files/tilix/tilix/schemes/solarized-light.json",
+    "my-configuration-files/tilix/tilix/schemes/solarized-dark.json",
+    "my-configuration-files/tilix/tilix/schemes/orchis.json",
+    "my-configuration-files/tilix/tilix/schemes/monokai.json",
+    "my-configuration-files/tilix/tilix/schemes/material.json",
+    "my-configuration-files/tilix/tilix/schemes/linux.json",
+    "my-configuration-files/tilix/tilix/schemes/base16-twilight-dark.json",
+    "my-configuration-files/wallpaper/knight-holding-sword.jpg",
+    "my-configuration-files/wallpaper/fundo-de-galaxia-em-aquarela.jpg",
+    "my-configuration-files/wallpaper/Car-Sports-Futuristic-Mountain-Scenery.webp",
     "my-configuration-files/installation and configuration/installation.md",
-    "backup/my-configuration-files/tilix/tilix/scripts/tilix_int.sh",
-    "backup/my-configuration-files/tilix/tilix/schemes/yaru.json",
-    "backup/my-configuration-files/tilix/tilix/schemes/tango.json",
-    "backup/my-configuration-files/tilix/tilix/schemes/solarized-light.json",
-    "backup/my-configuration-files/tilix/tilix/schemes/solarized-dark.json",
-    "backup/my-configuration-files/tilix/tilix/schemes/orchis.json",
-    "backup/my-configuration-files/tilix/tilix/schemes/monokai.json",
-    "backup/my-configuration-files/tilix/tilix/schemes/material.json",
-    "backup/my-configuration-files/tilix/tilix/schemes/linux.json",
-    "backup/my-configuration-files/tilix/tilix/schemes/base16-twilight-dark.json",
+    "my-configuration-files/installation and configuration/configurações-do-lubuntu.md",
     "backup/my-configuration-files/wallpaper/knight-holding-sword.jpg",
     "backup/my-configuration-files/wallpaper/fundo-de-galaxia-em-aquarela.jpg",
     "backup/my-configuration-files/wallpaper/Car-Sports-Futuristic-Mountain-Scenery.webp",
@@ -189,11 +208,6 @@
     "my-configuration-files/auto-cpufreq/snap/gui/auto-cpufreq.png",
     "my-configuration-files/auto-cpufreq/images/icon.png",
     "my-configuration-files/auto-cpufreq/README.md",
-    "MATÉRIAS/EEAR.md",
-    "my-configuration-files/installation and configuration/configurações-do-lubuntu.md",
-    "my-configuration-files/wallpaper/knight-holding-sword.jpg",
-    "my-configuration-files/wallpaper/fundo-de-galaxia-em-aquarela.jpg",
-    "my-configuration-files/wallpaper/Car-Sports-Futuristic-Mountain-Scenery.webp",
     "all notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
     "notes/Untitled 2.md",
     "EEAR/Untitled.md",
