@@ -60,6 +60,8 @@ bindsym $mod+l exec --no-startup-id dmenu_run
 bindsym $mod+p exec flameshot gui
 # to shutdown now
 bindsym $mod+Shift+d exec shutdown now
+# to open software brightness
+bindysm $mod+b lxqt-config-brightness
 
 #############################################################################
 
