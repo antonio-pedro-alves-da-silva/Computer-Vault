@@ -5,6 +5,10 @@
       "path": "all notes/GRAMÁTICA/questões erradas de português.md"
     },
     {
+      "basename": "dia que abrem as inscrições para",
+      "path": "dia que abrem as inscrições para.md"
+    },
+    {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "note-131",
       "path": "all notes/note-131.md"
-    },
-    {
-      "basename": "note-127",
-      "path": "all notes/note-127.md"
     }
   ],
   "omittedPaths": [],

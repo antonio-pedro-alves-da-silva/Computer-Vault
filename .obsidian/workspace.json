@@ -98,8 +98,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -197,9 +196,10 @@
   },
   "active": "295410b91f53cd81",
   "lastOpenFiles": [
+    "dia que abrem as inscrições para.md",
+    "all notes/GRAMÁTICA/questões erradas de português.md",
     "MATÉRIAS/EEAR.md",
     "all notes/note-143.md",
-    "all notes/GRAMÁTICA/questões erradas de português.md",
     "my-configuration-files/installation and configuration/installation.md",
     "my-configuration-files/tilix/tilix/scripts/tilix_int.sh",
     "my-configuration-files/tilix/tilix/schemes/yaru.json",

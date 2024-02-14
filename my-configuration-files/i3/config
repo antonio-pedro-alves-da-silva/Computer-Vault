@@ -34,7 +34,7 @@ exec --no-startup-id nm-applet
 # the powermanegement
 exec --no-startup-id $(which lxqt-powermanagement)
 #setting the image 
-exec feh --bg-scale ~/Computer-Vault/my-configuration-files/wallpaper/fundo-de-galaxia-em-aquarela.jpg
+exec feh --bg-scale ~/Computer-Vault/my-configuration-files/wallpaper/black.jpg
 # enabling the tapclick on touchpad
 exec xinput set-prop $(xinput list | grep "Touchpad" | grep -o 'id=[0-9]*' | grep -o '[0-9]*') "libinput Tapping Enabled" 1
 # adding a new display resolution 2048x1152

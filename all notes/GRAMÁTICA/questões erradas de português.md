@@ -61,3 +61,9 @@ prova de 2023
 24-anulada
 
 
+orações subordinadas reduzidas
+	[1](https://www.qconcursos.com/questoes-militares/questoes/5a688c99-16)-A
+	[2](https://www.qconcursos.com/questoes-militares/questoes/a67861f3-6b)-B
+	[3](https://www.qconcursos.com/questoes-militares/questoes/9822322d-4e)-C
+	[4](https://www.qconcursos.com/questoes-militares/questoes/950f73ad-53)-A
+orações subordinadas 
