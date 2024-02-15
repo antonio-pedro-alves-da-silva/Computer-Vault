@@ -33,7 +33,7 @@ exec --no-startup-id nm-applet
 #########################################################################
 
 # seting the default keyboard
-setxkbmap -model pc105 -layout br -variant abnt2
+exec setxkbmap -model pc105 -layout br -variant abnt2
 # the powermanegement
 exec --no-startup-id $(which lxqt-powermanagement)
 #setting the image 
