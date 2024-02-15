@@ -66,4 +66,15 @@ orações subordinadas reduzidas
 	[2](https://www.qconcursos.com/questoes-militares/questoes/a67861f3-6b)-B
 	[3](https://www.qconcursos.com/questoes-militares/questoes/9822322d-4e)-C
 	[4](https://www.qconcursos.com/questoes-militares/questoes/950f73ad-53)-A
-orações subordinadas 
+orações coordenadas assindéticas 
+	[1](https://www.qconcursos.com/questoes-militares/questoes/b1022f75-01)-
+	[2](https://www.qconcursos.com/questoes-militares/questoes/de4056a5-55)-D
+	[3](https://www.qconcursos.com/questoes-militares/questoes/18bb7c20-45)-C
+orações coordenadas sindéticas
+	[1](https://www.qconcursos.com/questoes-militares/questoes/0924a4cf-ed)-D
+	[2](https://www.qconcursos.com/questoes-militares/questoes/7409d956-0d)-D
+	[3](https://www.qconcursos.com/questoes-militares/questoes/fd6fbcb8-7e)-B
+
+[[note-172|Conjuções:Relações de causa e consequência]]
+	[1](https://www.qconcursos.com/questoes-militares/questoes/c6b94bdd-59)-C
+	[2](https://www.qconcursos.com/questoes-militares/questoes/95270389-53)-C

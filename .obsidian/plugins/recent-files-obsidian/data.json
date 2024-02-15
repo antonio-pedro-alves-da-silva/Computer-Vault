@@ -5,8 +5,8 @@
       "path": "all notes/GRAMÁTICA/questões erradas de português.md"
     },
     {
-      "basename": "dia que abrem as inscrições para",
-      "path": "dia que abrem as inscrições para.md"
+      "basename": "note-172",
+      "path": "note-172.md"
     },
     {
       "basename": "EEAR",
@@ -15,6 +15,10 @@
     {
       "basename": "note-143",
       "path": "all notes/note-143.md"
+    },
+    {
+      "basename": "dia que abrem as inscrições para",
+      "path": "dia que abrem as inscrições para.md"
     },
     {
       "basename": "installation",
@@ -195,10 +199,6 @@
     {
       "basename": "note-130",
       "path": "all notes/note-130.md"
-    },
-    {
-      "basename": "note-131",
-      "path": "all notes/note-131.md"
     }
   ],
   "omittedPaths": [],

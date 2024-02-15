@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "7ea369b6a2cf2f37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "all notes/note-143.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "295410b91f53cd81",
             "type": "leaf",
             "state": {
@@ -44,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,10 +184,11 @@
   },
   "active": "295410b91f53cd81",
   "lastOpenFiles": [
-    "dia que abrem as inscrições para.md",
+    "note-172.md",
     "all notes/GRAMÁTICA/questões erradas de português.md",
     "MATÉRIAS/EEAR.md",
     "all notes/note-143.md",
+    "dia que abrem as inscrições para.md",
     "my-configuration-files/installation and configuration/installation.md",
     "my-configuration-files/tilix/tilix/scripts/tilix_int.sh",
     "my-configuration-files/tilix/tilix/schemes/yaru.json",
@@ -241,7 +230,6 @@
     "all notes/note-167.md",
     "all notes/note-164.md",
     "all notes/note-157.md",
-    "all notes/note-163.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
