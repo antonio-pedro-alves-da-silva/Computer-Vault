@@ -5,6 +5,7 @@ download chrome
 
 sudo apt update
 sudo add-apt-repository ppa:apt-fast/stable
+sudo apt install apt-fast -y
 
 sudo apt-fast install curl -y
 sudo apt-fast install snapd -y
