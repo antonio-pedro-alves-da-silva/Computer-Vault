@@ -3,21 +3,24 @@ download chrome
 
 # essential packages for the installation
 
-sudo apt-get install curl -y
-sudo apt-get install snapd -y
+sudo apt update
+sudo add-apt-repository ppa:apt-fast/stable
+
+sudo apt-fast install curl -y
+sudo apt-fast install snapd -y
 # configuração do tmux(não terminado)
 
-sudo apt-get install tilix
+sudo apt-fast install tilix
 # configuração do zsh
 
-sudo apt-get install zsh -y
+sudo apt-fast install zsh -y
 
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.oh-my-zsh/plugins/zsh-syntax-highlighting
 git clone https://github.com/zsh-users/zsh-autosuggestions.git ~/.oh-my-zsh/plugins/zsh-autosuggestions
 
-sudo apt-get install fonts-powerline -y
+sudo apt-fast install fonts-powerline -y
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/.oh-my-zsh/themes/powerlevel10k
 
 ```text
@@ -50,12 +53,12 @@ git clone --depth=1 https://github.com/AdnanHodzic/auto-cpufreq.git
 cd auto-cpufreq && sudo ./auto-cpufreq-installer
 sudo auto-cpufreq --install
 
-sudo apt-get install feh -y
-sudo apt-get install xdotool -y
-sudo apt-get install nodejs -y
-sudo apt-get install flameshot -y
-sudo apt-get install i3 -y
-sudo apt-get install i3status
+sudo apt-fast install feh -y
+sudo apt-fast install xdotool -y
+sudo apt-fast install nodejs -y
+sudo apt-fast install flameshot -y
+sudo apt-fast install i3 -y
+sudo apt-fast install i3status -y
 
 ```bash
 ' configuração do i3 '
@@ -67,10 +70,10 @@ sudo cp ~/Computer-Vault/my-configuration-files/i3/i3status.conf /etc/i3status.c
 
 # other packages 
 
-sudo apt-get install ffmpeg -y
-sudo apt-get install pavucontrol -y
-sudo apt-get install thunar -y
-sudo apt-get install blueman -y
+sudo apt-fast install ffmpeg -y
+sudo apt-fast install pavucontrol -y
+sudo apt-fast install thunar -y
+sudo apt-fast install blueman -y
 
 download vscode 
 download apache
