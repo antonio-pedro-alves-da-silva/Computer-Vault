@@ -7,10 +7,12 @@ Polias e Roldanas
 	[[print_screen_513.png|força da polia móvel-2]]
 Plano inclinado
 	[[print_screen_281.png|plano inclinado sem atrito]]
+	aceleração do plano inclinado sem atrito
 	[[print_screen_283.png|plano inclinado com atrito]]
+	aceleração no plano inclinado com atrito
 Pêndulo
 	[[print_screen_509.png|pendulo simples parado e oscilando no ponto mais alto]]
-	[[print_screen_510.png|pendulo simples oscilando no ponto mais baixo]]
+	[[note-176|pendulo simples oscilando no ponto mais baixo]]
 	[[print_screen_511.png|pêndulo cônico]]
 energia , trabalho e potência
 	 [[print_screen_258.png|Trabalho motor e trabalho resistênte]]
@@ -47,40 +49,4 @@ centro de massa
 	[[print_screen_534.png|para sistemas de particulas]]
 	[[print_screen_537.png|representação vetorial]]
     [[print_screen_536.png|quantidade de movimento total pelo centro de massa]]
-
-# leis de newton e exercícios qconcurso
-[1](https://www.qconcursos.com/questoes-militares/questoes/a7b8a728-6b)-errado*
-[2](https://www.qconcursos.com/questoes-militares/questoes/a774f8c1-6b)-errado*
-[3](https://www.qconcursos.com/questoes-militares/questoes/2605172c-4e)-certo
-[4](https://www.qconcursos.com/questoes-militares/questoes/fac55d83-42)-certo
-[5](https://www.qconcursos.com/questoes-militares/disciplinas/fisica-fisica/leis-de-newton)-certo
-[6](https://www.qconcursos.com/questoes-militares/questoes/d70dd86f-4b)-errado
-# Plano inclinado qconcursos exercícios
-
-[2](https://www.qconcursos.com/questoes-militares/questoes/67d2f1c8-86)-errado*
-[3](https://www.qconcursos.com/questoes-militares/questoes/5b667f5f-fb)-errado
-[4](https://www.qconcursos.com/questoes-militares/questoes/2624593e-4e)-certo
-[5](https://www.qconcursos.com/questoes-militares/questoes/5ba0aa6a-fb)-errado
-
-# energia trabalho e potência exercícios qconcursos
-
-[1](https://www.qconcursos.com/questoes-militares/questoes/b0dfa9aa-d0)-errado
-[2](https://www.qconcursos.com/questoes-militares/questoes/b1d3ac49-01)-errado
-[3](https://www.qconcursos.com/questoes-militares/questoes/b0c98bea-d0)-errado
-[4](https://www.qconcursos.com/questoes-militares/questoes/476fc910-9b)-errado
-[5](https://www.qconcursos.com/questoes-de-concursos/questoes/a20dd731-55)-errado** 
-[6](https://www.qconcursos.com/questoes-militares/questoes/c8b66595-ea)-errado
-[7](https://www.qconcursos.com/questoes-militares/questoes/a7a64086-6b)-errado +
-# energia mecânica e sua conservação
-
-[1](https://www.qconcursos.com/questoes-militares/questoes/587599f0-ad)-errado
-[2](https://www.qconcursos.com/questoes-militares/questoes/a1f93cc8-55)-errado
-[3](https://www.qconcursos.com/questoes-militares/questoes/7eaa9483-3a)-errado
-# colisão e quantidade de movimento qconcursos exercícios
-
-[1](https://www.qconcursos.com/questoes-militares/questoes/465be749-49)-errado
-[2](https://www.qconcursos.com/questoes-militares/questoes/8d416a19-f3)-errado
-[3](https://www.qconcursos.com/questoes-militares/questoes/76130350-55)-errado
-[4](https://www.qconcursos.com/questoes-militares/questoes/5b3f930c-16)-errado 
-[5](https://www.qconcursos.com/questoes-militares/questoes/474c8501-9b)-errado
 

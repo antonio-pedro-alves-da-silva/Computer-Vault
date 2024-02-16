@@ -75,6 +75,6 @@ orações coordenadas sindéticas
 	[2](https://www.qconcursos.com/questoes-militares/questoes/7409d956-0d)-D
 	[3](https://www.qconcursos.com/questoes-militares/questoes/fd6fbcb8-7e)-B
 
-[[note-172|Conjuções:Relações de causa e consequência]]
+[[note-172|Conjunções:Relações de causa e consequência]]
 	[1](https://www.qconcursos.com/questoes-militares/questoes/c6b94bdd-59)-C
 	[2](https://www.qconcursos.com/questoes-militares/questoes/95270389-53)-C

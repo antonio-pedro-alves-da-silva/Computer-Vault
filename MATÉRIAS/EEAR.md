@@ -875,8 +875,11 @@ LINGUA PORTUGUESA
 	[[note-143|o que revisar]]
 LÍNGUA INGLESA 
 	GRAMÁTICA 
+		vocabulário
+			[[note-175|vocabulário1 (100 words)]]
 		Substantivos 
-			gênero
+			[[note-173|tipos de substantivos]]
+			[[note-174|gênero]]
 			singular e plural
 			composto , contável e incontável 
 			forma possessiva

@@ -43,4 +43,9 @@ prova de 2024
 [10](https://www.qconcursos.com/questoes-de-concursos/questoes/0923395e-d0)- Análise comibinatória - combinação simples de questões
 [11](https://www.qconcursos.com/questoes-militares/questoes/5b0c7f85-16)- Análise combinatória - Combinação simples
 [12](https://www.qconcursos.com/questoes-militares/questoes/5b122d7d-16)- Análise combinatória - Combinação simples e permutação
-
+prova de 2010
+[1](https://www.qconcursos.com/questoes-militares/questoes/c7a60f94-59)- Geometria Plana
+[2](https://www.qconcursos.com/questoes-militares/questoes/c7c7d954-59)- Polinômio
+[3](https://www.qconcursos.com/questoes-militares/questoes/c7c7d954-59)- Números Complexos
+[4](https://www.qconcursos.com/questoes-militares/questoes/c7d8252a-59)- inequação - soma dos môdulos inteiros
+[5](https://www.qconcursos.com/questoes-militares/questoes/c7e886c9-59)- Setor Circular
