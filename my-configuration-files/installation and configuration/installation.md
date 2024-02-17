@@ -63,7 +63,7 @@ sudo apt-fast install i3status -y
 
 ```bash
 ' configuração do i3 '
-git clone --depth=1 https://github.com/antonio-pedro-alves-da-silva/my-configuration-files
+git clone --depth=1 https://github.com/antonio-pedro-alves-da-silva/Computer-Vault
 cp ~/Computer-Vault/my-configuration-files/i3/config ~/.config/i3/
 sudo cp ~/Computer-Vault/my-configuration-files/i3/i3status.conf /etc/i3status.conf
 
