@@ -22,6 +22,7 @@ energia , trabalho e potência
 	 formula da potência média
 	 formula da energia cinética
 	 [[print_screen_270.png|Teorema da energia cinética]]
+	 [[note-177|Potência Mecânica]]
 	 [[print_screen_267.png|Rendimento da potência]]
 energia mecânica e sua conservação
 	[[print_screen_292.png|Sistema Conservativos]]
@@ -29,9 +30,11 @@ energia mecânica e sua conservação
 quantidade de movimento e impulso
 	[[print_screen_516.png|quantidade de movimento]]
 	[[print_screen_517.png|quantidade de movimento de um sistema]]
-	[[print_screen_514.png|impulso]]
 	[[print_screen_518.png|conservação da quantidade de movimento]]
 	[[print_screen_519.png|Pêndulo Balístico]]
+		conservação da quantidade de movimento
+		conservação da energia mecânica
+	[[print_screen_514.png|impulso]]
 	[[print_screen_515.png|Teorema do Impulso]]
 colisão
 	[[note-2|fase da deformação e fase da restituição]]
@@ -39,14 +42,19 @@ colisão
 	[[note-3|tipos de colisões]]
 	[[print_screen_529.png|colisão bidimensional]]
 	[[print_screen_528.png|colisão entre particulas de mesma massa]]
-	[[print_screen_529.png|colisão bidimensional]]
-	[[print_screen_530.png|colisão bidimensional exercício]]
 	colisão contra obstáculo fixo
 		[[print_screen_533.png|análise unidimensinal]]
 		[[print_screen_531.png|análise bidimensinal]]
-		[[print_screen_532.png|coeficiente de restituição tangente]]
+		[[print_screen_532.png|coeficiente de restituição em relação a tangente]]
 centro de massa
-	[[print_screen_534.png|para sistemas de particulas]]
+	[[print_screen_534.png|centro de massa no plano cartesiano]]
 	[[print_screen_537.png|representação vetorial]]
     [[print_screen_536.png|quantidade de movimento total pelo centro de massa]]
-
+exercícios errados
+	[1](https://www.qconcursos.com/questoes-militares/questoes/b1c48382-01)([[Pasted image 20231125094454.png|Direção e Sentido]])
+	[2](https://www.qconcursos.com/questoes-militares/questoes/4650a6c6-49)(Lançamento no plano inclinado)
+	[3](https://www.qconcursos.com/questoes-militares/questoes/462428b6-49)(Pesso no elevador puxando a corda polia para subir o elevador)
+	[4](https://www.qconcursos.com/questoes-militares/questoes/8d454c79-f3)()
+	[5](https://www.qconcursos.com/questoes-militares/questoes/8d416a19-f3)()
+	[6](https://www.qconcursos.com/questoes-militares/questoes/2624593e-4e)
+	[7](https://www.qconcursos.com/questoes-militares/questoes/5818c192-4b)

@@ -1091,7 +1091,7 @@ FÍSICA
 		gráficos
 		lançamentos e queda livre
 		Movimento Rétilineo Circular uniforme
-	[[DINÂMICA]]
+	[[DINÂMICA]](easy one)
 	[[ESTÁTICA]]
 	[[HIDROESTÁTICA]]
 	[[GRAVITAÇÃO]]

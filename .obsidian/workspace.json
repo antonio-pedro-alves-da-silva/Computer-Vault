@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0f9bd54e603151ba",
+            "id": "ffd33fc24543e77a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,24 +20,12 @@
             }
           },
           {
-            "id": "876183d952961529",
+            "id": "0e9403b0c7e00897",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "all notes/FÍSICA/DINÂMICA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f5f64df1e3082f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "all notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
+                "file": "all notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "regra do paralelogramo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "all notes/FÍSICA/DINÂMICA.md",
+                "file": "all notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "all notes/FÍSICA/DINÂMICA.md",
+                "file": "all notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "all notes/FÍSICA/DINÂMICA.md"
+                "file": "all notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
               }
             }
           },
@@ -194,53 +182,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "876183d952961529",
+  "active": "0e9403b0c7e00897",
   "lastOpenFiles": [
-    "imagens/print_screen_522.png",
-    "all notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
+    "MATÉRIAS/EEAR.md",
+    "all notes/MATEMÁTICA/ÁLGEBRA/Funções/diferentes tipos de funções.md",
+    "all notes/MATEMÁTICA/ÁLGEBRA/Funções/definição de função.md",
+    "all notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "all notes/note-143.md",
+    "note-179.md",
+    "note-178.md",
+    "my-configuration-files/backup/cfs/cfs-b-1-2009.pdf",
+    "my-configuration-files/backup/cfs/cfs-b-1-2009_gabarito.pdf",
+    "my-configuration-files/backup/cfs/cfs-b-1-2009.pdf.crdownload",
     "all notes/FÍSICA/DINÂMICA.md",
-    "note-176.md",
+    "all notes/note-175.md",
+    "all notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
+    "imagens/print_screen_519.png",
+    "all notes/note-177.md",
+    "all notes/CONCEITOS BÁSICOS E FUNDAMENTAIS.md",
+    "all notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
+    "all notes/GRAMÁTICA/questões erradas de português.md",
+    "all notes/note-172.md",
+    "all notes/TEXTO/transposição de discurso.md",
+    "all notes/note-27.md",
+    "all notes/GRAMÁTICA/regência verbal.md",
+    "all notes/GRAMÁTICA/regras do acento gráfico.md",
+    "all notes/GRAMÁTICA/pronome relativo.md",
+    "all notes/GRAMÁTICA/concordância verbal.md",
+    "all notes/crase.md",
+    "imagens/print_screen_522.png",
+    "all notes/note-176.md",
     "imagens/print_screen_510.png",
     "imagens/print_screen_283.png",
-    "MATÉRIAS/EEAR.md",
-    "note-175.md",
-    "note-174.md",
-    "note-173.md",
-    "all notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
-    "all notes/GRAMÁTICA/questões erradas de português.md",
+    "all notes/note-174.md",
+    "all notes/note-173.md",
     "my-configuration-files/backup/cfs/cfs-b-2-2010.pdf",
     "my-configuration-files/backup/cfs/cfs-b-2-2010_gabarito.pdf",
     "my-configuration-files/backup/cfs/cfs-b-2-2010.pdf.crdownload",
-    "note-172.md",
-    "all notes/note-143.md",
     "dia que abrem as inscrições para.md",
-    "my-configuration-files/installation and configuration/installation.md",
     "my-configuration-files/tilix/tilix/scripts/tilix_int.sh",
     "my-configuration-files/tilix/tilix/schemes/yaru.json",
     "my-configuration-files/tilix/tilix/schemes/tango.json",
     "my-configuration-files/tilix/tilix/schemes/solarized-light.json",
-    "my-configuration-files/tilix/tilix/schemes/solarized-dark.json",
-    "my-configuration-files/tilix/tilix/schemes/orchis.json",
-    "my-configuration-files/tilix/tilix/schemes/monokai.json",
     "my-configuration-files/wallpaper/knight-holding-sword.jpg",
     "my-configuration-files/wallpaper/fundo-de-galaxia-em-aquarela.jpg",
     "my-configuration-files/wallpaper/Car-Sports-Futuristic-Mountain-Scenery.webp",
-    "my-configuration-files/installation and configuration/configurações-do-lubuntu.md",
     "backup/my-configuration-files/wallpaper/knight-holding-sword.jpg",
     "backup/my-configuration-files/wallpaper/fundo-de-galaxia-em-aquarela.jpg",
     "backup/my-configuration-files/wallpaper/Car-Sports-Futuristic-Mountain-Scenery.webp",
-    "backup/my-configuration-files/installation and configuration/installation.md",
-    "backup/my-configuration-files/installation and configuration/configurações-do-lubuntu.md",
-    "my-configuration-files/auto-cpufreq/snap/gui/auto-cpufreq.png",
-    "my-configuration-files/auto-cpufreq/README.md",
-    "notes/Untitled 2.md",
-    "EEAR/Untitled.md",
-    "all notes/Untitled 1.md",
-    "all notes/GRAMÁTICA/concordância verbal.md",
-    "all notes/crase.md",
-    "MATÉRIAS/FULL-STACK DEVELOPER.md",
-    "all notes/note-168.md",
-    "all notes/note-171.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

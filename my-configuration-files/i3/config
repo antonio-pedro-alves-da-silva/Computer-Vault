@@ -65,9 +65,6 @@ bindsym $mod+p exec flameshot gui
 bindsym $mod+Shift+d exec shutdown now
 # to open software brightness
 bindsym $mod+b exec lxqt-config-brightness
-# to use start polkit agent
-exec --no-startup-id lxqt-policykit-agent
-
 
 #############################################################################
 

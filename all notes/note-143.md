@@ -5,9 +5,9 @@ formação de palavras
 		 televisão - tevê;
 		 você - cê
 	derivação regressiva 
-			uma palavra formada da retirada de um afixo ou de uma parte da palavra
+		"CANT  A  R"
+		radical + vogal temática + desinência verbal"
 			 trocar - troco ; 
-			 flamengo - mengo
 	derivação imprópria 
 		é quando a classe gramatical da palavra muda
 	diferença entre derivação parassintética da derivação prefixal sufixal
@@ -43,7 +43,7 @@ Expressões confudidas
 	senão ou se não
 	[[note-54|A vista]], [[note-55|à vista]] ou [[note-56|avista ]]
 	[[note-57|h-esitar]] ou [[note-58|e-xitar]]
-Porquês 
+Porquês
 	porque
 		é usado no meio para responder
 	por que
@@ -58,11 +58,18 @@ Porquês
 [[note-27|conjugação verbal]]
 [[transposição de discurso]]
 período composto
-orações coordenadas sindéticas
 orações subordinadas
-	substantivas
-	adejtivas
-	adverbiais
+	[1](https://www.qconcursos.com/questoes-militares/questoes/5a688c99-16)
+	[2](https://www.qconcursos.com/questoes-militares/questoes/5a5b4c12-16)([[note-178|diferença entre oração subordina causal e consecutiva]])
+	[3](https://www.qconcursos.com/questoes-militares/questoes/085edc34-e4)
+	[4](https://www.qconcursos.com/questoes-militares/questoes/a69a6f20-6b)
+	[5](https://www.qconcursos.com/questoes-militares/questoes/a67861f3-6b)
+	[6](https://www.qconcursos.com/questoes-militares/questoes/b1056e89-01)
+	[7](https://www.qconcursos.com/questoes-militares/questoes/b0e0fa6d-01)
+orações coordenadas 
+[[note-172|Conjunções:Relações de causa e consequência]]
+	[1](https://www.qconcursos.com/questoes-militares/questoes/c6b94bdd-59)-C
+	[2](https://www.qconcursos.com/questoes-militares/questoes/95270389-53)-C
 [[uso da virgula correto]]
 [[diferença entre adjunto adnominal e complemento nominal]] 
 [[diferença entre pronomes substantivos e pronomes adjetivos]]

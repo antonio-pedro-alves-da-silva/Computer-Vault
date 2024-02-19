@@ -1,4 +1,5 @@
 [[note-61|custar]]
+
 agradecer
 	a coisa - transitivo direto
 	a pessoa - transitivo indireto

@@ -61,7 +61,7 @@ Caso a palavra posterior cumpra função preposicionada, a preposição será an
 
 A palavra **onde**, como _pronome relativo_, somente pode ser utilizada para substituir um substantivo que exprima a idéia de lugar. Para a substituição de outros substantivos, utilize as formas "em que", "na qual" ou "no qual" em vez de "onde".
 
-**Exemplos:**
+**onde ou em que:**
 
 1. Na rua **onde** ele mora não há muito movimento. **[Adequado]**  
       

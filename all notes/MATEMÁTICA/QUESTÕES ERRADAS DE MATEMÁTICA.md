@@ -45,7 +45,14 @@ prova de 2024
 [12](https://www.qconcursos.com/questoes-militares/questoes/5b122d7d-16)- Análise combinatória - Combinação simples e permutação
 prova de 2010
 [1](https://www.qconcursos.com/questoes-militares/questoes/c7a60f94-59)- Geometria Plana
-[2](https://www.qconcursos.com/questoes-militares/questoes/c7c7d954-59)- Polinômio
+[2](https://www.qconcursos.com/questoes-militares/questoes/c7c7d954-59)- Polinômio (i get the wrong one)
 [3](https://www.qconcursos.com/questoes-militares/questoes/c7c7d954-59)- Números Complexos
 [4](https://www.qconcursos.com/questoes-militares/questoes/c7d8252a-59)- inequação - soma dos môdulos inteiros
 [5](https://www.qconcursos.com/questoes-militares/questoes/c7e886c9-59)- Setor Circular
+prova de 2009
+[1](https://militares.estrategia.com/public/questoes/x-y-sa-numeros-reais24ccc9c8e0/)([[note-179|Cologaritmo]])
+[2](https://militares.estrategia.com/public/questoes/dividir-x5-3x4-2x2-x-52331ad6f4e/)(Como dividir polinômios)
+[3](https://www.youtube.com/watch?v=JqTikKf9sv8)(Prisma Quadrangular)
+[4](https://militares.estrategia.com/public/questoes/5a-serie-Colegio-X66d96c9d74/)()
+[5](https://militares.estrategia.com/public/questoes/f-x-mx2-2m-1-x-m-2389e5dac7e/)(zero real duplo)
+[6](https://militares.estrategia.com/public/questoes/Quatro-numeros50162aa7b5/)()
