@@ -34,6 +34,10 @@ git clone https://github.com/zsh-users/zsh-autosuggestions.git ~/.oh-my-zsh/plug
 sudo apt-fast install fonts-powerline -y
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/.oh-my-zsh/themes/powerlevel10k
 
+git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
+cd ~/.fzf/
+./install
+
 # instalaçao do i3
 
 sudo apt-fast install feh -y
