@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
-      "path": "all notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+      "basename": "ESTÁTICA",
+      "path": "all notes/FÍSICA/ESTÁTICA.md"
+    },
+    {
+      "basename": "note-7",
+      "path": "all notes/note-7.md"
     },
     {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
+      "path": "all notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
     },
     {
       "basename": "diferentes tipos de funções",
@@ -187,18 +195,6 @@
     {
       "basename": "note-159",
       "path": "all notes/note-159.md"
-    },
-    {
-      "basename": "note-158",
-      "path": "all notes/note-158.md"
-    },
-    {
-      "basename": "note-156",
-      "path": "all notes/note-156.md"
-    },
-    {
-      "basename": "note-155",
-      "path": "all notes/note-155.md"
     }
   ],
   "omittedPaths": [],

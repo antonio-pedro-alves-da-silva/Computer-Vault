@@ -66,7 +66,15 @@ orações subordinadas
 	[5](https://www.qconcursos.com/questoes-militares/questoes/a67861f3-6b)
 	[6](https://www.qconcursos.com/questoes-militares/questoes/b1056e89-01)
 	[7](https://www.qconcursos.com/questoes-militares/questoes/b0e0fa6d-01)
-orações coordenadas 
+	[8](https://www.qconcursos.com/questoes-militares/questoes/453799f1-49)-D,(aprendi(como identificar uma nova forma de oração subordinada substantiva completiva nominal))
+	[9](https://www.qconcursos.com/questoes-militares/questoes/0927a6c0-ed)(aprendi(quanto,quando,em que,cujo podem servir para orações adjetivas))
+	[10](https://www.qconcursos.com/questoes-militares/questoes/0927a6c0-ed)(apredi(que existe oração cordenada reduzida aditiva))
+	[11](https://www.qconcursos.com/questoes-militares/questoes/090b8ee4-ed)(aprendi(tal que é consecutiva , conforme é conformativa))
+	[12]()(sempre erro apesar de ser óbvia não ser predicativa ser subjetiva)
+	[13]()(aprendi(que existe [[note-180|Oração Subordinada Substantiva Agente da Passiva]]))
+	[14]()
+orações coordenadas
+	[1]()
 [[note-172|Conjunções:Relações de causa e consequência]]
 	[1](https://www.qconcursos.com/questoes-militares/questoes/c6b94bdd-59)-C
 	[2](https://www.qconcursos.com/questoes-militares/questoes/95270389-53)-C

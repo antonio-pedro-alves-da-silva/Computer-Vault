@@ -55,4 +55,7 @@ prova de 2009
 [3](https://www.youtube.com/watch?v=JqTikKf9sv8)(Prisma Quadrangular)
 [4](https://militares.estrategia.com/public/questoes/5a-serie-Colegio-X66d96c9d74/)()
 [5](https://militares.estrategia.com/public/questoes/f-x-mx2-2m-1-x-m-2389e5dac7e/)(zero real duplo)
-[6](https://militares.estrategia.com/public/questoes/Quatro-numeros50162aa7b5/)()
+[6](https://militares.estrategia.com/public/questoes/Quatro-numeros50162aa7b5/)(PG crescente)
+[7](https://www.youtube.com/watch?v=lB1qcH1v_FA)(os ângulos da base maior de um trapézio)
+[8](https://www.youtube.com/watch?v=GkGzP1hb9F0)(sen 2b)
+prova de 2008
