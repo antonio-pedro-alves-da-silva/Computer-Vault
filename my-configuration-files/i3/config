@@ -50,7 +50,7 @@ bindsym Mod4+Mod1+Right exec lxqt-config-brightness -i
 set $refresh_i3status killall -SIGUSR1 i3status
 bindsym Mod4+Mod1+Up exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ +3% && $refresh_i3status
 bindsym Mod4+Mod1+Down exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ -3% && $refresh_i3status
-bindsym $mod+shift+m exec --no-startup-id pactl set-sink-mute @DEFAULT_SINK@ toggle && $refresh_i3status
+bindsym $mod+shift+m exec pactl set-sink-mute @DEFAULT_SINK@ toggle
 # start a terminal
 bindsym $mod+Return exec tilix
 # kill focused window
@@ -65,7 +65,7 @@ bindsym $mod+p exec flameshot gui
 bindsym $mod+Shift+d exec shutdown now
 # to open software brightness
 bindsym $mod+b exec lxqt-config-brightness
-# executinig policy agent
+# executing policy agent
 exec --no-startup-id lxqt-policykit-agent
 #############################################################################
 
