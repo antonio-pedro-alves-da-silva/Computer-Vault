@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "35eb5b1b468e22b8",
+        "id": "fc0e43cca4502908",
         "type": "tabs",
         "children": [
           {
-            "id": "ffd33fc24543e77a",
+            "id": "f5bec7ab3a81cafa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,31 +20,42 @@
             }
           },
           {
-            "id": "b9e57f6f6a53d34c",
+            "id": "8cd679f086414747",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "all notes/FÍSICA/ESTÁTICA.md",
+                "file": "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3bdb3fdd711e9388",
+            "id": "dc62c8327a6b170e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "all notes/FÍSICA/HIDROESTÁTICA.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20c8eda14bd5d5b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/TEXTO/uso da virgula correto.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "regra do paralelogramo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.51103591918945,
-    "collapsed": true
+    "width": 323.51103591918945
   },
   "right": {
     "id": "ee4e8bcf9413ed0e",
@@ -119,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "all notes/FÍSICA/HIDROESTÁTICA.md",
+                "file": "MATÉRIAS/EEAR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "all notes/FÍSICA/HIDROESTÁTICA.md",
+                "file": "MATÉRIAS/EEAR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "all notes/FÍSICA/HIDROESTÁTICA.md"
+                "file": "MATÉRIAS/EEAR.md"
               }
             }
           },
@@ -189,59 +199,57 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-importer:Open Importer": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "3bdb3fdd711e9388",
+  "active": "7d2ff1388fc577af",
   "lastOpenFiles": [
-    "Pasted image 20240227164555.png",
-    "note-182.md",
-    "Pasted image 20240227164530.png",
-    "all notes/FÍSICA/HIDROESTÁTICA.md",
-    "note-181.md",
-    "Pasted image 20240227163729.png",
-    "imagens/print_screen_552.png",
-    "all notes/FÍSICA/ESTÁTICA.md",
-    "imagens/print_screen_638.png",
+    "notes/note-202.md",
+    "notes/note-201.md",
+    "notes/note-200.md",
+    "notes/note-199.md",
+    "notes/note-198.md",
+    "notes/note-197.md",
+    "notes/note-196.md",
+    "notes/note-195.md",
+    "notes/note-194.md",
+    "notes/note-193.md",
+    "notes/note-192.md",
+    "notes/note-191.md",
+    "notes/note-190.md",
+    "notes/note-189.md",
+    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md",
+    "notes/TEXTO/uso da virgula correto.md",
     "MATÉRIAS/EEAR.md",
-    "imagens/print_screen_637.png",
-    "imagens/print_screen_636.png",
-    "all notes/note-7.md",
-    "all notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
-    "all notes/note-143.md",
-    "note-180.md",
-    "all notes/MATEMÁTICA/ÁLGEBRA/Funções/diferentes tipos de funções.md",
-    "all notes/MATEMÁTICA/ÁLGEBRA/Funções/definição de função.md",
-    "note-179.md",
-    "note-178.md",
+    "note-202.md",
+    "note-201.md",
+    "note-198.md",
+    "note-200.md",
+    "note-199.md",
+    "note-197.md",
+    "note-195.md",
+    "note-196.md",
+    "imagens/Pasted image 20240229165500.png",
+    "imagens/Pasted image 20240229165457.png",
+    "imagens/Pasted image 20240229165457 1.png",
+    "imagens/Pasted image 20240227164530.png",
+    "imagens/Pasted image 20240227163729.png",
+    "all notes/Pasted image 20240229165500.png",
+    "all notes/Pasted image 20240229165457.png",
+    "all notes/Pasted image 20240229165457 1.png",
+    "all notes/Pasted image 20240227164530.png",
+    "all notes/Pasted image 20240227163729.png",
+    "my-configuration-files/backup/TÉCNICO-BANCÁRIO-TECNOLOGIA-DA-INFORMAÇÃO/EDITAL-2021-PcD-1.pdf",
+    "my-configuration-files/backup/TÉCNICO-BANCÁRIO-TECNOLOGIA-DA-INFORMAÇÃO/EDITAL-2021-PcD-1.pdf.crdownload",
+    "my-configuration-files/backup/TÉCNICO-BANCÁRIO-TECNOLOGIA-DA-INFORMAÇÃO",
+    "my-configuration-files/backup/cfs/ie_2024.pdf",
+    "my-configuration-files/backup/cfs/ie_2024.pdf.crdownload",
     "my-configuration-files/backup/cfs/cfs-b-1-2009.pdf",
     "my-configuration-files/backup/cfs/cfs-b-1-2009_gabarito.pdf",
     "my-configuration-files/backup/cfs/cfs-b-1-2009.pdf.crdownload",
-    "all notes/FÍSICA/DINÂMICA.md",
-    "all notes/note-175.md",
-    "all notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
-    "imagens/print_screen_519.png",
-    "all notes/note-177.md",
-    "all notes/CONCEITOS BÁSICOS E FUNDAMENTAIS.md",
-    "all notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
-    "all notes/GRAMÁTICA/questões erradas de português.md",
-    "all notes/note-172.md",
-    "all notes/TEXTO/transposição de discurso.md",
-    "all notes/note-27.md",
-    "all notes/GRAMÁTICA/regência verbal.md",
-    "all notes/GRAMÁTICA/regras do acento gráfico.md",
-    "imagens/print_screen_522.png",
-    "imagens/print_screen_510.png",
-    "imagens/print_screen_283.png",
     "my-configuration-files/backup/cfs/cfs-b-2-2010.pdf",
     "my-configuration-files/backup/cfs/cfs-b-2-2010_gabarito.pdf",
-    "my-configuration-files/backup/cfs/cfs-b-2-2010.pdf.crdownload",
-    "my-configuration-files/tilix/tilix/scripts/tilix_int.sh",
-    "my-configuration-files/tilix/tilix/schemes/yaru.json",
-    "my-configuration-files/tilix/tilix/schemes/tango.json",
-    "my-configuration-files/tilix/tilix/schemes/solarized-light.json",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

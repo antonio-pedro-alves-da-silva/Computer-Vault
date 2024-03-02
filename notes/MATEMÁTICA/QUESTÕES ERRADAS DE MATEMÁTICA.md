@@ -59,3 +59,9 @@ prova de 2009
 [7](https://www.youtube.com/watch?v=lB1qcH1v_FA)(os ângulos da base maior de um trapézio)
 [8](https://www.youtube.com/watch?v=GkGzP1hb9F0)(sen 2b)
 prova de 2008
+[1](https://militares.estrategia.com/public/questoes/urna-contem-3-bolas32eed1490e/)(propabilidade de ambos os eventos ocorrem 3/7*2/6)
+[2](https://militares.estrategia.com/public/questoes/Comparando-tg-20deg-tg950159ce4/)(https://www.geogebra.org/m/EKPJP535)(ciclo trigonométrio - analisando a tangente)
+[3](https://militares.estrategia.com/public/questoes/Dado-x-para-que-numero29880c1b4e/)(para que x seja real a parte imaginária tem que ser 0)
+[4]()([[note-186|quando um prisma é regular ?]])
+[5]()([[print_screen_166.png|retas paralelas não coincidentes ou coincidentes e não coincidentes]] ou [[print_screen_167.png|retas perpendiculares]])
+[6](https://militares.estrategia.com/public/questoes/r-x-6y-2-0-s-8x-t-1-y30007348a8/)(aprendi a arredondar números)
