@@ -2,7 +2,7 @@
 [2](https://www.qconcursos.com/questoes-militares/questoes/2586276c-4e)-[[print_screen_243.png|Discussão e classificação de um sistema (2x2)]] e [[print_screen_244.png|Discussão de um sistema (3x3)]]
 [3](https://www.qconcursos.com/questoes-militares/questoes/2599174b-4e)- [[print_screen_140.png|Arcos congruos e simétricos]]
 [4](https://www.qconcursos.com/questoes-militares/questoes/25b8c262-4e)-[[print_screen_245.png|REGRAS DE MULTIPLICAÇÃO DE MATRIZES]]
-[5](https://brainly.com.br/tarefa/21576246#:~:text=O%20valor%20de%20n%20%C3%A9%20b)- [[print_screen_179.png|Relações trigonométricas]]
+[5](https://brainly.com.br/tarefa/21576246#:~:text=O%20valor%20de%20n%20%C3%A9%20b)- [[print_screen_179.png|Relações trigonométricas de um triangulo retângulo]]
 [6](https://www.qconcursos.com/questoes-militares/questoes/fe1dcdf2-7e)- [[print_screen_161.png|Relações de girard]]
 [7](https://www.qconcursos.com/questoes-militares/questoes/45ee02a5-49)- Graus de Polinômios
 [8](https://www.qconcursos.com/questoes-militares/questoes/fe0b6c24-7e)- média de histograma

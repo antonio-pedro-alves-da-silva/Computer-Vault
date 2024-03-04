@@ -23,22 +23,10 @@
 - [[note-202|Enumeração curta]]
 - [[note-221|Adjetivos coordenados]]
 - [[note-222|Conjunções coordenativas]]
-# Quando a virgula é facultativa
+- [[note-224|Estrutura cordenada assindética]]
 
-A utilização da vírgula é geralmente regulamentada por regras gramaticais, mas há situações em que ela pode ser considerada facultativa, especialmente em casos de estilo ou ênfase. Aqui estão algumas situações em que a vírgula pode ser opcional:
+# Exercícios errados de virgula
+[1](https://www.qconcursos.com/questoes-militares/questoes/0831864b-e4)(aprendi([[note-225|resolução]]))
+[2](https://www.qconcursos.com/questoes-militares/questoes/1fdcbbda-4d)(aprendi([[note-226|resolução]]))
+[questão na qual eu parei](https://www.qconcursos.com/questoes-militares/questoes/d61a26a6-4b)
 
-1. **Enumeração curta:** Em listas curtas de itens, a vírgula é frequentemente opcional. Por exemplo: "Eu gosto de estudar, ler e escrever" ou "Eu gosto de estudar, ler, e escrever". Ambas as formas são aceitáveis.
-    
-2. **Adjetivos coordenados:** Quando há dois ou mais adjetivos que modificam um substantivo e podem ser intercambiáveis, a vírgula é muitas vezes opcional. Por exemplo: "Ela usava um vestido longo azul escuro" ou "Ela usava um vestido longo, azul, escuro". Ambas as formas são aceitáveis.
-    
-4. **Orações curtas:** Em orações curtas, a vírgula pode ser opcional para criar um estilo mais fluente. Por exemplo: "O sol brilha no céu e as flores desabrocham" ou "O sol brilha no céu, e as flores desabrocham"
-5. **Estrutura cordenada assindética:** Por exemplo: "Pedro corria sem rumo entre as árvores, enquanto o bicho o observava com olhos famintos", a vírgula após "árvores" é facultativa porque há uma estrutura coordenada assindética, ou seja, uma estrutura em que as partes coordenadas não estão ligadas por uma conjunção explícita.
-
-	"Pedro corria sem rumo entre as árvores"
-	"enquanto o bicho o observava com olhos famintos."
-A conjunção "enquanto" está ligando essas duas partes da frase, indicando uma relação de simultaneidade entre as ações de Pedro correndo e o bicho o observando. O uso da vírgula após "árvores" é opcional porque as duas partes estão coordenadas, mas não há uma conjunção coordenativa explícita. A vírgula nesse caso ajuda a indicar uma pausa natural na leitura, mas sua omissão não prejudica a compreensão da frase.
-
-# 1. "Pedro corria sem rumo entre as árvores"
-2. "enquanto o bicho o observava com olhos famintos."Referências
-- https://mundoeducacao.uol.com.br/gramatica/uso-virgula.htm#:~:text=Nas%20ora%C3%A7%C3%B5es%20coordenadas%20sind%C3%A9ticas%20conclusivas,uso%20da%20v%C3%ADrgula%20%C3%A9%20obrigat%C3%B3rio.
-- https://clubedoportugues.com.br/oracoes-intercaladas/

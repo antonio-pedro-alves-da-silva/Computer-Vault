@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "4ef263bc9fc9cf49",
+            "id": "047e8f0e0d0c2d58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/TEXTO/uso da virgula correto.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/TEXTO/uso da virgula correto.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/TEXTO/uso da virgula correto.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/TEXTO/uso da virgula correto.md"
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
               }
             }
           },
@@ -183,16 +182,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4ef263bc9fc9cf49",
+  "active": "047e8f0e0d0c2d58",
   "lastOpenFiles": [
-    "notes/note-222.md",
+    "notes/note-143.md",
     "notes/TEXTO/uso da virgula correto.md",
+    "MATÉRIAS/EEAR.md",
+    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "imagens/print_screen_179.png",
+    "notes/note-226.md",
+    "imagens/print_screen_640.png",
+    "notes/note-227.md",
+    "imagens/print_screen_639.png",
+    "notes/note-195.md",
+    "notes/note-225.md",
+    "notes/note-224.md",
+    "notes/note-223.md",
+    "notes/note-222.md",
     "notes/note-221.md",
     "notes/note-202.md",
     "notes/TEXTO/expressões explicativas.md",
-    "notes/note-143.md",
     "notes/note-191.md",
-    "MATÉRIAS/EEAR.md",
     "notes/FÍSICA/ELETRICIDADE.md",
     "notes/note-220.md",
     "notes/note-219.md",
@@ -206,21 +215,10 @@
     "imagens/print_screen_332.png",
     "notes/note-16.md",
     "notes/note-210.md",
-    "notes/FÍSICA/GRAVITAÇÃO.md",
-    "notes/note-211.md",
-    "notes/note-212.md",
     "Pasted image 20240303144606.png",
-    "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
-    "notes/note-209.md",
     "imagens/print_screen_300.png",
-    "notes/FÍSICA/DINÂMICA.md",
-    "notes/FÍSICA/ESTÁTICA.md",
-    "notes/FÍSICA/HIDROESTÁTICA.md",
     "Pasted image 20240303094827.png",
     "Pasted image 20240303084327.png",
-    "imagens/Pasted image 20240302184726.png",
-    "imagens/Pasted image 20240302184656.png",
-    "imagens/Pasted image 20240302184636.png",
     "my-configuration-files/backup/TÉCNICO-BANCÁRIO-TECNOLOGIA-DA-INFORMAÇÃO/EDITAL-2021-PcD-1.pdf",
     "my-configuration-files/backup/TÉCNICO-BANCÁRIO-TECNOLOGIA-DA-INFORMAÇÃO/EDITAL-2021-PcD-1.pdf.crdownload",
     "my-configuration-files/backup/TÉCNICO-BANCÁRIO-TECNOLOGIA-DA-INFORMAÇÃO",
