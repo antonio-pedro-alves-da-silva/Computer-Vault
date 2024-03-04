@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fc0e43cca4502908",
+        "id": "c50bd9f89a97aa52",
         "type": "tabs",
         "children": [
           {
-            "id": "f5bec7ab3a81cafa",
+            "id": "ae03a5df93ee97e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,31 +20,7 @@
             }
           },
           {
-            "id": "8cd679f086414747",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc62c8327a6b170e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20c8eda14bd5d5b8",
+            "id": "4ef263bc9fc9cf49",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ortocentro",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,11 +86,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 323.51103591918945
+    "width": 323.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "ee4e8bcf9413ed0e",
@@ -129,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "notes/TEXTO/uso da virgula correto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "notes/TEXTO/uso da virgula correto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATÉRIAS/EEAR.md"
+                "file": "notes/TEXTO/uso da virgula correto.md"
               }
             }
           },
@@ -199,47 +178,49 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7d2ff1388fc577af",
+  "active": "4ef263bc9fc9cf49",
   "lastOpenFiles": [
-    "notes/note-202.md",
-    "notes/note-201.md",
-    "notes/note-200.md",
-    "notes/note-199.md",
-    "notes/note-198.md",
-    "notes/note-197.md",
-    "notes/note-196.md",
-    "notes/note-195.md",
-    "notes/note-194.md",
-    "notes/note-193.md",
-    "notes/note-192.md",
-    "notes/note-191.md",
-    "notes/note-190.md",
-    "notes/note-189.md",
-    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
-    "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md",
+    "notes/note-222.md",
     "notes/TEXTO/uso da virgula correto.md",
+    "notes/note-221.md",
+    "notes/note-202.md",
+    "notes/TEXTO/expressões explicativas.md",
+    "notes/note-143.md",
+    "notes/note-191.md",
     "MATÉRIAS/EEAR.md",
-    "note-202.md",
-    "note-201.md",
-    "note-198.md",
-    "note-200.md",
-    "note-199.md",
-    "note-197.md",
-    "note-195.md",
-    "note-196.md",
-    "imagens/Pasted image 20240229165500.png",
-    "imagens/Pasted image 20240229165457.png",
-    "imagens/Pasted image 20240229165457 1.png",
-    "imagens/Pasted image 20240227164530.png",
-    "imagens/Pasted image 20240227163729.png",
-    "all notes/Pasted image 20240229165500.png",
-    "all notes/Pasted image 20240229165457.png",
-    "all notes/Pasted image 20240229165457 1.png",
-    "all notes/Pasted image 20240227164530.png",
-    "all notes/Pasted image 20240227163729.png",
+    "notes/FÍSICA/ELETRICIDADE.md",
+    "notes/note-220.md",
+    "notes/note-219.md",
+    "notes/note-218.md",
+    "notes/note-216.md",
+    "notes/note-215.md",
+    "imagens/print_screen_583.png",
+    "imagens/print_screen_342.png",
+    "notes/note-214.md",
+    "notes/note-213.md",
+    "imagens/print_screen_332.png",
+    "notes/note-16.md",
+    "notes/note-210.md",
+    "notes/FÍSICA/GRAVITAÇÃO.md",
+    "notes/note-211.md",
+    "notes/note-212.md",
+    "Pasted image 20240303144606.png",
+    "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
+    "notes/note-209.md",
+    "imagens/print_screen_300.png",
+    "notes/FÍSICA/DINÂMICA.md",
+    "notes/FÍSICA/ESTÁTICA.md",
+    "notes/FÍSICA/HIDROESTÁTICA.md",
+    "Pasted image 20240303094827.png",
+    "Pasted image 20240303084327.png",
+    "imagens/Pasted image 20240302184726.png",
+    "imagens/Pasted image 20240302184656.png",
+    "imagens/Pasted image 20240302184636.png",
     "my-configuration-files/backup/TÉCNICO-BANCÁRIO-TECNOLOGIA-DA-INFORMAÇÃO/EDITAL-2021-PcD-1.pdf",
     "my-configuration-files/backup/TÉCNICO-BANCÁRIO-TECNOLOGIA-DA-INFORMAÇÃO/EDITAL-2021-PcD-1.pdf.crdownload",
     "my-configuration-files/backup/TÉCNICO-BANCÁRIO-TECNOLOGIA-DA-INFORMAÇÃO",

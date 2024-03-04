@@ -69,6 +69,8 @@ bindsym $mod+b exec lxqt-config-brightness
 exec --no-startup-id lxqt-policykit-agent
 # execting runner on lxqt
 bindsym $mod+shift+p exec lxqt-runner
+# focus on window when the mouse is over 
+focus_follows_mouse yes
 #############################################################################
 
 # Use Mouse+$mod to drag floating windows to their wanted position

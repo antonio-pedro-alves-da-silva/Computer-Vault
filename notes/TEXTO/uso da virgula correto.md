@@ -21,6 +21,8 @@
 
 # Quando a virgula é facultativa
 - [[note-202|Enumeração curta]]
+- [[note-221|Adjetivos coordenados]]
+- [[note-222|Conjunções coordenativas]]
 # Quando a virgula é facultativa
 
 A utilização da vírgula é geralmente regulamentada por regras gramaticais, mas há situações em que ela pode ser considerada facultativa, especialmente em casos de estilo ou ênfase. Aqui estão algumas situações em que a vírgula pode ser opcional:
@@ -28,8 +30,6 @@ A utilização da vírgula é geralmente regulamentada por regras gramaticais, m
 1. **Enumeração curta:** Em listas curtas de itens, a vírgula é frequentemente opcional. Por exemplo: "Eu gosto de estudar, ler e escrever" ou "Eu gosto de estudar, ler, e escrever". Ambas as formas são aceitáveis.
     
 2. **Adjetivos coordenados:** Quando há dois ou mais adjetivos que modificam um substantivo e podem ser intercambiáveis, a vírgula é muitas vezes opcional. Por exemplo: "Ela usava um vestido longo azul escuro" ou "Ela usava um vestido longo, azul, escuro". Ambas as formas são aceitáveis.
-    
-3. **Conjunções coordenativas:** Antes de conjunções coordenativas como "e", "ou", "nem", "mas", "porque", a vírgula pode ser opcional, especialmente em frases curtas. Por exemplo: "Eu gosto de estudar e ela gosta de nadar" ou "Eu gosto de estudar, e ela gosta de nadar".
     
 4. **Orações curtas:** Em orações curtas, a vírgula pode ser opcional para criar um estilo mais fluente. Por exemplo: "O sol brilha no céu e as flores desabrocham" ou "O sol brilha no céu, e as flores desabrocham"
 5. **Estrutura cordenada assindética:** Por exemplo: "Pedro corria sem rumo entre as árvores, enquanto o bicho o observava com olhos famintos", a vírgula após "árvores" é facultativa porque há uma estrutura coordenada assindética, ou seja, uma estrutura em que as partes coordenadas não estão ligadas por uma conjunção explícita.

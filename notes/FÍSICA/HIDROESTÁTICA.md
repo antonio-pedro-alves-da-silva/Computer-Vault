@@ -16,18 +16,18 @@ hidroestática
 	[[print_screen_552.png|barômetro de torriceli]]
 	[[print_screen_555.png|dois liquidos imiscíveis]]
 exercícios de hidroestática errados
-	[1](https://www.qconcursos.com/questoes-militares/questoes/a7c3698b-6b)
-	[2](https://www.qconcursos.com/questoes-militares/questoes/a7c029f8-6b)([[note-181|aprendi]])
-	[3](https://www.qconcursos.com/questoes-militares/questoes/a7c029f8-6b)
+	[1](https://www.qconcursos.com/questoes-militares/questoes/a7c3698b-6b)(aprendi a calcular a pressão)
+	[2](https://www.qconcursos.com/questoes-militares/questoes/a7c029f8-6b)([[note-181|aprendi que objetos em equilíbrio possuem a mesma massa]])
+	[3](https://www.qconcursos.com/questoes-militares/questoes/a7c029f8-6b)(aprendi a calcular o h entre o ponto a e o ponto b de um recipiente cheio)
 	[4](https://www.qconcursos.com/questoes-militares/questoes/8d24bb1f-f3)(aprendi([[note-188|gráfico em função tanto para altas altitudes tanto quanto para grandes profundidades]]))
-	[5](https://www.qconcursos.com/questoes-militares/questoes/078a5bae-48)()
-	[6](https://www.qconcursos.com/questoes-militares/questoes/586bc2bb-ad)()
+	[5](https://www.qconcursos.com/questoes-militares/questoes/078a5bae-48)(aprendi a calcular a força f2 em relação a força f1)
+	[6](https://www.qconcursos.com/questoes-militares/questoes/586bc2bb-ad)(aprendi a calcular o peso do objeto submerso na balança)
 	[7](https://www.qconcursos.com/questoes-militares/questoes/7616bf3e-55)e [8](https://www.qconcursos.com/questoes-militares/questoes/dfa4e2bb-55)(interresante para praticar potenciação)
 	[8](https://www.qconcursos.com/questoes-militares/questoes/aea68393-55)(200cmHg = 2m)
-	[9](https://www.qconcursos.com/questoes-militares/questoes/aea68393-55)()
-	[10](https://www.qconcursos.com/questoes-militares/questoes/fab7f725-42)()
+	[9](https://www.qconcursos.com/questoes-militares/questoes/aea68393-55)(aprendi a calcular a profundidade, em relação à superfície do oceano na qual o mergulhador se encontra submerso vale em metros)
+	[10](https://www.qconcursos.com/questoes-militares/questoes/fab7f725-42)([[note-206|esfera pendurada por um dinamômetro]])
 	[11](https://www.qconcursos.com/questoes-militares/questoes/7e7db665-3a)(1/4 da força da massa ele terá que aplicar)
 	[12](https://www.qconcursos.com/questoes-militares/questoes/480f70a2-dc)([[note-187|como calcular o valor aproximado da pressão ao nivel do mar em mbar]])
-	[13](https://www.qconcursos.com/questoes-militares/questoes/f363b5bf-a0)(aprendi(a como calcular a pressão de três líquidos imiscíveis  no fundo do cilindro))
+	[13](https://www.qconcursos.com/questoes-militares/questoes/f363b5bf-a0)(aprendi([[note-208|a como calcular a pressão de três líquidos imiscíveis  no fundo do cilindro]]))
 
 

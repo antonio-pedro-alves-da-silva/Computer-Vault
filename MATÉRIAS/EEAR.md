@@ -917,8 +917,8 @@ LÍNGUA INGLESA
 			Quantificadores
 			Prefixos e Sufixos
 			Artigos definidos e indefinidos
-MATEMÁTICA 
-	[[CONJUNTOS NUMÉRICO]]
+MATEMÁTICA
+	[[Pasted image 20240302171101.png|CONJUNTOS NUMÉRICO]]
 	ÁLGEBRA 
 		Funções
 			[[definição de função]]

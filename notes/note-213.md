@@ -1,0 +1,2 @@
+![[print_screen_332.png]]
+			**Isolantes** são materiais que se eletrizam facilmente por atrito com outro **isolante**. Neles as cargas elétricas têm dificuldade de se deslocar. **Condutores** são materiais onde as cargas elétricas se deslocam com facilidade. Eles podem ser eletrizados por atrito, contato e indução.

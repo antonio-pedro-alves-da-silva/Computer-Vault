@@ -1,9 +1,11 @@
-$\Large d = 13.600 kg/m^{3}$ (densidade do mercúrio)
-$\Large 1atm = 760mmHg = 10^{5}_{pa} = 1 Bar$
+João, eu usei a fórmula P = D.G.H
 
-$\Large d.g.h = 13.600*9,81*0,76 = 1014_{mBar}$
+com os dados da questão :
 
+d = 13.600 kg/m
 
+g = 9,81 m/s
 
+h = 760 milímetros de mercúrio (mmHg)
 
-
+(**5**)

@@ -5,15 +5,15 @@ eletricidade
 			 o que é corrente elétrica ?
 			 qual é o sentido convencional da corrente elétrica
 			 intensidade da corrente elétrica
-			 gráfico da corrente elétrica em função do tempo
+			 gráfico da intensidade da corrente elétrica em função do tempo
 		eletrização
 			 [[print_screen_330.png|por atrito]]
 			 [[print_screen_331.png|por contanto]]
-			 [[note-16|por indução]]
+			 por indução
 				 [[Pasted image 20231201133941.png|esfera descarregada sobre isolante e bastão indutor]]
 				 [[print_screen_334.png|esferas iguais e descarregas em contato]]
 				 [[print_screen_349.png|condutor completamente envolvido por outro corpo]] 
-		[[print_screen_332.png|processo de eletrização (condutores e isolantes)]]
+		[[note-213|processo de eletrização (condutores e isolantes)]]
 		[[print_screen_307.png|forças elétrica entre carga puntiformes(Lei de Coulomb)]]
 			Ko = constante eletroestática do vácuo
 			Q = carga fonte que gera o campo elétrico
@@ -24,35 +24,29 @@ eletricidade
 			q = carga de prova que entra no campo elétrico da carga fonte
 		[[print_screen_342.png|energia potencial em sistemas com varias particulas]]
 		potencial elétrico
-			o que é o potencial elétrico ??
-				Potencial elétrico ou tensão elétrica é a quantidade de energia necessária para mover uma carga elétrica unitária entre dois pontos distintos de uma região dotada de um campo elétrico.
+			[[note-214|o que é o potencial elétrico ??]]
 			[[print_screen_590.png|potência elétrico gerado por uma carga fonte]]
 			[[print_screen_588.png|potencial elétrico entre uma carga fonte e uma carga de prova]]
 			[[print_screen_589.png|potencial elétrico gerado por várias cargas fontes]]
 		campo elétrico de cargas puntiformes
-			[[print_screen_582.png|campo elétrico de cargas puntiformes e direção da intensidade do campo elétrico]]
-			[[print_screen_583.png|itensidade do campo elétrico ou campo elétrico]]		 
+			[[print_screen_582.png|campo elétrico de cargas puntiformes e direção do campo elétrico]]
 			quando se forma um campo elétrico ?
-				**Quando uma carga elétrica é colocada em uma região próxima de outra carga**, seus campos elétricos se somam vetorialmente.
+				**Quando uma carga elétrica de prova é colocada em uma região próxima de outra carga de fonte**, seus campos elétricos se somam vetorialmente.
+			[[note-215|itensidade do campo elétrico ou campo elétrico]]		 
 		campo elétrico uniforme
-			 [[print_screen_584.png|carga sujeita a campo elétrico uniforme]]
-			 [[cargas sujeitas a campo elétrico uniforme lançamento]]
-			 [[print_screen_317.png|trabalho da força no campo uniforme]]
+			 [[print_screen_584.png|fel no campo elétrico uniforme fel = fr]]  
 			 [[print_screen_328.png|diferença de potencial entre dois pontos de um campo elétrico uniforme]]
+			 [[note-219|trabalho da força no campo uniforme]]
 		esferas condutoras
-			[[print_screen_592.png|blindagem eletroestática]]
+			[[print_screen_592.png|esfera em equilíbrio eletroestático - itensidade no interior , superfície e infinitamente próximo]]
 			[[print_screen_593.png|potencial elétrico de esferas condutoras]]
 			[[note-16|condutores postos em contato]]
+		[[note-218|energia cinética de cargas elétricas no mcu]]
 		exercícios errados
-			cargas elétricas e eletrização
-				[1](https://www.qconcursos.com/questoes-militares/questoes/8d05dce4-f3)
-				[2](https://www.qconcursos.com/questoes-militares/questoes/2145673f-4d)
-				[3](https://www.qconcursos.com/questoes-militares/questoes/d71656aa-4b)
-				[4](https://www.qconcursos.com/questoes-militares/questoes/581fa485-4b)
-				[5](https://www.qconcursos.com/questoes-militares/questoes/d71656aa-4b)
-				[6](https://www.qconcursos.com/questoes-militares/questoes/67f99ee5-86)
-				[7](https://www.qconcursos.com/questoes-militares/questoes/dfca957b-55)
-				[8](https://www.qconcursos.com/questoes-militares/questoes/a25025e6-55)
+			[1](https://www.qconcursos.com/questoes-militares/questoes/a78fbe07-6b)([[note-216|resolução]])
+			[2](https://www.qconcursos.com/questoes-militares/questoes/b1e6d2f1-01)(aprendi([[note-218|energia cinética de cargas elétricas no mcu]])
+			[3](https://www.qconcursos.com/questoes-militares/questoes/b1dd845b-01)(aprendi([[note-219|trabalho da força no campo uniforme]]))
+			[4](https://www.qconcursos.com/questoes-militares/questoes/8d1cc789-f3)(aprendi([[note-220|o que é efeito fotoelétrico e difração e como eles podem ser explicados]]))
 	eletrodinâmica
 		[[print_screen_353.png|principio da continuidade da corrente]]
 		[[print_screen_353.png|efeito joule]]

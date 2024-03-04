@@ -1,0 +1,1 @@
+Potencial elétrico ou tensão elétrica é a quantidade de energia necessária para mover uma carga elétrica unitária entre dois pontos distintos de uma região dotada de um campo elétrico.

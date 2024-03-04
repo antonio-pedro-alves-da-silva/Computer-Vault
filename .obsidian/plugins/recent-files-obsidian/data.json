@@ -1,6 +1,110 @@
 {
   "recentFiles": [
     {
+      "basename": "uso da virgula correto",
+      "path": "notes/TEXTO/uso da virgula correto.md"
+    },
+    {
+      "basename": "note-222",
+      "path": "notes/note-222.md"
+    },
+    {
+      "basename": "note-221",
+      "path": "notes/note-221.md"
+    },
+    {
+      "basename": "note-202",
+      "path": "notes/note-202.md"
+    },
+    {
+      "basename": "expressões explicativas",
+      "path": "notes/TEXTO/expressões explicativas.md"
+    },
+    {
+      "basename": "note-143",
+      "path": "notes/note-143.md"
+    },
+    {
+      "basename": "note-191",
+      "path": "notes/note-191.md"
+    },
+    {
+      "basename": "EEAR",
+      "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "ELETRICIDADE",
+      "path": "notes/FÍSICA/ELETRICIDADE.md"
+    },
+    {
+      "basename": "note-220",
+      "path": "notes/note-220.md"
+    },
+    {
+      "basename": "note-219",
+      "path": "notes/note-219.md"
+    },
+    {
+      "basename": "note-218",
+      "path": "notes/note-218.md"
+    },
+    {
+      "basename": "note-216",
+      "path": "notes/note-216.md"
+    },
+    {
+      "basename": "note-215",
+      "path": "notes/note-215.md"
+    },
+    {
+      "basename": "print_screen_342",
+      "path": "imagens/print_screen_342.png"
+    },
+    {
+      "basename": "note-214",
+      "path": "notes/note-214.md"
+    },
+    {
+      "basename": "note-213",
+      "path": "notes/note-213.md"
+    },
+    {
+      "basename": "print_screen_332",
+      "path": "imagens/print_screen_332.png"
+    },
+    {
+      "basename": "note-16",
+      "path": "notes/note-16.md"
+    },
+    {
+      "basename": "note-210",
+      "path": "notes/note-210.md"
+    },
+    {
+      "basename": "GRAVITAÇÃO",
+      "path": "notes/FÍSICA/GRAVITAÇÃO.md"
+    },
+    {
+      "basename": "note-211",
+      "path": "notes/note-211.md"
+    },
+    {
+      "basename": "note-212",
+      "path": "notes/note-212.md"
+    },
+    {
+      "basename": "CINEMÁTICA",
+      "path": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
+    },
+    {
+      "basename": "note-209",
+      "path": "notes/note-209.md"
+    },
+    {
+      "basename": "print_screen_300",
+      "path": "imagens/print_screen_300.png"
+    },
+    {
       "basename": "HIDROESTÁTICA",
       "path": "all notes/FÍSICA/HIDROESTÁTICA.md"
     },
@@ -15,10 +119,6 @@
     {
       "basename": "ESTÁTICA",
       "path": "all notes/FÍSICA/ESTÁTICA.md"
-    },
-    {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
     },
     {
       "basename": "note-7",
@@ -99,102 +199,6 @@
     {
       "basename": "regras do acento gráfico",
       "path": "all notes/GRAMÁTICA/regras do acento gráfico.md"
-    },
-    {
-      "basename": "pronome relativo",
-      "path": "all notes/GRAMÁTICA/pronome relativo.md"
-    },
-    {
-      "basename": "concordância verbal",
-      "path": "all notes/GRAMÁTICA/concordância verbal.md"
-    },
-    {
-      "basename": "crase",
-      "path": "all notes/crase.md"
-    },
-    {
-      "basename": "print_screen_522",
-      "path": "imagens/print_screen_522.png"
-    },
-    {
-      "basename": "note-176",
-      "path": "all notes/note-176.md"
-    },
-    {
-      "basename": "print_screen_510",
-      "path": "imagens/print_screen_510.png"
-    },
-    {
-      "basename": "print_screen_283",
-      "path": "imagens/print_screen_283.png"
-    },
-    {
-      "basename": "note-174",
-      "path": "all notes/note-174.md"
-    },
-    {
-      "basename": "note-173",
-      "path": "all notes/note-173.md"
-    },
-    {
-      "basename": "dia que abrem as inscrições para",
-      "path": "dia que abrem as inscrições para.md"
-    },
-    {
-      "basename": "installation",
-      "path": "my-configuration-files/installation and configuration/installation.md"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "all notes/Untitled 1.md"
-    },
-    {
-      "basename": "FULL-STACK DEVELOPER",
-      "path": "MATÉRIAS/FULL-STACK DEVELOPER.md"
-    },
-    {
-      "basename": "note-168",
-      "path": "all notes/note-168.md"
-    },
-    {
-      "basename": "note-171",
-      "path": "all notes/note-171.md"
-    },
-    {
-      "basename": "note-170",
-      "path": "all notes/note-170.md"
-    },
-    {
-      "basename": "note-169",
-      "path": "all notes/note-169.md"
-    },
-    {
-      "basename": "Lista de Tarefa Do Dia",
-      "path": "Lista de Tarefas/Lista de Tarefa Do Dia.md"
-    },
-    {
-      "basename": "note-166",
-      "path": "all notes/note-166.md"
-    },
-    {
-      "basename": "note-167",
-      "path": "all notes/note-167.md"
-    },
-    {
-      "basename": "note-164",
-      "path": "all notes/note-164.md"
-    },
-    {
-      "basename": "note-157",
-      "path": "all notes/note-157.md"
-    },
-    {
-      "basename": "note-163",
-      "path": "all notes/note-163.md"
-    },
-    {
-      "basename": "note-162",
-      "path": "all notes/note-162.md"
     }
   ],
   "omittedPaths": [],

@@ -53,16 +53,14 @@ Só irá existir um triângulo se, somente se, os seus lados obedeceram à segui
 ![[Pasted image 20231030102858.png]]
 
 ## pontos notáveis 
-### segmentos do triângulo
-
-![[Pasted image 20231025174132.png]]
 
 
 
-![[print_screen_177.png]]
 
 
-![[print_screen_197.png]]
+
+
+
 
 ![[print_screen_198.png]]
 
