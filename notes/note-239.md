@@ -1,0 +1,2 @@
+
+Na linguagem escrita, é possível encontrar dois-pontos em cartas, comunicações, correspondências, [requerimentos](https://mundoeducacao.uol.com.br/redacao/requerimento.htm), entre outros textos que se iniciem com direcionamento ao vocativo. Após o vocativo inicial, **pode-se usar vírgula ou dois-pontos, à escolha de quem escreve a comunicação.** [A vírgula é mais usada nesse tipo de situação](https://mundoeducacao.uol.com.br/gramatica/o-uso-virgula-no-vocativo.htm), mas os dois-pontos também são aceitos. O exemplo a seguir representa o início de uma correspondência:

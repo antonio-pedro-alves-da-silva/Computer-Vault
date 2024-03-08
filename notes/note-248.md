@@ -1,0 +1,1 @@
+Verbo haver quando empregado com sentido de existir, acontecer e indicando tempo decorrido.

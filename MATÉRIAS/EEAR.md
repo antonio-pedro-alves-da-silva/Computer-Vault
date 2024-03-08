@@ -655,24 +655,15 @@ LINGUA PORTUGUESA
 							determinado
 								Os sujeitos simples, compostos ou ocultos são sujeitos determinados.
 							sujeito indeterminado
-										1.3AP(direto) sem citar substantivo
-										2.3as(intrasitivo|indireto|ligação) + se , sem citar um substantivo 
-										3.3as + pronome obliquo , sem citar um substantivo 
-										4. fazer - sent...de tempo decorrido
+									1.3AP(direto)
+									2.3as(intrasitivo|indireto|ligação) + se
+									3.3as + pronome obliquo
+									4. fazer - sent...de tempo decorrido
 							sujeito inexistente
 								como identificar o sujeito inexistente
-									1. Verbos que indicam fenômenos da natureza: amanheceu, anoiteceu, choveu, nevou, ventou, trovejou.
-									2. Verbo haver quando empregado com sentido de existir, acontecer e indicando tempo decorrido.
-									3. ser, fazer, haver, estar, ir e passar indicando tempo ou distância.
-									memorização
-										1 - fenomenos
-										2 - verbo haver
-										3 - fesiph - indicando tempo ou distância decorrido
-											1. Verbos ser, fazer, haver, estar, ir e passar indicando tempo ou distância.
-												**Exemplos**:
-												- são cinco horas da manhã
-												- Está na hora do intervalo.
-												- Há boas palestras no congresso.
+									1. [[note-247|fenômenos da natureza]]
+									2. [[note-248|haver]]
+									3. [[note-249|fesiph]]
 						tipos de sujeitos
 								simples
 									Quando o verbo principal de uma frase faz referência a um sujeito de núcleo único, temos um sujeito simples.

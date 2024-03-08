@@ -1,0 +1,1 @@
+ser, fazer, haver, estar, ir e passar indicando tempo ou distância.

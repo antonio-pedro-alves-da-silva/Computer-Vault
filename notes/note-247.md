@@ -1,0 +1,1 @@
+Verbos que indicam fenômenos da natureza: amanheceu, anoiteceu, choveu, nevou, ventou, trovejou.

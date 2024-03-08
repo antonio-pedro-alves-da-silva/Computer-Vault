@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "047e8f0e0d0c2d58",
+            "id": "91a1e33d1f8f054e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "notes/note-143.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ortocentro",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "notes/note-143.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "notes/note-143.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+                "file": "notes/note-143.md"
               }
             }
           },
@@ -182,43 +182,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "047e8f0e0d0c2d58",
+  "active": "91a1e33d1f8f054e",
   "lastOpenFiles": [
+    "notes/note-262.md",
     "notes/note-143.md",
-    "notes/TEXTO/uso da virgula correto.md",
+    "notes/note-261.md",
+    "notes/note-260.md",
+    "notes/note-259.md",
     "MATÉRIAS/EEAR.md",
-    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
-    "imagens/print_screen_179.png",
-    "notes/note-226.md",
-    "imagens/print_screen_640.png",
-    "notes/note-227.md",
-    "imagens/print_screen_639.png",
-    "notes/note-195.md",
-    "notes/note-225.md",
-    "notes/note-224.md",
-    "notes/note-223.md",
-    "notes/note-222.md",
-    "notes/note-221.md",
-    "notes/note-202.md",
-    "notes/TEXTO/expressões explicativas.md",
-    "notes/note-191.md",
     "notes/FÍSICA/ELETRICIDADE.md",
-    "notes/note-220.md",
-    "notes/note-219.md",
-    "notes/note-218.md",
-    "notes/note-216.md",
+    "imagens/print_screen_646.png",
+    "notes/note-14.md",
+    "imagens/print_screen_645.png",
+    "imagens/print_screen_644.png",
+    "imagens/print_screen_569.png",
+    "notes/note-12.md",
+    "imagens/print_screen_568.png",
+    "imagens/print_screen_643.png",
+    "imagens/print_screen_642.png",
+    "imagens/print_screen_567.png",
+    "notes/note-11.md",
+    "notes/note-258.md",
+    "notes/note-257.md",
+    "notes/note-256.md",
+    "notes/note-255.md",
+    "imagens/print_screen_353.png",
     "notes/note-215.md",
-    "imagens/print_screen_583.png",
-    "imagens/print_screen_342.png",
-    "notes/note-214.md",
-    "notes/note-213.md",
-    "imagens/print_screen_332.png",
     "notes/note-16.md",
-    "notes/note-210.md",
-    "Pasted image 20240303144606.png",
-    "imagens/print_screen_300.png",
-    "Pasted image 20240303094827.png",
-    "Pasted image 20240303084327.png",
+    "imagens/print_screen_582.png",
+    "notes/note-218.md",
+    "notes/note-252.md",
+    "notes/note-253.md",
+    "notes/note-254.md",
+    "notes/note-226.md",
+    "notes/note-225.md",
+    "notes/note-251.md",
+    "notes/note-250.md",
+    "notes/note-245.md",
+    "notes/note-249.md",
+    "image",
     "my-configuration-files/backup/TÉCNICO-BANCÁRIO-TECNOLOGIA-DA-INFORMAÇÃO/EDITAL-2021-PcD-1.pdf",
     "my-configuration-files/backup/TÉCNICO-BANCÁRIO-TECNOLOGIA-DA-INFORMAÇÃO/EDITAL-2021-PcD-1.pdf.crdownload",
     "my-configuration-files/backup/TÉCNICO-BANCÁRIO-TECNOLOGIA-DA-INFORMAÇÃO",
@@ -228,7 +230,6 @@
     "my-configuration-files/backup/cfs/cfs-b-1-2009_gabarito.pdf",
     "my-configuration-files/backup/cfs/cfs-b-1-2009.pdf.crdownload",
     "my-configuration-files/backup/cfs/cfs-b-2-2010.pdf",
-    "my-configuration-files/backup/cfs/cfs-b-2-2010_gabarito.pdf",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

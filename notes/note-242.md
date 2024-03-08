@@ -1,0 +1,1 @@
+_O Brasil – o maior produtor e exportador de carnes do mundo – acaba de lidar com um escândalo sem precedentes envolvendo as maiores empresas de frigorífico do mundo. Além de casos de corrupção, houve denúncias de violação de normas sanitárias e de uso de matéria-prima inapropriada para produção de embutidos._

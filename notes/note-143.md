@@ -87,7 +87,25 @@ orações coordenadas
 [[note-172|Conjunções:Relações de causa e consequência]]
 	[1](https://www.qconcursos.com/questoes-militares/questoes/c6b94bdd-59)-C
 	[2](https://www.qconcursos.com/questoes-militares/questoes/95270389-53)-C
-[[uso da virgula correto]]
+[[note-246|como fazer análise sintática]]
+regra de pontuação
+	[[uso da virgula correto]]
+	[[uso do ponto e virgula correto]]
+	[[uso do dois-ponto|uso do dois-ponto]]
+	[[uso do travessão]]
+	Exercícios de pontuação errados
+		[1](https://www.qconcursos.com/questoes-militares/questoes/0831864b-e4)(aprendi([[note-225|resolução]]))
+		[2](https://www.qconcursos.com/questoes-militares/questoes/1fdcbbda-4d)(aprendi([[note-226|ordem direta e indireta]]))
+		[3](https://www.qconcursos.com/questoes-militares/questoes/d61a26a6-4b)(aprendi())-C
+		[4](https://www.qconcursos.com/questoes-militares/questoes/b0f8f7d6-01)(aprendi([[note-245|resolução]]))
+		[5](https://www.qconcursos.com/questoes-militares/questoes/6678d50e-86)(aprendi([[note-250|resolução]]))
+		[6](https://www.qconcursos.com/questoes-militares/questoes/985d8435-4e)(aprendi([[note-251|o que são conjunções pospositivas]]))
+		[7](https://www.qconcursos.com/questoes-militares/questoes/78369960-bf)(aprendi([[note-252|anteposição e intercalação]]))
+		[8](https://www.qconcursos.com/questoes-militares/questoes/c6ded851-59)(aprendi([[note-259|resolução]]))
+		[9](https://www.qconcursos.com/questoes-militares/questoes/c6a86dd3-59)(aprendi([[note-260|aposto ou vocativo com a remoção da virgula ?]]))
+		[10](https://www.qconcursos.com/questoes-militares/questoes/7541a1f5-55)(aprendi([[note-261|resolução]]))
+		[11](https://www.qconcursos.com/questoes-militares/questoes/a50f9a5c-55)(aprendi([[note-262|resolução]]))
+		
 [[diferença entre adjunto adnominal e complemento nominal]] 
 [[diferença entre pronomes substantivos e pronomes adjetivos]]
 grau do adjetivo

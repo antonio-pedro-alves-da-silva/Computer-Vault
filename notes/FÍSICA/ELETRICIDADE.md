@@ -47,6 +47,9 @@ eletricidade
 			[2](https://www.qconcursos.com/questoes-militares/questoes/b1e6d2f1-01)(aprendi([[note-218|energia cinética de cargas elétricas no mcu]])
 			[3](https://www.qconcursos.com/questoes-militares/questoes/b1dd845b-01)(aprendi([[note-219|trabalho da força no campo uniforme]]))
 			[4](https://www.qconcursos.com/questoes-militares/questoes/8d1cc789-f3)(aprendi([[note-220|o que é efeito fotoelétrico e difração e como eles podem ser explicados]]))
+			[5](https://www.qconcursos.com/questoes-militares/questoes/8d05dce4-f3)(aprendi([[Pasted image 20240305095255.png|a como calcular a gravidade de um planeta]] e o que é a relação carga elétrica por massa))
+			[6](https://www.qconcursos.com/questoes-militares/questoes/2145673f-4d)(aprendi(gráfico da força elétrica em função da distânica))
+			[7](https://www.qconcursos.com/questoes-militares/questoes/67fdfca5-86)([[note-16|condutores postos em contato]], a diferença de condutores em contato sempre será zero)
 	eletrodinâmica
 		[[print_screen_353.png|principio da continuidade da corrente]]
 		[[print_screen_353.png|efeito joule]]
@@ -54,7 +57,7 @@ eletricidade
 			diferença de potencial
 				 $U=R*I$
 			potência elétrica de um resistor
-				[[print_screen_353.png|potência elétrica de um resistor]]
+				[[note-255|potência elétrica util de um resistor]]
 				[[potência dissipada total ou potência dissipada de apenas um resistor]]
 					$P_{1}= R_{1}*{I_{1}} ^{2}$ 
 				    $\large P_{1} = \frac{{U_{1}}^{2}}{R_{1}}$
@@ -62,7 +65,6 @@ eletricidade
 			[[print_screen_357.png|associação em séries]]
 			[[print_screen_368.png|associação em paralelo]]
 				 [[print_screen_358.png|truque da corrente]]
-				 [[note-13|calcular a resistência de exatamente dois resistores em paralelo]]
 			[calculando associação mista de resistores](http://www.brawnexercicios.com.br/2015/12/exercicio-resolvido-resistencia-equivalente-circuito-2.html)
 			[[print_screen_359.png|fio liso , curto-circuito e potenciais]]
 			Medidores elétricos
@@ -72,7 +74,7 @@ eletricidade
 					 - possui resistência interna nula (passa corrente por ele)
 					 - se for colocado em paralelo gera um curto circuito
 				 voltímetro
-					 - é colocado em paralelo 
+					 - é colocado em paralelo
 					 - é usado para medir a diferença de potencial
 					 - possui resistência interna infinita (não passa corrente por ele) 
 		geradores
@@ -81,12 +83,15 @@ eletricidade
 				 gráfico
 				 corrente de curto circuito
 			 [[print_screen_365.png|potência de um gerador]]
+				 [[note-256|potência util]]
+				 [[note-257|potência dissipada]]
+				 [[note-258|potência total]]
 			 [[print_screen_558.png|associação em série de um gerador]]
 			 [[print_screen_559.png|associação em paralelo de um gerador]]
 			 [[print_screen_562.png|circuito gerador resistor]]
 			 [[note-11|o que é força eletromotriz]]
 		receptores
-			 [[print_screen_563.png|equação característica]]
+			 [[print_screen_563.png|diferença de potencial]]
 			 [[note-10|o que é força contraeletromotriz]]
 		circuito : gerador , receptor e resistor em série
 			 [[print_screen_565.png|lei de ohm - pouillet generalizada]]
@@ -121,11 +126,11 @@ eletricidade
 	    [[note-14|o que é um curto-circuito]] ??
 		exercícios errados
 			resistores e potências
-				[1](https://www.qconcursos.com/questoes-militares/questoes/a7798860-6b)
-				[2](https://www.qconcursos.com/questoes-militares/questoes/b1ecf03f-01)
-				[3](https://www.qconcursos.com/questoes-militares/questoes/465ed90d-49) ([[print_screen_575.png|imagem1]]|[[print_screen_576.png|imagem2]])
-				[5](https://www.qconcursos.com/questoes-militares/questoes/4640622e-49)
-				[6](https://www.qconcursos.com/questoes-militares/questoes/8d3e1417-f3)-aprendi-algo-novo
+				[1](https://www.qconcursos.com/questoes-militares/questoes/a7798860-6b)-(resistência elétrica do chuveiro)
+				[2](https://www.qconcursos.com/questoes-militares/questoes/b1ecf03f-01)-(qual a menor resistência)
+				[3](https://www.qconcursos.com/questoes-militares/questoes/465ed90d-49)-aprendi([[print_screen_575.png|imagem1]]|[[print_screen_576.png|imagem2]])
+				[5](https://www.qconcursos.com/questoes-militares/questoes/4640622e-49)-(resistor em paralelo)
+				[6](https://www.qconcursos.com/questoes-militares/questoes/8d3e1417-f3)-([[print_screen_644.png|calculando a corrente que passa pelo amperímetro]] , [[print_screen_645.png|calculando o valor da dpp dissipada pelo resistor de 25 ohms]] , [[print_screen_646.png|calculando o valor da corrente que passa por R]])
 				[8](https://www.qconcursos.com/questoes-militares/questoes/263a23ae-4e)-aprendi-algo-novo
 				[9](https://www.qconcursos.com/questoes-militares/questoes/d7249a98-4b)
 				[10](https://www.qconcursos.com/questoes-militares/questoes/d6fc612e-4b)-aprendi-algo-novo

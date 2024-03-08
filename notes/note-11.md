@@ -1,2 +1,2 @@
-A força eletromotriz é a energia potencial por unidade de carga elétrica produzida por geradores elétricos, como baterias ou pilhas.
+A força eletromotriz é a energia potencial fornecida a um circuito como uma bateria ou pilha
 
