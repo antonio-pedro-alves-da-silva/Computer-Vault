@@ -868,37 +868,7 @@ LÍNGUA INGLESA
 	GRAMÁTICA 
 		vocabulário
 			[[note-175|vocabulário1 (100 words)]]
-		Substantivos 
-			[[note-173|tipos de substantivos]]
-			[[note-174|gênero]]
-			singular e plural
-			composto , contável e incontável 
-			forma possessiva
-		Adjetivos
-			posição, grau de comparação, sinônimos e antônimos
-		Pronomes 
-			pessoal do caso reto e do oblíquo
-			indefinidos (pronomes substantivos e adjetivos)
-			relativos
-			demonstrativos (pronomes substantivos e adjetivos)
-			possessivos (pronomes substantivos e adjetivos) 
-			reflexivos e relativos
-			Pronomes e advérbios interrogativos
-		Advérbios
-			formação
-			tipos e uso
-			Preposições
-			Conjunções
-		Verbos
-			regulares
-			irregulares
-			auxiliares
-		Tempos verbais
-			 Simple present
-			 Present progressive 
-			 Simple past
-			 Past progressive
-			 Present perfect e Future
+		active voice , passive voice 
 		Modal verbs
 			Infinitivo e gerúndio
 			Modos imperativo e subjuntivo
@@ -908,6 +878,38 @@ LÍNGUA INGLESA
 			Quantificadores
 			Prefixos e Sufixos
 			Artigos definidos e indefinidos
+		Tempos verbais
+			 Simple present
+			 Present progressive 
+			 Simple past
+			 Past progressive
+			 Present perfect e Future
+		nouns 
+			[[note-173|tipos de substantivos]]
+			[[note-174|gênero]]
+			singular e plural
+			composto , contável e incontável 
+			forma possessiva
+		adjectives
+			posição, grau de comparação, sinônimos e antônimos
+		pronouns 
+			pessoal do caso reto e do oblíquo
+			indefinidos (pronomes substantivos e adjetivos)
+			relativos
+			demonstrativos (pronomes substantivos e adjetivos)
+			possessivos (pronomes substantivos e adjetivos) 
+			reflexivos e relativos
+			Pronomes e advérbios interrogativos
+		adverbs
+			formação
+			tipos e uso
+			Preposições
+			Conjunções
+		Verbs
+			regulares
+			irregulares
+			auxiliares
+
 MATEMÁTICA
 	[[Pasted image 20240302171101.png|CONJUNTOS NUMÉRICO]]
 	ÁLGEBRA 
@@ -1133,7 +1135,6 @@ FÍSICA
 			Lei de Faraday. 
 			Lei de Lenz. 
 			Transformadores. 
-	[[ELETROMAGNETISMO]]
 	[[ONDULATÓRIA e ÓTICA]] 
 		Pulsos e ondas 
 		Período, frequência e ciclo. 

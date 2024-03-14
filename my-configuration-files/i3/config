@@ -73,7 +73,7 @@ bindsym $mod+shift+p exec lxqt-runner
 # focus on window when the mouse is over 
 focus_follows_mouse yes
 # setting keycode 
-exec [[ -f ~/.Xmodmap ]] && xmodmap ~/.Xmodmap
+exec xmodmap ~/Computer-Vault/my-configuration-files/xmodmap/.Xmodmap
 #############################################################################
 
 # Use Mouse+$mod to drag floating windows to their wanted position

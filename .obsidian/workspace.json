@@ -20,12 +20,24 @@
             }
           },
           {
-            "id": "a2df7d7f25f4a00c",
+            "id": "9f67e071341f879a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/ELETROMAGNETISMO.md",
+                "file": "notes/FÍSICA/ELETRICIDADE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b0d52df92fdd496",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-293.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -107,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/ELETROMAGNETISMO.md",
+                "file": "notes/FÍSICA/ELETRICIDADE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/ELETROMAGNETISMO.md",
+                "file": "notes/FÍSICA/ELETRICIDADE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/ELETROMAGNETISMO.md"
+                "file": "notes/FÍSICA/ELETRICIDADE.md"
               }
             }
           },
@@ -182,28 +195,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a2df7d7f25f4a00c",
+  "active": "9f67e071341f879a",
   "lastOpenFiles": [
+    "notes/note-293.md",
+    "notes/FÍSICA/ELETRICIDADE.md",
+    "notes/note-294.md",
+    "MATÉRIAS/EEAR.md",
+    "notes/note-175.md",
+    "notes/note-21.md",
+    "Pasted image 20240314182459.png",
+    "notes/note-272.md",
+    "notes/note-292.md",
+    "notes/note-291.md",
+    "notes/FÍSICA/ELETROMAGNETISMO.md",
+    "imagens/print_screen_597.png",
+    "notes/note-290.md",
+    "notes/note-289.md",
+    "Pasted image 20240314154312 1.png",
+    "Pasted image 20240314154312.png",
+    "imagens/print_screen_412.png",
     "notes/note-288.md",
     "Pasted image 20240314110421.png",
-    "notes/FÍSICA/ELETROMAGNETISMO.md",
     "notes/note-287.md",
     "imagens/print_screen_315.png",
     "notes/note-20.md",
     "notes/note-19.md",
     "notes/regra da mão direita.md",
     "Pasted image 20240314091811.png",
-    "MATÉRIAS/EEAR.md",
     "imagens/print_screen_311.png",
     "notes/note-23.md",
     "Pasted image 20240314075441.png",
-    "notes/FÍSICA/ELETRICIDADE.md",
     "MATÉRIAS/TRADING.md",
-    "imagens/print_screen_660.png",
-    "imagens/print_screen_659.png",
-    "imagens/print_screen_658.png",
-    "imagens/print_screen_657.png",
-    "imagens/print_screen_656.png",
     "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/indicators.md",
@@ -211,14 +233,6 @@
     "notes/note-285.md",
     "notes/note-284.md",
     "notes/note-143.md",
-    "notes/GRAMÁTICA/diferença entre pronomes substantivos e pronomes adjetivos.md",
-    "notes/note-283.md",
-    "notes/note-282.md",
-    "notes/GRAMÁTICA/diferença entre adjunto adnominal e complemento nominal.md",
-    "notes/note-281.md",
-    "notes/note-279.md",
-    "notes/note-280.md",
-    "notes/note-277.md",
     "my-configuration-files/xmodmap/active-script.sh",
     "my-configuration-files/xmodmap/backup_xmodmap",
     "my-configuration-files/xmodmap",

@@ -1,0 +1,1 @@
+a indução eletromagnética ocorre quando há variação de fluxo de um condutor no campo magnético uniforme gerando assim corrente elétrica.

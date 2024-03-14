@@ -1,0 +1,1 @@
+ "Se um transformador abaixa uma tensão elétrica, ele automaticamente aumenta a intensidade da corrente elétrica de saída e vice-versa"

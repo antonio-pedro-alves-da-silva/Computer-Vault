@@ -96,10 +96,6 @@ eletricidade
 		receptores
 			 [[print_screen_563.png|diferença de potencial]]
 			 [[note-10|o que é força contraeletromotriz]]
-		transformador
-			[[note-270|o que são transformadores ?]]
-			[[note-271|relação da tensão de saida e de entrada pela quantidade de espiras]]
-			[[note-272|tensão contínua e tensão alternada]]
 		circuito : gerador , receptor e resistor em série
 			 [[print_screen_565.png|lei de ohm - pouillet generalizada]]
 			 [[print_screen_564.png|circuito : gerador , receptor e resistor em série]]
@@ -157,5 +153,58 @@ eletricidade
 			transformadores	
 				[1](https://www.qconcursos.com/questoes-militares/questoes/d733cbaf-4b)-aprendi()
 				[2](https://www.qconcursos.com/questoes-militares/questoes/9d5467c1-50)
-
-
+	eletromagnetismo
+		[[print_screen_308.png|atração e repulsão e princípio da inseparabilidade]]
+		[[print_screen_309.png|o campo magnético de um imã]]
+		[[Pasted image 20240117161132.png|campo magnético entre dois imãs]]
+		[[Pasted image 20240314075441.png|por quê o ferro é atraido pelo o imâ ?]]
+			 O campo magnético produzido **pelo ímã** imanta o **ferro** de forma que os seus ímãs elementares se alinham no sentido do campo que é aplicado, ou seja, o **ferro** se transforma em um **ímã**, ocorrendo dessa forma a atração entre **ferro** e **ímã**.
+		[[note-23|Bússola Polo Norte e Sul Geográfico]]
+		[[print_screen_311.png|substâncias magnéticas]]
+			 [[note-294|o que é imantar ?]]
+			 [[Pasted image 20240119132930.png|imãs elementar]]
+			 [[note-293|ferromagnéticos]]
+			 histerese magnética
+			 paramagnéticos 
+			 diamagnéticos
+	    [[print_screen_597.png|força magnética sobre cargas elétricas]]
+			[[print_screen_313.png|formula da força magnética sobre cargas elétricas]]
+		[[print_screen_598.png|força magnética sobre um fio condutor]]
+		[[note-20|itensidade do campo magnético gerado pela corrente que passa pelo fio]]
+		[[note-19|regras da mão direita]] 
+		[[print_screen_408.png|força e intensidade magnética entre dois fios condutores retilíneos paralelos]]
+		[[print_screen_406.png|campo magnético de uma espira circular]]
+		[[print_screen_407.png|campo magnético em um solenóide ou eletroimãs]]
+			[[note-288|direção e sentido do campo magnético de um solenóide]]
+		[[note-287|raio e periodo de uma carga elétrica no campo magnético]]
+		indução eletromagnética
+			[[print_screen_600.png|fluxo do campo magnético]]
+				variação de fluxo de um condutor em um campo magnético
+					[15](https://www.qconcursos.com/questoes-militares/questoes/9d6186a8-50)-([[note-289|onde há ocorre variação de fluxo ?]])
+			[[print_screen_412.png|força eletromotriz induzida no condutor retilíneo que se move em um campo magnético uniforme ]]
+			[[note-290|o que é indução eletromagnética ?]]
+			[[note-21|lei de lenz]]
+				[exemplo de aplicação da lei de lenz](https://www.qconcursos.com/questoes-militares/questoes/2131c90c-4d)
+			[[print_screen_411.png|lei de faraday(força eletromotriz média induzida)]]
+		transformador
+			[[note-270|o que são transformadores ?]]
+			[[note-291|o que acontece se abaixar a tensão elétrica ?]]
+			[[note-271|relação de potência e relação entre tensão]]
+			[[print_screen_602.png|relação de potências]]
+			[[note-292|Porque transformador não funciona com corrente contínua?]]
+			[como calcular a resistência mínima para que um dos enrolamentos não se queime](https://www.qconcursos.com/questoes-militares/questoes/d733cbaf-4b)
+		exercícios errados de eletromagnetismo
+			[1](https://www.qconcursos.com/questoes-militares/questoes/5b3cd502-16)tipo de movimento da carga no campo magnético e no campo elétrico
+			[2](https://www.qconcursos.com/questoes-militares/questoes/2131c90c-4d)exemplo de aplicação e lei de fenz
+			[5](https://www.qconcursos.com/questoes-militares/questoes/d7098fc6-4b)variação de fluxo
+			[6](https://www.qconcursos.com/questoes-militares/questoes/47b8eef5-8d)exemplo de aplicação da regra da mão vbf
+			[7](https://www.qconcursos.com/questoes-militares/questoes/67e44517-86)substâncias magnéticas
+			[8](https://www.qconcursos.com/questoes-militares/questoes/18aadb65-b0)
+			[9](https://www.qconcursos.com/questoes-militares/questoes/202c1a29-66)
+			[10](https://www.qconcursos.com/questoes-militares/questoes/202c1a29-66)
+			[11](https://www.qconcursos.com/questoes-militares/questoes/dfe8720a-55)
+			[12](https://www.qconcursos.com/questoes-militares/questoes/ae489780-55)
+		    [13](https://www.qconcursos.com/questoes-militares/questoes/a25cf891-55)
+		    [14](https://www.qconcursos.com/questoes-militares/questoes/9d6186a8-50)
+		    [15](https://www.qconcursos.com/questoes-militares/questoes/9d6186a8-50)-aprendi-algo-novo(variação de fluxo de um condutor em um campo magnético)
+	
