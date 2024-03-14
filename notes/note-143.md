@@ -105,11 +105,18 @@ regra de pontuação
 		[9](https://www.qconcursos.com/questoes-militares/questoes/c6a86dd3-59)(aprendi([[note-260|aposto ou vocativo com a remoção da virgula ?]]))
 		[10](https://www.qconcursos.com/questoes-militares/questoes/7541a1f5-55)(aprendi([[note-261|resolução]]))
 		[11](https://www.qconcursos.com/questoes-militares/questoes/a50f9a5c-55)(aprendi([[note-262|resolução]]))
-		
-[[diferença entre adjunto adnominal e complemento nominal]] 
+		[12](https://www.qconcursos.com/questoes-militares/questoes/ca4b6841-51)(aprendi([[note-278|resolução]]))
+		[13](https://www.qconcursos.com/questoes-militares/questoes/d5bf62f4-49)(aprendi([[note-275|resolução]]))
+		[14](https://www.qconcursos.com/questoes-militares/questoes/583fb65a-47)(aprendi([[note-276|resolução]]))
+		[15](https://www.qconcursos.com/questoes-militares/questoes/18aeba7a-45)(aprendi([[note-277|resolução]]))
+[[diferença entre adjunto adnominal e complemento nominal]]
 [[diferença entre pronomes substantivos e pronomes adjetivos]]
 grau do adjetivo
 [[quando usar x ou ch]]
 erros de ortografia lista
 	 [[note-107|lista de verbos irregulares]]
-	 
+
+
+
+
+

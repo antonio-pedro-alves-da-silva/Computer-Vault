@@ -1,6 +1,5 @@
 RESPOSTA: B
 
-
 ( ) O povo já está unido e por isso não se deixa vencer. 
 ( ) Salienta que não há união e que, se houver, o povo não será vencido. 
 ( ) Valoriza e fortalece a união como principal e única condição para a força do povo.

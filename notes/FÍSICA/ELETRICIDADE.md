@@ -53,7 +53,7 @@ eletricidade
 	eletrodinâmica
 		[[print_screen_353.png|principio da continuidade da corrente]]
 		[[print_screen_353.png|efeito joule]]
-		resistores
+		resistores 
 			diferença de potencial
 				 $U=R*I$
 			potência elétrica de um resistor
@@ -63,8 +63,11 @@ eletricidade
 				    $\large P_{1} = \frac{{U_{1}}^{2}}{R_{1}}$
 			[[print_screen_557.png|resistência de um fio condutor metálico]]
 			[[print_screen_357.png|associação em séries]]
+				[[print_screen_649.png|ddp total]]
 			[[print_screen_368.png|associação em paralelo]]
+				 relação entre ddps
 				 [[print_screen_358.png|truque da corrente]]
+			[[ponte de wheatstone]]
 			[calculando associação mista de resistores](http://www.brawnexercicios.com.br/2015/12/exercicio-resolvido-resistencia-equivalente-circuito-2.html)
 			[[print_screen_359.png|fio liso , curto-circuito e potenciais]]
 			Medidores elétricos
@@ -86,13 +89,17 @@ eletricidade
 				 [[note-256|potência util]]
 				 [[note-257|potência dissipada]]
 				 [[note-258|potência total]]
-			 [[print_screen_558.png|associação em série de um gerador]]
+			 [[print_screen_558.png|associação em série de um gerador , força eletromotriz e resistência equivalente]]
 			 [[print_screen_559.png|associação em paralelo de um gerador]]
 			 [[print_screen_562.png|circuito gerador resistor]]
 			 [[note-11|o que é força eletromotriz]]
 		receptores
 			 [[print_screen_563.png|diferença de potencial]]
 			 [[note-10|o que é força contraeletromotriz]]
+		transformador
+			[[note-270|o que são transformadores ?]]
+			[[note-271|relação da tensão de saida e de entrada pela quantidade de espiras]]
+			[[note-272|tensão contínua e tensão alternada]]
 		circuito : gerador , receptor e resistor em série
 			 [[print_screen_565.png|lei de ohm - pouillet generalizada]]
 			 [[print_screen_564.png|circuito : gerador , receptor e resistor em série]]
@@ -102,8 +109,7 @@ eletricidade
 			[[imagens/print_screen_569.png|exemplo de aplicação das leis de kirchoff]]
 			[[print_screen_570.png|exemplo calculando a ddp entre dois pontos]]
 		capacitores
-			 o que é capacitância ?
-				 A capacitância é uma grandeza física escalar que mede a **quantidade de cargas que pode ser armazenada em um capacitor** para uma determinada diferença de potencial elétrico. Quanto mais cargas um capacitor puder armazenar, maior será a sua capacitância. Sua unidade é dada em farad, representada pela letra F
+			 [[note-265|o que é capacitância ?]]
 			 [[print_screen_571.png|capacitor e capacitância]]
 			 [[print_screen_572.png|associação de capacitores em série]]
 			 [[print_screen_573.png|associação de capacitores em paralelo]]
@@ -131,24 +137,25 @@ eletricidade
 				[3](https://www.qconcursos.com/questoes-militares/questoes/465ed90d-49)-aprendi([[print_screen_575.png|imagem1]]|[[print_screen_576.png|imagem2]])
 				[5](https://www.qconcursos.com/questoes-militares/questoes/4640622e-49)-(resistor em paralelo)
 				[6](https://www.qconcursos.com/questoes-militares/questoes/8d3e1417-f3)-([[print_screen_644.png|calculando a corrente que passa pelo amperímetro]] , [[print_screen_645.png|calculando o valor da dpp dissipada pelo resistor de 25 ohms]] , [[print_screen_646.png|calculando o valor da corrente que passa por R]])
-				[8](https://www.qconcursos.com/questoes-militares/questoes/263a23ae-4e)-aprendi-algo-novo
-				[9](https://www.qconcursos.com/questoes-militares/questoes/d7249a98-4b)
-				[10](https://www.qconcursos.com/questoes-militares/questoes/d6fc612e-4b)-aprendi-algo-novo
-				[11](https://www.qconcursos.com/questoes-militares/questoes/fd67496b-f8)
-				[12](https://www.qconcursos.com/questoes-militares/questoes/a23ed393-55)
-				[13](https://www.qconcursos.com/questoes-militares/questoes/4dcaec1f-42)-resistividade
+				[8](https://www.qconcursos.com/questoes-militares/questoes/263a23ae-4e)-aprendi([[print_screen_649.png|ddp total]] , [[note-263|resolução]])
+				[9](https://www.qconcursos.com/questoes-militares/questoes/d7249a98-4b)-aprendi([[note-264|resolução]])
+				[10](https://www.qconcursos.com/questoes-militares/questoes/fd67496b-f8)-aprendi()
+				[11](https://www.qconcursos.com/questoes-militares/questoes/a23ed393-55) - aprendi(resistência rv e ri)
+				[12](https://www.qconcursos.com/questoes-militares/questoes/d6fc612e-4b) - capactiores
+				[13](https://www.qconcursos.com/questoes-militares/questoes/4dcaec1f-42)- resistividade
 			associção de resistores
-				[1](https://www.qconcursos.com/questoes-militares/questoes/a7816122-6b)-aprendi-algo-novo(calcular a resistência de exatamente dois resistores em paralelo)
-				[2](https://www.qconcursos.com/questoes-militares/questoes/cef03352-0d)
-				[3](https://www.qconcursos.com/questoes-militares/questoes/a24b4e0c-55)
-				[4](https://www.qconcursos.com/questoes-militares/questoes/19a794ab-45)
+				[1](https://www.qconcursos.com/questoes-militares/questoes/a7816122-6b)-aprendi([[print_screen_650.png|calculando a resistência equivalente do circuito como a chave aberta]],[[print_screen_65.png|calculando a resistência do circuito com a chave fechada]] )
+				[2](https://www.qconcursos.com/questoes-militares/questoes/cef03352-0d)-D
+				[3](https://www.qconcursos.com/questoes-militares/questoes/a24b4e0c-55)-([[note-266|resolução]])
+				[4](https://www.qconcursos.com/questoes-militares/questoes/19a794ab-45)-([[note-267|resolução]])
 			circuitos elétricos e leis de kirchhoff
-				[1](https://www.qconcursos.com/questoes-militares/questoes/dfd2dc22-55)-aprendi-algo-novo()
-				[2](https://www.qconcursos.com/questoes-militares/questoes/a6459b3e-55)-aprendi-algo-novo(a como calcular a corrente em pontos distantes)
-				[3](https://www.qconcursos.com/questoes-militares/questoes/fbdcde7b-a0)
+				[1](https://www.qconcursos.com/questoes-militares/questoes/dfd2dc22-55)-aprendi([[note-268|resolução]])
+				[2](https://www.qconcursos.com/questoes-militares/questoes/a6459b3e-55)-aprendi([[note-269|resolução]])
+				[3](https://www.qconcursos.com/questoes-militares/questoes/fbdcde7b-a0)-
 			ponte de wheatstone
-				[1](https://www.qconcursos.com/questoes-militares/questoes/9d3a0063-50)
+				[1](https://www.qconcursos.com/questoes-militares/questoes/9d3a0063-50)-
 			transformadores	
-				[1](https://www.qconcursos.com/questoes-militares/questoes/d733cbaf-4b)[2](https://www.qconcursos.com/questoes-militares/questoes/9d5467c1-50)
+				[1](https://www.qconcursos.com/questoes-militares/questoes/d733cbaf-4b)-aprendi()
+				[2](https://www.qconcursos.com/questoes-militares/questoes/9d5467c1-50)
 
 

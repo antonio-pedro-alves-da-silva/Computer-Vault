@@ -21,8 +21,9 @@ uso da virgula
 		[[note-221|Adjetivos coordenados]]
 		[[note-222|Conjunções coordenativas]]
 		[[note-224|Estrutura cordenada assindética]]
+		[[note-273|para separar sujeitos diferentes]]
 	Exercícios de pontuação errados
 		[1](https://www.qconcursos.com/questoes-militares/questoes/0831864b-e4)(aprendi([[note-225|resolução]]))
 		[2](https://www.qconcursos.com/questoes-militares/questoes/1fdcbbda-4d)(aprendi([[note-226|resolução]]))
-		[3](https://www.qconcursos.com/questoes-militares/questoes/d61a26a6-4b)(aprendi())-C
+		[3](https://www.qconcursos.com/questoes-militares/questoes/d61a26a6-4b)(aprendi([[note-274|resolução]]))-C
 

@@ -6,19 +6,19 @@
 [6](https://www.qconcursos.com/questoes-militares/questoes/fe1dcdf2-7e)- [[print_screen_161.png|Relações de girard]]
 [7](https://www.qconcursos.com/questoes-militares/questoes/45ee02a5-49)- Graus de Polinômios
 [8](https://www.qconcursos.com/questoes-militares/questoes/fe0b6c24-7e)- média de histograma
-	prova de 2018
+prova de 2018
 [1](https://www.qconcursos.com/questoes-militares/questoes/3e55d2fc-3b)-[[print_screen_141.png|gráfico da função seno]] e [[print_screen_143.png|gráfico da função cosseno]]
 [2](https://www.qconcursos.com/questoes-militares/questoes/5b251d62-3d)-polinômios(aprendi a como resolver um sistema de polinômios)
 [1](https://www.qconcursos.com/questoes-militares/questoes/5b30af15-3d)-[[Pasted image 20240202184837.png|números de diagonais de um poligono]]
 [2](https://www.qconcursos.com/questoes-militares/questoes/b8add7c7-3d)-[[Pasted image 20231107212715.png|combinção simples]]
 [3](https://www.qconcursos.com/questoes-militares/questoes/5b20c6ca-3d)-cilindro equilátero e volume da esfera
-	 prova de 2016
+prova de 2016
 [1](https://www.qconcursos.com/questoes-militares/questoes/7dde27f8-3a)-inequação 
 [2](https://www.qconcursos.com/questoes-militares/questoes/7de8f92f-3a)-progressão geométrica
 [6](https://www.qconcursos.com/questoes-militares/questoes/85275445-53)-formulas trigonométricas
 [7](https://www.qconcursos.com/questoes-militares/questoes/7e13fff4-3a)-volume de uma esfera
 [8](https://www.qconcursos.com/questoes-militares/questoes/7e4b03e3-3a)-lei do cossenos
-	prova de 2015
+prova de 2015
 [1](https://www.qconcursos.com/questoes-militares/questoes/88b5051e-dc)-[[note-127|restrições de valores para x]]
 [2](https://www.qconcursos.com/questoes-militares/questoes/b57d919e-55)(distância entre pontos e produtos notáveis)
 [3](https://www.qconcursos.com/questoes-militares/questoes/b590aac0-55)(estudo analítico da circuferência)(distância entre pontos e produtos notáveis)
@@ -51,9 +51,9 @@ prova de 2010
 [5](https://www.qconcursos.com/questoes-militares/questoes/c7e886c9-59)- Setor Circular
 prova de 2009
 [1](https://militares.estrategia.com/public/questoes/x-y-sa-numeros-reais24ccc9c8e0/)([[note-179|Cologaritmo]])
-[2](https://militares.estrategia.com/public/questoes/dividir-x5-3x4-2x2-x-52331ad6f4e/)(Como dividir polinômios)
+[2](https://militares.estrategia.com/public/questoes/dividir-x5-3x4-2x2-x-52331ad6f4e/)([[print_screen_647.png|Como dividir polinômios)]]
 [3](https://www.youtube.com/watch?v=JqTikKf9sv8)(Prisma Quadrangular)
-[4](https://militares.estrategia.com/public/questoes/5a-serie-Colegio-X66d96c9d74/)()
+[4](https://militares.estrategia.com/public/questoes/5a-serie-Colegio-X66d96c9d74/)(nota modal)
 [5](https://militares.estrategia.com/public/questoes/f-x-mx2-2m-1-x-m-2389e5dac7e/)(zero real duplo)
 [6](https://militares.estrategia.com/public/questoes/Quatro-numeros50162aa7b5/)(PG crescente)
 [7](https://www.youtube.com/watch?v=lB1qcH1v_FA)(os ângulos da base maior de um trapézio)
@@ -65,6 +65,16 @@ prova de 2008
 [4]()([[note-186|quando um prisma é regular ?]])
 [5]()([[print_screen_166.png|retas paralelas não coincidentes ou coincidentes e não coincidentes]] ou [[print_screen_167.png|retas perpendiculares]])
 [6](https://militares.estrategia.com/public/questoes/r-x-6y-2-0-s-8x-t-1-y30007348a8/)([[note-203|aprendi a arredondar números]])
-[7](https://militares.estrategia.com/public/questoes/retangulo-lados-2m-5m249588e67f/)([[Pasted image 20240302184726.png|aprendi como o retângulo roda , em torno do próprio eixo]])
+[7](https://militares.estrategia.com/public/questoes/retangulo-lados-2m-5m249588e67f/)([[Pasted image 20240302184726.png|aprendi como o retângulo roda em torno do próprio eixo]])
 [8] ([[Pasted image 20231025174132.png|altura , bissetriz , mediana , mediatriz]] e [[print_screen_177.png|ortocentro , mediana , baricentro]] e [[print_screen_197.png|medida da mediana]])
+prova de 2006
+[1](https://militares.estrategia.com/public/questoes/f-n-define-funca-f-N-N2033d30eb3/)(é apenas função sobrejetora)
+[2](https://brainly.com.br/tarefa/10538331)(P.A)
+[3](https://militares.estrategia.com/public/questoes/x-1-degQ-cos-x-3-813469539d7/)()
+[4]()(sistema possivel e indeterminado)
+[5]()([[print_screen_651.png|matriz identidade]] e [[print_screen_652.png|matriz inversa]] , [[note-284|matriz transposta]] , [[note-285|matriz oposta]] , [[note-286|matriz simétrica e antisimétrica]])
+[6](https://militares.estrategia.com/public/questoes/existem-k-maneiras71a177a389/)()
+
+
+
 

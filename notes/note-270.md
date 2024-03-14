@@ -1,0 +1,1 @@
+Transformador é um dispositivo utilizado para abaixar ou aumentar a tensão elétrica por meio da indução eletromagnética.

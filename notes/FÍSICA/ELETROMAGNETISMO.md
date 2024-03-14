@@ -3,7 +3,7 @@ eletromagnetismo
 	[[print_screen_308.png|atração e repulsão e princípio da inseparabilidade]]
 	[[print_screen_309.png|o campo magnético de um imã]]
 	[[Pasted image 20240117161132.png|campo magnético entre dois imãs]]
-	por quê o ferro é atraido pelo o imâ ?
+	[[Pasted image 20240314075441.png|por quê o ferro é atraido pelo o imâ ?]]
 		 O campo magnético produzido **pelo ímã** imanta o **ferro** de forma que os seus ímãs elementares se alinham no sentido do campo que é aplicado, ou seja, o **ferro** se transforma em um **ímã**, ocorrendo dessa forma a atração entre **ferro** e **ímã**.
 	[[note-23|Bússola Polo Norte e Sul Geográfico]]
 	[[print_screen_311.png|substâncias magnéticas]]
@@ -14,15 +14,15 @@ eletromagnetismo
 		 paramagnéticos 
 		 diamagnéticos
     [[print_screen_597.png|força magnética sobre cargas elétricas]]
-	[[print_screen_313.png|formula da força magnética]]
-	[[print_screen_598.png|força magnética em um fio condutor em um campo magnético]]
-	[[note-20|campo magnético em um fio reto gerado por uma corrente]]
-	[[note-19|regras da mão]]
+		[[print_screen_313.png|formula da força magnética]]
+	[[print_screen_598.png|força magnética sobre um fio condutor]]
+	[[note-20|itensidade do campo magnético gerado pela corrente que passa pelo fio]]
+	[[note-19|regras da mão direita]] 
+	[[print_screen_408.png|força e intensidade magnética entre dois fios condutores retilíneos paralelos]]
 	[[print_screen_406.png|campo magnético de uma espira circular]]
 	[[print_screen_407.png|campo magnético em um solenóide ou eletroimãs]]
-		[direção e sentido do campo magnético de um solenóide](https://www.qconcursos.com/questoes-militares/questoes/582a1755-4b)
-	[[print_screen_408.png|força e intensidade magnética entre dois fios condutores retilíneos paralelos]]
-	[[print_screen_315.png|raio e periodo de movimento de uma carga em mcu no campo magnético]]
+		[[note-288|direção e sentido do campo magnético de um solenóide]]
+	[[note-287|raio e periodo de uma carga elétrica no campo magnético]]
 	indução eletromagnética
 		[[print_screen_600.png|fluxo do campo magnético]]
 			variação de fluxo de um condutor em um campo magnético

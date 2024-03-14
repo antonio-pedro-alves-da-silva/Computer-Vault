@@ -123,5 +123,14 @@
     }
   ],
   "colored-text:color-text": [],
-  "colored-text:alter-color-palette": []
+  "colored-text:alter-color-palette": [],
+  "obs-text-wrapper:quick-tag-one": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "B"
+    }
+  ]
 }

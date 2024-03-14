@@ -7,5 +7,7 @@
   "obsidian-excalidraw-plugin",
   "quickadd",
   "code-emitter",
-  "colored-text"
+  "colored-text",
+  "obs-text-wrapper",
+  "text-snippets-obsidian"
 ]

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c50bd9f89a97aa52",
+        "id": "048c1b17188fdd8d",
         "type": "tabs",
         "children": [
           {
-            "id": "ae03a5df93ee97e2",
+            "id": "80509902918b9100",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "91a1e33d1f8f054e",
+            "id": "a2df7d7f25f4a00c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-143.md",
+                "file": "notes/FÍSICA/ELETROMAGNETISMO.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-143.md",
+                "file": "notes/FÍSICA/ELETROMAGNETISMO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-143.md",
+                "file": "notes/FÍSICA/ELETROMAGNETISMO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-143.md"
+                "file": "notes/FÍSICA/ELETROMAGNETISMO.md"
               }
             }
           },
@@ -182,54 +182,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "91a1e33d1f8f054e",
+  "active": "a2df7d7f25f4a00c",
   "lastOpenFiles": [
-    "notes/note-262.md",
-    "notes/note-143.md",
-    "notes/note-261.md",
-    "notes/note-260.md",
-    "notes/note-259.md",
+    "notes/note-288.md",
+    "Pasted image 20240314110421.png",
+    "notes/FÍSICA/ELETROMAGNETISMO.md",
+    "notes/note-287.md",
+    "imagens/print_screen_315.png",
+    "notes/note-20.md",
+    "notes/note-19.md",
+    "notes/regra da mão direita.md",
+    "Pasted image 20240314091811.png",
     "MATÉRIAS/EEAR.md",
+    "imagens/print_screen_311.png",
+    "notes/note-23.md",
+    "Pasted image 20240314075441.png",
     "notes/FÍSICA/ELETRICIDADE.md",
-    "imagens/print_screen_646.png",
-    "notes/note-14.md",
-    "imagens/print_screen_645.png",
-    "imagens/print_screen_644.png",
-    "imagens/print_screen_569.png",
-    "notes/note-12.md",
-    "imagens/print_screen_568.png",
-    "imagens/print_screen_643.png",
-    "imagens/print_screen_642.png",
-    "imagens/print_screen_567.png",
-    "notes/note-11.md",
-    "notes/note-258.md",
-    "notes/note-257.md",
-    "notes/note-256.md",
-    "notes/note-255.md",
-    "imagens/print_screen_353.png",
-    "notes/note-215.md",
-    "notes/note-16.md",
-    "imagens/print_screen_582.png",
-    "notes/note-218.md",
-    "notes/note-252.md",
-    "notes/note-253.md",
-    "notes/note-254.md",
-    "notes/note-226.md",
-    "notes/note-225.md",
-    "notes/note-251.md",
-    "notes/note-250.md",
-    "notes/note-245.md",
-    "notes/note-249.md",
+    "MATÉRIAS/TRADING.md",
+    "imagens/print_screen_660.png",
+    "imagens/print_screen_659.png",
+    "imagens/print_screen_658.png",
+    "imagens/print_screen_657.png",
+    "imagens/print_screen_656.png",
+    "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md",
+    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "notes/indicators.md",
+    "notes/note-286.md",
+    "notes/note-285.md",
+    "notes/note-284.md",
+    "notes/note-143.md",
+    "notes/GRAMÁTICA/diferença entre pronomes substantivos e pronomes adjetivos.md",
+    "notes/note-283.md",
+    "notes/note-282.md",
+    "notes/GRAMÁTICA/diferença entre adjunto adnominal e complemento nominal.md",
+    "notes/note-281.md",
+    "notes/note-279.md",
+    "notes/note-280.md",
+    "notes/note-277.md",
+    "my-configuration-files/xmodmap/active-script.sh",
+    "my-configuration-files/xmodmap/backup_xmodmap",
+    "my-configuration-files/xmodmap",
+    "my-configuration-files/backup/cfs/cfs-b-1-2006_gabarito.pdf.crdownload",
+    "my-configuration-files/backup/cfs/cfs-b-1-2006.pdf",
+    "my-configuration-files/backup/cfs/cfs-b-1-2006_gabarito.pdf",
+    "my-configuration-files/backup/cfs/cfs-b-1-2006.pdf.crdownload",
     "image",
     "my-configuration-files/backup/TÉCNICO-BANCÁRIO-TECNOLOGIA-DA-INFORMAÇÃO/EDITAL-2021-PcD-1.pdf",
     "my-configuration-files/backup/TÉCNICO-BANCÁRIO-TECNOLOGIA-DA-INFORMAÇÃO/EDITAL-2021-PcD-1.pdf.crdownload",
-    "my-configuration-files/backup/TÉCNICO-BANCÁRIO-TECNOLOGIA-DA-INFORMAÇÃO",
-    "my-configuration-files/backup/cfs/ie_2024.pdf",
-    "my-configuration-files/backup/cfs/ie_2024.pdf.crdownload",
-    "my-configuration-files/backup/cfs/cfs-b-1-2009.pdf",
-    "my-configuration-files/backup/cfs/cfs-b-1-2009_gabarito.pdf",
-    "my-configuration-files/backup/cfs/cfs-b-1-2009.pdf.crdownload",
-    "my-configuration-files/backup/cfs/cfs-b-2-2010.pdf",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

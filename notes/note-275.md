@@ -1,0 +1,1 @@
+a questão pede a errada. As outras alt estão certas. O erro da D é que "disse Levindo" está dentro da fala iniciada pelo travessão.
