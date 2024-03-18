@@ -659,11 +659,7 @@ LINGUA PORTUGUESA
 									2.3as(intrasitivo|indireto|ligação) + se
 									3.3as + pronome obliquo
 									4. fazer - sent...de tempo decorrido
-							sujeito inexistente
-								como identificar o sujeito inexistente
-									1. [[note-247|fenômenos da natureza]]
-									2. [[note-248|haver]]
-									3. [[note-249|fesiph]]
+							[[note-304|sujeito inexistente]]
 						tipos de sujeitos
 								simples
 									Quando o verbo principal de uma frase faz referência a um sujeito de núcleo único, temos um sujeito simples.
@@ -869,21 +865,16 @@ LÍNGUA INGLESA
 		vocabulário
 			[[note-175|vocabulário1 (100 words)]]
 		active voice , passive voice 
-		Modal verbs
-			Infinitivo e gerúndio
-			Modos imperativo e subjuntivo
-			Orações condicionais (0, 1 e 2)
-			Voz Passiva e Phrasal Verbs
-			Question Tags
-			Quantificadores
-			Prefixos e Sufixos
-			Artigos definidos e indefinidos
 		Tempos verbais
-			 Simple present
-			 Present progressive 
-			 Simple past
-			 Past progressive
-			 Present perfect e Future
+		[[note-313|Modal verbs]]
+		Infinitivo e gerúndio
+		Modos imperativo e subjuntivo
+		Orações condicionais (0, 1 e 2)
+		Voz Passiva e Phrasal Verbs
+		Question Tags
+		Quantificadores
+		Prefixos e Sufixos
+		Artigos definidos e indefinidos
 		nouns 
 			[[note-173|tipos de substantivos]]
 			[[note-174|gênero]]
@@ -909,7 +900,6 @@ LÍNGUA INGLESA
 			regulares
 			irregulares
 			auxiliares
-
 MATEMÁTICA
 	[[Pasted image 20240302171101.png|CONJUNTOS NUMÉRICO]]
 	ÁLGEBRA 

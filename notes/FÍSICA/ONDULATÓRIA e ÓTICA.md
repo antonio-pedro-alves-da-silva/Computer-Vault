@@ -11,20 +11,17 @@ ondulatória
 			- ondas eletromagnéticas são ondas transversais
 		velocidade que se movimentam
 			- se movimentam na velocidade da luz 299 792 458 m / s
-		onda sua propagação é mais rápida
+		sua propagação
 			- a sua propagação em meio material e menor do que a do vácuo
-		de que combinação ela é resultado ?
-			- As ondas eletromagnéticas resultam da combinação de um campo elétrico e de um magnético que se propagam no espaço
-			
-			![[Pasted image 20231209132506.png]]
+		[[note-310|de que combinação ela é resultado ?]]
 		a oscilação de uma carga elétrica da origem ao que ?
 			dá origem a [campos magnéticos](https://mundoeducacao.uol.com.br/fisica/campo-magnetico.htm) que por sua vez sua indução eletromagnética(variação de fluxo magnético) produz campos elétricos. 
 			 /informação adicional que não precissa ser lembrada agora{assim como a variação de fluxo de campos elétricos origina campos magnéticos. A interação entre esses campos é responsável pelo surgimento das ondas eletromagnéticas.}/
 		[[Pasted image 20240125164437.png|luz visível]]
-			para memorizar as frequências
-				vlavav
-			qual luz é mais rápida na terra ?
-				a luz vermelha por ter maior comprimento de onda
+		frequências da luz visível
+			vlavav
+		qual luz é mais rápida na terra ?
+			a luz vermelha por ter maior comprimento de onda
 	equação fundamental da ondulatória
 	3 coisa que a velocidade da onda depende
 		- do comprimento , do meio e da frequência

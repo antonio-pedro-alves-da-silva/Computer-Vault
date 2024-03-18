@@ -1,4 +1,4 @@
-[1](https://www.qconcursos.com/questoes-militares/questoes/ae1edea0-55)- [[print_screen_212.png|o apótema é a altura da face da pirâmide tringular regular]]
+[1](https://www.qconcursos.com/questoes-militares/questoes/ae1edea0-55)- [[print_screen_212.png|o apótema é a altura da face da pirâmide triangular regular]]
 [2](https://www.qconcursos.com/questoes-militares/questoes/2586276c-4e)-[[print_screen_243.png|Discussão e classificação de um sistema (2x2)]] e [[print_screen_244.png|Discussão de um sistema (3x3)]]
 [3](https://www.qconcursos.com/questoes-militares/questoes/2599174b-4e)- [[print_screen_140.png|Arcos congruos e simétricos]]
 [4](https://www.qconcursos.com/questoes-militares/questoes/25b8c262-4e)-[[print_screen_245.png|REGRAS DE MULTIPLICAÇÃO DE MATRIZES]]
@@ -20,14 +20,14 @@ prova de 2016
 [8](https://www.qconcursos.com/questoes-militares/questoes/7e4b03e3-3a)-lei do cossenos
 prova de 2015
 [1](https://www.qconcursos.com/questoes-militares/questoes/88b5051e-dc)-[[note-127|restrições de valores para x]]
-[2](https://www.qconcursos.com/questoes-militares/questoes/b57d919e-55)(distância entre pontos e produtos notáveis)
+[2](https://www.qconcursos.com/questoes-militares/questoes/b57d919e-55)(distância entre pontos e [[Produto Notaveis|produtos notáveis]])
 [3](https://www.qconcursos.com/questoes-militares/questoes/b590aac0-55)(estudo analítico da circuferência)(distância entre pontos e produtos notáveis)
 prova de 2014
 prova de 2011
 [1](https://www.qconcursos.com/questoes-militares/questoes/adbc4f5d-55)-função modular
-[2](https://www.qconcursos.com/questoes-militares/questoes/adcf7f97-55)-quantas raizes uma função polinomial admite
+[2](https://www.qconcursos.com/questoes-militare/questoes/adcf7f97-55)-quantas raizes uma função polinomial admite
 [3](https://www.qconcursos.com/questoes-militares/questoes/adf246e4-55)-função sobrejetora
-[4](https://www.qconcursos.com/questoes-militares/questoes/ae066507-55)([[note-117|como pegar o centro da equação geral da reta da circuferência]])
+[4](https://www.qconcursos.com/questoes-militares/questoes/ae066507-55)-([[note-117|como pegar o centro da equação geral da reta da circuferência]])
 [5](https://www.qconcursos.com/questoes-militares/questoes/ae16fcce-55)- distância entre pontos
 [6](https://www.qconcursos.com/questoes-militares/questoes/7c9d4c07-58)- [[print_screen_150.png|Formula trigonométrica adição]] , [[print_screen_153.png|arco duplo]] e [[print_screen_152.png|arco metade]]
 prova de 2024
@@ -70,10 +70,11 @@ prova de 2008
 prova de 2006
 [1](https://militares.estrategia.com/public/questoes/f-n-define-funca-f-N-N2033d30eb3/)(é apenas função sobrejetora)
 [2](https://brainly.com.br/tarefa/10538331)(P.A)
-[3](https://militares.estrategia.com/public/questoes/x-1-degQ-cos-x-3-813469539d7/)()
-[4]()(sistema possivel e indeterminado)
+[3](https://militares.estrategia.com/public/questoes/x-1-degQ-cos-x-3-813469539d7/)(formula trigonométrica)
+[4]()([[print_screen_243.png|Discussão e classificação de um sistema (2x2)]] e [[print_screen_244.png|Discussão e classificação de um sistema (3x3)]])
 [5]()([[print_screen_651.png|matriz identidade]] e [[print_screen_652.png|matriz inversa]] , [[note-284|matriz transposta]] , [[note-285|matriz oposta]] , [[note-286|matriz simétrica e antisimétrica]])
-[6](https://militares.estrategia.com/public/questoes/existem-k-maneiras71a177a389/)()
+[6](https://militares.estrategia.com/public/questoes/existem-k-maneiras71a177a389/)(princípio multiplicativo)
+
 
 
 

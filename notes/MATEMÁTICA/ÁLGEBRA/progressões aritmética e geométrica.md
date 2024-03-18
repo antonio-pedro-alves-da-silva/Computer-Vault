@@ -1,6 +1,7 @@
 # Progressão aritmética e geométrica
 
 ![[Pasted image 20231107095201.png]]
+![[print_screen_661.png]]
 
 
 

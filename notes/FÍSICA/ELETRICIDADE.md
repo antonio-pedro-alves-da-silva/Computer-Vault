@@ -159,16 +159,16 @@ eletricidade
 		[[Pasted image 20240117161132.png|campo magnético entre dois imãs]]
 		[[Pasted image 20240314075441.png|por quê o ferro é atraido pelo o imâ ?]]
 			 O campo magnético produzido **pelo ímã** imanta o **ferro** de forma que os seus ímãs elementares se alinham no sentido do campo que é aplicado, ou seja, o **ferro** se transforma em um **ímã**, ocorrendo dessa forma a atração entre **ferro** e **ímã**.
-		[[note-23|Bússola Polo Norte e Sul Geográfico]]
+		[[note-23|Polo Norte e Sul Geográfico]]
 		[[print_screen_311.png|substâncias magnéticas]]
-			 [[note-294|o que é imantar ?]]
-			 [[Pasted image 20240119132930.png|imãs elementar]]
+			 [[note-294|o que é imantação ?]]
 			 [[note-293|ferromagnéticos]]
-			 histerese magnética
-			 paramagnéticos 
-			 diamagnéticos
-	    [[print_screen_597.png|força magnética sobre cargas elétricas]]
-			[[print_screen_313.png|formula da força magnética sobre cargas elétricas]]
+			 [[note-299|imãs elementar]]
+			 [[note-296|histerese magnética]]
+			 [[note-297|paramagnéticos ]]
+			 [[note-298|diamagnéticos]]
+	    [[print_screen_597.png|força magnética sobre cargas elétricas em um campo magnético]]
+			[[print_screen_313.png|formula da força magnética sobre cargas elétricas em um campo magnético]]
 		[[print_screen_598.png|força magnética sobre um fio condutor]]
 		[[note-20|itensidade do campo magnético gerado pela corrente que passa pelo fio]]
 		[[note-19|regras da mão direita]] 
@@ -198,13 +198,10 @@ eletricidade
 			[2](https://www.qconcursos.com/questoes-militares/questoes/2131c90c-4d)exemplo de aplicação e lei de fenz
 			[5](https://www.qconcursos.com/questoes-militares/questoes/d7098fc6-4b)variação de fluxo
 			[6](https://www.qconcursos.com/questoes-militares/questoes/47b8eef5-8d)exemplo de aplicação da regra da mão vbf
-			[7](https://www.qconcursos.com/questoes-militares/questoes/67e44517-86)substâncias magnéticas
-			[8](https://www.qconcursos.com/questoes-militares/questoes/18aadb65-b0)
-			[9](https://www.qconcursos.com/questoes-militares/questoes/202c1a29-66)
-			[10](https://www.qconcursos.com/questoes-militares/questoes/202c1a29-66)
+			[7](https://www.qconcursos.com/questoes-militares/questoes/67e44517-86)substâncias magnéticas([[note-295|resolução]])
+			[8](https://www.qconcursos.com/questoes-militares/questoes/18aadb65-b0)força magnética nula
+			[9](https://www.qconcursos.com/questoes-militares/questoes/202c1a29-66)força centrípeta e raio da trajetória
 			[11](https://www.qconcursos.com/questoes-militares/questoes/dfe8720a-55)
-			[12](https://www.qconcursos.com/questoes-militares/questoes/ae489780-55)
-		    [13](https://www.qconcursos.com/questoes-militares/questoes/a25cf891-55)
-		    [14](https://www.qconcursos.com/questoes-militares/questoes/9d6186a8-50)
-		    [15](https://www.qconcursos.com/questoes-militares/questoes/9d6186a8-50)-aprendi-algo-novo(variação de fluxo de um condutor em um campo magnético)
+			[12](https://www.qconcursos.com/questoes-militares/questoes/ae489780-55)formula da variação de fluxo
+		    [13](https://www.qconcursos.com/questoes-militares/questoes/a25cf891-55)regra da mão direita ibf
 	

@@ -1,17 +1,15 @@
-[[note-61|custar]]
 
+[[note-61|custar]]
 agradecer
 	a coisa - transitivo direto
 	a pessoa - transitivo indireto
 [[note-62|dizer]]
 [[note-64|obedecer]]
-
 escutar
 	funciona apenas como transitivo direto
 beijar
 	funciona apenas como transitivo direto
 torturar
 	funciona apenas como transitivo direto
-
 [[note-65|aspirar]]
 

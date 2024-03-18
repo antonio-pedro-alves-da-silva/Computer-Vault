@@ -8,43 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "80509902918b9100",
+            "id": "e445aaadd520a41b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "notes/note-143.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9f67e071341f879a",
+            "id": "6082a9452d07c32a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md",
+                "file": "notes/TEXTO/uso da virgula correto.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4b0d52df92fdd496",
+            "id": "82de8227ab442b53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-293.md",
+                "file": "notes/note-195.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,8 +98,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -120,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md",
+                "file": "notes/note-195.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md",
+                "file": "notes/note-195.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md"
+                "file": "notes/note-195.md"
               }
             }
           },
@@ -195,44 +194,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9f67e071341f879a",
+  "active": "82de8227ab442b53",
   "lastOpenFiles": [
-    "notes/note-293.md",
-    "notes/FÍSICA/ELETRICIDADE.md",
-    "notes/note-294.md",
+    "notes/TEXTO/uso da virgula correto.md",
+    "notes/note-143.md",
+    "notes/note-195.md",
     "MATÉRIAS/EEAR.md",
-    "notes/note-175.md",
-    "notes/note-21.md",
-    "Pasted image 20240314182459.png",
-    "notes/note-272.md",
-    "notes/note-292.md",
-    "notes/note-291.md",
-    "notes/FÍSICA/ELETROMAGNETISMO.md",
+    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "notes/note-189.md",
+    "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md",
+    "notes/note-185.md",
+    "notes/note-184.md",
+    "notes/note-316.md",
+    "notes/note-183.md",
+    "notes/note-315.md",
+    "notes/note-314.md",
+    "notes/note-180.md",
+    "notes/note-313.md",
+    "notes/note-312.md",
+    "notes/note-311.md",
+    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
+    "notes/note-40.md",
+    "notes/note-310.md",
+    "notes/FÍSICA/ELETRICIDADE.md",
+    "imagens/print_screen_311.png",
+    "notes/note-293.md",
+    "notes/note-23.md",
+    "imagens/print_screen_407.png",
+    "notes/note-295.md",
+    "notes/MATEMÁTICA/GEOMETRIA PLANA/Ângulos.md",
+    "notes/TEXTO/transposição de discurso.md",
+    "imagens/print_screen_661.png",
+    "imagens/Pasted image 20230917212314.png",
+    "Pasted image 20240314205240.png",
     "imagens/print_screen_597.png",
-    "notes/note-290.md",
-    "notes/note-289.md",
+    "Pasted image 20240314182459.png",
     "Pasted image 20240314154312 1.png",
     "Pasted image 20240314154312.png",
     "imagens/print_screen_412.png",
-    "notes/note-288.md",
-    "Pasted image 20240314110421.png",
-    "notes/note-287.md",
-    "imagens/print_screen_315.png",
-    "notes/note-20.md",
-    "notes/note-19.md",
-    "notes/regra da mão direita.md",
-    "Pasted image 20240314091811.png",
-    "imagens/print_screen_311.png",
-    "notes/note-23.md",
-    "Pasted image 20240314075441.png",
-    "MATÉRIAS/TRADING.md",
-    "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md",
-    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
-    "notes/indicators.md",
-    "notes/note-286.md",
-    "notes/note-285.md",
-    "notes/note-284.md",
-    "notes/note-143.md",
     "my-configuration-files/xmodmap/active-script.sh",
     "my-configuration-files/xmodmap/backup_xmodmap",
     "my-configuration-files/xmodmap",

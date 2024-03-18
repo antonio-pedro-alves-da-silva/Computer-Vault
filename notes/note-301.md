@@ -1,0 +1,2 @@
+ televisão - tevê;
+ você - cê

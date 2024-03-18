@@ -3,3 +3,5 @@ verbos irregulares
 	ter
 	vir 
 	poder
+
+

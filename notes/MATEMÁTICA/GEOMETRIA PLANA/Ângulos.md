@@ -14,8 +14,10 @@
 
 # Ângulos na Circuferência
 
+
 [[print_screen_625.png|ângulo central]]
 [[print_screen_626.png|ângulo inscrito]]
+
 [[print_screen_627.png|ângulo excêntrico interno]]
 [[print_screen_628.png|ângulo excêntrico externo]]
 [[print_screen_629.png|ângulo circunscrito]]

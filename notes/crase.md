@@ -9,18 +9,17 @@ revisão
 		[[crase#==1)antes de palavras masculinas==|1.]]
 		[[crase#==2)antes de verbos==|2.]]
 		[[crase#==3)antes de pronomes pessoais do caso reto (eu, tu, ele, nós, vós, eles) e do caso oblíquo (me, mim, comigo, te, ti, contigo, se, si, o, lhe)==|3.]]
-		[[crase#==4)antes dos pronomes demonstrativos isso, esse, este, esta, essa==.|4.]]
+		[[crase#==4)antes dos pronomes demonstrativos isso , isto , esse, este, essa ,esta==|4.]]
 		[[crase#==5)quando indicamos tempo futuro==|5.]]
 		[[crase#==6)antes de artigo indefinido um, uma, uns, umas==|6.]]
 		[[crase#==7)Entre palavras idênticas repetidas, como nas expressões cara a cara, boca a boca etc==.|7.]]
-		[[crase#==8)Antes de palavras femininas de caráter genérico==|8.]]
+		[[crase#==8)Antes de palavras femininas de caráter genérico ou de gênero sobrecomum ou de gênero vacilante==|8.]]
 		[[crase#==12)"Antes dos seguintes pronomes “ninguém”, “essa”, “toda”, “cada”, “qualquer”, “tudo”"==|12.]]- (netcqt)
 		[[crase#==15)Por outro lado, **quando acompanhadas de preposições (para, desde, após, perante, com), não se utiliza a crase**==|15.]] - para lembrar (pda)(pc)
 	quando o uso é facultativo
 		[[crase#==depois da preposição até==|1.]]
 		[[crase#==antes de nomes próprios femininos==|2]]
 		[[crase#==antes dos pronomes possesivos femininos==|3.]]
-
 # regras de quando usar crase
 
 
@@ -141,7 +140,7 @@ Ele comprou sapatos **à** Luís XV. (Ele comprou sapatos à moda de Luís XV.
 	- Falamos a ela sobre o ocorrido.
 	- Ofereceram a mim as entradas para o cinema.
 	- Deram o troco a ele?
-### ==4)antes dos pronomes demonstrativos isso, esse, este, esta, essa==.
+### ==4)antes dos pronomes demonstrativos isso , isto , esse, este, essa ,esta==
 	- Era a isso que nos referíamos.
 	- Quando aderir a esse plano, a internet ficará mais barata.
 	- Já aderiu a este plano?
@@ -160,7 +159,7 @@ Ele comprou sapatos **à** Luís XV. (Ele comprou sapatos à moda de Luís XV.
 
 - Depois do afogamento, foi preciso fazer respiração **boca a boca.**
 - Todas as vezes em que o poeta ficava **cara a cara** com suas emoções
-### ==8)Antes de palavras femininas de caráter genérico==
+### ==8)Antes de palavras femininas de caráter genérico ou de gênero sobrecomum ou de gênero vacilante==
 
 Antes de palavra feminina de caráter genérico
 
