@@ -6,3 +6,4 @@ Na oração do enunciado, nota-se a ocorrência de uma elipse (ocultação) do v
 
 - Seu cheiro, o aroma da mais tenra fruta do pomar.
 - Seu cheiro **era** o aroma da mais tenra fruta do pomar.
+

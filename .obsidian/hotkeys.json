@@ -103,15 +103,6 @@
       "key": "Q"
     }
   ],
-  "editor:toggle-highlight": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "H"
-    }
-  ],
   "obsidian-excalidraw-plugin:toggle-lock": [],
   "editor:insert-codeblock": [
     {
@@ -140,6 +131,24 @@
         "Mod"
       ],
       "key": "E"
+    }
+  ],
+  "editor:toggle-highlight": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "H"
+    }
+  ],
+  "colored-text:change-highlight-mode": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "M"
     }
   ]
 }

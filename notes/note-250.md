@@ -16,3 +16,4 @@ A frase 3, com a palavra povo em primeiro plano e com a palavra unido entre vír
 Nas frases 2 e 3, a exclamação também reforça a atitude do povo. 
 
 
+ 

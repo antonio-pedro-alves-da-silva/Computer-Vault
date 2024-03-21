@@ -1,8 +1,7 @@
 # Poliedros
 ## Regras de euler
 
-![[Pasted image 20231031151346.png]]
-## Calculando o numero de aresta
+## [[note-326|Calculando o numero de aresta]]
 
 
 

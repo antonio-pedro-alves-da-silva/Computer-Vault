@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "048c1b17188fdd8d",
+        "id": "a19843bacff54b72",
         "type": "tabs",
         "children": [
           {
-            "id": "e445aaadd520a41b",
+            "id": "efb653048e6b1069",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATÉRIAS/EEAR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f351c367bc3fe29c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,24 +32,12 @@
             }
           },
           {
-            "id": "6082a9452d07c32a",
+            "id": "3ed7a304009c294e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/TEXTO/uso da virgula correto.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82de8227ab442b53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-195.md",
+                "file": "notes/note-335.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-195.md",
+                "file": "notes/note-335.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-195.md",
+                "file": "notes/note-335.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-195.md"
+                "file": "notes/note-335.md"
               }
             }
           },
@@ -184,54 +184,57 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-importer:Open Importer": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-importer:Open Importer": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "82de8227ab442b53",
+  "active": "3ed7a304009c294e",
   "lastOpenFiles": [
-    "notes/TEXTO/uso da virgula correto.md",
-    "notes/note-143.md",
-    "notes/note-195.md",
-    "MATÉRIAS/EEAR.md",
-    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
-    "notes/note-189.md",
-    "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md",
-    "notes/note-185.md",
-    "notes/note-184.md",
-    "notes/note-316.md",
-    "notes/note-183.md",
-    "notes/note-315.md",
-    "notes/note-314.md",
-    "notes/note-180.md",
-    "notes/note-313.md",
-    "notes/note-312.md",
-    "notes/note-311.md",
-    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
-    "notes/note-40.md",
-    "notes/note-310.md",
-    "notes/FÍSICA/ELETRICIDADE.md",
-    "imagens/print_screen_311.png",
-    "notes/note-293.md",
-    "notes/note-23.md",
-    "imagens/print_screen_407.png",
-    "notes/note-295.md",
-    "notes/MATEMÁTICA/GEOMETRIA PLANA/Ângulos.md",
-    "notes/TEXTO/transposição de discurso.md",
-    "imagens/print_screen_661.png",
     "imagens/Pasted image 20230917212314.png",
-    "Pasted image 20240314205240.png",
-    "imagens/print_screen_597.png",
-    "Pasted image 20240314182459.png",
-    "Pasted image 20240314154312 1.png",
-    "Pasted image 20240314154312.png",
-    "imagens/print_screen_412.png",
+    "notes/note-335.md",
+    "imagens/print_screen_672.png",
+    "imagens/print_screen_671.png",
+    "imagens/print_screen_670.png",
+    "imagens/print_screen_669.png",
+    "imagens/print_screen_668.png",
+    "imagens/print_screen_667.png",
+    "notes/note-336.md",
+    "imagens/print_screen_666.png",
+    "notes/note-143.md",
+    "notes/GRAMÁTICA/concordância verbal.md",
+    "notes/crase.md",
+    "MATÉRIAS/EEAR.md",
+    "notes/note-74.md",
+    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
+    "notes/note-75.md",
+    "notes/note-72.md",
+    "notes/note-334.md",
+    "notes/note-45.md",
+    "notes/note-42.md",
+    "notes/note-44.md",
+    "notes/note-43.md",
+    "imagens/classificação_das_imagens.jpg",
+    "notes/note-333.md",
+    "notes/note-47.md",
+    "imagens/print_screen_612.png",
+    "notes/note-332.md",
+    "notes/note-331.md",
+    "notes/note-330.md",
+    "notes/note-322.md",
+    "notes/note-329.md",
+    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "notes/note-328.md",
+    "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md",
+    "Pasted image 20240319120727.png",
+    "imagens/img-çç",
+    "imagens/IMG_20240318_134627.jpg-20240318T164804Z-001",
+    "imagens/IMG_20240318_134627.jpg-20240318T164804Z-001.zip",
     "my-configuration-files/xmodmap/active-script.sh",
     "my-configuration-files/xmodmap/backup_xmodmap",
     "my-configuration-files/xmodmap",
@@ -239,9 +242,6 @@
     "my-configuration-files/backup/cfs/cfs-b-1-2006.pdf",
     "my-configuration-files/backup/cfs/cfs-b-1-2006_gabarito.pdf",
     "my-configuration-files/backup/cfs/cfs-b-1-2006.pdf.crdownload",
-    "image",
-    "my-configuration-files/backup/TÉCNICO-BANCÁRIO-TECNOLOGIA-DA-INFORMAÇÃO/EDITAL-2021-PcD-1.pdf",
-    "my-configuration-files/backup/TÉCNICO-BANCÁRIO-TECNOLOGIA-DA-INFORMAÇÃO/EDITAL-2021-PcD-1.pdf.crdownload",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

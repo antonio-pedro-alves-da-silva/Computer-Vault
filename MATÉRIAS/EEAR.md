@@ -864,13 +864,12 @@ LÍNGUA INGLESA
 	GRAMÁTICA 
 		vocabulário
 			[[note-175|vocabulário1 (100 words)]]
-		active voice , passive voice 
+		[[note-318|active voice , passive voice]] 
 		Tempos verbais
 		[[note-313|Modal verbs]]
-		Infinitivo e gerúndio
-		Modos imperativo e subjuntivo
+		[[note-323|Infinitivo , gerúndio e particípio]]
+		[[note-319|Modos imperativo]] e [[note-322|subjuntivo]]
 		Orações condicionais (0, 1 e 2)
-		Voz Passiva e Phrasal Verbs
 		Question Tags
 		Quantificadores
 		Prefixos e Sufixos

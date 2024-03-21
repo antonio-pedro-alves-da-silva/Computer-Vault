@@ -1,11 +1,12 @@
 
 revisão
-	[[concordância verbal#==1. Concordância com sujeito coletivo==|1.]]
-	[[concordância verbal#==5. Concordância com pronome relativo "que"==|5.]]
-	[[concordância verbal#12. ==Concordância com sujeitos ligados por "nem"==|12.]]
-	[[concordância verbal#==15. Concordância com a partícula "se"==|15.]]
-	[[concordância verbal#==16. Concordância com verbos impessoais==|16.]]
-	[[concordância verbal#==26.Concordância dos particípios==|26.]]
+	[[concordância verbal#==1. Concordância com sujeito coletivo==|1.]]sujeito coletivo
+	[[concordância verbal#==5. Concordância com pronome relativo "que"==|5.]]relativo que
+	[[concordância verbal#12. ==Concordância com sujeitos ligados por "nem"==|12.]]nem
+	[[concordância verbal#==15. Concordância com a partícula "se"==|15.]]se
+	[[concordância verbal#==16. Concordância com verbos impessoais==|16.]]impessoais
+	[[concordância verbal#==26.Concordância dos particípios==|26.]]partícipios
+
 ### ==1. Concordância com sujeito coletivo==
 
 Quando o sujeito é coletivo, o verbo fica sempre no singular. Exemplos:

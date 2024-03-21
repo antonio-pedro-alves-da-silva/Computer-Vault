@@ -1,9 +1,14 @@
+
 uso da virgula
 	quando usar virgula
 		usado para evitar ambiguidade
 		separar elementos com a mesma função sintática
 		[[note-193|Separar orações independentes]]
-		[[note-195|separar orações subordinadas]]
+		separar orações subordinadas
+			[[note-192|para separar orações subordinadas adverbiais deslocadas , se aparecer no final e não causar ambiguidade não é necessário usar vírgula.]]
+			separar orações adjetivas explicativas
+			Orações subordinadas precedendo a principal
+		ordem direta e indireta
 		[[expressões explicativas]]
 		separar orações cordenadas sindéticas adversativas , conclusivas e explicativas
 		isolar o vocativo e o aposto
@@ -16,7 +21,7 @@ uso da virgula
 	Quando não usar a vírgula
 		não separar o sujeito do predicado
 		[[note-201|não separar o verbo do complemento]]
-	Quando a virgula é facultativa
+	Quando a  virgula é facultativa
 		[[note-202|Enumeração curta]]
 		[[note-221|Adjetivos coordenados]]
 		[[note-222|Conjunções coordenativas]]

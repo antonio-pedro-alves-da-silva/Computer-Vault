@@ -1,5 +1,5 @@
 o que é objeto pleonátiso ?
-	é a repetição do objeto na frase através de um pronome obliquo
+	é a repetição do objeto na frase
 
 **A mim** , ninguém **me** faz feliz
 

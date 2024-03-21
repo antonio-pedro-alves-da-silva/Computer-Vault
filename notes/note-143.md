@@ -14,9 +14,7 @@ formação de palavras
 			zum-zum
 [[crase]]
 [[concordância verbal]]
-[[Pasted image 20230917212314.png|separação silábica]] 
-	quando separar
-	quando não separar
+[[note-335|separação silábica]] 
 [[notes/GRAMÁTICA/pronome relativo#==regras do pronome “cujo”==|pronome relativo cujo]]
 [[regras do acento gráfico]]
 gênero de substantivo 

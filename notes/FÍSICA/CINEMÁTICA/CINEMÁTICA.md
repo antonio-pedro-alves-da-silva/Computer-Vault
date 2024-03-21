@@ -18,7 +18,7 @@ cinemática
 		[[note-4|periodo e frequência]]
 		[[Pasted image 20231124120455.png|velocidade angular e função horária do mcu]]
 		velocidade linear ou velocidade tangencial ou velocidade escalar ou velocidade escalar média
-			$\Large v = w.r$
+			$\Large v = \omega.R$
 		[[Pasted image 20231124113647.png|aceleração centrípeta ou aceleração radial do movimento circular]]
 	[[print_screen_252.png|Acoplamento de polia ou Acomplamento por correia ou corrente e roda dentada e disco em rotação uniforme]]
 		[[print_screen_253.png|exemplo de aplicação]]

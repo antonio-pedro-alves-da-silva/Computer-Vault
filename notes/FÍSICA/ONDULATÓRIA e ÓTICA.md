@@ -33,7 +33,6 @@ ondulatória
 		[[note-31|timbre]]
 	[[note-32|efeitos doppler]]
 		[[note-40|formula do efeito doppler]]
-		[exemplos de aplicação](https://exercicios.brasilescola.uol.com.br/exercicios-fisica/exercicios-sobre-efeito-doppler.htm)
 	[[note-33|tubos sonoros(lambda e comprimento)]]
     ondas estacionárias
 		o que é onda estacionária ?
@@ -42,10 +41,7 @@ ondulatória
 	fenômenos ondulatórios
 		reflexão
 		refração
-			o que é constante na refração
-			     direção e velocidade não são constantes
-			     comprimento não é constante
-				 periodo , frequência e fase são constanets		     
+			[[note-317|o que é constante na refração]]		     
 		[[Pasted image 20231209164757.png|difração]]
 		[[note-36|polarização]]
 		iterferência
@@ -57,12 +53,11 @@ ondulatória
 	movimento harmônico simples
 		[[print_screen_500.png|força no MHS]]
         energia no MHS
+        [[note-324|velocidade angular da mola e do pênudulo simples]]
 		[[print_screen_424.png|periodo da mola e periodo do pêndulo simples]]
-		[[print_screen_502.png|função horária da elongação e raio do mcu]]
-        [[print_screen_505.png|função horária da velocidade]]
-	    [[print_screen_506.png|relação velocidade do mhs e velocidade do mcu]]
-		[[print_screen_504.png|velocidade escalar em função da elongação x e velocidade escalar máxima]]
-		[[print_screen_508.png|função horária da aceleração e aceleração em função da elongação]]
+		[[print_screen_664.png|função horária da elongação e função horária da velocidade do mhs]]    
+		[[print_screen_663.png|velocidade escalar em função da elongação no mhs]]
+		[[print_screen_665.png|função horária da aceleração]]
 	[[note-37|cor por reflexão]]
 		o que o branco reflete ?
 			   o branco reflete todas as cores
@@ -72,20 +67,18 @@ ondulatória
 			as demais cores refltem apenas a prórpria e absrovem as demais sem refleti-las
 	[[Pasted image 20231213205723.png|faixas de frequência]]
 	exercícios de ondas e oscilações
-		[1](https://www.qconcursos.com/questoes-militares/questoes/19938215-45)aprendi(que a frequência não muda refração)
-		[2](https://www.qconcursos.com/questoes-militares/questoes/a77d6ece-6b)
-		[3](https://www.qconcursos.com/questoes-militares/questoes/b1ea10fb-01)aprendi(a formula do efeito doppler)
-		[6](https://www.qconcursos.com/questoes-militares/questoes/8d3a9329-f3)
-		[7](https://www.qconcursos.com/questoes-militares/questoes/d720efb7-4b)
-		[8](https://www.qconcursos.com/questoes-militares/questoes/d6d6c2f8-4b)
-		[9](https://www.qconcursos.com/questoes-militares/questoes/b0ab850d-d0)
-		[10](https://www.qconcursos.com/questoes-militares/questoes/5b3a2687-16)
-		[11](https://www.qconcursos.com/questoes-militares/questoes/a7a2706e-6b)
-		[12](https://www.qconcursos.com/questoes-militares/questoes/d75ef328-49)
-		[13](https://www.qconcursos.com/questoes-militares/questoes/19b041c3-45)
-		[14](https://www.qconcursos.com/questoes-militares/questoes/5b798a7d-3d)
-		[15]aprendi-a-calcular-o-menor-comprimento-de-onda-audivel-pelo-ser-humano+
-		[16](https://www.qconcursos.com/questoes-militares/questoes/f54af8f0-a0)aprendi(aprendi o que é defasar uma onda)
+		[1](https://www.qconcursos.com/questoes-militares/questoes/19938215-45)([[note-317|o que é constante na refração]])
+		[2](https://www.qconcursos.com/questoes-militares/questoes/a77d6ece-6b)([[note-34|velocidade da onda por meio da densidade]])
+		[3](https://www.qconcursos.com/questoes-militares/questoes/b1ea10fb-01)([[note-40|formula do efeito doppler]])
+		[6](https://www.qconcursos.com/questoes-militares/questoes/8d3a9329-f3)("segmento de uma reta" significa diâmetro e é usado hertz em vez rpm na função horária da elongação)
+		[7](https://www.qconcursos.com/questoes-militares/questoes/d720efb7-4b)(alpinista A e B na Montanha)
+		[8](https://www.qconcursos.com/questoes-militares/questoes/d6d6c2f8-4b)(velocidade igual a zero)
+		[9](https://www.qconcursos.com/questoes-militares/questoes/b0ab850d-d0)([[note-330|aprendi qual é a diferença de fase para que duas ondas que se encontram se anulem]])
+		[10](https://www.qconcursos.com/questoes-militares/questoes/5b3a2687-16)([[note-317|o que é constante na refração]])
+		[11](https://www.qconcursos.com/questoes-militares/questoes/a7a2706e-6b)(<span style="color:#ff0000">ATENÇÃO !!!</span> EM <span style="color:#ff0000">km/h</span> não em m/s)
+		[12](https://www.qconcursos.com/questoes-militares/questoes/d75ef328-49)([[note-329|velocidade da luz]] , e que a faixa corresponde ao comprimento de onda)
+		[13](https://www.qconcursos.com/questoes-militares/questoes/19b041c3-45)([[note-317|o que é constante na refração]] , <span style="color:#ff0000">cuidado está em mega hertz</span>)
+		[16](https://www.qconcursos.com/questoes-militares/questoes/f54af8f0-a0)(aprendi o que é defasar a onda em $\Large \frac{1}{2}$ período)
 ótica
 	óptica geométrica
 		três principios da óptica geométrica
@@ -100,20 +93,15 @@ ondulatória
 		[[print_screen_428.png|indice de refração]]
 		[[note-46|indice de refração relativo]]
 		[[print_screen_429.png|qual o meio é mais refrigente]]
-			o meio mais próxima da normal será o mais refrigente
-			o meio com a menor velocidade é o meio menos refrigente
-			o meio com maior indice de refração será o meio mais refrigente
+			 [[note-332|o meio mais refrigente sempre será aquele que tem]]
 		[[print_screen_431.png|segunda lei da refração(lei de snell)]]
 		[[print_screen_432.png|ângulo limite e reflexão total]]
 			quando ocorre reflexão total
 				 Esse fenômeno só ocorre se o ângulo de incidência for maior que o chamado ângulo limite.	 	 
 		[[print_screen_612.png|lâminas de faces paralelas]]
-		prisma
+		prisma 
 			[[note-47|angulo de abertura A e desvio angular mínimo]]
-			desvio angular mínimo
-				quando ocorre o desvio mínimo ?
-					quando o angulo de incidência é igual ao angulo de emergência e também o raio de refrigência 1 é igual ao raio de refrigência 2
-					 $\Large D_{mínimo}=2i-2r$
+			[[note-333|desvio angular mínimo]]
 	espelhos esféricos
 		[[note-41|construção geométrica de imagens]]
 		[[note-42|construção gráfica das imagens e classificação das imagens]]
@@ -124,30 +112,7 @@ ondulatória
 			$R=2*|f|$
 		[[print_screen_420.png|ordenadas e abscissas]]
 		[[Pasted image 20240122181909.png|equação dos pontos conjugados]]
-		[[print_screen_607.png|aumento linear transversal]]
-			 se é uma imagem invertida o sinal do aumento linear será negativo
-			 se é uma imagem direita o sinal será positivo
-		[[note-45|convenções de sinais das ordenadas e abscissas]]
-			espelho côncavo ou convexo
-				f > 0 espelho côncavo
-				f < 0 espelho convexo
-			imagem real  ou virtual 
-				p' > 0 imagem real 
-				p' < 0 imagem virtual
-				!atenção:toda imagem real é invertida
-				!atenção:toda imagem invertida é direita
-			objeto real
-				p > 0 objeto real
-			direita ou invertida
-				i e o com sinais iguais ou i > 0 -> imagem direita
-				i e o com sinais diferentes i < 0 -> imagem invertida
-	espelhos planos
-		[[print_screen_608.png|leis da reflexão]]
-		[[print_screen_609.png|construção da imagem]]
-		[[Pasted image 20240122210825.png|translação de espelho plano]]
-			$D=2d$
-	    [[note-48|rotação de um espelho plano]]
-		[[note-66|número de imagens gerada de um objeto entre dois espelhos]]
+		[[note-334|aumento linear transversal]]
 	lentes esféricas
 		[[Pasted image 20240123101808.png|tipos de lentes esféricas]]
 		[[Pasted image 20240123102359.png|lentes convergentes e lentes divergentes]]
@@ -156,9 +121,6 @@ ondulatória
 		classifição das imagens em todas as posições em lentes
 			[[note-43|lentes convergentes]]
 			[[note-44|lentes divergentes]]
-		convenções de sinais
-			f > 0 lente convergente
-			f < 0 lente divergente
 		[principais defeitos da visão humana](https://www.infoescola.com/optica/anomalias-da-visao/)
 				miopia
 					[[note-72|o que é miopia ?]]
@@ -177,6 +139,13 @@ ondulatória
 			[[note-68|o que é vergência ?]]
 				Vergência é a **medida da capacidade de uma lente de desviar a trajetória da luz**
 			[[note-69|justa posição de lentes esféricas]]
+	espelhos planos
+		[[print_screen_608.png|leis da reflexão]]
+		[[print_screen_609.png|construção da imagem]]
+		[[Pasted image 20240122210825.png|translação de espelho plano]]
+			$D=2d$
+	    [[note-48|rotação de um espelho plano]]
+		[[note-66|número de imagens gerada de um objeto entre dois espelhos]]
 	instrumentos ópticos
 		[[print_screen_620.png|lupa]]
 		[[Pasted image 20240127100642.png|telescópio refrator(luneta astronômica) ou microscópio composto]]
@@ -188,19 +157,17 @@ ondulatória
 		refração da luz
 			 [1](https://www.qconcursos.com/questoes-militares/questoes/a79bf388-6b)(exercício de aplicação de indice de refração relativo)
 			 [2](https://www.qconcursos.com/questoes-militares/questoes/464932f5-49)(lâminas paralelas)
-			 [3](https://www.qconcursos.com/questoes-militares/questoes/67bd5226-86)(prisma angulo de Abertura A e Desvio Mínimo)
+			 [3](https://www.qconcursos.com/questoes-militares/questoes/67bd5226-86)(prisma angulo de Abertura A e Desvio Mínimo , <span style="color:#ff0000">cuidado ele quer o angulo de abertua não o desvio mínimo</span>)
 			 [4](https://www.qconcursos.com/questoes-militares/questoes/fdac0247-f8)(indice de refração relativo)
 		espelhos esféricos
-			 [2](https://www.qconcursos.com/questoes-militares/questoes/b200bff0-01)(equação de gauss e aumento linear transversal)
-			 [3](https://www.qconcursos.com/questoes-militares/questoes/fd9cb722-f8)(aumento linear)-revisar
-			 [4](https://www.qconcursos.com/questoes-militares/questoes/8d1008f3-f3)(regras da construção gráfica em espelho esféricos)
-			 [5](https://www.qconcursos.com/questoes-militares/questoes/21195fa9-4d)(regras da construção gráfica em espelho esféricos e aumento linear)
-			 [6](https://www.qconcursos.com/questoes-militares/questoes/588cc633-ad)
-			 [7](https://www.qconcursos.com/questoes-militares/questoes/dfc47b82-55)
-			 [8](https://www.qconcursos.com/questoes-militares/questoes/e7e73317-4d)(errado)
-			 [9](https://www.qconcursos.com/questoes-militares/questoes/516262b9-dc)
+			 [2](https://www.qconcursos.com/questoes-militares/questoes/b200bff0-01)([[Pasted image 20240122181909.png|equação dos pontos conjugados]]e aumento linear transversal,<span style="color:#ff0000">CUIDADO ELE AFASTOU 40CM ENTÃO ELE ESTÁ HÁ 60CM</span>)
+			 [4](https://www.qconcursos.com/questoes-militares/questoes/8d1008f3-f3)(classifição das imagens em todas as posições em lentes)
+			 [5](https://www.qconcursos.com/questoes-militares/questoes/21195fa9-4d)(classifição das imagens em todas as posições em lentes)
+			 [6](https://www.qconcursos.com/questoes-militares/questoes/588cc633-ad)(classifição das imagens em todas as posições em lentes)
+			 [7](https://www.qconcursos.com/questoes-militares/questoes/dfc47b82-55)([[note-45|convenções de sinais das ordenadas e abscissas]])
+			 [8](https://www.qconcursos.com/questoes-militares/questoes/e7e73317-4d)([[note-45|convenções de sinais das ordenadas e abscissas]])
 		lentes esféricas
-			[1](https://www.qconcursos.com/questoes-militares/questoes/463d0095-49)
+			[1](https://www.qconcursos.com/questoes-militares/questoes/463d0095-49)()
 			[2](https://www.qconcursos.com/questoes-militares/questoes/78fe711f-bf)(convenções de sinais)
 			[3](https://www.qconcursos.com/questoes-militares/questoes/d7a607c9-49)(vergência e justa posição de lentes esféricas)
 			[4](https://www.qconcursos.com/questoes-militares/questoes/d798e137-49)
@@ -212,4 +179,5 @@ ondulatória
 			[2](https://www.qconcursos.com/questoes-militares/questoes/9d59824f-50)(rotação de um espelho plano)
 			[3](https://www.qconcursos.com/questoes-militares/questoes/763aebc5-55)+
 		instrumentos ópticos
-			
+
+

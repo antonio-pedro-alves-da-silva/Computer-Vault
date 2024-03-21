@@ -1,4 +1,4 @@
-**virgula após a remoção do verbo**
+**virgula substitui o verbo**
 
 - Eu gosto de futebol; Maria, de volêi.
 - “_O colégio compareceu fardado; a diretoria, de casaca_.” (Raul Pompeia)

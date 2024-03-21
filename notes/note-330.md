@@ -1,0 +1,1 @@
+diferença de fase igual $\Large \pi$ 

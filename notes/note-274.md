@@ -8,4 +8,3 @@
 
 **_D)_** _O sol estava mais intenso, e a criançada nem esquentava._ → vírgula antes da conjunção coordenativa aditiva "e" de maneira facultativa para separar orações com sujeitos diferentes.
 
-FORÇA, GUERREIROS(AS)!! ☻
