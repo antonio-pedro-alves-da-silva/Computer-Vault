@@ -8,7 +8,7 @@ Paroxítonas
 		==-o de -oo== deixa de ser acentuada.
 		deixou de ser usado em ==paroxítonas homógrafas==
 Oxítonas
-	 acentuam-se as terminadas em: -a(s), -e(s), -o(s), -em, ens . Exemplos: cajá, café, paletó, também, parabéns.Formas verbais terminadas em "a", "e", "o" tônicos seguidas de lo(s), la(s)
+	 acentuam-se as terminadas em: -a(s), -e(s), -o(s), -em(ns) . Exemplos: cajá, café, paletó, também, parabéns.Formas verbais terminadas em "a", "e", "o" tônicos seguidas de lo(s), la(s)
 	Acentuação dos monossílabos tônicos
 		São acentuados os monossílabos terminados em:
 		**A**, **AS**: dá, lã, gás, má, chá, fã.
@@ -17,12 +17,8 @@ Oxítonas
 		**ÉU, ÉUS**: céu, céus, réu, réus, véu, véus.
 		**ÉI, ÉIS**: réis, géis.
 		**ÓI, ÓIS**: dói, mói, sóis.
-hiatos
-	[[note-49|quando acrescentar o acento]]
-	[[note-50|quando não acrescentar o acento]]
-ditongos abertos
-	[[note-51|quando acentuar]]
-	[[note-52|quando não acentuar]]
+[[note-338|hiatos]]
+[[note-339|ditongos abertos]]
 [[note-53|acento diferenciais]]
 
 ### Referências

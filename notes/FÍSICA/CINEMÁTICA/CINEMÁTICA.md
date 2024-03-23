@@ -31,8 +31,6 @@ cinemática
 		[[print_screen_632.png|espelho em movimento e obserador parado]]
 		[[print_screen_633.png|espelho em movimento e observador em movimento]]
 	execícios errados
-		[1](https://www.qconcursos.com/questoes-militares/questoes/a7c711b5-6b)
-		[2](https://www.qconcursos.com/questoes-militares/questoes/a7bd122b-6b)	
 		[3](https://www.qconcursos.com/questoes-militares/questoes/a7a9abb6-6b)-lançamento vertical e encontro de dua bolas
 		[4](https://www.qconcursos.com/questoes-militares/questoes/a7986265-6b)-lançamento vertical do foguete após um lançamento oblíquo do mesmo
 		[5](https://www.qconcursos.com/questoes-militares/questoes/b1e04f5e-01)-(velocidade angular e encontro de dois ciclistas)

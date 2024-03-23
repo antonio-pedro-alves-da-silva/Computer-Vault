@@ -1,0 +1,1 @@
+**Por** é uma preposição, sinônima de: através de, para, durante, mediante , **Pôr** é um verbo, sinônimo de: colocar, botar, inserir, fixar

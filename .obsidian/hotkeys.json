@@ -150,5 +150,14 @@
       ],
       "key": "M"
     }
+  ],
+  "workspace:split-vertical": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "R"
+    }
   ]
 }

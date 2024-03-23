@@ -1,5 +1,5 @@
-[[note-307|após nh]]
-[[note-308|vogal idêntica]]
-[[note-309|após ditongo descrescente ocupando posição de paroxítona]]
+[[note-307|1]].nh
+[[note-308|2]].vogal idêntica
+[[note-309|3]].ditongo
 
 

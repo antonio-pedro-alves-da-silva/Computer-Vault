@@ -24,7 +24,7 @@ Expressões confudidas
 	mau ou mal
 	[[note-59|afim ou a fim]]
 	[[note-60|acerca de,a cerca de ou há cerca de]]
-	senão ou se não
+	[[note-343|senão ou se não]]
 	[[note-54|A vista]], [[note-55|à vista]] ou [[note-56|avista ]]
 	[[note-57|h-esitar]] ou [[note-58|e-xitar]]
 Porquês
@@ -56,7 +56,7 @@ orações subordinadas
 	[11](https://www.qconcursos.com/questoes-militares/questoes/090b8ee4-ed)(aprendi(tal que é consecutiva , conforme é conformativa))
 	[12](https://www.qconcursos.com/questoes-militares/questoes/08c42757-ed)(sempre erro apesar de ser óbvia não ser predicativa ser subjetiva)
 	[13](https://www.qconcursos.com/questoes-militares/questoes/d60cadc3-4b)(aprendi(que existe [[note-180|Oração Subordinada Substantiva Agente da Passiva]]))
-	[14](https://www.qconcursos.com/questoes-militares/questoes/74239dac-0d)(aprendi([[note-314|resolução]]))
+	[14](https://www.qconcursos.com/questoes-militares/questoes/74239dac-0d)(aprendi([[note-314|resolução]]))+
 	[15](https://www.qconcursos.com/questoes-militares/questoes/74193e9f-0d)(aprendi(a como identificar uma [[note-182|subordinadas substantivas subjetivas reduzidas de infinitivo]]))
 	[16](https://www.qconcursos.com/questoes-militares/questoes/669f5b84-86)-A(aprendi([[note-315|resolução]]))
 	[17](https://www.qconcursos.com/questoes-militares/questoes/66878ff8-86)-D(aprendi([[note-183|resolução]]))

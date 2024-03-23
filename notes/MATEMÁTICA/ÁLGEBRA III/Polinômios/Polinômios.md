@@ -47,7 +47,7 @@ um polinômio de grau 2° tem duas raizes um polinômio de grau 3° tem 3 raizes
 
 an = é o coeficiente do maior grau
 r1,r2,r3,rn são as raizes do polinômio
-$p(x)=an(x-r1).(x-r2).(x-r3)...(x-rn)$
+
 
 **Exemplo:**
 $$x²-5x+6$$
@@ -60,9 +60,8 @@ $$x²-5x+6=1(x-2)(x-3)$$
 ![[Pasted image 20231102133222.png]]
 
 
-# relações de Girard
+# [[note-346|relações de Girard]]
 
-![[print_screen_161.png]]
 
-![[Polinômios grau par e graup impar.excalidraw]]
+
 

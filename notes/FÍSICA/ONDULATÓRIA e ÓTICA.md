@@ -99,7 +99,7 @@ ondulatória
 			quando ocorre reflexão total
 				 Esse fenômeno só ocorre se o ângulo de incidência for maior que o chamado ângulo limite.	 	 
 		[[print_screen_612.png|lâminas de faces paralelas]]
-		prisma 
+		prisma
 			[[note-47|angulo de abertura A e desvio angular mínimo]]
 			[[note-333|desvio angular mínimo]]
 	espelhos esféricos
@@ -113,6 +113,7 @@ ondulatória
 		[[print_screen_420.png|ordenadas e abscissas]]
 		[[Pasted image 20240122181909.png|equação dos pontos conjugados]]
 		[[note-334|aumento linear transversal]]
+		[[note-45|convenções de sinais das ordenadas e abscissas]]
 	lentes esféricas
 		[[Pasted image 20240123101808.png|tipos de lentes esféricas]]
 		[[Pasted image 20240123102359.png|lentes convergentes e lentes divergentes]]
@@ -134,11 +135,11 @@ ondulatória
 					[[note-79|o que é astigmatismo ?]]
 				estrabismo
 					[[note-80|o que é estrabismo ?]]
-		[[note-67|equação dos fabricantes de lentes]]
 		vergência e justaposição de lentes esféricas
 			[[note-68|o que é vergência ?]]
 				Vergência é a **medida da capacidade de uma lente de desviar a trajetória da luz**
 			[[note-69|justa posição de lentes esféricas]]
+			[[note-67|equação dos fabricantes de lentes para calcular vergência]]
 	espelhos planos
 		[[print_screen_608.png|leis da reflexão]]
 		[[print_screen_609.png|construção da imagem]]
@@ -167,17 +168,16 @@ ondulatória
 			 [7](https://www.qconcursos.com/questoes-militares/questoes/dfc47b82-55)([[note-45|convenções de sinais das ordenadas e abscissas]])
 			 [8](https://www.qconcursos.com/questoes-militares/questoes/e7e73317-4d)([[note-45|convenções de sinais das ordenadas e abscissas]])
 		lentes esféricas
-			[1](https://www.qconcursos.com/questoes-militares/questoes/463d0095-49)()
-			[2](https://www.qconcursos.com/questoes-militares/questoes/78fe711f-bf)(convenções de sinais)
-			[3](https://www.qconcursos.com/questoes-militares/questoes/d7a607c9-49)(vergência e justa posição de lentes esféricas)
-			[4](https://www.qconcursos.com/questoes-militares/questoes/d798e137-49)
-			[5](https://www.qconcursos.com/questoes-militares/questoes/b94c35e8-3d)
-			[6](https://www.qconcursos.com/questoes-militares/questoes/4db919ad-42)
-			[7](https://www.qconcursos.com/questoes-militares/questoes/4db919ad-42)
+			[1](https://www.qconcursos.com/questoes-militares/questoes/463d0095-49)(equação de gauss , aumento linear transversal,convenções de sinais)
+			[2](https://www.qconcursos.com/questoes-militares/questoes/78fe711f-bf)(equação de gauss , aumento linear transversal,convenções de sinais)
+			[3](https://www.qconcursos.com/questoes-militares/questoes/d7a607c9-49)(vergência e justa posição de lentes esféricas , <span style="color:#ff0000">CUIDADO A VERGÊNCIA É EM METROS</span>)
+			[4](https://www.qconcursos.com/questoes-militares/questoes/d798e137-49)([[note-67|equação dos fabricantes de lentes para calcular vergência]])
+			[5](https://www.qconcursos.com/questoes-militares/questoes/b94c35e8-3d)(equação de gauss , aumento linear transversal,convenções de sinais)
+			[6](https://www.qconcursos.com/questoes-militares/questoes/4db919ad-42)([[note-75|vergência da hipermetropia]])
 		espelhos planos
-			[1](https://www.qconcursos.com/questoes-militares/questoes/79017296-bf)
-			[2](https://www.qconcursos.com/questoes-militares/questoes/9d59824f-50)(rotação de um espelho plano)
-			[3](https://www.qconcursos.com/questoes-militares/questoes/763aebc5-55)+
+			[1](https://www.qconcursos.com/questoes-militares/questoes/79017296-bf)([[note-66|número de imagens gerada de um objeto entre dois espelhos]])
+			[2](https://www.qconcursos.com/questoes-militares/questoes/9d59824f-50)([[note-48|rotação de um espelho plano]])
+			[3](https://www.qconcursos.com/questoes-militares/questoes/763aebc5-55)()
 		instrumentos ópticos
 
 
