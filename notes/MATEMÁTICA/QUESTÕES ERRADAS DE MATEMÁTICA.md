@@ -79,6 +79,6 @@ prova de 2006
 [[note-344|9]]([[note-345|equação geral da reta e angulo de inclinação]] , [[print_screen_673.png|descobrindo a equação geral da reta através de matrizes]])
 [10](https://militares.estrategia.com/public/questoes/equaca-cujas-raizes-sa338445739e/#:~:text=O%20valor%20de%20%7Ca%20%2B%20b%7C%20%C3%A9&text=2.&text=3.)([[note-346|relações de Girard]] , [[note-351|Teorema da Decomposição]] ,  [[Produto Notaveis|produtos notáveis]] )
 [11]()([[note-353|resolução]] , [[note-352|teorema de tales]])
-
-
-
+[12]()([[note-354|resolução]])
+[13]()([[note-355|resolução]])
+14([[print_screen_213.png|tetraedro regular formulas]])

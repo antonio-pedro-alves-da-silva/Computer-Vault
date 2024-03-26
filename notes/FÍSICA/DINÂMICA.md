@@ -1,3 +1,4 @@
+
 LEIS DE NEWTON E SUAS APLICAÇÕES
 	Força de atrito
 		[[note-1|Força de atrito esático e dinâmico]]
@@ -7,12 +8,12 @@ Polias e Roldanas
 	[[print_screen_513.png|força da polia móvel-2]]
 Plano inclinado
 	[[print_screen_281.png|plano inclinado sem atrito]]
-	aceleração do plano inclinado sem atrito
+	aceleração do plano inclinado sem atrito+
 	[[print_screen_283.png|plano inclinado com atrito]]
 	aceleração no plano inclinado com atrito
 Pêndulo
-	[[print_screen_509.png|pendulo simples parado e oscilando no ponto mais alto]]
 	[[note-176|pendulo simples oscilando no ponto mais baixo]]
+	[[print_screen_509.png|pendulo simples parado e oscilando no ponto mais alto]]
 	[[print_screen_511.png|pêndulo cônico]]
 energia , trabalho e potência
 	 [[print_screen_258.png|Trabalho motor e trabalho resistênte]]
@@ -40,7 +41,7 @@ colisão
 	[[note-2|fase da deformação e fase da restituição]]
 	[[print_screen_525.png|coeficiente de restituição]]
 	[[note-3|tipos de colisões]]
-	[[print_screen_529.png|colisão bidimensional]]
+	[[print_screen_529.png|Qix=Qfx e Qiy=Qfy- colisão bidimensional entre duas bolas ]]
 	[[print_screen_528.png|colisão entre particulas de mesma massa]]
 	colisão contra obstáculo fixo
 		[[print_screen_533.png|análise unidimensinal]]

@@ -1,2 +1,8 @@
-• Ocorre quando a velocidade angular entre ambas é igual. (ωa = ωb).
-• Quando o período e a frequência da rotação são iguais.
+![[Pasted image 20240324114546.png]]
+
+
+$\Large \omega_{pneu}=\omega_{cat}$
+
+$\Large V_{cat}=V_{coroa}$
+
+$\Large \omega_{pedal}=\omega_{coroa}$
