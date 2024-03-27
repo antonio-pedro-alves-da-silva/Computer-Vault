@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "e57d44927969a878",
+            "id": "a9ae6502ff22fa21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/DINÂMICA.md",
+                "file": "notes/GRAMÁTICA/regência verbal.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/DINÂMICA.md",
+                "file": "notes/GRAMÁTICA/regência verbal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/DINÂMICA.md",
+                "file": "notes/GRAMÁTICA/regência verbal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/DINÂMICA.md"
+                "file": "notes/GRAMÁTICA/regência verbal.md"
               }
             }
           },
@@ -182,13 +182,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e57d44927969a878",
+  "active": "a9ae6502ff22fa21",
   "lastOpenFiles": [
-    "MATÉRIAS/EEAR.md",
-    "imagens/print_screen_531.png",
-    "notes/FÍSICA/DINÂMICA.md",
-    "notes/note-2.md",
     "notes/note-143.md",
+    "notes/GRAMÁTICA/regras do acento gráfico.md",
+    "MATÉRIAS/EEAR.md",
+    "notes/note-339.md",
+    "notes/note-338.md",
+    "notes/note-335.md",
+    "notes/note-336.md",
+    "notes/note-337.md",
+    "notes/GRAMÁTICA/concordância verbal.md",
+    "notes/crase.md",
+    "notes/note-359.md",
+    "notes/note-358.md",
+    "notes/note-357.md",
+    "notes/note-303.md",
+    "notes/note-300.md",
+    "my-configuration-files/backup/provas_de_português/prova_2019.txt",
+    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "notes/FÍSICA/DINÂMICA.md",
+    "imagens/Pasted image 20231125094454.png",
+    "notes/note-2.md",
+    "imagens/print_screen_515.png",
+    "imagens/print_screen_522.png",
+    "imagens/print_screen_531.png",
     "my-configuration-files/backup/provas_de_português/prova_2022.txt",
     "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
     "Pasted image 20240324144324.png",
@@ -199,36 +217,19 @@
     "Pasted image 20240324114546.png",
     "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "notes/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
-    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md",
     "notes/note-355.md",
     "notes/note-354.md",
-    "notes/note-353.md",
     "Pasted image 20240323193400.png",
-    "notes/note-352.md",
     "Pasted image 20240323183927.png",
-    "imagens/print_screen_243.png",
-    "imagens/print_screen_674.png",
-    "notes/MATEMÁTICA/ÁLGEBRA III/Números Complexos.md",
-    "imagens/Pasted image 20240302171101.png",
-    "notes/note-178.md",
-    "notes/crase.md",
-    "notes/Untitled 2.md",
     "my-configuration-files/backup/provas_de_português/prova_2023.txt",
     "my-configuration-files/backup/provas_de_português/prova_2024.txt",
-    "notes/FÍSICA/TERMOLOGIA.md",
-    "notes/note-66.md",
-    "notes/note-48.md",
-    "notes/note-45.md",
-    "notes/note-334.md",
-    "notes/note-67.md",
     "imagens/img-çç",
     "imagens/IMG_20240318_134627.jpg-20240318T164804Z-001",
     "imagens/IMG_20240318_134627.jpg-20240318T164804Z-001.zip",
     "my-configuration-files/xmodmap/active-script.sh",
     "my-configuration-files/xmodmap/backup_xmodmap",
     "my-configuration-files/xmodmap",
-    "my-configuration-files/backup/cfs/cfs-b-1-2006_gabarito.pdf.crdownload",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

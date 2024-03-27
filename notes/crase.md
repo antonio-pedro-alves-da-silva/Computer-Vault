@@ -1,11 +1,11 @@
 
 revisão
-	quando usar
+	[[note-357|quando usar]]
 		[[crase#==1. antes de palavras femininas==|1.]]feminas
 		[[crase#==2. após verbos que indicam destino(ir, voltar,vir)==|2.]]destino
 		[[crase#4. ==antes dos pronomes demonstrativos aquele , aquela , aquilo==|4.]]demonstrativos
 		[[crase#==7. na indicação de horas exatas.==|7.]]indicação de hora exata
-	quando não usar
+	[[note-358|quando não usar]] 
 		[[crase#==1)antes de palavras masculinas==|1.]]masculinas
 		[[crase#==2)antes de verbos==|2.]]verbos
 		[[crase#==3)antes de pronomes pessoais do caso reto (eu, tu, ele, nós, vós, eles) e do caso oblíquo (me, mim, comigo, te, ti, contigo, se, si, o, lhe)==|3.]]pronome pessoais
@@ -16,7 +16,7 @@ revisão
 		[[crase#==8)Antes de palavras femininas de caráter genérico ou de gênero sobrecomum ou de gênero vacilante==|8.]]caráter genérico
 		[[crase#==12)"Antes dos seguintes pronomes “ninguém”, “essa”, “toda”, “cada”, “qualquer”, “tudo”"==|12.]]- (netcqt)
 		[[crase#==15)Por outro lado, **quando acompanhadas de preposições (para, desde, após, perante, com), não se utiliza a crase**==|15.]] - para lembrar (pda)(pc)
-	quando o uso é facultativo
+	[[note-359|quando o uso é facultativo]]
 		[[crase#==depois da preposição até==|1.]]até
 		[[crase#==antes de nomes próprios femininos==|2]]próprios
 		[[crase#==antes dos pronomes possesivos femininos==|3.]]possesivos
