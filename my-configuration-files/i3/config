@@ -74,6 +74,9 @@ bindsym $mod+shift+p exec lxqt-runner
 focus_follows_mouse yes
 # setting keycode 
 exec xmodmap ~/Computer-Vault/my-configuration-files/xmodmap/.Xmodmap
+# 
+bindsym $mod+shift+b exec blueman-manager
+
 #############################################################################
 
 # Use Mouse+$mod to drag floating windows to their wanted position

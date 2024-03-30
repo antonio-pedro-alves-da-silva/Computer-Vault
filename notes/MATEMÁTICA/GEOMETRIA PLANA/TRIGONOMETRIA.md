@@ -87,10 +87,6 @@ a função seno vai cortar o eixo y no eixo de simétria da função
 ![[print_screen_148.png]]
 
 
-
-
-
-
 # Formulas trigonométricas
 
 ## Formulas trigonométricas de adição

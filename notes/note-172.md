@@ -8,5 +8,4 @@
 
 **por isso** é uma conjunção conclusiva
 
-**contudo** é uma conjução adversativa
 

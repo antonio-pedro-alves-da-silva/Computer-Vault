@@ -1,5 +1,6 @@
 
 LEIS DE NEWTON E SUAS APLICAÇÕES
+	[6](https://www.qconcursos.com/questoes-militares/questoes/2624593e-4e)([[note-364|plano inclinado]])
 	Força de atrito
 		[[note-1|Força de atrito esático e dinâmico]]
 Polias e Roldanas
@@ -53,9 +54,8 @@ centro de massa
     [[print_screen_536.png|quantidade de movimento total pelo centro de massa]]
 exercícios errados
 	[1](https://www.qconcursos.com/questoes-militares/questoes/b1c48382-01)([[Pasted image 20231125094454.png|Direção e Sentido]])
-	[2](https://www.qconcursos.com/questoes-militares/questoes/4650a6c6-49)(Lançamento no plano inclinado)
-	[3](https://www.qconcursos.com/questoes-militares/questoes/462428b6-49)(Pesso no elevador puxando a corda polia para subir o elevador)
-	[4](https://www.qconcursos.com/questoes-militares/questoes/8d454c79-f3)()
-	[5](https://www.qconcursos.com/questoes-militares/questoes/8d416a19-f3)()
-	[6](https://www.qconcursos.com/questoes-militares/questoes/2624593e-4e)
-	[7](https://www.qconcursos.com/questoes-militares/questoes/5818c192-4b)
+	[3](https://www.qconcursos.com/questoes-militares/questoes/462428b6-49)(Pessoa no elevador puxando a corda polia para subir o elevador)
+	[4](https://www.qconcursos.com/questoes-militares/questoes/8d454c79-f3)([[note-363|resolução]])
+	[5](https://www.qconcursos.com/questoes-militares/questoes/8d416a19-f3)(pêndulo balístico)
+	[6](https://www.qconcursos.com/questoes-militares/questoes/2624593e-4e)([[note-364|plano inclinado]])
+	[7](https://www.qconcursos.com/questoes-militares/questoes/5818c192-4b)([[note-365|resolução]])

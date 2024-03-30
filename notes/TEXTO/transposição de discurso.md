@@ -1,4 +1,4 @@
- 
+
 transposição do discurso direto para o discurso indireto
 	**Presente do indicativo** passa para 
 		**pretérito imperfeito do indicativo**; 

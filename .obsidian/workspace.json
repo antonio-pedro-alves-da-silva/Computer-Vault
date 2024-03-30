@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0f650f943fcec3c2",
+            "id": "3ddf8013be5acce8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "a9ae6502ff22fa21",
+            "id": "f9430ec3afd958b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/GRAMÁTICA/regência verbal.md",
+                "file": "notes/FÍSICA/HIDROESTÁTICA.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "thodi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/GRAMÁTICA/regência verbal.md",
+                "file": "notes/FÍSICA/HIDROESTÁTICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/GRAMÁTICA/regência verbal.md",
+                "file": "notes/FÍSICA/HIDROESTÁTICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/GRAMÁTICA/regência verbal.md"
+                "file": "notes/FÍSICA/HIDROESTÁTICA.md"
               }
             }
           },
@@ -182,54 +182,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a9ae6502ff22fa21",
+  "active": "f9430ec3afd958b2",
   "lastOpenFiles": [
-    "notes/note-143.md",
-    "notes/GRAMÁTICA/regras do acento gráfico.md",
+    "my-configuration-files/js-scripts/audioCutter3.js",
+    "my-configuration-files/js-scripts/audioCutter2.js",
+    "my-configuration-files/js-scripts/addToAnki2.js",
+    "notes/note-370.md",
+    "my-configuration-files/js-scripts/moveAndCreateFolder.js",
+    "notes/FÍSICA/HIDROESTÁTICA.md",
+    "notes/note-188.md",
     "MATÉRIAS/EEAR.md",
-    "notes/note-339.md",
-    "notes/note-338.md",
-    "notes/note-335.md",
-    "notes/note-336.md",
-    "notes/note-337.md",
-    "notes/GRAMÁTICA/concordância verbal.md",
-    "notes/crase.md",
-    "notes/note-359.md",
-    "notes/note-358.md",
-    "notes/note-357.md",
-    "notes/note-303.md",
-    "notes/note-300.md",
-    "my-configuration-files/backup/provas_de_português/prova_2019.txt",
+    "notes/note-181.md",
+    "notes/note-369.md",
+    "notes/note-368.md",
+    "imagens/print_screen_549.png",
+    "notes/FÍSICA/ESTÁTICA.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
-    "notes/FÍSICA/DINÂMICA.md",
-    "imagens/Pasted image 20231125094454.png",
-    "notes/note-2.md",
-    "imagens/print_screen_515.png",
-    "imagens/print_screen_522.png",
-    "imagens/print_screen_531.png",
+    "Excalidraw/GEOMETRIA ESPACIAL THODI.excalidraw.md",
+    "notes/note-362.md",
+    "notes/note-143.md",
+    "notes/TEXTO/uso da virgula correto.md",
+    "notes/note-226.md",
+    "notes/note-225.md",
+    "notes/note-196.md",
+    "notes/note-246.md",
+    "notes/note-172.md",
+    "notes/note-189.md",
+    "notes/note-191.md",
+    "notes/note-190.md",
+    "notes/Untitled 4.md",
+    "imagens/Pasted image 20240328140135.png",
+    "imagens/Pasted image 20240327144350.png",
+    "imagens/Pasted image 20240324144324.png",
+    "imagens/Pasted image 20240324120501.png",
+    "imagens/Pasted image 20240324114546.png",
+    "imagens/Pasted image 20240323193400.png",
+    "imagens/Pasted image 20240323183927.png",
+    "imagens/Pasted image 20240321210857.png",
+    "imagens/Pasted image 20240321210849.png",
+    "notes/Untitled 3.md",
+    "notes/index.html",
+    "notes/note-185.md",
+    "notes/note-183.md",
+    "my-configuration-files/backup/provas_de_português/prova_2019.txt",
     "my-configuration-files/backup/provas_de_português/prova_2022.txt",
-    "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
-    "Pasted image 20240324144324.png",
-    "imagens/print_screen_248.png",
-    "notes/note-356.md",
-    "Pasted image 20240324120501.png",
-    "notes/note-124.md",
-    "Pasted image 20240324114546.png",
-    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
-    "notes/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
-    "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md",
-    "notes/note-355.md",
-    "notes/note-354.md",
-    "Pasted image 20240323193400.png",
-    "Pasted image 20240323183927.png",
     "my-configuration-files/backup/provas_de_português/prova_2023.txt",
     "my-configuration-files/backup/provas_de_português/prova_2024.txt",
     "imagens/img-çç",
     "imagens/IMG_20240318_134627.jpg-20240318T164804Z-001",
-    "imagens/IMG_20240318_134627.jpg-20240318T164804Z-001.zip",
-    "my-configuration-files/xmodmap/active-script.sh",
-    "my-configuration-files/xmodmap/backup_xmodmap",
-    "my-configuration-files/xmodmap",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

@@ -4,11 +4,11 @@ uso da virgula
 		usado para evitar ambiguidade
 		separar elementos com a mesma função sintática
 		[[note-193|Separar orações independentes]]
+		[[note-226|ordem direta e indireta]]
 		separar orações subordinadas
 			[[note-192|para separar orações subordinadas adverbiais deslocadas , se aparecer no final e não causar ambiguidade não é necessário usar vírgula.]]
 			separar orações adjetivas explicativas
 			Orações subordinadas precedendo a principal
-		ordem direta e indireta
 		[[expressões explicativas]]
 		separar orações cordenadas sindéticas adversativas , conclusivas e explicativas
 		isolar o vocativo e o aposto

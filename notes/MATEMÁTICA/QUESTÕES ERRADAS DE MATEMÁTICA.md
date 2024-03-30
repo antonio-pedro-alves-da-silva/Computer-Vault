@@ -2,7 +2,7 @@
 [2](https://www.qconcursos.com/questoes-militares/questoes/2586276c-4e)-[[print_screen_243.png|Discussão e classificação de um sistema (2x2)]] e [[print_screen_244.png|Discussão de um sistema (3x3)]]
 [3](https://www.qconcursos.com/questoes-militares/questoes/2599174b-4e)- [[print_screen_140.png|Arcos congruos e simétricos]]
 [4](https://www.qconcursos.com/questoes-militares/questoes/25b8c262-4e)-[[print_screen_245.png|REGRAS DE MULTIPLICAÇÃO DE MATRIZES]]
-[5](https://brainly.com.br/tarefa/21576246#:~:text=O%20valor%20de%20n%20%C3%A9%20b)- [[print_screen_179.png|Relações trigonométricas de um triangulo retângulo]]
+[5](https://brainly.com.br/tarefa/21576246#:~:text=O%20valor%20de%20n%20%C3%A9%20b)- [[note-362|Relações trigonométricas de um triangulo retângulo]]
 [6](https://www.qconcursos.com/questoes-militares/questoes/fe1dcdf2-7e)- [[print_screen_161.png|Relações de girard]]
 [7](https://www.qconcursos.com/questoes-militares/questoes/45ee02a5-49)- Graus de Polinômios
 [8](https://www.qconcursos.com/questoes-militares/questoes/fe0b6c24-7e)- média de histograma
@@ -10,7 +10,7 @@ prova de 2018
 [1](https://www.qconcursos.com/questoes-militares/questoes/3e55d2fc-3b)-[[print_screen_141.png|gráfico da função seno]] e [[print_screen_143.png|gráfico da função cosseno]]
 [2](https://www.qconcursos.com/questoes-militares/questoes/5b251d62-3d)-polinômios(aprendi a como resolver um sistema de polinômios)
 [1](https://www.qconcursos.com/questoes-militares/questoes/5b30af15-3d)-[[Pasted image 20240202184837.png|números de diagonais de um poligono]]
-[2](https://www.qconcursos.com/questoes-militares/questoes/b8add7c7-3d)-[[Pasted image 20231107212715.png|combinção simples]]
+[2](https://www.qconcursos.com/questoes-militares/questoes/b8add7c7-3d)-[[Pasted image 20231107212715.png|combinação simples]]
 [3](https://www.qconcursos.com/questoes-militares/questoes/5b20c6ca-3d)-cilindro equilátero e volume da esfera
 prova de 2016
 [1](https://www.qconcursos.com/questoes-militares/questoes/7dde27f8-3a)-inequação 
@@ -34,9 +34,9 @@ prova de 2024
 [1](https://www.qconcursos.com/questoes-militares/questoes/5ad19354-16)-função polinomial do 1° grau
 [2](https://www.youtube.com/watch?v=OakQs52IE2s)-([[note-127|restrições de valores para x]])
 [3](https://www.qconcursos.com/questoes-militares/questoes/5adcaf54-16)-[[print_screen_140.png|Arcos congruos e simétricos]]
-[4](https://www.qconcursos.com/questoes-militares/questoes/5adf51fa-16)-Questão Bem Elaborada de Geometria Analítica (<span style="color:#ff0000">onde parei</span>)
-[5](https://www.qconcursos.com/questoes-militares/questoes/5aedf56e-16)-Calcule a aŕea hachurada do hexágono+
-[6](https://www.qconcursos.com/questoes-militares/questoes/5af09bec-16)-[[print_screen_179.png|Relações trigonométricas]] e semelhança de triangulo
+[4](https://www.qconcursos.com/questoes-militares/questoes/5adf51fa-16)-Questão Bem Elaborada de Geometria Analítica
+[5](https://www.qconcursos.com/questoes-militares/questoes/5aedf56e-16)-Calcule a aŕea hachurada do hexágono 
+[6](https://www.qconcursos.com/questoes-militares/questoes/5af09bec-16)-[[note-362|Relações trigonométricas de um triangulo retângulo]] e semelhança de triangulo 
 [7](https://www.qconcursos.com/questoes-militares/questoes/5af629f6-16)- Progressão Aritmética
 [8](https://www.qconcursos.com/questoes-militares/questoes/5aff4fe2-16)- Geometria Plana
 [9](https://www.qconcursos.com/questoes-militares/questoes/5b04a469-16)- [[Ângulos#Ângulos na Circuferência|Ângulos na circuferência]]
@@ -74,11 +74,15 @@ prova de 2006
 [4]()([[print_screen_243.png|Discussão e classificação de um sistema (2x2)]] e [[print_screen_244.png|Discussão e classificação de um sistema (3x3)]])
 [5]()([[print_screen_651.png|matriz identidade]] e [[print_screen_652.png|matriz inversa]] , [[note-284|matriz transposta]] , [[note-285|matriz oposta]] , [[note-286|matriz simétrica e antisimétrica]])
 [6](https://militares.estrategia.com/public/questoes/existem-k-maneiras71a177a389/)(princípio multiplicativo)
-7([[Pasted image 20240319120727.png|tetraedro regular]], [[Pasted image 20231031151346.png|regras de euler]] , [[Pasted image 20231031151346.png|thodi]] , [[note-327|calculando aresta]])
+7([[Pasted image 20240319120727.png|tetraedro regular]], [[Pasted image 20231031151346.png|regras de euler]] , [[GEOMETRIA ESPACIAL THODI.excalidraw|thodi]] , [[note-327|calculando aresta]])
 8([[note-328|resolução]])
 [[note-344|9]]([[note-345|equação geral da reta e angulo de inclinação]] , [[print_screen_673.png|descobrindo a equação geral da reta através de matrizes]])
 [10](https://militares.estrategia.com/public/questoes/equaca-cujas-raizes-sa338445739e/#:~:text=O%20valor%20de%20%7Ca%20%2B%20b%7C%20%C3%A9&text=2.&text=3.)([[note-346|relações de Girard]] , [[note-351|Teorema da Decomposição]] ,  [[Produto Notaveis|produtos notáveis]] )
 [11]()([[note-353|resolução]] , [[note-352|teorema de tales]])
 [12]()([[note-354|resolução]])
-[13]()([[note-355|resolução]])
+13([[note-355|resolução]])
 14([[print_screen_213.png|tetraedro regular formulas]])
+15([[note-360|resolução]])
+16([[note-361|resolução]])
+17( [[note-362|Relações trigonométricas de um triangulo retângulo]])
+

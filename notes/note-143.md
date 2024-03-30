@@ -56,15 +56,15 @@ orações subordinadas
 	[11](https://www.qconcursos.com/questoes-militares/questoes/090b8ee4-ed)(aprendi(tal que é consecutiva , conforme é conformativa))
 	[12](https://www.qconcursos.com/questoes-militares/questoes/08c42757-ed)(sempre erro apesar de ser óbvia não ser predicativa ser subjetiva)
 	[13](https://www.qconcursos.com/questoes-militares/questoes/d60cadc3-4b)(aprendi(que existe [[note-180|Oração Subordinada Substantiva Agente da Passiva]]))
-	[14](https://www.qconcursos.com/questoes-militares/questoes/74239dac-0d)(aprendi([[note-314|resolução]]))+
+	[14](https://www.qconcursos.com/questoes-militares/questoes/74239dac-0d)(aprendi([[note-314|resolução]]))
 	[15](https://www.qconcursos.com/questoes-militares/questoes/74193e9f-0d)(aprendi(a como identificar uma [[note-182|subordinadas substantivas subjetivas reduzidas de infinitivo]]))
 	[16](https://www.qconcursos.com/questoes-militares/questoes/669f5b84-86)-A(aprendi([[note-315|resolução]]))
 	[17](https://www.qconcursos.com/questoes-militares/questoes/66878ff8-86)-D(aprendi([[note-183|resolução]]))
 	[18](https://www.qconcursos.com/questoes-militares/questoes/8bd3824e-6b)-A([[note-316|resolução]])
 orações coordenadas
-	[1](https://www.qconcursos.com/questoes-militares/questoes/0924a4cf-ed)(aprendi([[note-184|que existe oração cordenada aditiva reduzida do infinitivo]]))
+	[1](https://www.qconcursos.com/questoes-militares/questoes/0924a4cf-ed)(aprendi([[note-184|que existe oração coordenada aditiva reduzida do infinitivo]]))
 	[2](https://www.qconcursos.com/questoes-militares/questoes/7409d956-0d)(aprendi([[note-185|...]]))
-	[3](https://www.qconcursos.com/questoes-militares/questoes/c6bcfb5b-59)(aprendi(o que é relação lógica e relação lógica de adversidade))
+	[3](https://www.qconcursos.com/questoes-militares/questoes/c6bcfb5b-59)(o que é relação lógica e relação lógica de adversidade)
 	[4](https://www.qconcursos.com/questoes-militares/questoes/74f99118-55)([[note-189|resolução]])
 	[5](https://www.qconcursos.com/questoes-militares/questoes/588b6542-47)(aprendi([[note-190|que "e" pode ser adversativa ?]]))
 	[6](https://www.qconcursos.com/questoes-militares/questoes/09c35f53-f5)(aprendi([[note-191|a como identificar melhor alternativas]]))

@@ -11,7 +11,7 @@ vetores
 		[[Pasted image 20231125114906.png|decomposição de vetores]]
 	exercícios errados de vetores
 		[1](https://www.qconcursos.com/questoes-militares/questoes/d71f528c-49)(regra do paralelograma e lei dos cossenos)
-		[2](https://www.qconcursos.com/questoes-militares/questoes/4d6b1949-42)
+		[2](https://www.qconcursos.com/questoes-militares/questoes/4d6b1949-42)([[print_screen_675.png|resolução]])
 		[3](https://www.qconcursos.com/questoes-militares/questoes/ecce1e4a-a0)
 
 

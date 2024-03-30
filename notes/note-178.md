@@ -1,5 +1,4 @@
 
-
 **conjunções consecutivas : de modo que, de sorte que, sem que, de forma que, de jeito que, etc.**
 
 - *“Dançava **tanto que** se tornou um dos melhores da sala.”*
