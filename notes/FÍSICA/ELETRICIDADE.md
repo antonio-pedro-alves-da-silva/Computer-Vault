@@ -1,3 +1,4 @@
+
 eletricidade
 	eletroestática
 		[[note-15|quantidade de carga elétrica]]
@@ -39,7 +40,7 @@ eletricidade
 			 [[note-219|trabalho da força no campo uniforme]]
 		esferas condutoras
 			[[print_screen_592.png|esfera em equilíbrio eletroestático - itensidade no interior , superfície e infinitamente próximo]]
-			[[print_screen_593.png|potencial elétrico de esferas condutoras]]
+			[[print_screen_593.png|potencial elétrico de esferas condutoras em equilíbrio eletroestático]]
 			[[note-16|condutores postos em contato]]
 		[[note-218|energia cinética de cargas elétricas no mcu]]
 		exercícios errados
@@ -53,21 +54,18 @@ eletricidade
 	eletrodinâmica
 		[[print_screen_353.png|principio da continuidade da corrente]]
 		[[print_screen_353.png|efeito joule]]
-		resistores 
+		resistores
 			diferença de potencial
 				 $U=R*I$
 			potência elétrica de um resistor
+				[[note-378|potência dissipada total ou potência dissipada de apenas um resistor]]
 				[[note-255|potência elétrica util de um resistor]]
-				[[potência dissipada total ou potência dissipada de apenas um resistor]]
-					$P_{1}= R_{1}*{I_{1}} ^{2}$ 
-				    $\large P_{1} = \frac{{U_{1}}^{2}}{R_{1}}$
 			[[print_screen_557.png|resistência de um fio condutor metálico]]
 			[[print_screen_357.png|associação em séries]]
 				[[print_screen_649.png|ddp total]]
 			[[print_screen_368.png|associação em paralelo]]
 				 relação entre ddps
 				 [[print_screen_358.png|truque da corrente]]
-			[[ponte de wheatstone]]
 			[calculando associação mista de resistores](http://www.brawnexercicios.com.br/2015/12/exercicio-resolvido-resistencia-equivalente-circuito-2.html)
 			[[print_screen_359.png|fio liso , curto-circuito e potenciais]]
 			Medidores elétricos
@@ -86,11 +84,11 @@ eletricidade
 				 gráfico
 				 corrente de curto circuito
 			 [[print_screen_365.png|potência de um gerador]]
-				 [[note-256|potência util]]
-				 [[note-257|potência dissipada]]
 				 [[note-258|potência total]]
-			 [[print_screen_558.png|associação em série de um gerador , força eletromotriz e resistência equivalente]]
-			 [[print_screen_559.png|associação em paralelo de um gerador]]
+				 [[note-257|potência dissipada]]
+				 [[note-256|potência util]]
+			 [[print_screen_558.png|associação em série de um gerador , força eletromotriz equivalente e resistência equivalente]]
+			 [[print_screen_559.png|associação em paralelo de um gerador , força eletromotriz equivalente e resistência equivalente]]
 			 [[print_screen_562.png|circuito gerador resistor]]
 			 [[note-11|o que é força eletromotriz]]
 		receptores
@@ -108,7 +106,7 @@ eletricidade
 			 [[note-265|o que é capacitância ?]]
 			 [[print_screen_571.png|capacitor e capacitância]]
 			 [[print_screen_572.png|associação de capacitores em série]]
-			 [[print_screen_573.png|associação de capacitores em paralelo]]
+			 [[note-381|associação de capacitores em paralelo]]
 			 [exemplo de aplição de associação de capacitores](https://www.youtube.com/watch?v=b1hz1FxEHtE)
 			 [[note-17|o que é um capacitor ?]]
 			[[Pasted image 20240116160438.png|capacitância de placa paralelas no vácuo]]
@@ -128,22 +126,22 @@ eletricidade
 	    [[note-14|o que é um curto-circuito]] ??
 		exercícios errados
 			resistores e potências
-				[1](https://www.qconcursos.com/questoes-militares/questoes/a7798860-6b)-(resistência elétrica do chuveiro)
+				[1](https://www.qconcursos.com/questoes-militares/questoes/a7798860-6b)-([[note-379|resolução]])
 				[2](https://www.qconcursos.com/questoes-militares/questoes/b1ecf03f-01)-(qual a menor resistência)
 				[3](https://www.qconcursos.com/questoes-militares/questoes/465ed90d-49)-aprendi([[print_screen_575.png|imagem1]]|[[print_screen_576.png|imagem2]])
 				[5](https://www.qconcursos.com/questoes-militares/questoes/4640622e-49)-(resistor em paralelo)
 				[6](https://www.qconcursos.com/questoes-militares/questoes/8d3e1417-f3)-([[print_screen_644.png|calculando a corrente que passa pelo amperímetro]] , [[print_screen_645.png|calculando o valor da dpp dissipada pelo resistor de 25 ohms]] , [[print_screen_646.png|calculando o valor da corrente que passa por R]])
-				[8](https://www.qconcursos.com/questoes-militares/questoes/263a23ae-4e)-aprendi([[print_screen_649.png|ddp total]] , [[note-263|resolução]])
 				[9](https://www.qconcursos.com/questoes-militares/questoes/d7249a98-4b)-aprendi([[note-264|resolução]])
+				[8](https://www.qconcursos.com/questoes-militares/questoes/263a23ae-4e)-aprendi([[print_screen_649.png|ddp total]] , [[note-263|resolução]])
 				[10](https://www.qconcursos.com/questoes-militares/questoes/fd67496b-f8)-aprendi()
 				[11](https://www.qconcursos.com/questoes-militares/questoes/a23ed393-55) - aprendi(resistência rv e ri)
-				[12](https://www.qconcursos.com/questoes-militares/questoes/d6fc612e-4b) - capactiores
+				[12](https://www.qconcursos.com/questoes-militares/questoes/d6fc612e-4b) - [[print_screen_572.png|associação de capacitores em série]] e	[[note-381|associação de capacitores em paralelo]]
 				[13](https://www.qconcursos.com/questoes-militares/questoes/4dcaec1f-42)- resistividade
 			associção de resistores
-				[1](https://www.qconcursos.com/questoes-militares/questoes/a7816122-6b)-aprendi([[print_screen_650.png|calculando a resistência equivalente do circuito como a chave aberta]],[[print_screen_65.png|calculando a resistência do circuito com a chave fechada]] )
+				[1](https://www.qconcursos.com/questoes-militares/questoes/a7816122-6b)-aprendi([[print_screen_677.png|calculando a resistência equivalente do circuito como a chave aberta]],[[print_screen_65.png|calculando a resistência do circuito com a chave fechada]] )+
 				[2](https://www.qconcursos.com/questoes-militares/questoes/cef03352-0d)-D
 				[3](https://www.qconcursos.com/questoes-militares/questoes/a24b4e0c-55)-([[note-266|resolução]])
-				[4](https://www.qconcursos.com/questoes-militares/questoes/19a794ab-45)-([[note-267|resolução]])
+				[4](https://www.qconcursos.com/questoes-militares/questoes/19a794ab-45)-(resistores) em paralelo - req e ddp
 			circuitos elétricos e leis de kirchhoff
 				[1](https://www.qconcursos.com/questoes-militares/questoes/dfd2dc22-55)-aprendi([[note-268|resolução]])
 				[2](https://www.qconcursos.com/questoes-militares/questoes/a6459b3e-55)-aprendi([[note-269|resolução]])

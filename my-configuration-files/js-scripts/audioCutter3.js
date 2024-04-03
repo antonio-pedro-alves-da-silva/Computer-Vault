@@ -1,11 +1,11 @@
 //  Audio Cutter1 7 minutes  with 20
 //  Audio Cutter1
 
-const { log } = require("console");
+const log = require("console")
 
 let n = 0;
 
-const inputFile = "saul_s1e1.mkv";
+const inputFile = "arrested-development_s1e1.mkv";
 const srtFile = "subtitles.srt";
 const seriesAndInfo = inputFile.split(".")[0];
 const seriesName = inputFile.split("_")[0];
@@ -14,7 +14,6 @@ const episode = inputFile.match(/(?<=_s\de)\d+(?=[.])/)[0];
 let list_of_files = ""; 
 
 function audioCutter() {
-  const { exec } = require("child_process");
   const fs = require("fs");
   
   fs.readFile(srtFile, "utf8", (err, data) => {
@@ -101,9 +100,4 @@ function SrtTimingToMiliseconds(timing) {
 function MillisecondsToSrtTiming(){
 
 }
-
-
-
-
-
 

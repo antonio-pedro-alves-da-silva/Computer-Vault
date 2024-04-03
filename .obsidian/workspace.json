@@ -8,7 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3ddf8013be5acce8",
+            "id": "8c278605ebd73b3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-143.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b51053946250d564",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,19 +32,19 @@
             }
           },
           {
-            "id": "f9430ec3afd958b2",
+            "id": "e4c936a5fe52959d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/HIDROESTÁTICA.md",
+                "file": "notes/FÍSICA/ELETRICIDADE.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "thodi",
+                "query": "sobrejetora",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/HIDROESTÁTICA.md",
+                "file": "notes/FÍSICA/ELETRICIDADE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/HIDROESTÁTICA.md",
+                "file": "notes/FÍSICA/ELETRICIDADE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/HIDROESTÁTICA.md"
+                "file": "notes/FÍSICA/ELETRICIDADE.md"
               }
             }
           },
@@ -182,54 +194,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9430ec3afd958b2",
+  "active": "e4c936a5fe52959d",
   "lastOpenFiles": [
-    "my-configuration-files/js-scripts/audioCutter3.js",
-    "my-configuration-files/js-scripts/audioCutter2.js",
-    "my-configuration-files/js-scripts/addToAnki2.js",
-    "notes/note-370.md",
-    "my-configuration-files/js-scripts/moveAndCreateFolder.js",
-    "notes/FÍSICA/HIDROESTÁTICA.md",
-    "notes/note-188.md",
     "MATÉRIAS/EEAR.md",
-    "notes/note-181.md",
-    "notes/note-369.md",
-    "notes/note-368.md",
-    "imagens/print_screen_549.png",
-    "notes/FÍSICA/ESTÁTICA.md",
+    "notes/note-269.md",
+    "notes/FÍSICA/ELETRICIDADE.md",
+    "imagens/print_screen_576.png",
+    "notes/note-266.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
-    "Excalidraw/GEOMETRIA ESPACIAL THODI.excalidraw.md",
+    "notes/MATEMÁTICA/ÁLGEBRA III/Produto Notaveis.md",
+    "notes/note-127.md",
+    "notes/note-346.md",
     "notes/note-362.md",
+    "notes/note-361.md",
+    "notes/note-360.md",
+    "notes/note-355.md",
+    "imagens/print_screen_213.png",
+    "notes/note-354.md",
+    "notes/note-353.md",
+    "notes/note-351.md",
+    "notes/note-327.md",
+    "notes/note-328.md",
     "notes/note-143.md",
-    "notes/TEXTO/uso da virgula correto.md",
-    "notes/note-226.md",
-    "notes/note-225.md",
-    "notes/note-196.md",
-    "notes/note-246.md",
-    "notes/note-172.md",
-    "notes/note-189.md",
-    "notes/note-191.md",
-    "notes/note-190.md",
-    "notes/Untitled 4.md",
-    "imagens/Pasted image 20240328140135.png",
-    "imagens/Pasted image 20240327144350.png",
-    "imagens/Pasted image 20240324144324.png",
-    "imagens/Pasted image 20240324120501.png",
-    "imagens/Pasted image 20240324114546.png",
-    "imagens/Pasted image 20240323193400.png",
-    "imagens/Pasted image 20240323183927.png",
-    "imagens/Pasted image 20240321210857.png",
-    "imagens/Pasted image 20240321210849.png",
-    "notes/Untitled 3.md",
-    "notes/index.html",
-    "notes/note-185.md",
-    "notes/note-183.md",
-    "my-configuration-files/backup/provas_de_português/prova_2019.txt",
-    "my-configuration-files/backup/provas_de_português/prova_2022.txt",
-    "my-configuration-files/backup/provas_de_português/prova_2023.txt",
-    "my-configuration-files/backup/provas_de_português/prova_2024.txt",
-    "imagens/img-çç",
-    "imagens/IMG_20240318_134627.jpg-20240318T164804Z-001",
+    "Excalidraw/GEOMETRIA ESPACIAL THODI.excalidraw.md",
+    "imagens/Pasted image 20231031151346.png",
+    "my-configuration-files/js-scripts/node_modules/std/assert/deepEqual.js",
+    "my-configuration-files/js-scripts/node_modules/std/assert",
+    "my-configuration-files/js-scripts/node_modules/std/Changelog",
+    "my-configuration-files/js-scripts/node_modules/std/invoke.js",
+    "my-configuration-files/js-scripts/node_modules/std/xhr.js",
+    "my-configuration-files/js-scripts/node_modules/std/inverse.js",
+    "my-configuration-files/js-scripts/node_modules/optimist/test/_/bin.js",
+    "my-configuration-files/js-scripts/node_modules/optimist/test/_/argv.js",
+    "my-configuration-files/js-scripts/node_modules/optimist/test/usage.js",
+    "my-configuration-files/js-scripts/node_modules/optimist/test/parse.js",
+    "my-configuration-files/js-scripts/node_modules/async/README.md",
+    "my-configuration-files/js-scripts/node_modules/uglify-js/README.md",
+    "my-configuration-files/js-scripts/node_modules/require/README.md",
+    "my-configuration-files/js-scripts/node_modules/amdefine/README.md",
+    "my-configuration-files/js-scripts/node_modules/source-map/README.md",
+    "my-configuration-files/js-scripts/node_modules/source-map/CHANGELOG.md",
+    "imagens/print_screen_677.png",
+    "imagens/print_screen_650.png",
+    "imagens/print_screen_567.png",
+    "imagens/print_screen_573.png",
+    "imagens/print_screen_645.png",
+    "imagens/print_screen_646.png",
+    "imagens/print_screen_644.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

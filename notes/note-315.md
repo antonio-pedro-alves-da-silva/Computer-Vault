@@ -1,1 +1,0 @@
-**GABARITO A**

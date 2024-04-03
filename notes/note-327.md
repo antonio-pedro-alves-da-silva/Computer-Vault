@@ -1,4 +1,4 @@
-$\Large V$ = quantidade de vertíce da face
+$\Large V_{b}$ = Vértice da base
 $\Large F$ = quantidade de faces do poligono
 
-$\Large A = \frac{V.F}{2}$
+$\Large A = \frac{V_{b}.F}{2}$

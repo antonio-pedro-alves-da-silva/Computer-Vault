@@ -3,8 +3,7 @@
 
 # quando uma função é injetiva/injentora ?
 será injetora quando :
- - todos elemento do dominio possuirem apenas uma imagem
-- quando não houver nenhum elemento com a mesma imagem
+ - todos os elementos possuírem um corresponde único que é apenas seu
 ![[Pasted image 20231015181556.png]]
 # quando uma função é bijetora
 Uma função f: A → B será bijetora se, e somente se, ela for injetora e sobrejetora simultaneamente

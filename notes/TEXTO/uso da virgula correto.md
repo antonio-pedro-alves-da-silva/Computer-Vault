@@ -19,7 +19,7 @@ uso da virgula
 		[[note-199|separar orações cordenadas assindéticas]]
 		[[note-200|orações cordendas alternativas que enfatizam uma escolha]]
 	Quando não usar a vírgula
-		não separar o sujeito do predicado
+		não separar o sujeito do predicadol
 		[[note-201|não separar o verbo do complemento]]
 	Quando a  virgula é facultativa
 		[[note-202|Enumeração curta]]

@@ -1,4 +1,4 @@
-
+**RESOLUÇÃO**
 A(x) = ax² + ax + a + bx² + bx + cx + c  
 B(x) = x² - 2x + 1  
   

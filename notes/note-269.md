@@ -1,41 +1,36 @@
-Fiz assim:
+[[print_screen_576.png|como calcular a diferença de dpp em um amperímetro]]
 
-somei as resistências de 5 e 7 , pois estão em série , ( 5 + 7 = 12 )
+somei as resistências de 5 , 7 e 12, pois estão em série , ( 5 + 7 + 12 = 24)
+ 
+somei as resistências 5 , 7  , 12 e 6, pois estão em série , ( 5 + 7 + 12 + 6= 30) , nesta somei a resistência 6
 
-depois peguei esse 12 e fiz a resistência equivalente entre ele e o resistor de 6 (estão em paralelo) :
+já que 24 e 30 são percorridos pela mesma corrente
 
-12.6/12+6 = 4
+então nós subtraímos  24 de 30 então há uma diferença de $6\ohm$  
 
-Ficando assim, um resistor de 4, logo abaixo o resistor de 9 e do lado os resistores de 12 e 6
+DDP = ($\Large 30\cdot I_{2} - 24\cdot I_{2} = 6\ohm\cdot I_{2}$)    
 
-então, somamos os resistores de 12 e 6, pois estão sem série, ficando = 12+6 = 18,
+para descobrir a corrente que passa por 
 
-agora, pegamos o 18 e fazemos a resistência equivalente entre ele e o resistor de 9 [
+$\Large U_{1}=U_{2}$
 
-18.9/18+9 = 6
+$\Large I_{t}=I_{1}+I_{2}$
 
-ficando assim com um resistor de 4 em cima e um resistor de 6 embaixo, e esses dois estarão em série, com isso basta somar a resistência equivalente entre eles, e achar a corrente total.
+$\Large 6\cdot I_{1}=12\cdot I_{2}$
 
-10 = 10.i
+$\Large I_{1}=2 \cdot I_{2}$
 
-i = 1
+$\Large I_{t}=3\cdot I_{2}$
 
-agora voltando pro começo, o resistor 6 e o de 12(que calculamos [5+7] ) estarão em paralelo, ou seja, com o mesmo U , então:
+$\Large I_{t}= \frac{U_{t}}{Req}=\frac{10}{10} = 1$
 
-u¹= u²
+$\Large I_{2}=\frac{I_{t}}{3}=\frac{1}{3}$
 
-6.i¹ = 12.i²
+DDP $=\Large 6\ohm\cdot \frac{1}{3}$
 
-i¹ = 2i²
+DDP = 2V
 
-corrente total : i¹ + i² = 1
 
-3i² = 1
 
-i² = 1/3
 
-essa corrente i² passará pelo primeiro resistor de 12, depois pelo segundo resistor de 12 e depois pelo resistor de 6, então
 
-U = 6.1/3
-
-U = 2

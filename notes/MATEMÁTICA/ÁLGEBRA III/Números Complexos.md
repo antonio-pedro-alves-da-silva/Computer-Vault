@@ -6,8 +6,6 @@
 
 # POTÊNCIAS DE i
 
-
-
 $i⁰=1$
 $i¹=i = \sqrt{-1}$
 $i²=-1$

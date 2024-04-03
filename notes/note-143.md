@@ -58,7 +58,7 @@ orações subordinadas
 	[13](https://www.qconcursos.com/questoes-militares/questoes/d60cadc3-4b)(aprendi(que existe [[note-180|Oração Subordinada Substantiva Agente da Passiva]]))
 	[14](https://www.qconcursos.com/questoes-militares/questoes/74239dac-0d)(aprendi([[note-314|resolução]]))
 	[15](https://www.qconcursos.com/questoes-militares/questoes/74193e9f-0d)(aprendi(a como identificar uma [[note-182|subordinadas substantivas subjetivas reduzidas de infinitivo]]))
-	[16](https://www.qconcursos.com/questoes-militares/questoes/669f5b84-86)-A(aprendi([[note-315|resolução]]))
+	[16](https://www.qconcursos.com/questoes-militares/questoes/669f5b84-86)-A(aprendi(duas objetivas diretas))
 	[17](https://www.qconcursos.com/questoes-militares/questoes/66878ff8-86)-D(aprendi([[note-183|resolução]]))
 	[18](https://www.qconcursos.com/questoes-militares/questoes/8bd3824e-6b)-A([[note-316|resolução]])
 orações coordenadas

@@ -1,9 +1,10 @@
+
 [1](https://www.qconcursos.com/questoes-militares/questoes/ae1edea0-55)- [[print_screen_212.png|o apótema é a altura da face da pirâmide triangular regular]]
 [2](https://www.qconcursos.com/questoes-militares/questoes/2586276c-4e)-[[print_screen_243.png|Discussão e classificação de um sistema (2x2)]] e [[print_screen_244.png|Discussão de um sistema (3x3)]]
 [3](https://www.qconcursos.com/questoes-militares/questoes/2599174b-4e)- [[print_screen_140.png|Arcos congruos e simétricos]]
 [4](https://www.qconcursos.com/questoes-militares/questoes/25b8c262-4e)-[[print_screen_245.png|REGRAS DE MULTIPLICAÇÃO DE MATRIZES]]
 [5](https://brainly.com.br/tarefa/21576246#:~:text=O%20valor%20de%20n%20%C3%A9%20b)- [[note-362|Relações trigonométricas de um triangulo retângulo]]
-[6](https://www.qconcursos.com/questoes-militares/questoes/fe1dcdf2-7e)- [[print_screen_161.png|Relações de girard]]
+[6](https://www.qconcursos.com/questoes-militares/questoes/fe1dcdf2-7e)- [[note-346|relações de Girard]]
 [7](https://www.qconcursos.com/questoes-militares/questoes/45ee02a5-49)- Graus de Polinômios
 [8](https://www.qconcursos.com/questoes-militares/questoes/fe0b6c24-7e)- média de histograma
 prova de 2018
@@ -44,18 +45,17 @@ prova de 2024
 [11](https://www.qconcursos.com/questoes-militares/questoes/5b0c7f85-16)- Análise combinatória - Combinação simples
 [12](https://www.qconcursos.com/questoes-militares/questoes/5b122d7d-16)- Análise combinatória - Combinação simples e permutação
 prova de 2010
-[1](https://www.qconcursos.com/questoes-militares/questoes/c7a60f94-59)- Geometria Plana
-[2](https://www.qconcursos.com/questoes-militares/questoes/c7c7d954-59)- Polinômio (i get the wrong one)
-[3](https://www.qconcursos.com/questoes-militares/questoes/c7c7d954-59)- Números Complexos
+[1](https://www.qconcursos.com/questoes-militares/questoes/c7a60f94-59)- [[note-373|resolução]]
+[3](https://www.qconcursos.com/questoes-militares/questoes/c7c7d954-59)- Números Complexos ([[Números Complexos#POTÊNCIAS DE i|potencíação de i]])
 [4](https://www.qconcursos.com/questoes-militares/questoes/c7d8252a-59)- inequação - soma dos môdulos inteiros
-[5](https://www.qconcursos.com/questoes-militares/questoes/c7e886c9-59)- Setor Circular
+[5](https://www.qconcursos.com/questoes-militares/questoes/c7e886c9-59)- [[print_screen_187.png|Setor Circular]]
 prova de 2009
-[1](https://militares.estrategia.com/public/questoes/x-y-sa-numeros-reais24ccc9c8e0/)([[note-179|Cologaritmo]])
+[1](https://militares.estrategia.com/public/questoes/x-y-sa-numeros-reais24ccc9c8e0/)([[note-179|Cologaritmo]] , [[diferentes tipos de funções#Propriedades operatórias|Propriedades do logaritmo]])
 [2](https://militares.estrategia.com/public/questoes/dividir-x5-3x4-2x2-x-52331ad6f4e/)([[print_screen_647.png|Como dividir polinômios)]]
 [3](https://www.youtube.com/watch?v=JqTikKf9sv8)(Prisma Quadrangular)
-[4](https://militares.estrategia.com/public/questoes/5a-serie-Colegio-X66d96c9d74/)(nota modal)
+[4](https://militares.estrategia.com/public/questoes/5a-serie-Colegio-X66d96c9d74/)nota modal ([[note-374|moda]] e [[note-375|mediana]])
 [5](https://militares.estrategia.com/public/questoes/f-x-mx2-2m-1-x-m-2389e5dac7e/)(zero real duplo)
-[6](https://militares.estrategia.com/public/questoes/Quatro-numeros50162aa7b5/)(PG crescente)
+[6](https://militares.estrategia.com/public/questoes/Quatro-numeros50162aa7b5/)([[note-376|resolução]])
 [7](https://www.youtube.com/watch?v=lB1qcH1v_FA)(os ângulos da base maior de um trapézio)
 [8](https://www.youtube.com/watch?v=GkGzP1hb9F0)([[note-205|se a + b = 90]])
 prova de 2008
@@ -63,26 +63,25 @@ prova de 2008
 [2](https://militares.estrategia.com/public/questoes/Comparando-tg-20deg-tg950159ce4/)(https://www.geogebra.org/m/EKPJP535)(ciclo trigonométrico - analisando a tangente)
 [3](https://militares.estrategia.com/public/questoes/Dado-x-para-que-numero29880c1b4e/)([[note-204|para que z seja real a parte imaginária tem que ser 0]])
 [4]()([[note-186|quando um prisma é regular ?]])
-[5]()([[print_screen_166.png|retas paralelas não coincidentes ou coincidentes e não coincidentes]] ou [[print_screen_167.png|retas perpendiculares]])
+[5]()([[print_screen_166.png|retas paralelas não coincidentes e não coincidentes]] ou [[print_screen_167.png|retas perpendiculares]]) 
 [6](https://militares.estrategia.com/public/questoes/r-x-6y-2-0-s-8x-t-1-y30007348a8/)([[note-203|aprendi a arredondar números]])
 [7](https://militares.estrategia.com/public/questoes/retangulo-lados-2m-5m249588e67f/)([[Pasted image 20240302184726.png|aprendi como o retângulo roda em torno do próprio eixo]])
-[8] ([[Pasted image 20231025174132.png|altura , bissetriz , mediana , mediatriz]] e [[print_screen_177.png|ortocentro , mediana , baricentro]] e [[print_screen_197.png|medida da mediana]])
+[8] ([[Pasted image 20231025174132.png|altura , bissetriz , mediana , mediatriz]] e [[print_screen_177.png|ortocentro , baricentro , incentro]] e [[print_screen_197.png|medida da mediana]])
 prova de 2006
-[1](https://militares.estrategia.com/public/questoes/f-n-define-funca-f-N-N2033d30eb3/)(é apenas função sobrejetora)
+[1](https://militares.estrategia.com/public/questoes/f-n-define-funca-f-N-N2033d30eb3/)(sobrejetora , injetora e bijetora)
 [2](https://brainly.com.br/tarefa/10538331)(P.A)
 [3](https://militares.estrategia.com/public/questoes/x-1-degQ-cos-x-3-813469539d7/)(formula trigonométrica)
 [4]()([[print_screen_243.png|Discussão e classificação de um sistema (2x2)]] e [[print_screen_244.png|Discussão e classificação de um sistema (3x3)]])
 [5]()([[print_screen_651.png|matriz identidade]] e [[print_screen_652.png|matriz inversa]] , [[note-284|matriz transposta]] , [[note-285|matriz oposta]] , [[note-286|matriz simétrica e antisimétrica]])
 [6](https://militares.estrategia.com/public/questoes/existem-k-maneiras71a177a389/)(princípio multiplicativo)
 7([[Pasted image 20240319120727.png|tetraedro regular]], [[Pasted image 20231031151346.png|regras de euler]] , [[GEOMETRIA ESPACIAL THODI.excalidraw|thodi]] , [[note-327|calculando aresta]])
-8([[note-328|resolução]])
+[8]()([[note-328|resolução]])
 [[note-344|9]]([[note-345|equação geral da reta e angulo de inclinação]] , [[print_screen_673.png|descobrindo a equação geral da reta através de matrizes]])
 [10](https://militares.estrategia.com/public/questoes/equaca-cujas-raizes-sa338445739e/#:~:text=O%20valor%20de%20%7Ca%20%2B%20b%7C%20%C3%A9&text=2.&text=3.)([[note-346|relações de Girard]] , [[note-351|Teorema da Decomposição]] ,  [[Produto Notaveis|produtos notáveis]] )
 [11]()([[note-353|resolução]] , [[note-352|teorema de tales]])
 [12]()([[note-354|resolução]])
 13([[note-355|resolução]])
 14([[print_screen_213.png|tetraedro regular formulas]])
-15([[note-360|resolução]])
+[15]()([[note-360|resolução]])
 16([[note-361|resolução]])
 17( [[note-362|Relações trigonométricas de um triangulo retângulo]])
-

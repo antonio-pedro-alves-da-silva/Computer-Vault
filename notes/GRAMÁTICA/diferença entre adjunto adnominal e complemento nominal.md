@@ -1,3 +1,4 @@
+
 adjunto adnominal
 	caracteriza o substantivo , termo acessório , [[note-279|função ativa(empenho)]]
 complemento nominal
