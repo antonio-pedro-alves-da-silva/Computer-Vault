@@ -99,6 +99,6 @@ grau do adjetivo
 [[quando usar o x ou ch|quando usar x ou ch]]
 erros de ortografia lista
 	 [[note-107|lista de verbos irregulares]]
-
+[[note-383|difereça entre vocativo e aposto em exemplo não tão simples]]
 
 
