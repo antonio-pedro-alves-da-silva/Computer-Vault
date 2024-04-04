@@ -165,23 +165,23 @@ eletricidade
 			 [[note-296|histerese magnética]]
 			 [[note-297|paramagnéticos ]]
 			 [[note-298|diamagnéticos]]
-	    [[print_screen_597.png|força magnética sobre cargas elétricas em um campo magnético]]
+		[[print_screen_597.png|força magnética sobre cargas elétricas em um campo magnético]]
 			[[print_screen_313.png|formula da força magnética sobre cargas elétricas em um campo magnético]]
 		[[print_screen_598.png|força magnética sobre um fio condutor]]
 		[[note-20|itensidade do campo magnético gerado pela corrente que passa pelo fio]]
-		[[note-19|regras da mão direita]] 
+		[[note-19|regras da corrente e regra da vbf]] 
 		[[print_screen_408.png|força e intensidade magnética entre dois fios condutores retilíneos paralelos]]
 		[[print_screen_406.png|campo magnético de uma espira circular]]
 		[[print_screen_407.png|campo magnético em um solenóide ou eletroimãs]]
 			[[note-288|direção e sentido do campo magnético de um solenóide]]
-		[[note-287|raio e periodo de uma carga elétrica no campo magnético]]
+		[[note-287|raio e periodo de uma carga elétrica no campo magnético em mcu]]
 		indução eletromagnética
+			[[note-290|o que é indução eletromagnética ?]]
 			[[print_screen_600.png|fluxo do campo magnético]]
 				variação de fluxo de um condutor em um campo magnético
 					[15](https://www.qconcursos.com/questoes-militares/questoes/9d6186a8-50)-([[note-289|onde há ocorre variação de fluxo ?]])
 			[[print_screen_412.png|força eletromotriz induzida no condutor retilíneo que se move em um campo magnético uniforme ]]
-			[[note-290|o que é indução eletromagnética ?]]
-			[[note-21|lei de lenz]]
+			[[note-21|lei de lenz(sentido da corrente)]]
 				[exemplo de aplicação da lei de lenz](https://www.qconcursos.com/questoes-militares/questoes/2131c90c-4d)
 			[[print_screen_411.png|lei de faraday(força eletromotriz média induzida)]]
 		transformador
@@ -199,7 +199,7 @@ eletricidade
 			[7](https://www.qconcursos.com/questoes-militares/questoes/67e44517-86)substâncias magnéticas([[note-295|resolução]])
 			[8](https://www.qconcursos.com/questoes-militares/questoes/18aadb65-b0)força magnética nula
 			[9](https://www.qconcursos.com/questoes-militares/questoes/202c1a29-66)força centrípeta e raio da trajetória
-			[11](https://www.qconcursos.com/questoes-militares/questoes/dfe8720a-55)
+			[11](https://www.qconcursos.com/questoes-militares/questoes/dfe8720a-55)norte e sul geográfico
 			[12](https://www.qconcursos.com/questoes-militares/questoes/ae489780-55)formula da variação de fluxo
 		    [13](https://www.qconcursos.com/questoes-militares/questoes/a25cf891-55)regra da mão direita ibf
-	
+

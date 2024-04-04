@@ -6,7 +6,3 @@ T → tensão na corda (N)
 
 µ → densidade linear de massa (kg/m³)
 
-
-$\Large \mu = \frac{massa}{L}$
-
-L → comprimento

@@ -38,6 +38,7 @@ ondulatória
 		o que é onda estacionária ?
 			é quando duas ondas iguais se encontram
 	    [[note-34|velocidade da onda por meio da densidade]]
+	    [[note-382|densidade por meio do comprimento]]
 	fenômenos ondulatórios
 		reflexão
 		refração
@@ -57,7 +58,7 @@ ondulatória
 		[[print_screen_424.png|periodo da mola e periodo do pêndulo simples]]
 		[[print_screen_664.png|função horária da elongação e função horária da velocidade do mhs]]    
 		[[print_screen_663.png|velocidade escalar em função da elongação no mhs]]
-		[[print_screen_665.png|função horária da aceleração]]
+		[[print_screen_678.jpg|função horária da aceleração e aceleração em função da elongação]]
 	[[note-37|cor por reflexão]]
 		o que o branco reflete ?
 			   o branco reflete todas as cores

@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8c278605ebd73b3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-143.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b51053946250d564",
             "type": "leaf",
             "state": {
@@ -32,19 +20,19 @@
             }
           },
           {
-            "id": "e4c936a5fe52959d",
+            "id": "f9eb3e1d5d1463f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md",
+                "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md",
+                "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md",
+                "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md"
+                "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md"
               }
             }
           },
@@ -194,30 +182,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4c936a5fe52959d",
+  "active": "f9eb3e1d5d1463f5",
   "lastOpenFiles": [
+    "imagens/print_screen_678.jpg",
+    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
+    "notes/note-383.md",
+    "imagens/print_screen_665.png",
+    "imagens/print_screen_663.png",
+    "imagens/print_screen_664.png",
     "MATÉRIAS/EEAR.md",
-    "notes/note-269.md",
+    "notes/note-324.md",
+    "notes/note-143.md",
+    "notes/note-34.md",
+    "notes/note-382.md",
+    "notes/note-33.md",
+    "notes/note-32.md",
+    "imagens/Pasted image 20240125164437.png",
+    "notes/note-310.md",
     "notes/FÍSICA/ELETRICIDADE.md",
+    "notes/note-295.md",
+    "notes/note-21.md",
+    "notes/note-23.md",
+    "imagens/print_screen_308.png",
+    "notes/Untitled 4.md",
+    "imagens/print_screen_411.png",
+    "notes/note-290.md",
+    "notes/note-287.md",
+    "notes/note-19.md",
+    "notes/note-298.md",
+    "imagens/print_screen_311.png",
+    "notes/note-297.md",
+    "notes/note-296.md",
+    "notes/note-269.md",
     "imagens/print_screen_576.png",
     "notes/note-266.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/MATEMÁTICA/ÁLGEBRA III/Produto Notaveis.md",
-    "notes/note-127.md",
-    "notes/note-346.md",
-    "notes/note-362.md",
-    "notes/note-361.md",
-    "notes/note-360.md",
-    "notes/note-355.md",
     "imagens/print_screen_213.png",
-    "notes/note-354.md",
-    "notes/note-353.md",
-    "notes/note-351.md",
-    "notes/note-327.md",
-    "notes/note-328.md",
-    "notes/note-143.md",
-    "Excalidraw/GEOMETRIA ESPACIAL THODI.excalidraw.md",
-    "imagens/Pasted image 20231031151346.png",
     "my-configuration-files/js-scripts/node_modules/std/assert/deepEqual.js",
     "my-configuration-files/js-scripts/node_modules/std/assert",
     "my-configuration-files/js-scripts/node_modules/std/Changelog",
@@ -228,19 +229,6 @@
     "my-configuration-files/js-scripts/node_modules/optimist/test/_/argv.js",
     "my-configuration-files/js-scripts/node_modules/optimist/test/usage.js",
     "my-configuration-files/js-scripts/node_modules/optimist/test/parse.js",
-    "my-configuration-files/js-scripts/node_modules/async/README.md",
-    "my-configuration-files/js-scripts/node_modules/uglify-js/README.md",
-    "my-configuration-files/js-scripts/node_modules/require/README.md",
-    "my-configuration-files/js-scripts/node_modules/amdefine/README.md",
-    "my-configuration-files/js-scripts/node_modules/source-map/README.md",
-    "my-configuration-files/js-scripts/node_modules/source-map/CHANGELOG.md",
-    "imagens/print_screen_677.png",
-    "imagens/print_screen_650.png",
-    "imagens/print_screen_567.png",
-    "imagens/print_screen_573.png",
-    "imagens/print_screen_645.png",
-    "imagens/print_screen_646.png",
-    "imagens/print_screen_644.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
