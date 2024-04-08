@@ -30,7 +30,7 @@ exec --no-startup-id dex --autostart --environment i3
 # and nm-applet is a desktop environment-independent system tray GUI for it.
 exec --no-startup-id nm-applet
 # activing xmodmap
-exec [[ -f ~/.Xmodmap ]] && xmodmap ~/.Xmodmap
+exec xmodmap ~/Computer-Vault/my-configuration-files/xmodmap/.Xmodmap
 #########################################################################
 
 # seting the default keyboard
@@ -76,6 +76,9 @@ focus_follows_mouse yes
 exec xmodmap ~/Computer-Vault/my-configuration-files/xmodmap/.Xmodmap
 # 
 bindsym $mod+shift+b exec blueman-manager
+# backup at each 2 hours
+exec node ~/Computer-Vault/my-configuration-files/js-scripts/computer-vault-git-backup.cjs
+
 
 #############################################################################
 

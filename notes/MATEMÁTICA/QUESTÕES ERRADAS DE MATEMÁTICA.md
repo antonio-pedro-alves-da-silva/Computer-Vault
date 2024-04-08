@@ -76,7 +76,7 @@ prova de 2006
 [5]()([[print_screen_651.png|matriz identidade]] e [[print_screen_652.png|matriz inversa]] , [[note-284|matriz transposta]] , [[note-285|matriz oposta]] , [[note-286|matriz simétrica e antisimétrica]])
 [6](https://militares.estrategia.com/public/questoes/existem-k-maneiras71a177a389/)(princípio multiplicativo)
 7([[Pasted image 20240319120727.png|tetraedro regular]], [[Pasted image 20231031151346.png|regras de euler]] , [[GEOMETRIA ESPACIAL THODI.excalidraw|thodi]] , [[note-327|calculando aresta]])
-[8]()([[note-328|resolução]])
+[8]()([[note-328|resolução]])+
 [[note-344|9]]([[note-345|equação geral da reta e angulo de inclinação]] , [[print_screen_673.png|descobrindo a equação geral da reta através de matrizes]])
 [10](https://militares.estrategia.com/public/questoes/equaca-cujas-raizes-sa338445739e/#:~:text=O%20valor%20de%20%7Ca%20%2B%20b%7C%20%C3%A9&text=2.&text=3.)([[note-346|relações de Girard]] , [[note-351|Teorema da Decomposição]] ,  [[Produto Notaveis|produtos notáveis]] )
 [11]()([[note-353|resolução]] , [[note-352|teorema de tales]])

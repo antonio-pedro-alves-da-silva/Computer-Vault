@@ -54,21 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4807761a8bbb5cd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-328.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -144,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-384.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-384.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-384.md"
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
               }
             }
           },
@@ -219,15 +207,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "89dce5d02186b38c",
+  "active": "30270424553c4dc6",
   "lastOpenFiles": [
+    "notes/note-328.md",
+    "notes/note-384.md",
     "my-configuration-files/js-scripts/computer-vault-git-backup.cjs",
     "my-configuration-files/js-scripts/notificationScript.cjs",
     "my-configuration-files/js-scripts/notificationScript.js",
     "notes/note-143.md",
-    "notes/note-384.md",
     "MATÉRIAS/EEAR.md",
-    "notes/note-328.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "Excalidraw/GEOMETRIA ESPACIAL THODI.excalidraw.md",
     "my-configuration-files/backup/provas_de_português/cfs-b-1-2-2014-bct.txt",
@@ -266,7 +254,6 @@
     "my-configuration-files/js-scripts/node_modules/std/Changelog",
     "my-configuration-files/js-scripts/node_modules/std/invoke.js",
     "my-configuration-files/js-scripts/node_modules/std/xhr.js",
-    "my-configuration-files/js-scripts/node_modules/std/inverse.js",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
