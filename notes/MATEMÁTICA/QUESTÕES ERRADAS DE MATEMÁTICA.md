@@ -58,7 +58,7 @@ prova de 2009
 [5](https://militares.estrategia.com/public/questoes/f-x-mx2-2m-1-x-m-2389e5dac7e/)(zero real duplo)
 [6](https://militares.estrategia.com/public/questoes/Quatro-numeros50162aa7b5/)([[note-376|resolução]])
 [7](https://www.youtube.com/watch?v=lB1qcH1v_FA)(os ângulos da base maior de um trapézio)
-[8](https://www.youtube.com/watch?v=GkGzP1hb9F0)([[note-205|se a + b = 90]])+
+[8](https://www.youtube.com/watch?v=GkGzP1hb9F0)([[note-205|se a + b = 90]])
 prova de 2008
 [1](https://militares.estrategia.com/public/questoes/urna-contem-3-bolas32eed1490e/)(probabilidade de ambos os eventos ocorrem 3/7*2/6)
 [2](https://militares.estrategia.com/public/questoes/Comparando-tg-20deg-tg950159ce4/)(https://www.geogebra.org/m/EKPJP535)(ciclo trigonométrico - analisando a tangente)

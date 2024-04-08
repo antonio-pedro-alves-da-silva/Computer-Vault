@@ -20,7 +20,31 @@
             }
           },
           {
-            "id": "7e0e05c76fa56ed8",
+            "id": "e6838e109b7e4d70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-143.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89dce5d02186b38c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-384.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30270424553c4dc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4807761a8bbb5cd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-328.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "notes/note-384.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "notes/note-384.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+                "file": "notes/note-384.md"
               }
             }
           },
@@ -183,13 +219,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7e0e05c76fa56ed8",
+  "active": "89dce5d02186b38c",
   "lastOpenFiles": [
+    "my-configuration-files/js-scripts/computer-vault-git-backup.cjs",
+    "my-configuration-files/js-scripts/notificationScript.cjs",
+    "my-configuration-files/js-scripts/notificationScript.js",
+    "notes/note-143.md",
+    "notes/note-384.md",
+    "MATÉRIAS/EEAR.md",
+    "notes/note-328.md",
+    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "Excalidraw/GEOMETRIA ESPACIAL THODI.excalidraw.md",
     "my-configuration-files/backup/provas_de_português/cfs-b-1-2-2014-bct.txt",
     "notes/note-376.md",
-    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
-    "notes/note-143.md",
-    "MATÉRIAS/EEAR.md",
     "notes/note-184.md",
     "notes/note-383.md",
     "my-configuration-files/backup/provas_de_português/cfs-b-1-2-2015.pdf",
@@ -217,9 +259,6 @@
     "notes/note-19.md",
     "notes/note-298.md",
     "imagens/print_screen_311.png",
-    "notes/note-297.md",
-    "notes/note-296.md",
-    "notes/note-269.md",
     "imagens/print_screen_576.png",
     "imagens/print_screen_213.png",
     "my-configuration-files/js-scripts/node_modules/std/assert/deepEqual.js",
@@ -228,9 +267,6 @@
     "my-configuration-files/js-scripts/node_modules/std/invoke.js",
     "my-configuration-files/js-scripts/node_modules/std/xhr.js",
     "my-configuration-files/js-scripts/node_modules/std/inverse.js",
-    "my-configuration-files/js-scripts/node_modules/optimist/test/_/bin.js",
-    "my-configuration-files/js-scripts/node_modules/optimist/test/_/argv.js",
-    "my-configuration-files/js-scripts/node_modules/optimist/test/usage.js",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

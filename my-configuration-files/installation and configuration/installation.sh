@@ -43,7 +43,7 @@ cd ~/.fzf/
 
 sudo apt-fast install feh -y
 sudo apt-fast install xdotool -y
-sudo apt-fast install nodejs -y
+sudo snap install node --classic
 sudo apt-fast install flameshot -y
 sudo apt-fast install i3 -y
 sudo apt-fast install i3status -y
