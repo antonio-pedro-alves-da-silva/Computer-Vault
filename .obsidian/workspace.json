@@ -20,31 +20,19 @@
             }
           },
           {
-            "id": "4233de1ea041cfd5",
+            "id": "7e0e05c76fa56ed8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-143.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a15fdf539dfc468d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-383.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -119,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-383.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-383.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-383.md"
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
               }
             }
           },
@@ -184,21 +173,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-importer:Open Importer": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a15fdf539dfc468d",
+  "active": "7e0e05c76fa56ed8",
   "lastOpenFiles": [
+    "my-configuration-files/backup/provas_de_português/cfs-b-1-2-2014-bct.txt",
+    "notes/note-376.md",
+    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-143.md",
-    "notes/note-383.md",
     "MATÉRIAS/EEAR.md",
+    "notes/note-184.md",
+    "notes/note-383.md",
     "my-configuration-files/backup/provas_de_português/cfs-b-1-2-2015.pdf",
     "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "imagens/print_screen_678.jpg",
@@ -228,9 +221,6 @@
     "notes/note-296.md",
     "notes/note-269.md",
     "imagens/print_screen_576.png",
-    "notes/note-266.md",
-    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
-    "notes/MATEMÁTICA/ÁLGEBRA III/Produto Notaveis.md",
     "imagens/print_screen_213.png",
     "my-configuration-files/js-scripts/node_modules/std/assert/deepEqual.js",
     "my-configuration-files/js-scripts/node_modules/std/assert",

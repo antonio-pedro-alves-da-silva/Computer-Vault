@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "note-383",
-      "path": "notes/note-383.md"
+      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
+      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+    },
+    {
+      "basename": "note-376",
+      "path": "notes/note-376.md"
     },
     {
       "basename": "note-143",
@@ -11,6 +15,14 @@
     {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "note-184",
+      "path": "notes/note-184.md"
+    },
+    {
+      "basename": "note-383",
+      "path": "notes/note-383.md"
     },
     {
       "basename": "ONDULATÓRIA e ÓTICA",
@@ -129,10 +141,6 @@
       "path": "notes/note-266.md"
     },
     {
-      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
-      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
-    },
-    {
       "basename": "Produto Notaveis",
       "path": "notes/MATEMÁTICA/ÁLGEBRA III/Produto Notaveis.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Pasted image 20231031151346",
       "path": "imagens/Pasted image 20231031151346.png"
-    },
-    {
-      "basename": "diferentes tipos de funções",
-      "path": "notes/MATEMÁTICA/ÁLGEBRA/Funções/diferentes tipos de funções.md"
-    },
-    {
-      "basename": "progressões aritmética e geométrica",
-      "path": "notes/MATEMÁTICA/ÁLGEBRA/progressões aritmética e geométrica.md"
     }
   ],
   "omittedPaths": [],
