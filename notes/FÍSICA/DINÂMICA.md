@@ -24,7 +24,7 @@ energia , trabalho e potência
 	 formula da potência média
 	 formula da energia cinética
 	 [[print_screen_270.png|Teorema da energia cinética]]
-	 [[note-177|Potência M´]]
+	 [[note-177|Potência Média]]
 	 [[print_screen_267.png|Rendimento da potência]]
 energia mecânica e sua conservação
 	[[print_screen_292.png|Sistema Conservativos]]
