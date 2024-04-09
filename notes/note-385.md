@@ -1,2 +1,2 @@
 **é necessário que :**
-	número de mols de particulas do estado inicial == número de mols de partic 
+	número de mols de particulas do estado inicial == númeroículas
