@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
+                "file": "MATÉRIAS/EEAR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
+                "file": "MATÉRIAS/EEAR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md"
+                "file": "MATÉRIAS/EEAR.md"
               }
             }
           },
@@ -183,8 +182,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6fd6b2309fe292ea",
+  "active": "b51053946250d564",
   "lastOpenFiles": [
+    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "MATÉRIAS/EEAR.md",
     "notes/note-143.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
@@ -209,7 +209,6 @@
     "notes/note-184.md",
     "notes/note-383.md",
     "my-configuration-files/backup/provas_de_português/cfs-b-1-2-2015.pdf",
-    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "imagens/print_screen_678.jpg",
     "imagens/print_screen_665.png",
     "imagens/print_screen_663.png",
