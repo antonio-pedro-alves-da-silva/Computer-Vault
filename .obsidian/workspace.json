@@ -30,19 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ba2708566166211a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "imagens/Pasted image 20231125094454.png"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "imagens/Pasted image 20231125094454.png",
+                "file": "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "imagens/Pasted image 20231125094454.png",
+                "file": "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "imagens/Pasted image 20231125094454.png"
+                "file": "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md"
               }
             }
           },
@@ -193,8 +183,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ba2708566166211a",
+  "active": "675d209a9c3bbf7a",
   "lastOpenFiles": [
+    "imagens/Pasted image 20231125094454.png",
     "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
     "MATÉRIAS/EEAR.md",
     "notes/CONCEITOS BÁSICOS E FUNDAMENTAIS.md",
@@ -222,7 +213,6 @@
     "notes/note-143.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "imagens/print_screen_678.png",
-    "notes/note-360.md",
     "my-configuration-files/xmodmap/new-file",
     "my-configuration-files/xmodmap/xmodmap_E",
     "imagens/print_screen_243.png",
