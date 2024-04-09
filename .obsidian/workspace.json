@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "432cf04bab255780",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-106.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-106.md",
+                "file": "notes/FÍSICA/TERMOLOGIA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-106.md",
+                "file": "notes/FÍSICA/TERMOLOGIA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-106.md"
+                "file": "notes/FÍSICA/TERMOLOGIA.md"
               }
             }
           },
@@ -195,8 +183,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "432cf04bab255780",
+  "active": "3517c5c180e4576f",
   "lastOpenFiles": [
+    "notes/note-106.md",
     "notes/FÍSICA/TERMOLOGIA.md",
     "notes/note-102.md",
     "my-configuration-files/js-scripts/addToMdTable.cjs",
@@ -226,7 +215,6 @@
     "notes/note-384.md",
     "notes/note-353.md",
     "notes/note-354.md",
-    "notes/MATEMÁTICA/ÁLGEBRA III/Produto Notaveis.md",
     "imagens/print_screen_243.png",
     "my-configuration-files/js-scripts/computer-vault-git-backup.cjs",
     "my-configuration-files/js-scripts/notificationScript.cjs",
