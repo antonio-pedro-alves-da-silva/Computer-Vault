@@ -1,1 +1,1 @@
-número de mols d
+número de mols de particulas do es
