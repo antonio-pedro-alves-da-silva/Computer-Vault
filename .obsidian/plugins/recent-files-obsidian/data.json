@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "note-113",
+      "path": "notes/note-113.md"
+    },
+    {
       "basename": "TERMOLOGIA",
       "path": "notes/FÍSICA/TERMOLOGIA.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "note-290",
       "path": "notes/note-290.md"
-    },
-    {
-      "basename": "note-287",
-      "path": "notes/note-287.md"
     }
   ],
   "omittedPaths": [],
