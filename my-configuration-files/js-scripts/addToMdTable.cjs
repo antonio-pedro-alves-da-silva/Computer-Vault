@@ -44,7 +44,7 @@ function arrayToMdTable(ArrayList,FirstRow){
     let restOfTheLines = '|';
     ArrayList.map((v,i,a)=>{
         v.map((v2,i2,a2)=>{
-            restOfTheLines += `${v2}|`
+            restOfTheLines += `${v2}`
         })
         restOfTheLines += '\n'
     })
