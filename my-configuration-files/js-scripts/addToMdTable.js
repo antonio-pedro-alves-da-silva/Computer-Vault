@@ -6,6 +6,8 @@ const season = inputFile.match(/(?<=_s)\d+(?=e\d+.)/)[0];
 const episode = inputFile.match(/(?<=_s\de)\d+(?=[.])/)[0];
 
 
+
+
 import { log } from "console";
 import { exec } from "child_process";
 import { fs } from "fs";
