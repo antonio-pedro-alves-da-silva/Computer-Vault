@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0bc36ff0e3036cda",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "imagens/print_screen_252.png"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
+                "file": "imagens/print_screen_252.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
+                "file": "imagens/print_screen_252.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
+                "file": "imagens/print_screen_252.png"
               }
             }
           },
@@ -183,8 +193,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b0492991d4817d69",
+  "active": "0bc36ff0e3036cda",
   "lastOpenFiles": [
+    "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
     "my-configuration-files/js-scripts/package.json",
     "my-configuration-files/js-scripts/addToMdTable.cjs",
     "my-configuration-files/js-scripts/addToMdTable.mjs",
@@ -192,7 +203,6 @@
     "my-configuration-files/js-scripts/node_modules/markdown-table/index.js",
     "my-configuration-files/js-scripts/moveAndCreateFolder.cjs",
     "imagens/print_screen_498.png",
-    "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
     "imagens/print_screen_248.png",
     "notes/note-399.md",
     "MATÉRIAS/EEAR.md",
@@ -227,7 +237,6 @@
     "imagens/print_screen_243.png",
     "my-configuration-files/js-scripts/computer-vault-git-backup.cjs",
     "my-configuration-files/js-scripts/notificationScript.cjs",
-    "my-configuration-files/js-scripts/notificationScript.js",
     "imagens/print_screen_678.jpg",
     "imagens/print_screen_665.png",
     "imagens/print_screen_663.png",
