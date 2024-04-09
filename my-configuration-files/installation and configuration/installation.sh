@@ -1,7 +1,6 @@
 
 
-# download chrome
-
+sudo snap refresh firefox
 sudo apt-fast install tilix
 
 #1.generate new ssh key
@@ -21,9 +20,9 @@ sudo auto-cpufreq --force=performance
 
 sudo apt-fast install curl -y
 sudo apt-fast install snapd -y
-# configuração do tmux(não terminado)
+# instalação do tmux(não terminado)
 
-# configuração do zsh
+# instalação do zsh
 
 sudo apt-fast install zsh -y
 
@@ -47,14 +46,15 @@ sudo snap install node --classic
 sudo apt-fast install flameshot -y
 sudo apt-fast install i3 -y
 sudo apt-fast install i3status -y
-
+sudo apt-fast install blueman -y
 
 # other packages 
+
 sudo apt-fast install gparted -y
 sudo apt-fast install ffmpeg -y
 sudo apt-fast install pavucontrol -y
-sudo apt-fast install thunar -y
-sudo apt-fast install blueman -y
+sudo apt-fast install nautilus -y
+sudo snap install code --classic
 
-download vscode 
 download apache
+
