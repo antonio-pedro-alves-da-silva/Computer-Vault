@@ -54,4 +54,4 @@ function arrayToMdTable(ArrayList,FirstRow){
 }
 
 
-arrayToMdTable([['text','translated','audio'],['lorm ipsum','kamaleão dragon','']],'|english|portuguese|audio|')
+arrayToMdTable([['text','translated','audio'],['lorm ipsum','kamaleão dragon','polvo']],'|english|portuguese|audio|')
