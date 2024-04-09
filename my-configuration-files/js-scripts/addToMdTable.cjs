@@ -54,5 +54,3 @@ function arrayToMdTable(ArrayList,FirstRow){
 }
 
 
-
-console.log(generateSrtArray(srtFile));
