@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "675d209a9c3bbf7a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "imagens/Pasted image 20231225220906.png"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "imagens/Pasted image 20231225220906.png",
+                "file": "MATÉRIAS/EEAR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "imagens/Pasted image 20231225220906.png",
+                "file": "MATÉRIAS/EEAR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "imagens/Pasted image 20231225220906.png"
+                "file": "MATÉRIAS/EEAR.md"
               }
             }
           },
@@ -181,8 +170,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "675d209a9c3bbf7a",
+  "active": "b51053946250d564",
   "lastOpenFiles": [
+    "imagens/Pasted image 20231225220906.png",
     "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
     "imagens/Pasted image 20231125094454.png",
     "MATÉRIAS/EEAR.md",
