@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9bd4b399b4252dc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-392.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-387.md",
+                "file": "notes/note-392.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-387.md",
+                "file": "notes/note-392.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-387.md"
+                "file": "notes/note-392.md"
               }
             }
           },
@@ -195,10 +207,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5ccc160ff4505b6f",
+  "active": "9bd4b399b4252dc4",
   "lastOpenFiles": [
-    "notes/note-390.md",
     "notes/note-387.md",
+    "notes/note-392.md",
+    "notes/note-390.md",
     "notes/note-389.md",
     "notes/note-388.md",
     "notes/FÍSICA/TERMOLOGIA.md",
@@ -235,7 +248,6 @@
     "imagens/print_screen_664.png",
     "notes/note-324.md",
     "notes/note-34.md",
-    "notes/note-382.md",
     "imagens/Pasted image 20240125164437.png",
     "imagens/print_screen_308.png",
     "imagens/print_screen_411.png",
