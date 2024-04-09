@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5ccc160ff4505b6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-387.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/TERMOLOGIA.md",
+                "file": "notes/note-387.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/TERMOLOGIA.md",
+                "file": "notes/note-387.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/TERMOLOGIA.md"
+                "file": "notes/note-387.md"
               }
             }
           },
@@ -183,10 +195,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3517c5c180e4576f",
+  "active": "5ccc160ff4505b6f",
   "lastOpenFiles": [
-    "notes/note-100.md",
     "notes/FÍSICA/TERMOLOGIA.md",
+    "notes/note-387.md",
+    "notes/note-100.md",
     "notes/note-386.md",
     "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "notes/note-385.md",
@@ -224,7 +237,6 @@
     "notes/note-32.md",
     "imagens/Pasted image 20240125164437.png",
     "notes/note-310.md",
-    "notes/FÍSICA/ELETRICIDADE.md",
     "imagens/print_screen_308.png",
     "imagens/print_screen_411.png",
     "imagens/print_screen_311.png",
