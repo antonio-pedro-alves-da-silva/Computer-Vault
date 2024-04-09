@@ -53,6 +53,3 @@ function arrayToMdTable(ArrayList,FirstRow){
     console.log(table)
 
 }
-
-
-arrayToMdTable([['text','translated','audio'],['lorm ipsum','kamaleão dragon','polvo']],'|english|portuguese|audio|')
