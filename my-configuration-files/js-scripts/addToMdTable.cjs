@@ -10,7 +10,7 @@ const { exec } = require("child_process");
 const fs = require("fs").promises; // Import fs promises for async/await
 const { log } = require("console");
 const {markdownTable} = require("markdown-table")
-import {markdownTable} from 'markdown-table';
+
 
 async function generateSrtArray(File) {
     let srtArray = [];
