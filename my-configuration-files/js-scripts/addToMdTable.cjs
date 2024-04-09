@@ -38,6 +38,8 @@ function arrayToMdTable(Array){
     Array.map(()=>{
 
     })
+
+   Array.map
 }
 
 console.log(generateSrtArray(srtFile));
