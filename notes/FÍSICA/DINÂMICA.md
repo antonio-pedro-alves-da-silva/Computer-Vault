@@ -22,7 +22,7 @@ energia , trabalho e potência
 	 [[Pasted image 20231126074712.png|formulas relacionadas a força elástica]]
 	 [[print_screen_263.png|trabalho da força elástica]]
 	 formula da potência média
-	 formula da energia cinéticaed
+	 formula da energia cinética
 	 [[print_screen_270.png|Teorema da energia cinética]]
 	 [[note-177|Potência M´]]
 	 [[print_screen_267.png|Rendimento da potência]]
