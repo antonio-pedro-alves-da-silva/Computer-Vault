@@ -1,1 +1,1 @@
-isovolumét
+isovolumétrica
