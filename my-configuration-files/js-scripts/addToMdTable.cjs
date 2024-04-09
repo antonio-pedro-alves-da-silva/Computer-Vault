@@ -48,7 +48,7 @@ function arrayToMdTable(ArrayList,FirstRow){
 
 }
 
-function generateRow(Array,){
+function generateRow(Array){
 
 }
 
