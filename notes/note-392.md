@@ -1,1 +1,1 @@
-temperatura aume
+temperatura aumenta
