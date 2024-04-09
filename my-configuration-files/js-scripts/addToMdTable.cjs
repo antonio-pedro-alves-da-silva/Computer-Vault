@@ -35,7 +35,8 @@ async function generateSrtArray(File) {
 // function that genetare a table with an collection of an Array
 
 function arrayToMdTable(Array,FirstRow){
-    let table = `${FirstRow}`;
+    let table = `${FirstRow}
+    `;
     Array.map((v,i,a)=>{
         
     })
