@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9bfddfd8239696d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/CONCEITOS BÁSICOS E FUNDAMENTAIS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/CONCEITOS BÁSICOS E FUNDAMENTAIS.md",
+                "file": "MATÉRIAS/EEAR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/CONCEITOS BÁSICOS E FUNDAMENTAIS.md",
+                "file": "MATÉRIAS/EEAR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/CONCEITOS BÁSICOS E FUNDAMENTAIS.md"
+                "file": "MATÉRIAS/EEAR.md"
               }
             }
           },
@@ -183,8 +170,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9bfddfd8239696d0",
+  "active": "b51053946250d564",
   "lastOpenFiles": [
+    "notes/CONCEITOS BÁSICOS E FUNDAMENTAIS.md",
     "MATÉRIAS/EEAR.md",
     "notes/FÍSICA/TERMOLOGIA.md",
     "notes/note-398.md",
@@ -214,7 +202,6 @@
     "notes/note-355.md",
     "my-configuration-files/xmodmap/new-file",
     "my-configuration-files/xmodmap/xmodmap_E",
-    "notes/note-384.md",
     "imagens/print_screen_243.png",
     "my-configuration-files/js-scripts/computer-vault-git-backup.cjs",
     "my-configuration-files/js-scripts/notificationScript.cjs",
