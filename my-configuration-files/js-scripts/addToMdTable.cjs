@@ -41,7 +41,7 @@ function arrayToMdTable(ArrayList,FirstRow){
         if (i > 0) SecondRow += '--|'
     });
 
-    let restOfTheLines = '|';
+    let restOfTheLines = '';
     ArrayList.map((v,i,a)=>{
         v.map((v2,i2,a2)=>{
             restOfTheLines += `|${v2}`
