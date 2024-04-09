@@ -29,7 +29,6 @@ async function generateSrtArray(File) {
         throw err; // Propagate the error
     }
 
-    log(markdownTable([srtArray]));
 }
 
 
