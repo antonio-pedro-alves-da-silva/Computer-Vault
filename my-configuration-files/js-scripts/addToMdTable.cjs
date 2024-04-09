@@ -48,7 +48,7 @@ function arrayToMdTable(ArrayList,FirstRow){
         })
     })
 
-    let table = ;
+    let table = Firs;
     console.log(table)
 
 }
