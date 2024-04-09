@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATÉRIAS/EEAR.md"
+                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
               }
             }
           },
@@ -182,10 +183,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b51053946250d564",
+  "active": "2895055fba9a420d",
   "lastOpenFiles": [
-    "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
     "MATÉRIAS/EEAR.md",
+    "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
     "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
     "imagens/Pasted image 20231225220906.png",
     "imagens/Pasted image 20231125094454.png",
