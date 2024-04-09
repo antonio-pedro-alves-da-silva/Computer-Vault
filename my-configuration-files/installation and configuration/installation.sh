@@ -1,7 +1,6 @@
 
 
 sudo snap refresh firefox
-sudo apt-fast install tilix
 
 #1.generate new ssh key
 ssh-keygen -t ed25519 -C "antoniopedroalvesdasilva.apads@gmail.com"
@@ -47,6 +46,7 @@ sudo apt-fast install flameshot -y
 sudo apt-fast install i3 -y
 sudo apt-fast install i3status -y
 sudo apt-fast install blueman -y
+sudo apt-fast install tilix -y
 
 # other packages 
 
