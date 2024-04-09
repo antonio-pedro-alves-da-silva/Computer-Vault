@@ -1,1 +1,1 @@
-$\Large $
+$\Large J = $
