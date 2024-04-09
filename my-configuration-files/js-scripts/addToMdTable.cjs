@@ -48,7 +48,7 @@ function arrayToMdTable(ArrayList,FirstRow){
         })
     })
 
-    let table = `${FirstRow}\n${SecondRow}\n${}`;
+    let table = `${FirstRow}\n${SecondRow}\n${restOfTheLines}`;
     console.log(table)
 
 }
