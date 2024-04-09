@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c0be5de14df48744",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-102.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-102.md",
+                "file": "notes/FÍSICA/TERMOLOGIA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-102.md",
+                "file": "notes/FÍSICA/TERMOLOGIA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-102.md"
+                "file": "notes/FÍSICA/TERMOLOGIA.md"
               }
             }
           },
@@ -195,10 +183,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c0be5de14df48744",
+  "active": "3517c5c180e4576f",
   "lastOpenFiles": [
-    "notes/FÍSICA/TERMOLOGIA.md",
     "notes/note-102.md",
+    "notes/FÍSICA/TERMOLOGIA.md",
     "my-configuration-files/js-scripts/addToMdTable.cjs",
     "notes/note-113.md",
     "notes/note-387.md",
