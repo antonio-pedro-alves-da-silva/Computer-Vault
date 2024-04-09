@@ -35,8 +35,12 @@
             "id": "42d41f09bab2eaf3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "notes/Untitled 5.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -116,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/Untitled 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/Untitled 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +159,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/Untitled 5.md"
+              }
             }
           },
           {
@@ -189,6 +197,7 @@
   },
   "active": "42d41f09bab2eaf3",
   "lastOpenFiles": [
+    "notes/Untitled 5.md",
     "notes/FÍSICA/DINÂMICA.md",
     "MATÉRIAS/EEAR.md",
     "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
@@ -226,7 +235,6 @@
     "notes/note-389.md",
     "notes/note-388.md",
     "notes/note-100.md",
-    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "imagens/print_screen_678.png",
     "my-configuration-files/xmodmap/new-file",
     "my-configuration-files/xmodmap/xmodmap_E",
