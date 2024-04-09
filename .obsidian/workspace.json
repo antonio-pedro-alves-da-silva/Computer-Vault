@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-393.md",
+                "file": "notes/note-387.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-393.md",
+                "file": "notes/note-387.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-393.md"
+                "file": "notes/note-387.md"
               }
             }
           },
@@ -207,10 +207,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "80d7462055f6afa4",
+  "active": "5ccc160ff4505b6f",
   "lastOpenFiles": [
-    "notes/note-387.md",
     "notes/note-393.md",
+    "notes/note-387.md",
     "notes/note-391.md",
     "notes/note-392.md",
     "notes/note-390.md",
