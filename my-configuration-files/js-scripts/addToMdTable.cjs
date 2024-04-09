@@ -46,6 +46,4 @@ function arrayToMdTable(Array,table){
 
 }
 
-arrayToMdTable
-
 console.log(generateSrtArray(srtFile));
