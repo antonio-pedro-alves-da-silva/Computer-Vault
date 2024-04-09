@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2895055fba9a420d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "imagens/print_screen_246.png"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "imagens/print_screen_246.png",
+                "file": "MATÉRIAS/EEAR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "imagens/print_screen_246.png",
+                "file": "MATÉRIAS/EEAR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "imagens/print_screen_246.png"
+                "file": "MATÉRIAS/EEAR.md"
               }
             }
           },
@@ -181,8 +170,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2895055fba9a420d",
+  "active": "b51053946250d564",
   "lastOpenFiles": [
+    "imagens/print_screen_246.png",
     "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
     "MATÉRIAS/EEAR.md",
     "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
@@ -211,7 +201,6 @@
     "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "notes/note-385.md",
     "notes/note-143.md",
-    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "imagens/print_screen_678.png",
     "my-configuration-files/xmodmap/new-file",
     "my-configuration-files/xmodmap/xmodmap_E",
