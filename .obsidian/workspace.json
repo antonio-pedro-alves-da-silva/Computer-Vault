@@ -42,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "72817b2ce4b46a57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-389.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-389.md",
+                "file": "notes/note-387.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-389.md",
+                "file": "notes/note-387.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-389.md"
+                "file": "notes/note-387.md"
               }
             }
           },
@@ -207,10 +195,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "72817b2ce4b46a57",
+  "active": "5ccc160ff4505b6f",
   "lastOpenFiles": [
-    "notes/note-387.md",
     "notes/note-389.md",
+    "notes/note-387.md",
     "notes/note-388.md",
     "notes/FÍSICA/TERMOLOGIA.md",
     "notes/note-100.md",
