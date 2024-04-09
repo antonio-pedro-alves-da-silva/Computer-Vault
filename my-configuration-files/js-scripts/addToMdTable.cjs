@@ -42,7 +42,7 @@ function arrayToMdTable(ArrayList,FirstRow){
     });
 
     let restOfTheLines;
-    Array.foreach((v,i,a)=>{
+    ArrayList.foreach((v,i,a)=>{
         
     })
 
