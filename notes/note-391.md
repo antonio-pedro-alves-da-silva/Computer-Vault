@@ -1,1 +1,1 @@
-temperatura diminu
+temperatura diminui?
