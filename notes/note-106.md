@@ -1,1 +1,1 @@
-$\Large E = \frac{Q_{f}}{|J|}$
+$\Large n = \frac{Q_{f}}{|J|}$
