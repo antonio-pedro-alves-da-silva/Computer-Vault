@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "285452aa0fcadffe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-113.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-113.md",
+                "file": "notes/FÍSICA/TERMOLOGIA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-113.md",
+                "file": "notes/FÍSICA/TERMOLOGIA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-113.md"
+                "file": "notes/FÍSICA/TERMOLOGIA.md"
               }
             }
           },
@@ -195,8 +183,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "285452aa0fcadffe",
+  "active": "3517c5c180e4576f",
   "lastOpenFiles": [
+    "notes/note-113.md",
     "notes/FÍSICA/TERMOLOGIA.md",
     "notes/note-387.md",
     "notes/note-393.md",
@@ -229,7 +218,6 @@
     "my-configuration-files/js-scripts/computer-vault-git-backup.cjs",
     "my-configuration-files/js-scripts/notificationScript.cjs",
     "my-configuration-files/js-scripts/notificationScript.js",
-    "Excalidraw/GEOMETRIA ESPACIAL THODI.excalidraw.md",
     "my-configuration-files/backup/provas_de_português/cfs-b-1-2-2014-bct.txt",
     "my-configuration-files/backup/provas_de_português/cfs-b-1-2-2015.pdf",
     "imagens/print_screen_678.jpg",
