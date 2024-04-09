@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
+                "file": "MATÉRIAS/EEAR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
+                "file": "MATÉRIAS/EEAR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md"
+                "file": "MATÉRIAS/EEAR.md"
               }
             }
           },
@@ -183,8 +182,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "675d209a9c3bbf7a",
+  "active": "b51053946250d564",
   "lastOpenFiles": [
+    "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
     "MATÉRIAS/EEAR.md",
     "notes/CONCEITOS BÁSICOS E FUNDAMENTAIS.md",
     "notes/FÍSICA/TERMOLOGIA.md",
@@ -212,7 +212,6 @@
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "imagens/print_screen_678.png",
     "notes/note-360.md",
-    "notes/note-355.md",
     "my-configuration-files/xmodmap/new-file",
     "my-configuration-files/xmodmap/xmodmap_E",
     "imagens/print_screen_243.png",
