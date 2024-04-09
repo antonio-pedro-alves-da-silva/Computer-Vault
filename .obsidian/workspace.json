@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "17a882ea7d6b1e21",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "imagens/print_screen_498.png"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
+                "file": "imagens/print_screen_498.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
+                "file": "imagens/print_screen_498.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
+                "file": "imagens/print_screen_498.png"
               }
             }
           },
@@ -183,10 +193,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b0492991d4817d69",
+  "active": "17a882ea7d6b1e21",
   "lastOpenFiles": [
-    "imagens/print_screen_498.png",
     "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
+    "imagens/print_screen_498.png",
     "imagens/print_screen_248.png",
     "notes/note-399.md",
     "MATÉRIAS/EEAR.md",
