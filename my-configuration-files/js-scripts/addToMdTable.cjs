@@ -54,4 +54,4 @@ function arrayToMdTable(ArrayList,FirstRow){
 }
 
 
-arrayToMdTable([['text','translated','audio'],[]],'|english|portuguese|audio|')
+arrayToMdTable([['text','translated','audio'],['']],'|english|portuguese|audio|')
