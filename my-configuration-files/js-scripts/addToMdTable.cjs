@@ -35,10 +35,10 @@ async function generateSrtArray(File) {
 // function that generate a table with an collection of an Array |english|portuguese|audio|
 
 function arrayToMdTable(Array,FirstRow){
-    
-    FirstRow += "\n|";
-    let SecondRow = FirstRow.match(/|/gm).foreach((v,i,a)=>{
-        FirstRow += "--|"
+
+    let SecondRow = '|';
+    FirstRow.match(/|/gm).foreach((v,i,a)=>{
+        seo
     });
 
     Array.foreach((v,i,a)=>{
