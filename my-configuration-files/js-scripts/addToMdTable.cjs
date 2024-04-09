@@ -9,7 +9,7 @@ const episode = inputFile.match(/(?<=_s\de)\d+(?=[.])/)[0];
 const { exec } = require("child_process");
 const fs = require("fs").promises; // Import fs promises for async/await
 const { log } = require("console");
-const {markdownTable} = require("mark")
+const {markdownTable} = require("markdown-table")
 import {markdownTable} from 'markdown-table';
 
 async function generateSrtArray(File) {
