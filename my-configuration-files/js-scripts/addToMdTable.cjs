@@ -36,7 +36,9 @@ async function generateSrtArray(File) {
 
 function arrayToMdTable(Array,FirstRow){
     
-    if()
+    if(){
+        
+    }
     let table = `${FirstRow}`;
     Array.map((v,i,a)=>{
         
