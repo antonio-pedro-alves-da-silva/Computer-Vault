@@ -1,1 +1,1 @@
-número de mols de particulas do es
+número de mols de particulas do estado inicial 
