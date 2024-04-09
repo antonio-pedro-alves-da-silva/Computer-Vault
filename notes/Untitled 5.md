@@ -1,1 +1,1 @@
-|english|portugues
+|english|portuguese
