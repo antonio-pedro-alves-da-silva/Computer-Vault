@@ -40,7 +40,9 @@ function arrayToMdTable(Array,FirstRow){
         FirstRow += "--|"
     });
 
-    Array.foreach((v,i,a))
+    Array.foreach((v,i,a)=>{
+        
+    })
 
 }
 
