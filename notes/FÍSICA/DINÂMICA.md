@@ -21,7 +21,6 @@ energia , trabalho e potência
 	 [[print_screen_259.png|Trabalho de uma força]]
 	 [[Pasted image 20231126074712.png|formulas relacionadas a força elástica]]
 	 [[print_screen_263.png|trabalho da força elástica]]
-	 formula da potência média
 	 formula da energia cinética
 	 [[print_screen_270.png|Teorema da energia cinética]]
 	 [[note-177|Potência Média]]
