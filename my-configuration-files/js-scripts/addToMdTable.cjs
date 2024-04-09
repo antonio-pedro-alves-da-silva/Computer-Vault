@@ -10,8 +10,6 @@ const log = require("console");
 const exec = require("child_process");
 const fs = require("fs/promises")
 
-import { markdownTable } from "markdown-table";
-
 
 async function generateSrtArray(File) {
     let srtArray = [];
