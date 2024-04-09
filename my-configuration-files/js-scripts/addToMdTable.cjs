@@ -37,7 +37,7 @@ async function generateSrtArray(File) {
 function arrayToMdTable(Array){
     Array.map(()=>{
 
-    }))
+    })
 }
 
 console.log(generateSrtArray(srtFile));
