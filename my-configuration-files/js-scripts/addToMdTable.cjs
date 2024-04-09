@@ -48,6 +48,8 @@ function arrayToMdTable(ArrayList,FirstRow){
 
 }
 
-function generateRow()
+function generateRow(){
+    
+}
 
 console.log(generateSrtArray(srtFile));
