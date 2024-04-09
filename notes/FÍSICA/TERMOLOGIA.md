@@ -42,7 +42,6 @@ termologia
 		trabalho de um gás nas transformações gasosas
 			[[print_screen_472.png|variação de volume]]
 			[[print_screen_473.png|trabalho de um gás na expansão e na compressão]]
-				$p*\Delta V=n*R*\Delta T$
 			[[print_screen_476.png|trabalho em uma transformação qualquer e na transformação cíclica]]
 		[[print_screen_478.png|energia interna e variação da energia interna dos gases]]	
 			$p*\Delta V=n*R*\Delta T$	
