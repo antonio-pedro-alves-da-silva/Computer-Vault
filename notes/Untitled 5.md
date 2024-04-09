@@ -1,2 +1,3 @@
-|english|portuguese|audio|
-|---|
+| english | portuguese | audio |
+| ------- | ---------- | ----- |
+|         |            |       |
