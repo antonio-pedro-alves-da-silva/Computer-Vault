@@ -42,7 +42,7 @@ function arrayToMdTable(ArrayList,FirstRow){
     });
 
     let restOfTheLines = '|';
-    ArrayList.foreach((v,i,a)=>{
+    ArrayList.forEach((v,i,a)=>{
         v.foreach((v2,i2,a2)=>{
             restOfTheLines += `${v2}|`
         })
