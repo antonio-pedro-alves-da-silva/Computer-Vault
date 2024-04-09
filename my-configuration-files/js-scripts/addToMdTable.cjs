@@ -34,8 +34,8 @@ async function generateSrtArray(File) {
 
 // function that genetare a tabel with an array 
 
-funciton arrayToMdTable(){
-    
+function arrayToMdTable(){
+
 }
 
 console.log(generateSrtArray(srtFile));
