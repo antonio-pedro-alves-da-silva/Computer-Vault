@@ -30,19 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "463236098e9747ce",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "imagens/print_screen_248.png"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "imagens/print_screen_248.png",
+                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "imagens/print_screen_248.png",
+                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "imagens/print_screen_248.png"
+                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
               }
             }
           },
@@ -193,8 +183,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "463236098e9747ce",
+  "active": "b0492991d4817d69",
   "lastOpenFiles": [
+    "imagens/print_screen_248.png",
     "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
     "notes/note-399.md",
     "MATÉRIAS/EEAR.md",
@@ -224,7 +215,6 @@
     "notes/note-100.md",
     "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "notes/note-385.md",
-    "notes/note-143.md",
     "imagens/print_screen_678.png",
     "my-configuration-files/xmodmap/new-file",
     "my-configuration-files/xmodmap/xmodmap_E",
