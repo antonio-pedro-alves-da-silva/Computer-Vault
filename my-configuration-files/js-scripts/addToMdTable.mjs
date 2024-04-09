@@ -8,7 +8,7 @@ const episode = inputFile.match(/(?<=_s\de)\d+(?=[.])/)[0];
 
 import { log } from "console";
 import { exec } from "child_process";
-import { fs } from "fs/promies";
+import { fs } from "fs";
 import { markdownTable } from "markdown-table";
 
 
