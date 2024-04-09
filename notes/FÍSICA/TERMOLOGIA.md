@@ -44,7 +44,7 @@ termologia
 			[[note-386|trabalho de um gás na expansão e na compressão]]
 			[[print_screen_476.png|trabalho em uma transformação qualquer e na transformação cíclica]]
 		[[print_screen_478.png|energia interna e variação da energia interna dos gases]]	
-			$p*\Delta V=n*R*\Delta T$	
+
 		lei zero e primeira lei da termodinâmica
 			[[note-100|lei zero da termodinâmica]]
 			primeira lei da termodinâmica
