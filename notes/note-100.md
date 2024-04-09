@@ -1,1 +1,2 @@
 A lei zero da Termodinâmica diz que **se dois corpos que apresentam a mesma** [**temperatura**](https://mundoeducacao.uol.com.br/fisica/temperatura-calor.htm)**, estão em contato com um terceiro corpo, então todos terão a mesma temperatura e não haverá troca de** [**calor**](https://mundoeducacao.uol.com.br/fisica/calor.htm) **entre eles**, caracterizando o [equilíbrio térmico](https://mundoeducacao.uol.com.br/fisica/equilibrio-termico.htm).
+
