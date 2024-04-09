@@ -37,7 +37,7 @@ async function generateSrtArray(File) {
 function arrayToMdTable(ArrayList,FirstRow){
 
     let SecondRow = '|';
-    FirstRow.match(/|/gm).map((v,i,a)=>{
+    FirstRow.match(/|/gm).forE((v,i,a)=>{
         if (i > 0) SecondRow += "--|";
     });
 
