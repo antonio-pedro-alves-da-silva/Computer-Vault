@@ -1,1 +1,1 @@
-adiab
+adiabática
