@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "EEAR",
+      "path": "MATÉRIAS/EEAR.md"
+    },
+    {
       "basename": "TERMOLOGIA",
       "path": "notes/FÍSICA/TERMOLOGIA.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "note-397",
       "path": "notes/note-397.md"
-    },
-    {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
     }
   ],
   "omittedPaths": [],
