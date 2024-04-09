@@ -38,7 +38,7 @@ function arrayToMdTable(Array,FirstRow){
     let FirstRowCols = FirstRow.match(/|/).
 
     let table = `${FirstRow}`;
-    Array.map((v,i,a)=>{
+    Array.foreach((v,i,a)=>{
         
     })
 
