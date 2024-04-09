@@ -49,7 +49,7 @@ function arrayToMdTable(ArrayList,FirstRow){
 }
 
 function generateRow(Array){
-
+    
 }
 
 console.log(generateSrtArray(srtFile));
