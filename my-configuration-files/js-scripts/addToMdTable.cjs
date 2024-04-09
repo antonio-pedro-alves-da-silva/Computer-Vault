@@ -35,8 +35,8 @@ async function generateSrtArray(File) {
 // function that genetare a table with an collection of an Array |english|portuguese|audio|
 
 function arrayToMdTable(Array,FirstRow){
-    let FirstRowCols = FirstRow.match(/|/).foreach((v,i,a)=>{
-        
+    let FirstRowCols = FirstRow.match(/|/gm).foreach((v,i,a)=>{
+
     });
 
     let table = `${FirstRow}`;
