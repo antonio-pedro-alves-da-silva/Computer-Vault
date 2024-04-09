@@ -41,8 +41,8 @@ function arrayToMdTable(Array,FirstRow){
     });
 
     let table = `${FirstRow}`;
+    table += '\n|';
     Array.foreach((v,i,a)=>{
-        table += '\n|';
     })
 
 }
