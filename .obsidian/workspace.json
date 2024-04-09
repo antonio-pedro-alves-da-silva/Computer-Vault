@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/TERMOLOGIA.md",
+                "file": "notes/note-100.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/TERMOLOGIA.md",
+                "file": "notes/note-100.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/TERMOLOGIA.md"
+                "file": "notes/note-100.md"
               }
             }
           },
@@ -195,10 +195,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3517c5c180e4576f",
+  "active": "333196eda2fbef97",
   "lastOpenFiles": [
-    "notes/note-100.md",
     "notes/FÍSICA/TERMOLOGIA.md",
+    "notes/note-100.md",
     "notes/note-386.md",
     "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "notes/note-385.md",
