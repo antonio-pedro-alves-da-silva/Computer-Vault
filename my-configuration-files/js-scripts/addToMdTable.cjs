@@ -41,7 +41,7 @@ function arrayToMdTable(Array,FirstRow){
         SecondRow += "--|";
     });
 
-    let
+    let restOf
     Array.foreach((v,i,a)=>{
 
     })
