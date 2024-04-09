@@ -32,6 +32,6 @@ async function generateSrtArray(File) {
 
 }
 
-k
+// 
 
 console.log(generateSrtArray(srtFile));
