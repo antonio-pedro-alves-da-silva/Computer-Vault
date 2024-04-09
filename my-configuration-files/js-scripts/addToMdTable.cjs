@@ -38,7 +38,6 @@ function arrayToMdTable(ArrayList,FirstRow){
 
     let SecondRow = '|';
     FirstRow.match(/|/gm).foreach((v,i,a)=>{
-        
         SecondRow += "--|";
     });
 
