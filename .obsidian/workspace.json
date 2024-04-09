@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d6f8a0f159d7d3ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATÉRIAS/EEAR.md"
+                "file": "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md"
               }
             }
           },
@@ -170,12 +183,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b51053946250d564",
+  "active": "d6f8a0f159d7d3ef",
   "lastOpenFiles": [
+    "MATÉRIAS/EEAR.md",
     "imagens/Pasted image 20231225220906.png",
     "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
     "imagens/Pasted image 20231125094454.png",
-    "MATÉRIAS/EEAR.md",
     "notes/CONCEITOS BÁSICOS E FUNDAMENTAIS.md",
     "notes/FÍSICA/TERMOLOGIA.md",
     "notes/note-398.md",
@@ -215,7 +228,6 @@
     "imagens/print_screen_664.png",
     "imagens/Pasted image 20240125164437.png",
     "imagens/print_screen_308.png",
-    "imagens/print_screen_411.png",
     "my-configuration-files/js-scripts/node_modules/std/assert/deepEqual.js",
     "my-configuration-files/js-scripts/node_modules/std/assert",
     "Untitled.canvas",
