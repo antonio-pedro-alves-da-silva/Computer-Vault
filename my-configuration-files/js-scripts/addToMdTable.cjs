@@ -38,7 +38,7 @@ function arrayToMdTable(Array,FirstRow){
 
     let SecondRow = '|';
     FirstRow.match(/|/gm).foreach((v,i,a)=>{
-        seo
+        
     });
 
     Array.foreach((v,i,a)=>{
