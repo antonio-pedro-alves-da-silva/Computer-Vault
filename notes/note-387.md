@@ -1,1 +1,1 @@
-|calor|Q
+|calor|Q|
