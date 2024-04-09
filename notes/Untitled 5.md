@@ -1,1 +1,1 @@
-|english|portuguese
+|english|portuguese|audio|
