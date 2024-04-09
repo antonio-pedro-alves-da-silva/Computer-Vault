@@ -34,7 +34,7 @@ async function generateSrtArray(File) {
 
 // function that genetare a table with an collection of an Array
 
-function arrayToMdTable(Array,Fist){
+function arrayToMdTable(Array,FistRow){
     let table = '|';
     Array.map((v,i,a)=>{
         
