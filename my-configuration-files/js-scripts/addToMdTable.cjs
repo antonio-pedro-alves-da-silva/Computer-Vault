@@ -33,3 +33,4 @@ async function generateSrtArray(File) {
 }
 
 
+console.log
