@@ -5,20 +5,44 @@
       "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
     },
     {
-      "basename": "note-328",
-      "path": "notes/note-328.md"
+      "basename": "note-360",
+      "path": "notes/note-360.md"
     },
     {
-      "basename": "note-384",
-      "path": "notes/note-384.md"
+      "basename": "note-355",
+      "path": "notes/note-355.md"
+    },
+    {
+      "basename": "EEAR",
+      "path": "MATÉRIAS/EEAR.md"
     },
     {
       "basename": "note-143",
       "path": "notes/note-143.md"
     },
     {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
+      "basename": "note-384",
+      "path": "notes/note-384.md"
+    },
+    {
+      "basename": "note-353",
+      "path": "notes/note-353.md"
+    },
+    {
+      "basename": "note-354",
+      "path": "notes/note-354.md"
+    },
+    {
+      "basename": "Produto Notaveis",
+      "path": "notes/MATEMÁTICA/ÁLGEBRA III/Produto Notaveis.md"
+    },
+    {
+      "basename": "print_screen_243",
+      "path": "imagens/print_screen_243.png"
+    },
+    {
+      "basename": "note-328",
+      "path": "notes/note-328.md"
     },
     {
       "basename": "GEOMETRIA ESPACIAL THODI.excalidraw",
@@ -153,10 +177,6 @@
       "path": "notes/note-266.md"
     },
     {
-      "basename": "Produto Notaveis",
-      "path": "notes/MATEMÁTICA/ÁLGEBRA III/Produto Notaveis.md"
-    },
-    {
       "basename": "note-127",
       "path": "notes/note-127.md"
     },
@@ -173,32 +193,12 @@
       "path": "notes/note-361.md"
     },
     {
-      "basename": "note-360",
-      "path": "notes/note-360.md"
-    },
-    {
-      "basename": "note-355",
-      "path": "notes/note-355.md"
-    },
-    {
       "basename": "print_screen_213",
       "path": "imagens/print_screen_213.png"
     },
     {
-      "basename": "note-354",
-      "path": "notes/note-354.md"
-    },
-    {
-      "basename": "note-353",
-      "path": "notes/note-353.md"
-    },
-    {
       "basename": "note-351",
       "path": "notes/note-351.md"
-    },
-    {
-      "basename": "note-327",
-      "path": "notes/note-327.md"
     }
   ],
   "omittedPaths": [],
