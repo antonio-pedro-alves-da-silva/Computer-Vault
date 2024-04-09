@@ -28,7 +28,7 @@ async function generateSrtArray(File) {
         console.error(`Error reading file: ${err}`);
         throw err; // Propagate the error
     }
-    return srtArray
+    return srtArray;
 
 }
 
