@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "72ac6721721be74f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-356.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
+                "file": "notes/note-356.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
+                "file": "notes/note-356.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
+                "file": "notes/note-356.md"
               }
             }
           },
@@ -183,10 +195,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b0492991d4817d69",
+  "active": "72ac6721721be74f",
   "lastOpenFiles": [
-    "imagens/print_screen_252.png",
     "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
+    "imagens/print_screen_252.png",
     "my-configuration-files/js-scripts/package.json",
     "my-configuration-files/js-scripts/addToMdTable.cjs",
     "my-configuration-files/js-scripts/addToMdTable.mjs",
@@ -230,7 +242,6 @@
     "my-configuration-files/js-scripts/notificationScript.cjs",
     "imagens/print_screen_678.jpg",
     "imagens/print_screen_665.png",
-    "imagens/print_screen_663.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
