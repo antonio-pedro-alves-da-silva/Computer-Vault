@@ -34,6 +34,6 @@ async function generateSrtArray(File) {
 
 // function that genetare a tabel with an array 
 
-funciton 
+funciton arrayTo
 
 console.log(generateSrtArray(srtFile));
