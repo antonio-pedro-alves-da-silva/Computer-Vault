@@ -8,7 +8,7 @@ const episode = inputFile.match(/(?<=_s\de)\d+(?=[.])/)[0];
 
 const { exec } = require("child_process");
 const fs = require("fs").promises; // Import fs promises for async/await
-const { g } = require("console");
+const { loBg } = require("console");
 const {markdownTable} = require("markdown-table");
 
 
