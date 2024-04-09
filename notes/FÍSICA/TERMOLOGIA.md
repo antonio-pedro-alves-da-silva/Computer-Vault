@@ -92,6 +92,6 @@ termologia
 			[1](https://www.qconcursos.com/questoes-militares/questoes/b203e8d8-01)(a variação de energia é a mesma já que ele começam no ponto i e terminam no ponto f  , [[print_screen_624.png|Wa > Wb > Wc]])
 		2° Lei da termodinâmica
 			[1](https://www.qconcursos.com/questoes-militares/questoes/fe829d84-7e)(rendimento do ciclo de carnot)
-			[2](https://www.qconcursos.com/questoes-militares/questoes/5883270b-ad)([[|resolução]])
+			[2](https://www.qconcursos.com/questoes-militares/questoes/5883270b-ad)([[note-|resolução]])
 		aprendi com exercícios 
 				análise do gráfico das transformações
