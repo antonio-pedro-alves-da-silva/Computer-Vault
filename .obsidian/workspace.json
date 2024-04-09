@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ba2708566166211a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "imagens/Pasted image 20231125094454.png"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
+                "file": "imagens/Pasted image 20231125094454.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
+                "file": "imagens/Pasted image 20231125094454.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md"
+                "file": "imagens/Pasted image 20231125094454.png"
               }
             }
           },
@@ -183,10 +193,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "675d209a9c3bbf7a",
+  "active": "ba2708566166211a",
   "lastOpenFiles": [
-    "MATÉRIAS/EEAR.md",
     "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
+    "MATÉRIAS/EEAR.md",
     "notes/CONCEITOS BÁSICOS E FUNDAMENTAIS.md",
     "notes/FÍSICA/TERMOLOGIA.md",
     "notes/note-398.md",
