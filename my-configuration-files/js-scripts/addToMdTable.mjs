@@ -10,12 +10,6 @@ const log = require("console");
 const exec = require("child_process");
 const fs = require()
 
-import { log } from "console";
-import { exec } from "child_process";
-import { fs } from "fs/promises";
-
-
-import { fs } from "fs";
 import { markdownTable } from "markdown-table";
 
 
