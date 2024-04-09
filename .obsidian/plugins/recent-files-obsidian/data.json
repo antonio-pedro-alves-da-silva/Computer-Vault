@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "note-389",
+      "path": "notes/note-389.md"
+    },
+    {
       "basename": "note-387",
       "path": "notes/note-387.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "print_screen_576",
       "path": "imagens/print_screen_576.png"
-    },
-    {
-      "basename": "note-266",
-      "path": "notes/note-266.md"
     }
   ],
   "omittedPaths": [],
