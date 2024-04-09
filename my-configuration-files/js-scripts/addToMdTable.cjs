@@ -35,7 +35,7 @@ async function generateSrtArray(File) {
 // function that genetare a table with an collection of an Array |english|portuguese|audio|
 
 function arrayToMdTable(Array,FirstRow){
-    
+    FirstRowCols 
     if(){
 
     };
