@@ -48,7 +48,7 @@ termologia
 			[[note-100|lei zero da termodinâmica]]
 			primeira lei da termodinâmica
 				[[note-101|formula da primeira lei da termodinâmica]]
-					[[note-38|convenções de sinais da primeira lei da termodinâmica]]
+					[[note-387|convenções de sinais da primeira lei da termodinâmica]]
 					[[note-113|análise do gráfico das transformações]]
 		máquinas térmicas
 			Motor térmico
