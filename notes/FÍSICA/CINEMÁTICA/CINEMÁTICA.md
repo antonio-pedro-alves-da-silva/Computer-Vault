@@ -50,11 +50,7 @@ cinemática
 		[23](https://www.qconcursos.com/questoes-militares/questoes/4d9aa9d1-42)-(espelho na lua , tempo médio do experimento da luz)
 		[24](https://www.qconcursos.com/questoes-militares/questoes/4d77ca6e-42)-()
 		[25](https://www.qconcursos.com/questoes-militares/questoes/4650a6c6-49)(resolução)
-
-
-
-
-
+77
 
 
 
