@@ -5,7 +5,7 @@ cinemática
 	queda livre
 		[[print_screen_634.png|formula de queda livre]]
 	lançamento vertical
-		[[ note-399|formulas de lançamento vertical]]
+		[[ note-|formulas de lançamento vertical]]
 		[[note-126|lançamento vertical tempo de subida]]
 	[[print_screen_247.png|lançamento horizontal]]
 	lançamento oblíquo
