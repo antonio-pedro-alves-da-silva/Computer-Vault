@@ -43,7 +43,7 @@ termologia
 		trabalho de um gás nas transformações gasosas
 			[[print_screen_472.png|variação de volume]]
 			[[note-386|trabalho de um gás na expansão e na compressão]]
-			[[print_screen_476.png|trabalho em uma transformação qualquer e na transformação cíclica]]
+			[[note-3|trabalho em uma transformação qualquer e na transformação cíclica]]
 		[[print_screen_478.png|energia interna e variação da energia interna dos gases]]	
 		lei zero e primeira lei da termodinâmica
 			[[note-100|lei zero da termodinâmica]]
