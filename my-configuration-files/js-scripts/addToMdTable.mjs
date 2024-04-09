@@ -9,7 +9,7 @@ const episode = inputFile.match(/(?<=_s\de)\d+(?=[.])/)[0];
 
 
 
-import { log } = require("console");
+import { log } from ("console");
 
 import { exec } from "child_process";
 import { fs } from "fs/promies";
