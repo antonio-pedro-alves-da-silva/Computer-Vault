@@ -41,7 +41,7 @@ termologia
 		[[Pasted image 20231216091346.png|equação de clapeyron]]
 		trabalho de um gás nas transformações gasosas
 			[[print_screen_472.png|variação de volume]]
-			[[note-|trabalho de um gás na expansão e na compressão]]
+			[[note-386|trabalho de um gás na expansão e na compressão]]
 			[[print_screen_476.png|trabalho em uma transformação qualquer e na transformação cíclica]]
 		[[print_screen_478.png|energia interna e variação da energia interna dos gases]]	
 			$p*\Delta V=n*R*\Delta T$	
