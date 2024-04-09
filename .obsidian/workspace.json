@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "bdafc1a8f0032bbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-386.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7daf4ab660ba0023",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/TERMOLOGIA.md",
+                "file": "notes/note-386.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/TERMOLOGIA.md",
+                "file": "notes/note-386.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/TERMOLOGIA.md"
+                "file": "notes/note-386.md"
               }
             }
           },
@@ -207,10 +219,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3517c5c180e4576f",
+  "active": "bdafc1a8f0032bbe",
   "lastOpenFiles": [
-    "notes/note-386.md",
     "notes/FÍSICA/TERMOLOGIA.md",
+    "notes/note-386.md",
     "notes/note-385.md",
     "MATÉRIAS/EEAR.md",
     "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
