@@ -43,7 +43,7 @@ function arrayToMdTable(ArrayList,FirstRow){
 
     let restOfTheLines = '';
     ArrayList.foreach((v,i,a)=>{
-        v.foreach((v2,i2,a2))
+        v.foreach((v2,i2,a2)=)
     })
 
 }
