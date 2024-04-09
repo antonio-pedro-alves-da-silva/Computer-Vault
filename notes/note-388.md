@@ -1,1 +1,1 @@
-recebe calor?
+recebe calor
