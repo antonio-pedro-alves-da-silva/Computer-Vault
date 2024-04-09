@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "7daf4ab660ba0023",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-386.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6fd6b2309fe292ea",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/TERMOLOGIA.md",
+                "file": "notes/note-386.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/TERMOLOGIA.md",
+                "file": "notes/note-386.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/TERMOLOGIA.md"
+                "file": "notes/note-386.md"
               }
             }
           },
@@ -195,10 +207,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3517c5c180e4576f",
+  "active": "7daf4ab660ba0023",
   "lastOpenFiles": [
-    "notes/note-385.md",
     "notes/FÍSICA/TERMOLOGIA.md",
+    "notes/note-386.md",
+    "notes/note-385.md",
     "MATÉRIAS/EEAR.md",
     "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "notes/note-143.md",
@@ -236,7 +249,6 @@
     "notes/note-310.md",
     "notes/FÍSICA/ELETRICIDADE.md",
     "notes/note-295.md",
-    "notes/note-21.md",
     "imagens/print_screen_308.png",
     "imagens/print_screen_411.png",
     "imagens/print_screen_311.png",
