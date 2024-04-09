@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "463236098e9747ce",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "imagens/print_screen_248.png"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
+                "file": "imagens/print_screen_248.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
+                "file": "imagens/print_screen_248.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
+                "file": "imagens/print_screen_248.png"
               }
             }
           },
@@ -183,10 +193,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b0492991d4817d69",
+  "active": "463236098e9747ce",
   "lastOpenFiles": [
-    "notes/note-399.md",
     "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
+    "notes/note-399.md",
     "MATÉRIAS/EEAR.md",
     "imagens/print_screen_246.png",
     "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
