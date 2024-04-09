@@ -7,7 +7,6 @@ cinemática
 	lançamento vertical
 		[[print_screen_635.png|formulas de lançamento vertical]]
 		[[note-126|lançamento vertical tempo de subida]]
-		[[note-125|altura máxima]]
 	[[print_screen_247.png|lançamento horizontal]]
 	lançamento oblíquo
 		[[Pasted image 20231227161652.png|lançamento oblíquo vetores]]
