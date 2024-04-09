@@ -32,7 +32,7 @@ async function generateSrtArray(File) {
 
 }
 
-// function that genetare a table with an collection of an Array
+// function that genetare a table with an collection of an Array |english
 
 function arrayToMdTable(Array,FirstRow){
     
