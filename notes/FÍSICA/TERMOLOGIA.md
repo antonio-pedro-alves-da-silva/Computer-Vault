@@ -37,7 +37,7 @@ termologia
 			**ISOVOLUMÉTRICA ou ISOMÉTRICA ou ISOCÓRICA** - quando o volume se mante constante , em que a pressão e a temperatura variam
 			**ADIABÁTICA** - Transformação adiabática é uma transformação termodinâmica em que não há troca de calor com o ambiente , onde nada é constante
 		[[note-99|equação geral dos gases]]
-			o que é necessário para usar essa equação ?
+			[[|o que é necessário para usar essa equação ?]]
 				é necessário que o número de mols ou de partículas do estado inicial seja o mesmo do que no estado final , e que sua composição se maténha a mesma
 		[[Pasted image 20231216091346.png|equação de clapeyron]]
 		trabalho de um gás nas transformações gasosas
