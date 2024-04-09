@@ -1,1 +1,1 @@
-temperatura dimi
+temperatura diminu
