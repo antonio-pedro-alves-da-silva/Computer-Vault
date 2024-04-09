@@ -1,5 +1,5 @@
 A lei zero da Termodinâmica diz que **se dois corpos que apresentam a mesma** [**temperatura**](https://mundoeducacao.uol.com.br/fisica/temperatura-calor.htm)**, estão em contato com um terceiro corpo, então todos terão a mesma temperatura e não haverá troca de** [**calor**](https://mundoeducacao.uol.com.br/fisica/calor.htm) **entre eles**, caracterizando o [equilíbrio térmico](https://mundoeducacao.uol.com.br/fisica/equilibrio-termico.htm).
 
-"A Lei Zero da Termodinâmica é importante porque ela define a grandeza física temperatura, que tornou possível que os termômetros fossem fabricados. Ela pode ser observada em situações que se referem ao equilíbrio térmico entre os corpos, por exemplo: ao misturar águas a diferentes temperaturas, haverá troca de calor até que as águas atinjam a mesma temperatura, e ao entrar em uma água com uma temperatura mais elevada ou mais fria, em pouco tempo, o corpo se acostumará à temperatura devido às trocas de calor."
+exempao misturar águas a diferentes temperaturas, haverá troca de calor até que as águas atinjam a mesma temperatura, e ao entrar em uma água com uma temperatura mais elevada ou mais fria, em pouco tempo, o corpo se acostumará à temperatura devido às trocas de calor."
 
 Veja mais sobre "Lei Zero da Termodinâmica" em: https://brasilescola.uol.com.br/fisica/lei-zero-da-termodinamica.htm
