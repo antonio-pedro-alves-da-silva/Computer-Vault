@@ -10,7 +10,6 @@ const episode = inputFile.match(/(?<=_s\de)\d+(?=[.])/)[0];
 // const fs = require("fs").promises; // Import fs promises for async/await
 // const { log } = require("console");
 
-import exe}
 import { markdownTable } from "markdown-table";
 
 
