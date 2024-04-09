@@ -46,6 +46,7 @@ function arrayToMdTable(ArrayList,FirstRow){
         v.map((v2,i2,a2)=>{
             restOfTheLines += `${v2}|`
         })
+        
     })
 
     let table = `${FirstRow}\n${SecondRow}\n${restOfTheLines}`;
