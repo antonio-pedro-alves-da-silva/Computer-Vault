@@ -32,10 +32,10 @@ async function generateSrtArray(File) {
 
 }
 
-// function that genetare a tabel with an array 
+// function that genetare a tabel with an collection of an Array
 
 function arrayToMdTable(Array){
-    
+
 }
 
 console.log(generateSrtArray(srtFile));
