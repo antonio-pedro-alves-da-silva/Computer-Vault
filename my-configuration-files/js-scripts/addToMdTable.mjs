@@ -11,7 +11,8 @@ const exec = require("");
 
 import { log } from "console";
 import { exec } from "child_process";
-import { fs } from "fs/promises"
+import { fs } from "fs/promises";
+
 
 import { fs } from "fs";
 import { markdownTable } from "markdown-table";
