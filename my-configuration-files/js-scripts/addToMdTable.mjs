@@ -12,7 +12,7 @@ const fs = require("fs").promises; // Import fs promises for async/await
 const { log } = require("console");
 
 import { exec } from "child_process";
-import { fs } from "fs";
+import { fs } from "fs/promies";
 import { markdownTable } from "markdown-table";
 
 
