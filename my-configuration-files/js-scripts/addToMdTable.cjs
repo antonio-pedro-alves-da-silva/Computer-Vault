@@ -36,7 +36,7 @@ async function generateSrtArray(File) {
 
 function arrayToMdTable(Array,FirstRow){
     FirstRow += "\n|";
-    lFirstRow.match(/|/gm).foreach((v,i,a)=>{
+    FirstRow.match(/|/gm).foreach((v,i,a)=>{
         FirstRow += "--|"
     });
 
