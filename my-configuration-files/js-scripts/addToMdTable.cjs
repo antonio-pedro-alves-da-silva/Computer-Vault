@@ -47,6 +47,7 @@ function arrayToMdTable(ArrayList,FirstRow){
             restOfTheLines += `${v2}|`
         })
     })
+    
 
 }
 
