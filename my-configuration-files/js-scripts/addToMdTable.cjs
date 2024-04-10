@@ -33,7 +33,9 @@ async function generateSrtArray(File) {
 
 }
 
-generateSrtArray(srtFile).then((result))
+generateSrtArray(srtFile).then((result)=>{
+    
+})
 
 // function that generate a table with an collection of an Array |english|portuguese|audio|
 
