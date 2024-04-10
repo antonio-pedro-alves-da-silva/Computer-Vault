@@ -48,5 +48,5 @@ matemática
 68)a-anulada 
 69)c-b
 70)c 
-71)c 
+71)c
 72)a 
