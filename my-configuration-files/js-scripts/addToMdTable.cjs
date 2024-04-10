@@ -34,7 +34,7 @@ async function generateSrtArray(File) {
 }
 
 generateSrtArray(srtFile).then((array) => {
-    arrayToMdTable(result,)
+    arrayToMdTable(array,)
 }).catch((error) => {
     console.error("Promise rejected with error:", error);
 })
