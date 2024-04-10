@@ -35,7 +35,7 @@ async function generateSrtArray(File) {
 }
 
 generateSrtArray(srtFile).then((result)=>{
-    log(result)
+    console.log(result)
 }).catch((err)=>{
     console.log('Problem solving promise : ',err)
 })
