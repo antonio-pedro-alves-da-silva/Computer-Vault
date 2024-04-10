@@ -33,7 +33,7 @@ async function generateSrtArray(File) {
 
 }
 
-console.log
+console.log(generateSrtArray)
 
 // function that generate a table with an collection of an Array |english|portuguese|audio|
 
