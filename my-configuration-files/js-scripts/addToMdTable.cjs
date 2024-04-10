@@ -36,7 +36,7 @@ async function generateSrtArray(File) {
 generateSrtArray(srtFile).then((result)=>{
     
 }).catch((err)=>{
-    console.log('Problem solving promise')
+    console.log('Problem solving promise :')
 })
 
 // function that generate a table with an collection of an Array |english|portuguese|audio|
