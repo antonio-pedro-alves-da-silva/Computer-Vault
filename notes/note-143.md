@@ -1,5 +1,5 @@
 
-adjflajlfkja lfkjljfalkjdlk dklafjlk akdfjlak adjfkla
+
 
 formação de palavras
 	[[note-301|redução ou abreviação]]
