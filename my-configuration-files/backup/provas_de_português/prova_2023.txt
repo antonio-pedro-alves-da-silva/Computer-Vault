@@ -46,7 +46,7 @@ matemática
 66)c 
 67)c
 68)a-anulada 
-69)c-b
+69)
 70)c 
 71)c
 72)a 
