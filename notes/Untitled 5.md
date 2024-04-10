@@ -1,6 +1,5 @@
-|line1|line2|line3|
-|--|--|--|
-|367|00:20:51,430 --> 00:20:54,421|
+| line1 | line2                         | line3 |
+| ----- | -------:20:51,430 --> 00:20:54,421 |       |
 <i>Is that enough
 of a reference for you?</i>
 
