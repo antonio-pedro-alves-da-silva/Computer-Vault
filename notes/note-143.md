@@ -1,4 +1,5 @@
 
+
 formação de palavras
 	[[note-301|redução ou abreviação]]
 		 **transformação de uma palavra noutra mais pequena**
