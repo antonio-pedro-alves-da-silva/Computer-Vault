@@ -33,9 +33,11 @@ async function generateSrtArray(File) {
 
 }
 
-console.log(generateSrtArray(srtFile).then((result)=>{
-    cons
-}))
+console.log(generateSrtArray(srtFile).then((result) => {
+    console.log("Promise resolved with result:", result);
+}).catch((error) => {
+    console.error("Promise rejected with error:", error);
+});)
 
 // function that generate a table with an collection of an Array |english|portuguese|audio|
 
