@@ -30,7 +30,7 @@ function audioCutter() {
       let timings = data.match(regex);
       // removendo o ultimo numero
       texts = texts.map(function (text) {
-        return String(reverseString(text).replace(/\d+/, ""))reverse;
+        return reverseString(reverseString(text).replace(/\d+/, ""));
       });
       
       // cortando de n em n
