@@ -34,7 +34,7 @@ async function generateSrtArray(File) {
 }
 
 generateSrtArray(srtFile).then((result)=>{
-    arrayToMdTable([['adfa','jlkjk','hkj']])
+    arrayToMdTable([['adfa','jlkjk','hkj'].])
 }).catch((err)=>{
     console.log('Problem solving promise : ',err)
 })
