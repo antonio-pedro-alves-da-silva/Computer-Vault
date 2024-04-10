@@ -20,24 +20,24 @@
             }
           },
           {
-            "id": "48d490732f34dc31",
+            "id": "3ba109fc1c366c3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/DINÂMICA.md",
+                "file": "notes/note-143.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "42d41f09bab2eaf3",
+            "id": "c8dcf89a94d75966",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Untitled 5.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sobrejetora",
+                "query": "pronome",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,8 +98,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -120,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Untitled 5.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Untitled 5.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Untitled 5.md"
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
               }
             }
           },
@@ -195,11 +194,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "42d41f09bab2eaf3",
+  "active": "c8dcf89a94d75966",
   "lastOpenFiles": [
-    "notes/Untitled 5.md",
-    "notes/FÍSICA/DINÂMICA.md",
+    "imagens/print_screen_679.png",
+    "notes/note-143.md",
+    "notes/GRAMÁTICA/pronome/7 erros com pronomes pessoais.md",
+    "notes/GRAMÁTICA/colocação pronominal.md",
+    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "MATÉRIAS/EEAR.md",
+    "notes/MATEMÁTICA/ÁLGEBRA III/Números Complexos.md",
+    "my-configuration-files/backup/provas_de_português/cfs-b-2-2011.txt",
+    "notes/FÍSICA/DINÂMICA.md",
+    "notes/Untitled 5.md",
     "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
     "notes/note-356.md",
     "imagens/print_screen_252.png",
@@ -229,18 +235,11 @@
     "notes/note-396.md",
     "notes/note-395.md",
     "notes/note-394.md",
-    "notes/note-391.md",
-    "notes/note-392.md",
-    "notes/note-390.md",
-    "notes/note-389.md",
-    "notes/note-388.md",
-    "notes/note-100.md",
     "imagens/print_screen_678.png",
     "my-configuration-files/xmodmap/new-file",
     "my-configuration-files/xmodmap/xmodmap_E",
     "imagens/print_screen_243.png",
     "my-configuration-files/js-scripts/computer-vault-git-backup.cjs",
-    "my-configuration-files/js-scripts/notificationScript.cjs",
     "imagens/print_screen_678.jpg",
     "imagens/print_screen_665.png",
     "Untitled.canvas",

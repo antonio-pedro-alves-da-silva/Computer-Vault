@@ -31,7 +31,7 @@ prova de 2011
 [4](https://www.qconcursos.com/questoes-militares/questoes/ae066507-55)-([[note-117|como pegar o centro da equação geral da reta da circuferência]])
 [5](https://www.qconcursos.com/questoes-militares/questoes/ae16fcce-55)- distância entre pontos
 [6](https://www.qconcursos.com/questoes-militares/questoes/7c9d4c07-58)- [[print_screen_150.png|Formula trigonométrica adição]] , [[print_screen_153.png|arco duplo]] e [[print_screen_152.png|arco metade]]
-prova de 2024
+prova de 2023
 [1](https://www.qconcursos.com/questoes-militares/questoes/5ad19354-16)-função polinomial do 1° grau
 [2](https://www.youtube.com/watch?v=OakQs52IE2s)-([[note-127|restrições de valores para x]])
 [3](https://www.qconcursos.com/questoes-militares/questoes/5adcaf54-16)-[[print_screen_140.png|Arcos congruos e simétricos]]
@@ -44,6 +44,8 @@ prova de 2024
 [10](https://www.qconcursos.com/questoes-de-concursos/questoes/0923395e-d0)- Análise comibinatória - combinação simples de questões
 [11](https://www.qconcursos.com/questoes-militares/questoes/5b0c7f85-16)- Análise combinatória - Combinação simples
 [12](https://www.qconcursos.com/questoes-militares/questoes/5b122d7d-16)- Análise combinatória - Combinação simples e permutação
+[13](https://militares.estrategia.com/public/questoes/cos-x-0-8-enta-valor-1173579503a/)(formulas trigonométricas)
+[14](https://www.qconcursos.com/questoes-militares/questoes/5b0731b4-16)([[print_screen_679.png|resolução]])
 prova de 2010
 [1](https://www.qconcursos.com/questoes-militares/questoes/c7a60f94-59)- [[note-373|resolução]]
 [3](https://www.qconcursos.com/questoes-militares/questoes/c7c7d954-59)- Números Complexos ([[Números Complexos#POTÊNCIAS DE i|potencíação de i]])

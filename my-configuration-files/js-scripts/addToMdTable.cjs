@@ -21,7 +21,7 @@ async function generateSrtArray(File) {
         let text = data.split(/\d\d:\d\d:\d\d,\d\d\d --> \d\d:\d\d:\d\d,\d\d\d/gm);
     
         for (let i = 0; i < text.length - 1; i++) {
-            console.log(text[i]);
+            console.log(removeScape(text[i]));
             srtArray.push([numberArray[i], timeSrt[i], text[i]]);
 
         };
@@ -34,7 +34,7 @@ async function generateSrtArray(File) {
     
 
 }
-
+generateSrtArray(srtFile)
 // generateSrtArray(srtFile).then((result)=>{
 //     arrayToMdTable(result,"|line1|line2|line3|")
 // }).catch((err)=>{
@@ -70,3 +70,13 @@ function reverseString(string) {
     }
     return reversedString;
   }
+
+function removeScape(string){
+    return string.replace(/(\n)|(\r)|(\r\n)/gm,' ');
+    
+}
+
+
+function removeNumberAtTheEnd(string){
+
+}
