@@ -32,7 +32,7 @@ async function generateSrtArray(File) {
 
 }
 
-function 
+
 
 // function that generate a table with an collection of an Array |english|portuguese|audio|
 
