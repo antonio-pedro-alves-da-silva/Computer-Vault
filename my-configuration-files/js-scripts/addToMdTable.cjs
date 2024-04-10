@@ -21,7 +21,7 @@ async function generateSrtArray(File) {
         let text = data.split(/\d\d:\d\d:\d\d,\d\d\d --> \d\d:\d\d:\d\d,\d\d\d/gm);
     
         for (let i = 0; i < text.length - 1; i++) {
-            srtArray.push([numberArray[i], timeSrt[i], text[i]]);
+            srtArray.push([numberArray[i], timeSrt[i], (text[i])]);
         };
         return srtArray;
         
