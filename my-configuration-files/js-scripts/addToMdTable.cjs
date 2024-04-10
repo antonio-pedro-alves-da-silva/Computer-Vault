@@ -30,7 +30,7 @@ async function generateSrtArray(File) {
     }
     
 
-}.then()
+}
 
 console.log(generateSrtArray())
 
