@@ -1,4 +1,4 @@
-antonio pedro alves 
+antonio pedro alves da silva
 [1](https://www.qconcursos.com/questoes-militares/questoes/ae1edea0-55)- [[print_screen_212.png|o apótema é a altura da face da pirâmide triangular regular]]
 [2](https://www.qconcursos.com/questoes-militares/questoes/2586276c-4e)-[[print_screen_243.png|Discussão e classificação de um sistema (2x2)]] e [[print_screen_244.png|Discussão de um sistema (3x3)]]
 [3](https://www.qconcursos.com/questoes-militares/questoes/2599174b-4e)- [[print_screen_140.png|Arcos congruos e simétricos]]
