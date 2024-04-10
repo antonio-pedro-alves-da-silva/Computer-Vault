@@ -8,7 +8,8 @@ const episode = inputFile.match(/(?<=_s\de)\d+(?=[.])/)[0];
 
 const log = require("console");
 const exec = require("child_process");
-const fs = require("fs/promises")
+const fs = require("fs/promises");
+const { markdownTable } = require("markdown-table");
 
 
 async function generateSrtArray(File) {
@@ -34,7 +35,7 @@ async function generateSrtArray(File) {
 }
 
 generateSrtArray(srtFile).then((result)=>{
-    markd
+    markdownTable
 }).catch((err)=>{
     console.log('Problem solving promise : ',err)
 })
