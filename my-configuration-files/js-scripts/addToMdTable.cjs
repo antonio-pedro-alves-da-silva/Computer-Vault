@@ -22,7 +22,8 @@ async function generateSrtArray(File) {
     
         for (let i = 0; i < text.length - 1; i++) {
             srtArray.push([numberArray[i], timeSrt[i], text[i]]);
-        }
+        };
+        console.log(srtFile)
         
     } catch (err) {
         console.error(`Error reading file: ${err}`);
