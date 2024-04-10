@@ -20,7 +20,7 @@ function gitPush() {
 
 // 
 
-setInterval(gitPush, 1*1000);
+setInterval(gitPush, 60*1000);
 
 
 
