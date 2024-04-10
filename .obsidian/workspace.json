@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/TEXTO/expressões explicativas.md",
+                "file": "notes/untitled 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/TEXTO/expressões explicativas.md",
+                "file": "notes/untitled 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/TEXTO/expressões explicativas.md",
+                "file": "notes/untitled 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/TEXTO/expressões explicativas.md"
+                "file": "notes/untitled 5.md"
               }
             }
           },
@@ -192,8 +192,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7d2ff1388fc577af",
+  "active": "b51053946250d564",
   "lastOpenFiles": [
+    "notes/TEXTO/expressões explicativas.md",
     "MATÉRIAS/EEAR.md",
     "notes/note-143.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
