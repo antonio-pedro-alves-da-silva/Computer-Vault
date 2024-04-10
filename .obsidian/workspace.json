@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pronome",
+                "query": "argumento",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,12 +110,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 323.51103591918945,
-    "collapsed": true
+    "width": 323.51103591918945
   },
   "right": {
     "id": "ee4e8bcf9413ed0e",
@@ -206,7 +206,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6d181501bc549ad3",
+  "active": "46925ea84d43e3d5",
   "lastOpenFiles": [
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-143.md",
