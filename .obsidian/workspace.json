@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5e81dc4151b75583",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Untitled 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,13 +110,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 323.51103591918945,
-    "collapsed": true
+    "width": 323.51103591918945
   },
   "right": {
     "id": "ee4e8bcf9413ed0e",
@@ -120,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-127.md",
+                "file": "notes/Untitled 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-127.md",
+                "file": "notes/Untitled 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-127.md"
+                "file": "notes/Untitled 5.md"
               }
             }
           },
@@ -195,13 +205,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "46925ea84d43e3d5",
+  "active": "5e81dc4151b75583",
   "lastOpenFiles": [
+    "notes/TEXTO/expressões explicativas.md",
+    "notes/Untitled 5.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-143.md",
-    "notes/Untitled 5.md",
     "newFile.txt",
-    "notes/TEXTO/expressões explicativas.md",
     "notes/untitled 6.md",
     "notes/untitled 5.md",
     "MATÉRIAS/EEAR.md",
