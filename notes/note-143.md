@@ -1,5 +1,4 @@
 
-
 formação de palavras
 	[[note-301|redução ou abreviação]]
 		 **transformação de uma palavra noutra mais pequena**
@@ -41,7 +40,7 @@ Porquês
 		é usado apenas no final para fazer perguntas
 [[regência verbal]] 
 [[note-27|conjugação verbal]]
-[[transposição de discurso]]
+[[transposição de discurso]] 
 período composto
 orações subordinadas
 	[1](https://www.qconcursos.com/questoes-militares/questoes/5a688c99-16)
