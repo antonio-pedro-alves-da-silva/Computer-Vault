@@ -1,6 +1,5 @@
 
 
-sudo snap refresh firefox
 
 #1.generate new ssh key
 ssh-keygen -t ed25519 -C "antoniopedroalvesdasilva.apads@gmail.com"
