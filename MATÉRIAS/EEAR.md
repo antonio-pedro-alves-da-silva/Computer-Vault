@@ -482,9 +482,6 @@ LINGUA PORTUGUESA
 						irregulares
 						defectivos
 							lista de verbos defectivos
-								colorir
-								falir
-								abolir
 						anômalos 
 						abundante
 				preposição
@@ -1147,7 +1144,6 @@ FÍSICA
 			Instrumentos ópticos simples. 
 			Olho humano (principais defeitos da visão). 
 	[[TERMOLOGIA]]
-
 
 AS MATÉRIAS QUE MAIS CAEM DE FÍSICA
 	Cinemática: M.U , M.U.V , equações, gráficos, torricelli, lançamentos e queda livre

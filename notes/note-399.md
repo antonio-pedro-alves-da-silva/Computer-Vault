@@ -1,0 +1,3 @@
+colorir
+falir
+abolir

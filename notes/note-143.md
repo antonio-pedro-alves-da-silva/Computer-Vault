@@ -104,4 +104,4 @@ erros de ortografia lista
 [[note-384|classificação dos substantivos]]
 [[colocação pronominal|colocação pronominal]]
 [[7 erros com pronomes pessoais|7 erros com pronomes pessoais]]
-colocação pronominal
+[[note-399|lista de verbos defectivos]]
