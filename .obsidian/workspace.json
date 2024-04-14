@@ -32,19 +32,19 @@
             }
           },
           {
-            "id": "860d9410d560f210",
+            "id": "1152286261bf0286",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-400.md",
+                "file": "notes/note-401.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.51103591918945
+    "width": 323.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "ee4e8bcf9413ed0e",
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-400.md",
+                "file": "notes/note-143.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-400.md",
+                "file": "notes/note-143.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-400.md"
+                "file": "notes/note-143.md"
               }
             }
           },
@@ -193,11 +194,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "860d9410d560f210",
+  "active": "3f53c672eca5f820",
   "lastOpenFiles": [
+    "notes/note-401.md",
     "notes/note-143.md",
-    "MATÉRIAS/EEAR.md",
     "notes/note-400.md",
+    "MATÉRIAS/EEAR.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/GRAMÁTICA/concordância verbal.md",
     "notes/note-399.md",
@@ -237,7 +239,6 @@
     "notes/FÍSICA/TERMOLOGIA.md",
     "notes/note-398.md",
     "notes/note-397.md",
-    "notes/note-386.md",
     "imagens/print_screen_678.png",
     "imagens/print_screen_243.png",
     "imagens/print_screen_678.jpg",

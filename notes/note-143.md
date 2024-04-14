@@ -20,6 +20,7 @@ formação de palavras
 gênero de substantivo 
 	uniforme 
 	biforme 
+[[note-401|flexão do substantivo]]
 Expressões confudidas
 	mau ou mal
 	[[note-59|afim ou a fim]]
@@ -97,6 +98,9 @@ regra de pontuação
 [[diferença entre adjunto adnominal e complemento nominal]]
 [[diferença entre pronomes substantivos e pronomes adjetivos]]
 grau do adjetivo
+	[[analítico]]
+	sintético
+	formas especiais
 [[quando usar o x ou ch|quando usar x ou ch]]
 erros de ortografia lista
 	 [[note-107|lista de verbos irregulares]]
