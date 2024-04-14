@@ -20,6 +20,7 @@ revisão
 		[[crase#==depois da preposição até==|1.]]até
 		[[crase#==antes de nomes próprios femininos==|2]]próprios
 		[[crase#==antes dos pronomes possesivos femininos==|3.]]possesivos
+
 # regras de quando usar crase
 
 
