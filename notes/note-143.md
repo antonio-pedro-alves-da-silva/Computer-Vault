@@ -105,3 +105,4 @@ erros de ortografia lista
 [[colocação pronominal|colocação pronominal]]
 [[7 erros com pronomes pessoais|7 erros com pronomes pessoais]]
 [[note-399|lista de verbos defectivos]]
+[[note-400|o que é denotativo e conotativo ?]]
