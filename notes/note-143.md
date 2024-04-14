@@ -98,9 +98,8 @@ regra de pontuação
 [[diferença entre adjunto adnominal e complemento nominal]]
 [[diferença entre pronomes substantivos e pronomes adjetivos]]
 grau do adjetivo
-	[[analítico]]
-	sintético
-	formas especiais
+	[[note-402|analítico]]
+	[[note-403|sintético]]
 [[quando usar o x ou ch|quando usar x ou ch]]
 erros de ortografia lista
 	 [[note-107|lista de verbos irregulares]]
