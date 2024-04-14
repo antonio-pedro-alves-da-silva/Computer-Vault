@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/crase.md",
+                "file": "notes/note-143.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/crase.md",
+                "file": "notes/note-143.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/crase.md"
+                "file": "notes/note-143.md"
               }
             }
           },
@@ -206,10 +206,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4bf54e6a9393d05f",
+  "active": "3f53c672eca5f820",
   "lastOpenFiles": [
-    "notes/note-143.md",
     "notes/GRAMÁTICA/concordância verbal.md",
+    "notes/crase.md",
+    "notes/note-143.md",
     "MATÉRIAS/EEAR.md",
     "notes/note-403.md",
     "notes/403.md",
@@ -250,7 +251,6 @@
     "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
     "imagens/Pasted image 20231225220906.png",
     "imagens/Pasted image 20231125094454.png",
-    "notes/CONCEITOS BÁSICOS E FUNDAMENTAIS.md",
     "imagens/print_screen_678.png",
     "imagens/print_screen_243.png",
     "imagens/print_screen_678.jpg",
