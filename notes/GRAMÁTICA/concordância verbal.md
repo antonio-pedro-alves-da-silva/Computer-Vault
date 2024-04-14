@@ -26,14 +26,14 @@ O verbo pode ser usado no singular ou no plural em coletivos partitivos, tais co
 - **Grande número** dos presentes **se retirou**.
 - **Grande número** dos presentes **se retiraram**.
 
-### 3. Concordância com as expressões "mais de", "menos de", "cerca de"
+### ==3. Concordância com as expressões "mais de", "menos de", "cerca de"==
 
-Nas expressões "mais de", "menos de", "cerca de", o verbo concorda com o numeral. Exemplos:
+**Numeral**:acompanhado de numeral concorda com numeral
 
 - **Mais de uma mulher quis** trocar as mercadorias.
 - **Mais de duas pessoas chegaram** antes do horário.
 
-Nos casos em que “mais de” é repetido, indicando reciprocidade, o verbo vai para o plural. Exemplos:
+**Reciprocidade exige VERBO NO PLURAL.**
 
 - Mais de uma professora se abraçaram.
 - Mais de um funcionário se ajudaram.

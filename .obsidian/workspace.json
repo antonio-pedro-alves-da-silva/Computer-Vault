@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "579bc1788127c434",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/GRAMÁTICA/concordância verbal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-143.md",
+                "file": "notes/GRAMÁTICA/concordância verbal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-143.md",
+                "file": "notes/GRAMÁTICA/concordância verbal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-143.md"
+                "file": "notes/GRAMÁTICA/concordância verbal.md"
               }
             }
           },
@@ -182,15 +194,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3f53c672eca5f820",
+  "active": "579bc1788127c434",
   "lastOpenFiles": [
-    "notes/note-403.md",
     "notes/note-143.md",
+    "MATÉRIAS/EEAR.md",
+    "notes/note-403.md",
     "notes/403.md",
     "notes/note-402.md",
     "notes/note-401.md",
     "notes/note-400.md",
-    "MATÉRIAS/EEAR.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/GRAMÁTICA/concordância verbal.md",
     "notes/note-399.md",
