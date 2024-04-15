@@ -23,10 +23,10 @@ async function generateSrtArray(subtitleFile,translatedFile) {
     
         for (let i = 0; i < text.length - 1; i++) {
             console.log();
-            srtArray.push([removeNumberAtTheEnd(removeScape(translatedText[i])),removeNumberAtTheEnd(removeScape(subtitleText[i])),`[[]]`]);
+            srtArray.push([removeNumberAtTheEnd(removeScape(translatedText[i])),removeNumberAtTheEnd(removeScape(subtitleText[i])),``]);
 
         };
-        return srtArray;
+        console.log(arrayToMdTable(srtArray,"|English|Portuguese|Audio|"))
         
     } catch (err) {
         console.error(`Error reading file: ${err}`);
@@ -35,6 +35,7 @@ async function generateSrtArray(subtitleFile,translatedFile) {
     
 
 }
+
 generateSrtArray(subtitleFile,translatedFile)
 // generateSrtArray(srtFile).then((result)=>{
 //     arrayToMdTable(result,"|line1|line2|line3|")
