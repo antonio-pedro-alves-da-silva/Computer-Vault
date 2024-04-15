@@ -9,6 +9,10 @@
       "path": "MATÉRIAS/EEAR.md"
     },
     {
+      "basename": "note-219",
+      "path": "notes/note-219.md"
+    },
+    {
       "basename": "Pasted image 20231201133941",
       "path": "imagens/Pasted image 20231201133941.png"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20231225220906",
       "path": "imagens/Pasted image 20231225220906.png"
-    },
-    {
-      "basename": "Pasted image 20231125094454",
-      "path": "imagens/Pasted image 20231125094454.png"
     }
   ],
   "omittedPaths": [],
