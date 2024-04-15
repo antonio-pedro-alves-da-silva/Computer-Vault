@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "11e4b37e3aa482ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-372.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/HIDROESTÁTICA.md",
+                "file": "notes/note-372.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/HIDROESTÁTICA.md",
+                "file": "notes/note-372.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/HIDROESTÁTICA.md"
+                "file": "notes/note-372.md"
               }
             }
           },
@@ -169,10 +182,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "801e319d80c11d6d",
+  "active": "11e4b37e3aa482ca",
   "lastOpenFiles": [
-    "notes/series-to-learn-english.md",
     "notes/FÍSICA/HIDROESTÁTICA.md",
+    "notes/note-371.md",
+    "notes/series-to-learn-english.md",
     "MATÉRIAS/EEAR.md",
     "notes/note-188.md",
     "imagens/print_screen_555.png",
@@ -199,7 +213,6 @@
     "notes/GRAMÁTICA/quando usar o z.md",
     "my-configuration-files/backup/provas_de_português/cfs-b-2-2010.txt",
     "my-configuration-files/backup/provas_de_português/cfs-2-2020.txt",
-    "notes/Untitled 5.md",
     "newFile.txt",
     "imagens/print_screen_679.png",
     "my-configuration-files/backup/provas_de_português/cfs-b-2-2011.txt",
