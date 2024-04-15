@@ -43,7 +43,7 @@ Porquês
 [[note-27|conjugação verbal]]
 [[transposição de discurso]] 
 período composto
-orações subordinadas
+[[note-404|orações subordinadas]]
 	[1](https://www.qconcursos.com/questoes-militares/questoes/5a688c99-16)
 	[2](https://www.qconcursos.com/questoes-militares/questoes/5a5b4c12-16)([[note-178|diferença entre oração subordina causal e consecutiva]])
 	[3](https://www.qconcursos.com/questoes-militares/questoes/085edc34-e4)(aprendi(enquanto exprime circustância de tempo))

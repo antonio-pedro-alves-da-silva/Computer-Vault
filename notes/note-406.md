@@ -1,0 +1,5 @@
+
+| Tipo de oração subordinada** **adjetiva** | **Função**                                                    | **Exemplo**                                                                                                                                             |
+| ----------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Restritiva                                | indicar característica do elemento, restringindo-o            | - O celular **que** comprei no ano passado já está ultrapassado.<br>- Não aceitava, por mais que tentasse, o modo indiferente<br>**como** se despedira. |
+| Explicativa                               | acrescentar informação que não é essencial em forma de aposto | Este celular, **que** comprei no ano passado, já está ultrapassado.                                                                                     |
