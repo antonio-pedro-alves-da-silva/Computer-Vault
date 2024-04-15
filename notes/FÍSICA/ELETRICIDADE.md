@@ -36,7 +36,7 @@ eletricidade
 			[[note-215|itensidade do campo elétrico ou campo elétrico]]		 
 		campo elétrico uniforme
 			 [[print_screen_584.png|fel no campo elétrico uniforme fel = fr]]  
-			 [[print_screen_328.png|diferença de potencial entre dois pontos de um campo elétrico uniforme]]
+			 [[note-409|diferença de potencial entre dois pontos de um campo elétrico uniforme]]
 			 [[note-219|trabalho da força no campo uniforme]]
 		esferas condutoras
 			[[print_screen_592.png|esfera em equilíbrio eletroestático - itensidade no interior , superfície e infinitamente próximo]]
@@ -203,3 +203,4 @@ eletricidade
 			[12](https://www.qconcursos.com/questoes-militares/questoes/ae489780-55)formula da variação de fluxo
 		    [13](https://www.qconcursos.com/questoes-militares/questoes/a25cf891-55)regra da mão direita ibf
 
+  

@@ -5,6 +5,14 @@
       "path": "notes/FÍSICA/ELETRICIDADE.md"
     },
     {
+      "basename": "note-220",
+      "path": "notes/note-220.md"
+    },
+    {
+      "basename": "note-409",
+      "path": "notes/note-409.md"
+    },
+    {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "print_screen_246",
       "path": "imagens/print_screen_246.png"
-    },
-    {
-      "basename": "vetores",
-      "path": "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md"
-    },
-    {
-      "basename": "Pasted image 20231225220906",
-      "path": "imagens/Pasted image 20231225220906.png"
     }
   ],
   "omittedPaths": [],
