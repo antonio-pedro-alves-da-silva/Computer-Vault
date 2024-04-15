@@ -1,5 +1,5 @@
 ![[print_screen_549.png]]
+ as pessoas pensam que a força de empuxo aumenta conforme aumenta a profundi
+Às vezesdade do objeto submerso em um fluido. Mas **a força de empuxo não depende da profundidade**. 
 
-Às vezes as pessoas pensam que a força de empuxo aumenta conforme aumenta a profundidade do objeto submerso em um fluido. Mas **a força de empuxo não depende da profundidade**. 
-
-Vs = volume do objeto submerso no líquido
+Vs = volume do objeto submerso

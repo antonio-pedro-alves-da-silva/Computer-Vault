@@ -109,3 +109,4 @@ erros de ortografia lista
 [[7 erros com pronomes pessoais|7 erros com pronomes pessoais]]
 [[note-399|lista de verbos defectivos]]
 [[note-400|o que é denotativo e conotativo ?]]
+discurso direto , discurso indireto e discurso indireto livre

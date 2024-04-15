@@ -1,2 +1,3 @@
 [[denotativo - sentido literal]]
-[[|conotativo - sentido figurado]]
+[[conotativo - sentido figurado]]
+
