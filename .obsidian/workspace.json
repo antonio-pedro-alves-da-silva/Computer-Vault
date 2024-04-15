@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "a19843bacff54b72",
+        "id": "30e32d39d3f26623",
         "type": "tabs",
         "children": [
           {
-            "id": "560e681aea394f70",
+            "id": "3ebf235b8159ff05",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/GRAVITAÇÃO.md",
+                "file": "MATÉRIAS/EEAR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "537bceb76a10edb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/FÍSICA/ELETRICIDADE.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/GRAVITAÇÃO.md",
+                "file": "notes/FÍSICA/ELETRICIDADE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/GRAVITAÇÃO.md",
+                "file": "notes/FÍSICA/ELETRICIDADE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/GRAVITAÇÃO.md"
+                "file": "notes/FÍSICA/ELETRICIDADE.md"
               }
             }
           },
@@ -169,12 +182,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "560e681aea394f70",
+  "active": "537bceb76a10edb9",
   "lastOpenFiles": [
-    "notes/note-210.md",
-    "notes/FÍSICA/GRAVITAÇÃO.md",
-    "notes/FÍSICA/HIDROESTÁTICA.md",
     "MATÉRIAS/EEAR.md",
+    "imagens/Pasted image 20231201133941.png",
+    "notes/FÍSICA/ELETRICIDADE.md",
+    "notes/Untitled 7.md",
+    "notes/FÍSICA/GRAVITAÇÃO.md",
+    "notes/note-210.md",
+    "notes/FÍSICA/HIDROESTÁTICA.md",
     "notes/note-208.md",
     "notes/note-187.md",
     "notes/note-372.md",
@@ -195,9 +211,6 @@
     "notes/note-403.md",
     "notes/crase.md",
     "notes/GRAMÁTICA/concordância verbal.md",
-    "notes/403.md",
-    "notes/note-402.md",
-    "notes/note-401.md",
     "my-configuration-files/backup/provas_de_português/cfs-b-2-2010.txt",
     "my-configuration-files/backup/provas_de_português/cfs-2-2020.txt",
     "newFile.txt",
@@ -216,7 +229,6 @@
     "imagens/Pasted image 20231225220906.png",
     "imagens/Pasted image 20231125094454.png",
     "imagens/print_screen_678.png",
-    "imagens/print_screen_243.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
