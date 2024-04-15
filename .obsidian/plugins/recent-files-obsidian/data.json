@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "note-372",
-      "path": "notes/note-372.md"
+      "basename": "GRAVITAÇÃO",
+      "path": "notes/FÍSICA/GRAVITAÇÃO.md"
+    },
+    {
+      "basename": "note-210",
+      "path": "notes/note-210.md"
     },
     {
       "basename": "HIDROESTÁTICA",
       "path": "notes/FÍSICA/HIDROESTÁTICA.md"
+    },
+    {
+      "basename": "EEAR",
+      "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "note-208",
+      "path": "notes/note-208.md"
+    },
+    {
+      "basename": "note-187",
+      "path": "notes/note-187.md"
+    },
+    {
+      "basename": "note-372",
+      "path": "notes/note-372.md"
     },
     {
       "basename": "note-371",
@@ -15,10 +35,6 @@
     {
       "basename": "series-to-learn-english",
       "path": "notes/series-to-learn-english.md"
-    },
-    {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
     },
     {
       "basename": "note-188",
@@ -183,10 +199,6 @@
     {
       "basename": "note-398",
       "path": "notes/note-398.md"
-    },
-    {
-      "basename": "note-397",
-      "path": "notes/note-397.md"
     }
   ],
   "omittedPaths": [],
