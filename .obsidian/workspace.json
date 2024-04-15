@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "notes/series-to-learn-english.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.51103591918945
+    "width": 323.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "ee4e8bcf9413ed0e",
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/HIDROESTÁTICA.md",
+                "file": "notes/series-to-learn-english.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/HIDROESTÁTICA.md",
+                "file": "notes/series-to-learn-english.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/HIDROESTÁTICA.md"
+                "file": "notes/series-to-learn-english.md"
               }
             }
           },
@@ -181,14 +181,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "801e319d80c11d6d",
+  "active": "3daab059123d4a26",
   "lastOpenFiles": [
-    "notes/note-188.md",
+    "MATÉRIAS/EEAR.md",
     "notes/FÍSICA/HIDROESTÁTICA.md",
+    "notes/note-188.md",
     "imagens/print_screen_555.png",
     "notes/note-369.md",
     "notes/Untitled seven.md",
-    "MATÉRIAS/EEAR.md",
     "notes/FÍSICA/ESTÁTICA.md",
     "notes/note-143.md",
     "notes/series-to-learn-english.md",

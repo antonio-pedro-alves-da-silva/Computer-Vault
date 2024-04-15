@@ -1,5 +1,6 @@
 const inputFile = "arrested-development_s1e1.mkv";
-const srtFile = "subtitles.srt";
+const subtitleFile = "subtitles.srt";
+const translatedFile = "translated.srt";
 const seriesAndInfo = inputFile.split(".")[0];
 const seriesName = inputFile.split("_")[0];
 const season = inputFile.match(/(?<=_s)\d+(?=e\d+.)/)[0];
@@ -11,18 +12,18 @@ const exec = require("child_process");
 const fs = require("fs/promises");
 
 
-async function generateSrtArray(File) {
+async function generateSrtArray(subtitleFile,translatedFile) {
     let srtArray = [];
     try {
-        const data = await fs.readFile(File, "utf8");
+        const subtitleData = await fs.readFile(subtitleFile, "utf8");
+        const translatedData = await fs.readFile(translatedFile, "utf8");
 
-        let numberArray = data.match(/^\d+$/gm);
-        let timeSrt = data.match(/\d\d:\d\d:\d\d,\d\d\d --> \d\d:\d\d:\d\d,\d\d\d/gm);
-        let text = data.split(/\d\d:\d\d:\d\d,\d\d\d --> \d\d:\d\d:\d\d,\d\d\d/gm);
+        let translatedText = translatedData.split(/\d\d:\d\d:\d\d,\d\d\d --> \d\d:\d\d:\d\d,\d\d\d/gm);
+        let subtitleText = subtitleData.split(/\d\d:\d\d:\d\d,\d\d\d --> \d\d:\d\d:\d\d,\d\d\d/gm);
     
         for (let i = 0; i < text.length - 1; i++) {
-            console.log(removeNumberAtTheEnd(removeScape(text[i])));
-            srtArray.push([numberArray[i], timeSrt[i], text[i]]);
+            console.log();
+            srtArray.push([removeNumberAtTheEnd(removeScape(translatedText[i])),removeNumberAtTheEnd(removeScape(subtitleText[i])),`[[]]`]);
 
         };
         return srtArray;
@@ -34,7 +35,7 @@ async function generateSrtArray(File) {
     
 
 }
-generateSrtArray(srtFile)
+generateSrtArray(subtitleFile,translatedFile)
 // generateSrtArray(srtFile).then((result)=>{
 //     arrayToMdTable(result,"|line1|line2|line3|")
 // }).catch((err)=>{
