@@ -5,6 +5,10 @@
       "path": "MATÉRIAS/EEAR.md"
     },
     {
+      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
+      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+    },
+    {
       "basename": "ELETRICIDADE",
       "path": "notes/FÍSICA/ELETRICIDADE.md"
     },
@@ -131,10 +135,6 @@
     {
       "basename": "note-401",
       "path": "notes/note-401.md"
-    },
-    {
-      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
-      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
     },
     {
       "basename": "note-399",
