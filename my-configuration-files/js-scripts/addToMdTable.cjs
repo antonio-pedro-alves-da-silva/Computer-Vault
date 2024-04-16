@@ -1,4 +1,4 @@
-const inputFile = "arrested-development_s1e1.mkv";
+const inputFile = "seinfeld_s1e2.mkv";
 const subtitleFile = "subtitles.srt";
 const translatedFile = "translated.srt";
 const seriesAndInfo = inputFile.split(".")[0];
@@ -21,12 +21,11 @@ async function generateSrtArray(subtitleFile,translatedFile) {
         let translatedText = translatedData.split(/\d\d:\d\d:\d\d,\d\d\d --> \d\d:\d\d:\d\d,\d\d\d/gm);
         let subtitleText = subtitleData.split(/\d\d:\d\d:\d\d,\d\d\d --> \d\d:\d\d:\d\d,\d\d\d/gm);
     
-        for (let i = 0; i < text.length - 1; i++) {
-            console.log();
-            srtArray.push([removeNumberAtTheEnd(removeScape(translatedText[i])),removeNumberAtTheEnd(removeScape(subtitleText[i])),``]);
-
+        for (let i = 0; i < subtitleText.length - 1; i++) {
+            console.log(removeNumberAtTheEnd(removeScape(subtitleText[i])),removeScape(translatedText[i]),``)
+            srtArray.push();
         };
-        console.log(arrayToMdTable(srtArray,"|English|Portuguese|Audio|"))
+       
         
     } catch (err) {
         console.error(`Error reading file: ${err}`);
@@ -80,5 +79,5 @@ function removeScape(string){
 
 
 function removeNumberAtTheEnd(string){
-   string.replace(/(\d+)$/,' ');
+   return string.replace(/(\d+\s+$)/,' ');
 }

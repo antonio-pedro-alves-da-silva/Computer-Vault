@@ -81,7 +81,7 @@ eletricidade
 		geradores
 			 [[print_screen_366.png|geradores elétricos]]
 				 diferença de potencial do gerador
-				 gráfico
+				 tangente de theta = resistência interna
 				 corrente de curto circuito
 			 [[print_screen_365.png|potência de um gerador]]
 				 [[note-258|potência total]]
