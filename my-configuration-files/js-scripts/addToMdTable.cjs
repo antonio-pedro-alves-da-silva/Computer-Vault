@@ -20,13 +20,15 @@ async function generateSrtArray(subtitleFile,translatedFile) {
 
         let translatedText = translatedData.split(/\d\d:\d\d:\d\d,\d\d\d --> \d\d:\d\d:\d\d,\d\d\d/gm);
         let subtitleText = subtitleData.split(/\d\d:\d\d:\d\d,\d\d\d --> \d\d:\d\d:\d\d,\d\d\d/gm);
+        let numbering = subtitleData.match(/\d+(?=[=])/gm);
     
         for (let i = 0; i < subtitleText.length - 1; i++) {
-            console.log(removeNumberAtTheEnd(removeScape(subtitleText[i])),removeScape(translatedText[i]),``)
-            srtArray.push();
+            if(numbering[i])
+            srtArray.push([removeNumberAtTheEnd(removeScape(subtitleText[i])),removeScape(translatedText[i]),`audio`]);
         };
-       
-        
+       console.log();
+        //arrayToMdTable(srtArray,"|n|English|Portuguese|Audio|")
+
     } catch (err) {
         console.error(`Error reading file: ${err}`);
         throw err; // Propagate the error
