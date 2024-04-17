@@ -11,7 +11,7 @@ const episode = inputFile.match(/(?<=_s\de)\d+(?=[.])/)[0];
 const log = require("console");
 const {exec}= require("child_process");
 const fs = require("fs/promises");
-const { start } = require("repl");
+
 
 
 async function audioCutter(subtitleFile) {
@@ -21,25 +21,28 @@ async function audioCutter(subtitleFile) {
         let timingArr = subtitleData.match(/\d\d:\d\d:\d\d,\d\d\d --> \d\d:\d\d:\d\d,\d\d\d/gm);
         let n_with_equalArr = subtitleData.match(/\d+(?=[=])/gm);
         
-        let time = timingArr[n].split("-->");
-        let startTime = time[0].trim().replace(",", ".");
-        let endTime = time[1].trim().replace(",", ".");
 
-        n_with_equalArr.map((v,i,a)=>{
+        for(i=0;i<(n_with_equalArr.length - 1);){
+
+          let time = timingArr[v].split("-->");
+          let startTime = time[0].trim().replace(",", ".");
+          let endTime = time[1].trim().replace(",", ".");
           let c_cut = `ffmpeg -i ${inputFile} -vn -ss ${startTime} -to ${endTime} -q:a 0 ${seriesAndInfo}_${v}.mp3`;
-          exec(c_cut,(error,stdout,stderr)=>{
+
+          exec(c_cut,(error)=>{
             if(error){
               console.log(error)
             }
-            else if (i = (a.length - 1)){
+            else if (i == (a.length - 1)){
               console.log('all audios was cut')
             }
-            else{
-              console.log(`audio cortado:${i}`);
+            else {
+              console.log(`corte concluido:${i}`);
+              n +=1
             }
-
+              
           })
-        })
+        }
 
 } catch (err) {
         console.error(`Error reading file: ${err}`);
@@ -47,6 +50,8 @@ async function audioCutter(subtitleFile) {
     }
 
   }
+
+  audioCutter(subtitleFile);
 
 function removeScape(string){
     return string.replace(/(\n)|(\r)|(\r\n)/gm,' ');
