@@ -23,7 +23,7 @@ async function generateSrtArray(subtitleFile,translatedFile) {
         let n_with_equal = subtitleData.match(/\d+(?=[=])/gm);
     
         for (let i = 0; i < subtitleTextArr.length - 1; i++) {        
-            if((i + 1) == n_with_equal[i]){
+            if(n_with_equal[i]){
                 let subtitleText = removeNumberAtTheEnd(removeScape(subtitleTextArr[i]));
                 let translatedText = removeNumberAtTheEnd(removeScape(translatedTextArr[i]));
                 
