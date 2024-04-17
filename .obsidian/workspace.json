@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "03b96fbff63fdb31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md",
+                "file": "MATÉRIAS/EEAR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md",
+                "file": "MATÉRIAS/EEAR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md"
+                "file": "MATÉRIAS/EEAR.md"
               }
             }
           },
@@ -182,13 +169,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "03b96fbff63fdb31",
+  "active": "3ebf235b8159ff05",
   "lastOpenFiles": [
+    "notes/series-to-learn-english.md",
     "MATÉRIAS/EEAR.md",
+    "notes/FÍSICA/ELETRICIDADE.md",
     "notes/note-143.md",
     "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
-    "notes/FÍSICA/ELETRICIDADE.md",
     "imagens/print_screen_359.png",
     "notes/note-219.md",
     "notes/note-220.md",
@@ -203,7 +191,6 @@
     "notes/note-187.md",
     "notes/note-372.md",
     "notes/note-371.md",
-    "notes/series-to-learn-english.md",
     "notes/note-188.md",
     "imagens/print_screen_555.png",
     "notes/note-369.md",

@@ -87,7 +87,7 @@ eletricidade
 				 [[note-258|potência total]]
 				 [[note-257|potência dissipada]]
 				 [[note-256|potência util]]
-			 [[print_screen_558.png|associação em série de um gerador , força eletromotriz equivalente e resistência equivalente]]
+			 [[print_screen_558.png|associação em série de um gerador - força eletromotriz equivalente e resistência equivalente]]
 			 [[print_screen_559.png|associação em paralelo de um gerador , força eletromotriz equivalente e resistência equivalente]]
 			 [[print_screen_562.png|circuito gerador resistor]]
 			 [[note-11|o que é força eletromotriz]]

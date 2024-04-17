@@ -18,15 +18,20 @@ async function generateSrtArray(subtitleFile,translatedFile) {
         const subtitleData = await fs.readFile(subtitleFile, "utf8");
         const translatedData = await fs.readFile(translatedFile, "utf8");
 
-        let translatedText = translatedData.split(/\d\d:\d\d:\d\d,\d\d\d --> \d\d:\d\d:\d\d,\d\d\d/gm);
-        let subtitleText = subtitleData.split(/\d\d:\d\d:\d\d,\d\d\d --> \d\d:\d\d:\d\d,\d\d\d/gm);
-        let numbering = subtitleData.match(/\d+(?=[=])/gm);
+        let translatedTextArr = translatedData.split(/\d\d:\d\d:\d\d,\d\d\d --> \d\d:\d\d:\d\d,\d\d\d/gm);
+        let subtitleTextArr = subtitleData.split(/\d\d:\d\d:\d\d,\d\d\d --> \d\d:\d\d:\d\d,\d\d\d/gm);
+        let n_with_equal = subtitleData.match(/\d+(?=[=])/gm);
     
-        for (let i = 0; i < subtitleText.length - 1; i++) {
-            if(numbering[i])
-            srtArray.push([removeNumberAtTheEnd(removeScape(subtitleText[i])),removeScape(translatedText[i]),`audio`]);
+        for (let i = 0; i < subtitleTextArr.length - 1; i++) {
+            let subtitleText = removeNumberAtTheEnd(removeScape(subtitleTextArr[i]));
+            let translatedText = removeNumberAtTheEnd(removeScape(translatedTextArr[i]));
+            
+            if((i + 1) == n_with_equal[i]){
+                console.log(subtitleText,n_with_equal);
+                srtArray.push([subtitleText,translatedText,`audio`]);
+            }
         };
-       console.log();
+       
         //arrayToMdTable(srtArray,"|n|English|Portuguese|Audio|")
 
     } catch (err) {
