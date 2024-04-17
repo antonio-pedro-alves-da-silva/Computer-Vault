@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "03b96fbff63fdb31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/FÍSICA/ELETRICIDADE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "notes/FÍSICA/ELETRICIDADE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "notes/FÍSICA/ELETRICIDADE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATÉRIAS/EEAR.md"
+                "file": "notes/FÍSICA/ELETRICIDADE.md"
               }
             }
           },
@@ -169,10 +182,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3ebf235b8159ff05",
+  "active": "03b96fbff63fdb31",
   "lastOpenFiles": [
-    "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md",
     "MATÉRIAS/EEAR.md",
+    "notes/note-143.md",
+    "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/FÍSICA/ELETRICIDADE.md",
     "imagens/print_screen_359.png",
@@ -195,7 +209,6 @@
     "notes/note-369.md",
     "notes/Untitled seven.md",
     "notes/FÍSICA/ESTÁTICA.md",
-    "notes/note-143.md",
     "notes/note-400.md",
     "notes/note-406.md",
     "notes/note-404.md",
