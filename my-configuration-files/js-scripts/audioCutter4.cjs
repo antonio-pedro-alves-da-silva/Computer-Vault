@@ -35,7 +35,7 @@ async function audioCutter(subtitleFile) {
               console.log('all audios was cut')
             }
             else{
-              console.log("");
+              console.log(`audio cortado:${i}`);
             }
 
           })
