@@ -12,8 +12,8 @@ const exec = require("child_process");
 const fs = require("fs/promises");
 
 
-async function generateSrtArray(subtitleFile,translatedFile) {
-    let srtArray = [];
+async function generateMdTable(subtitleFile,translatedFile,FirstRow) {
+    let ArrayList = [];
     try {
         const subtitleData = await fs.readFile(subtitleFile, "utf8");
         const translatedData = await fs.readFile(translatedFile, "utf8");
@@ -21,28 +21,40 @@ async function generateSrtArray(subtitleFile,translatedFile) {
         let translatedTextArr = translatedData.split(/\d\d:\d\d:\d\d,\d\d\d --> \d\d:\d\d:\d\d,\d\d\d/gm);
         let subtitleTextArr = subtitleData.split(/\d\d:\d\d:\d\d,\d\d\d --> \d\d:\d\d:\d\d,\d\d\d/gm);
         let n_with_equalArr = subtitleData.match(/\d+(?=[=])/gm);
+        // creating an array to create the table
+        n_with_equalArr.map((v,i,a)=>{
+            let subtitleText = removeNumberAtTheEnd(removeScape(subtitleTextArr[v]));
+            let translatedText = removeNumberAtTheEnd(removeScape(translatedTextArr[v]));
+
+            ArrayList.push([(i+1),subtitleText,translatedText]);
+        })
+       // creating the table
+        let SecondRow = '|';
+        FirstRow.match(/[|]/gm).forEach((v,i,a)=>{
+            if (i > 0) SecondRow += '--|'
+        });
     
-        for (let i = 0; i < n_with_equalArr.length;i++) {
-
-            let n_with_equal =  n_with_equalArr[i];
-            let subtitleText = removeNumberAtTheEnd(removeScape(subtitleTextArr[n_with_equal]));
-            let translatedText = removeNumberAtTheEnd(removeScape(translatedTextArr[n_with_equal]));
-
-            srtArray.push([(i+1),subtitleText,translatedText,`\`\`\`audio-player<br>[[${seriesAndInfo}_${n_with_equal}.mp3]]<br> \`\`\`<br>`]);
-        };
-
-       
-        arrayToMdTable(srtArray,"|n|English|Portuguese|Audio|")
+        let restOfTheLines = '';
+        ArrayList.map((v,i,a)=>{
+            v.map((v2,i2,a2)=>{
+                restOfTheLines += `|${v2}`
+            })
+            restOfTheLines += '|\n'
+        })
+    
+        let table = `${FirstRow}\n${SecondRow}\n${restOfTheLines}`;
+        console.log(table)
 
     } catch (err) {
         console.error(`Error reading file: ${err}`);
         throw err; // Propagate the error
     }
+
     
 
 }
 
-generateSrtArray(subtitleFile,translatedFile)
+generateMdTable(subtitleFile,translatedFile,"|English|Portuguese|")
 
 // generateSrtArray(srtFile).then((result)=>{
 //     arrayToMdTable(result,"|line1|line2|line3|")
