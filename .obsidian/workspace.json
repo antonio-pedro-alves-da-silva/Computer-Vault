@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md",
+                "file": "notes/Untitled seven.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.51103591918945,
-    "collapsed": true
+    "width": 323.51103591918945
   },
   "right": {
     "id": "ee4e8bcf9413ed0e",
@@ -107,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md",
+                "file": "MATÉRIAS/EEAR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md",
+                "file": "MATÉRIAS/EEAR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md"
+                "file": "MATÉRIAS/EEAR.md"
               }
             }
           },
@@ -182,14 +180,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4ad254bf069a2445",
+  "active": "3ebf235b8159ff05",
   "lastOpenFiles": [
+    "notes/Untitled seven.md",
+    "notes/note-381.md",
+    "notes/FÍSICA/ELETRICIDADE.md",
     "my-configuration-files/js-scripts/audioCutter3.cjs",
     "imagens/print_screen_569.png",
-    "notes/FÍSICA/ELETRICIDADE.md",
     "MATÉRIAS/EEAR.md",
     "notes/note-18.md",
-    "notes/note-381.md",
     "notes/note-12.md",
     "notes/series-to-learn-english.md",
     "notes/note-143.md",
@@ -212,7 +211,6 @@
     "notes/note-188.md",
     "imagens/print_screen_555.png",
     "notes/note-369.md",
-    "notes/Untitled seven.md",
     "notes/FÍSICA/ESTÁTICA.md",
     "notes/note-400.md",
     "my-configuration-files/backup/provas_de_português/cfs-b-2-2010.txt",
@@ -226,7 +224,6 @@
     "my-configuration-files/js-scripts/addToMdTable.mjs",
     "my-configuration-files/js-scripts/addToMdTable.js",
     "my-configuration-files/js-scripts/node_modules/markdown-table/index.js",
-    "my-configuration-files/js-scripts/moveAndCreateFolder.cjs",
     "imagens/print_screen_498.png",
     "imagens/print_screen_248.png",
     "imagens/print_screen_246.png",

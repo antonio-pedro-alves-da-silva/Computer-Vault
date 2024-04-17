@@ -20,17 +20,18 @@ async function generateSrtArray(subtitleFile,translatedFile) {
 
         let translatedTextArr = translatedData.split(/\d\d:\d\d:\d\d,\d\d\d --> \d\d:\d\d:\d\d,\d\d\d/gm);
         let subtitleTextArr = subtitleData.split(/\d\d:\d\d:\d\d,\d\d\d --> \d\d:\d\d:\d\d,\d\d\d/gm);
-        let n_with_equal = subtitleData.match(/\d+(?=[=])/gm);
+        let n_with_equalArr = subtitleData.match(/\d+(?=[=])/gm);
     
-        for (let i = 0; i < subtitleTextArr.length - 1; i++) {        
-            if(n_with_equal[i]){
-                let subtitleText = removeNumberAtTheEnd(removeScape(subtitleTextArr[i]));
-                let translatedText = removeNumberAtTheEnd(removeScape(translatedTextArr[i]));
-                
-                console.log(subtitleText,n_with_equal);
-                srtArray.push([subtitleText,translatedText,`audio`]);
-            }
+        for (let i = 0; i < n_with_equalArr.length;i++) {
+
+            let n_with_equal =  n_with_equalArr[i];
+            let subtitleText = removeNumberAtTheEnd(removeScape(subtitleTextArr[n_with_equal]));
+            let translatedText = removeNumberAtTheEnd(removeScape(translatedTextArr[n_with_equal]));
+
+            srtArray.push([subtitleText,translatedText,`\`\`\`audio-player\n[[]]\n\`\`\``]);
+
         };
+        console.log(srtArray)
        
         //arrayToMdTable(srtArray,"|n|English|Portuguese|Audio|")
 
