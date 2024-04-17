@@ -28,11 +28,11 @@ async function generateSrtArray(subtitleFile,translatedFile) {
             let subtitleText = removeNumberAtTheEnd(removeScape(subtitleTextArr[n_with_equal]));
             let translatedText = removeNumberAtTheEnd(removeScape(translatedTextArr[n_with_equal]));
 
-            srtArray.push([subtitleText,translatedText,`\`\`\`audio-player[[${seriesAndInfo}_${n_with_equal}]]\`\`\``]);
+            srtArray.push([(i+1),subtitleText,translatedText,`\`\`\`audio-player<br>[[${seriesAndInfo}_${n_with_equal}.mp3]]<br> \`\`\`<br>`]);
         };
 
        
-        arrayToMdTable(srtArray,"|English|Portuguese|Audio|")
+        arrayToMdTable(srtArray,"|n|English|Portuguese|Audio|")
 
     } catch (err) {
         console.error(`Error reading file: ${err}`);

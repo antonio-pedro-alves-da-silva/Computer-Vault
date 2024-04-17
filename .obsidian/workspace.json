@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "58d959f2ee3a909f",
+            "id": "5ef6713bd937874b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4ad254bf069a2445",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Untitled seven.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Untitled seven.md",
+                "file": "notes/FÍSICA/ELETRICIDADE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Untitled seven.md",
+                "file": "notes/FÍSICA/ELETRICIDADE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Untitled seven.md"
+                "file": "notes/FÍSICA/ELETRICIDADE.md"
               }
             }
           },
@@ -194,9 +182,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4ad254bf069a2445",
+  "active": "5ef6713bd937874b",
   "lastOpenFiles": [
+    "MATÉRIAS/EEAR.md",
+    "imagens/print_screen_677.png",
     "notes/FÍSICA/ELETRICIDADE.md",
+    "my-configuration-files/js-scripts/audioCutter4.cjs",
     "notes/Untitled seven.md",
     "series/development/s1/e1/translated.srt",
     "series/development/s1/e1/subtitles.srt",
@@ -207,8 +198,6 @@
     "series/development/s1/e1/development_s1e1_96.mp3",
     "series/development/s1/e1/development_s1e1_95.mp3",
     "series/development/s1/e1/development_s1e1_94.mp3",
-    "series/development/s1/e1/development_s1e1_93.mp3",
-    "MATÉRIAS/EEAR.md",
     "notes/Untitled 8.md",
     "notes/note-381.md",
     "imagens/print_screen_569.png",
@@ -240,7 +229,6 @@
     "imagens/print_screen_252.png",
     "imagens/print_screen_498.png",
     "imagens/print_screen_248.png",
-    "imagens/print_screen_246.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
