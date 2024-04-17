@@ -1,4 +1,4 @@
-const inputFile = "seinfeld_s1e2.mkv";
+const inputFile = "development_s1e1.mkv";
 const subtitleFile = "subtitles.srt";
 const translatedFile = "translated.srt";
 const seriesAndInfo = inputFile.split(".")[0];
@@ -28,12 +28,11 @@ async function generateSrtArray(subtitleFile,translatedFile) {
             let subtitleText = removeNumberAtTheEnd(removeScape(subtitleTextArr[n_with_equal]));
             let translatedText = removeNumberAtTheEnd(removeScape(translatedTextArr[n_with_equal]));
 
-            srtArray.push([subtitleText,translatedText,`\`\`\`audio-player\n[[]]\n\`\`\``]);
-
+            srtArray.push([subtitleText,translatedText,`\`\`\`audio-player[[${seriesAndInfo}_${n_with_equal}]]\`\`\``]);
         };
-        console.log(srtArray)
+
        
-        //arrayToMdTable(srtArray,"|n|English|Portuguese|Audio|")
+        arrayToMdTable(srtArray,"|English|Portuguese|Audio|")
 
     } catch (err) {
         console.error(`Error reading file: ${err}`);
@@ -44,6 +43,7 @@ async function generateSrtArray(subtitleFile,translatedFile) {
 }
 
 generateSrtArray(subtitleFile,translatedFile)
+
 // generateSrtArray(srtFile).then((result)=>{
 //     arrayToMdTable(result,"|line1|line2|line3|")
 // }).catch((err)=>{

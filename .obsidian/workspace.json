@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md",
+                "file": "notes/Untitled seven.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md",
+                "file": "notes/Untitled seven.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md"
+                "file": "notes/Untitled seven.md"
               }
             }
           },
@@ -194,14 +194,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "58d959f2ee3a909f",
+  "active": "4ad254bf069a2445",
   "lastOpenFiles": [
-    "notes/Untitled seven.md",
     "notes/FÍSICA/ELETRICIDADE.md",
+    "notes/Untitled seven.md",
+    "series/development/s1/e1/translated.srt",
+    "series/development/s1/e1/subtitles.srt",
+    "series/development/s1/e1/output.mp3",
+    "series/development/s1/e1/development_s1e1_99.mp3",
+    "series/development/s1/e1/development_s1e1_98.mp3",
+    "series/development/s1/e1/development_s1e1_97.mp3",
+    "series/development/s1/e1/development_s1e1_96.mp3",
+    "series/development/s1/e1/development_s1e1_95.mp3",
+    "series/development/s1/e1/development_s1e1_94.mp3",
+    "series/development/s1/e1/development_s1e1_93.mp3",
     "MATÉRIAS/EEAR.md",
     "notes/Untitled 8.md",
     "notes/note-381.md",
-    "my-configuration-files/js-scripts/audioCutter3.cjs",
     "imagens/print_screen_569.png",
     "notes/note-18.md",
     "notes/note-12.md",
@@ -227,18 +236,8 @@
     "imagens/print_screen_555.png",
     "notes/note-369.md",
     "notes/FÍSICA/ESTÁTICA.md",
-    "notes/note-400.md",
-    "my-configuration-files/backup/provas_de_português/cfs-b-2-2010.txt",
-    "my-configuration-files/backup/provas_de_português/cfs-2-2020.txt",
-    "newFile.txt",
     "imagens/print_screen_679.png",
-    "my-configuration-files/backup/provas_de_português/cfs-b-2-2011.txt",
     "imagens/print_screen_252.png",
-    "my-configuration-files/js-scripts/package.json",
-    "my-configuration-files/js-scripts/addToMdTable.cjs",
-    "my-configuration-files/js-scripts/addToMdTable.mjs",
-    "my-configuration-files/js-scripts/addToMdTable.js",
-    "my-configuration-files/js-scripts/node_modules/markdown-table/index.js",
     "imagens/print_screen_498.png",
     "imagens/print_screen_248.png",
     "imagens/print_screen_246.png",
