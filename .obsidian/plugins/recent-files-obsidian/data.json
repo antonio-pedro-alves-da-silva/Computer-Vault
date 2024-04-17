@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
+      "basename": "ELETRICIDADE",
+      "path": "notes/FÍSICA/ELETRICIDADE.md"
     },
     {
       "basename": "Untitled seven",
       "path": "notes/Untitled seven.md"
     },
     {
-      "basename": "note-381",
-      "path": "notes/note-381.md"
+      "basename": "EEAR",
+      "path": "MATÉRIAS/EEAR.md"
     },
     {
-      "basename": "ELETRICIDADE",
-      "path": "notes/FÍSICA/ELETRICIDADE.md"
+      "basename": "Untitled 8",
+      "path": "notes/Untitled 8.md"
+    },
+    {
+      "basename": "note-381",
+      "path": "notes/note-381.md"
     },
     {
       "basename": "print_screen_569",
@@ -195,10 +199,6 @@
     {
       "basename": "Números Complexos",
       "path": "notes/MATEMÁTICA/ÁLGEBRA III/Números Complexos.md"
-    },
-    {
-      "basename": "DINÂMICA",
-      "path": "notes/FÍSICA/DINÂMICA.md"
     }
   ],
   "omittedPaths": [],
