@@ -5,6 +5,10 @@
       "path": "MATÉRIAS/EEAR.md"
     },
     {
+      "basename": "Estudo Analítico",
+      "path": "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md"
+    },
+    {
       "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
       "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "print_screen_498",
       "path": "imagens/print_screen_498.png"
-    },
-    {
-      "basename": "print_screen_248",
-      "path": "imagens/print_screen_248.png"
     }
   ],
   "omittedPaths": [],
