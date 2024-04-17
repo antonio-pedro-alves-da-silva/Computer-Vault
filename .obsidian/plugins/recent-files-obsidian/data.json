@@ -9,12 +9,20 @@
       "path": "imagens/print_screen_569.png"
     },
     {
-      "basename": "note-12",
-      "path": "notes/note-12.md"
-    },
-    {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "note-18",
+      "path": "notes/note-18.md"
+    },
+    {
+      "basename": "note-381",
+      "path": "notes/note-381.md"
+    },
+    {
+      "basename": "note-12",
+      "path": "notes/note-12.md"
     },
     {
       "basename": "series-to-learn-english",
@@ -191,14 +199,6 @@
     {
       "basename": "DINÂMICA",
       "path": "notes/FÍSICA/DINÂMICA.md"
-    },
-    {
-      "basename": "CINEMÁTICA",
-      "path": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
-    },
-    {
-      "basename": "note-356",
-      "path": "notes/note-356.md"
     }
   ],
   "omittedPaths": [],
