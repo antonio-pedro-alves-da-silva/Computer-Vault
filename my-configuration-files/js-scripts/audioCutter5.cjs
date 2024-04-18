@@ -11,6 +11,7 @@ const episode = inputFile.match(/(?<=_s\de)\d+(?=[.])/)[0];
 const log = require("console");
 const { exec } = require("child_process");
 const fs = require("fs/promises");
+const { stderr, stdout } = require("process");
 
 
 let i = 0;
@@ -26,7 +27,6 @@ async function audioCutter(subtitleFile) {
 
     n_with_equalArr.map(async function (v, i, a) {
 
-
       let time = timingArr[v].split("-->");
       let startTime = time[0].trim().replace(",", ".");
       let endTime = time[1].trim().replace(",", ".");
@@ -36,9 +36,9 @@ async function audioCutter(subtitleFile) {
 
     });
 
-    console.log(c_cut,list_of_files)
-
-    })
+    let c_concat = `ffmpeg -i "concat:${list_of_files.trim().split(" ").join("|")}" -acodec copy output.mp3`;
+    let c_cut_concat = `${c_cut}${c_concat}`
+    console.log(c_cut_concat);
 
 
   } catch (err) {
