@@ -20,24 +20,24 @@
             }
           },
           {
-            "id": "0650d5e00af0553c",
+            "id": "5310bf7d142b32e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/GRAMÁTICA/concordância nominal.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e53b5756229dd5d7",
+            "id": "7c27760b679336dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/GRAMÁTICA/concordância nominal.md",
+                "file": "notes/note-143.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/GRAMÁTICA/concordância nominal.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/GRAMÁTICA/concordância nominal.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/GRAMÁTICA/concordância nominal.md"
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
               }
             }
           },
@@ -195,10 +195,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0650d5e00af0553c",
+  "active": "5310bf7d142b32e4",
   "lastOpenFiles": [
+    "MATÉRIAS/EEAR.md",
     "notes/note-143.md",
     "notes/GRAMÁTICA/concordância nominal.md",
+    "notes/note-413.md",
+    "notes/note-411.md",
+    "notes/note-412.md",
+    "notes/note-410.md",
     "series/development/s1/e1/development_s1e1_335.mp3",
     "series/development/s1/e1/development_s1e1_324.mp3",
     "series/development/s1/e1/development_s1e1_321.mp3",
@@ -210,7 +215,6 @@
     "series/development/s1/e1/development_s1e1_270.mp3",
     "series/development/s1/e1/development_s1e1_262.mp3",
     "notes/crase.md",
-    "MATÉRIAS/EEAR.md",
     "notes/FÍSICA/ELETRICIDADE.md",
     "imagens/print_screen_677.png",
     "notes/Untitled seven.md",
@@ -234,9 +238,6 @@
     "notes/FÍSICA/HIDROESTÁTICA.md",
     "notes/note-208.md",
     "notes/note-187.md",
-    "notes/note-372.md",
-    "notes/note-371.md",
-    "notes/note-188.md",
     "imagens/print_screen_555.png",
     "imagens/print_screen_679.png",
     "imagens/print_screen_252.png",

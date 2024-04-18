@@ -108,23 +108,9 @@ O verbo "é necessário" concorda com o substantivo "uniforme" no singular, e a 
 
 ### ==4. Cores==
 
-
-Caso o nome da cor faça referência a um substantivo (laranja, rosa etc.), a cor é invariável.
-
-- As mochilas são laranja.
-- Os lençóis são rosa.
-
-Quando o nome da cor é constituído de dois adjetivos (o segundo envolvendo tonalidades), costuma-se deixar o primeiro invariável na forma do masculino e o segundo fazendo a concordância:
-
-- As mochila são amarelo-claras.
-- Os lençóis são azul-escuros.
-
-
-Porém, se o segundo adjetivo fizer referência a um substantivo, voltamos à regra da cor ser invariável.
-
-- As mochilas são verde-água.
-- Os lençóis são azul-celeste
-
+[[note-410|cf]]
+[[note-411|c-cf]]
+[[note-412|c-t(s)]]
 
 ### ==5. **Concordância dos particípios**==  
 

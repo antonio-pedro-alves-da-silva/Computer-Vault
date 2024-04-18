@@ -89,4 +89,4 @@ prova de 2006
 17( [[note-362|Relações trigonométricas de um triangulo retângulo]])
 [18](https://militares.estrategia.com/public/questoes/pentagono-regular17b30947b3/)([[print_screen_678.png|resolução]])
 [19](https://www.qconcursos.com/questoes-militares/questoes/5ae24f77-16)([[print_screen_152.png|arco metade]])
-
+2020
