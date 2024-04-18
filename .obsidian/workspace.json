@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "5ef6713bd937874b",
+            "id": "0650d5e00af0553c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md",
+                "file": "notes/note-143.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md",
+                "file": "notes/note-143.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md",
+                "file": "notes/note-143.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md"
+                "file": "notes/note-143.md"
               }
             }
           },
@@ -182,8 +182,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5ef6713bd937874b",
+  "active": "0650d5e00af0553c",
   "lastOpenFiles": [
+    "notes/crase.md",
+    "notes/note-143.md",
+    "my-configuration-files/backup/provas_de_português/cfs-b-1-2008.txt",
+    "MATÉRIAS/EEAR.md",
+    "notes/FÍSICA/ELETRICIDADE.md",
     "series/development/s1/e1/development_s1e1_8.mp3",
     "series/development/s1/e1/development_s1e1_350.mp3",
     "series/development/s1/e1/development_s1e1_335.mp3",
@@ -193,10 +198,6 @@
     "series/development/s1/e1/development_s1e1_338.mp3",
     "series/development/s1/e1/development_s1e1_270.mp3",
     "series/development/s1/e1/development_s1e1_319.mp3",
-    "series/development/s1/e1/development_s1e1_262.mp3",
-    "series/development/s1/e1/development_s1e1_324.mp3",
-    "MATÉRIAS/EEAR.md",
-    "notes/FÍSICA/ELETRICIDADE.md",
     "imagens/print_screen_677.png",
     "notes/Untitled seven.md",
     "notes/Untitled 8.md",
@@ -205,7 +206,6 @@
     "notes/note-18.md",
     "notes/note-12.md",
     "notes/series-to-learn-english.md",
-    "notes/note-143.md",
     "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "imagens/print_screen_359.png",
