@@ -54,7 +54,7 @@ async function generateMdTable(subtitleFile,translatedFile,FirstRow) {
 
 }
 
-generateMdTable(subtitleFile,translatedFile,"|English|Portuguese|")
+generateMdTable(subtitleFile,translatedFile,"|n|English|Portuguese|")
 
 // generateSrtArray(srtFile).then((result)=>{
 //     arrayToMdTable(result,"|line1|line2|line3|")

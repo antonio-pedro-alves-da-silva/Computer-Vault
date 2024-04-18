@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
-      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+      "basename": "note-143",
+      "path": "notes/note-143.md"
     },
     {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
     },
     {
-      "basename": "note-143",
-      "path": "notes/note-143.md"
+      "basename": "development_s1e1",
+      "path": "series/development/s1/e1/development_s1e1.md"
+    },
+    {
+      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
+      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
     },
     {
       "basename": "concordância nominal",
@@ -195,10 +199,6 @@
     {
       "basename": "questões erradas de português",
       "path": "notes/GRAMÁTICA/questões erradas de português.md"
-    },
-    {
-      "basename": "quando usar o z",
-      "path": "notes/GRAMÁTICA/quando usar o z.md"
     }
   ],
   "omittedPaths": [],

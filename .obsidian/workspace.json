@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "5310bf7d142b32e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7c27760b679336dd",
             "type": "leaf",
             "state": {
@@ -98,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -120,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "notes/note-143.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "notes/note-143.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+                "file": "notes/note-143.md"
               }
             }
           },
@@ -195,10 +182,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5310bf7d142b32e4",
+  "active": "7c27760b679336dd",
   "lastOpenFiles": [
     "MATÉRIAS/EEAR.md",
+    "series/development/s1/e1/development_s1e1.md",
     "notes/note-143.md",
+    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/GRAMÁTICA/concordância nominal.md",
     "notes/note-413.md",
     "notes/note-411.md",
@@ -225,7 +214,6 @@
     "notes/note-12.md",
     "notes/series-to-learn-english.md",
     "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md",
-    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "imagens/print_screen_359.png",
     "notes/note-219.md",
     "notes/note-220.md",
@@ -237,7 +225,6 @@
     "notes/note-210.md",
     "notes/FÍSICA/HIDROESTÁTICA.md",
     "notes/note-208.md",
-    "notes/note-187.md",
     "imagens/print_screen_555.png",
     "imagens/print_screen_679.png",
     "imagens/print_screen_252.png",
