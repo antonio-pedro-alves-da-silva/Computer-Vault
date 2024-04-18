@@ -1,9 +1,21 @@
-[[note-405|oração subordinada substantiva]]
-[[note-406|oração subordinada adjetiva]]
-[[note-407|oração subordinada advérbios]]
-[[note-408|oração subordinada reduzida e desenvolvida]]
-oração 
+oração subordinada
+	[[note-405|oração subordinada substantiva]]
+	[[note-406|oração subordinada adjetiva]]
+	[[note-407|oração subordinada advérbios]]
+	[[note-408|oração subordinada reduzida e desenvolvida]]
+oração coordenada
+	oração coordenada assindética
+	[[note-414|oração coordenada sindética]]
 
+orações coordenadas
+	[1](https://www.qconcursos.com/questoes-militares/questoes/0924a4cf-ed)(aprendi([[note-184|que existe oração coordenada aditiva reduzida do infinitivo]]))
+	[2](https://www.qconcursos.com/questoes-militares/questoes/7409d956-0d)(aprendi([[note-185|...]]))
+	[3](https://www.qconcursos.com/questoes-militares/questoes/c6bcfb5b-59)(o que é relação lógica e relação lógica de adversidade)
+	[4](https://www.qconcursos.com/questoes-militares/questoes/74f99118-55)([[note-189|resolução]])
+	[5](https://www.qconcursos.com/questoes-militares/questoes/588b6542-47)(aprendi([[note-190|que "e" pode ser adversativa ?]]))
+	[6](https://www.qconcursos.com/questoes-militares/questoes/09c35f53-f5)(aprendi([[note-191|a como identificar melhor alternativas]]))
+	[7](https://www.qconcursos.com/questoes-militares/questoes/4c65c299-42)()
+oração subordinada errada
 	[1](https://www.qconcursos.com/questoes-militares/questoes/5a688c99-16)
 	[2](https://www.qconcursos.com/questoes-militares/questoes/5a5b4c12-16)([[note-178|diferença entre oração subordina causal e consecutiva]])
 	[3](https://www.qconcursos.com/questoes-militares/questoes/085edc34-e4)(aprendi(enquanto exprime circustância de tempo))

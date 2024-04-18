@@ -45,6 +45,7 @@ async function generateMdTable(subtitleFile,translatedFile,FirstRow) {
         let table = `${FirstRow}\n${SecondRow}\n${restOfTheLines}`;
         console.log(table)
 
+
     } catch (err) {
         console.error(`Error reading file: ${err}`);
         throw err; // Propagate the error

@@ -52,15 +52,7 @@ Porquês
 [[note-27|conjugação verbal]]
 [[transposição de discurso]] 
 período composto
-[[note-404|orações subordinadas]]
-orações coordenadas
-	[1](https://www.qconcursos.com/questoes-militares/questoes/0924a4cf-ed)(aprendi([[note-184|que existe oração coordenada aditiva reduzida do infinitivo]]))
-	[2](https://www.qconcursos.com/questoes-militares/questoes/7409d956-0d)(aprendi([[note-185|...]]))
-	[3](https://www.qconcursos.com/questoes-militares/questoes/c6bcfb5b-59)(o que é relação lógica e relação lógica de adversidade)
-	[4](https://www.qconcursos.com/questoes-militares/questoes/74f99118-55)([[note-189|resolução]])
-	[5](https://www.qconcursos.com/questoes-militares/questoes/588b6542-47)(aprendi([[note-190|que "e" pode ser adversativa ?]]))
-	[6](https://www.qconcursos.com/questoes-militares/questoes/09c35f53-f5)(aprendi([[note-191|a como identificar melhor alternativas]]))
-	[7](https://www.qconcursos.com/questoes-militares/questoes/4c65c299-42)()
+[[note-404|orações]]
 [[note-172|Conjunções:Relações de causa e consequência]]
 	[1](https://www.qconcursos.com/questoes-militares/questoes/c6b94bdd-59)-C
 	[2](https://www.qconcursos.com/questoes-militares/questoes/95270389-53)-C
