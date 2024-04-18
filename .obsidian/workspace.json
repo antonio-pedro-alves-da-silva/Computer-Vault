@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "series/development/s1/e1/development_s1e1.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "series/development/s1/e1/development_s1e1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "series/development/s1/e1/development_s1e1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATÉRIAS/EEAR.md"
+                "file": "series/development/s1/e1/development_s1e1.md"
               }
             }
           },
@@ -171,8 +171,10 @@
   },
   "active": "ec16bf364be0e42b",
   "lastOpenFiles": [
-    "series/development/s1/e1/development_s1e1.md",
     "MATÉRIAS/EEAR.md",
+    "tranquei a porta.md",
+    "notes/Untitled 9.md",
+    "series/development/s1/e1/development_s1e1.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
     "series/development/s1/e1/output.mp3",
     "series/development/s1/e1/development_s1e1_369.mp3",
@@ -208,10 +210,8 @@
     "imagens/print_screen_359.png",
     "notes/note-219.md",
     "notes/note-220.md",
-    "notes/note-409.md",
     "Pasted image 20240415165020.png",
     "imagens/Pasted image 20231201133941.png",
-    "notes/Untitled 7.md",
     "imagens/print_screen_555.png",
     "imagens/print_screen_679.png",
     "imagens/print_screen_252.png",

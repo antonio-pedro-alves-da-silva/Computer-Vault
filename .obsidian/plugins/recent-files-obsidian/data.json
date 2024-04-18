@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "development_s1e1",
+      "path": "series/development/s1/e1/development_s1e1.md"
+    },
+    {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
     },
     {
-      "basename": "development_s1e1",
-      "path": "series/development/s1/e1/development_s1e1.md"
+      "basename": "tranquei a porta",
+      "path": "tranquei a porta.md"
+    },
+    {
+      "basename": "Untitled 9",
+      "path": "notes/Untitled 9.md"
     },
     {
       "basename": "questões erradas de português",
@@ -191,14 +199,6 @@
     {
       "basename": "note-402",
       "path": "notes/note-402.md"
-    },
-    {
-      "basename": "note-401",
-      "path": "notes/note-401.md"
-    },
-    {
-      "basename": "note-399",
-      "path": "notes/note-399.md"
     }
   ],
   "omittedPaths": [],
