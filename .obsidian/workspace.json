@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e53b5756229dd5d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/GRAMÁTICA/concordância nominal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ea77aae5d4f8e3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/GRAMÁTICA/concordância nominal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-143.md",
+                "file": "notes/GRAMÁTICA/concordância nominal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-143.md",
+                "file": "notes/GRAMÁTICA/concordância nominal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-143.md"
+                "file": "notes/GRAMÁTICA/concordância nominal.md"
               }
             }
           },
@@ -182,10 +206,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0650d5e00af0553c",
+  "active": "e53b5756229dd5d7",
   "lastOpenFiles": [
-    "notes/crase.md",
     "notes/note-143.md",
+    "notes/GRAMÁTICA/concordância nominal.md",
+    "notes/crase.md",
     "my-configuration-files/backup/provas_de_português/cfs-b-1-2008.txt",
     "MATÉRIAS/EEAR.md",
     "notes/FÍSICA/ELETRICIDADE.md",
@@ -225,7 +250,6 @@
     "notes/note-188.md",
     "imagens/print_screen_555.png",
     "notes/note-369.md",
-    "notes/FÍSICA/ESTÁTICA.md",
     "imagens/print_screen_679.png",
     "imagens/print_screen_252.png",
     "imagens/print_screen_498.png",

@@ -1,3 +1,4 @@
+
 ### ==1. adjetivo e substantivo==
 
 #### sub1 + adj1
@@ -42,8 +43,7 @@ Colocando o substantivo e o artigo que o antecede no plural. Exemplo:
 - Adoro **as comidas** italiana e chinesa.
 - Conhece **as literaturas** brasileira e inglesa.
 
-### ==2. substantivos com númerais
-==
+### ==2. substantivos com númerais==
 #### num2 + sub1
 
 - A segunda e a terceira **casa**.
