@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-143.md",
+                "file": "notes/GRAMÁTICA/concordância nominal.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3ea77aae5d4f8e3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/GRAMÁTICA/concordância nominal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "verbos",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,21 +195,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e53b5756229dd5d7",
+  "active": "0650d5e00af0553c",
   "lastOpenFiles": [
-    "series/development/s1/e1/development_s1e1_369.mp3",
-    "series/development/s1/e1/development_s1e1_350.mp3",
-    "series/development/s1/e1/development_s1e1_338.mp3",
-    "series/development/s1/e1/development_s1e1_82.mp3",
-    "series/development/s1/e1/development_s1e1_128.mp3",
-    "series/development/s1/e1/development_s1e1_252.mp3",
-    "series/development/s1/e1/development_s1e1_105.mp3",
-    "series/development/s1/e1/development_s1e1_341.mp3",
-    "series/development/s1/e1/development_s1e1_14.mp3",
-    "series/development/s1/e1/development_s1e1_88.mp3",
-    "series/development/s1/e1/development_s1e1_23.mp3",
     "notes/note-143.md",
     "notes/GRAMÁTICA/concordância nominal.md",
+    "series/development/s1/e1/development_s1e1_335.mp3",
+    "series/development/s1/e1/development_s1e1_324.mp3",
+    "series/development/s1/e1/development_s1e1_321.mp3",
+    "series/development/s1/e1/development_s1e1_319.mp3",
+    "series/development/s1/e1/development_s1e1_311.mp3",
+    "series/development/s1/e1/development_s1e1_310.mp3",
+    "series/development/s1/e1/development_s1e1_277.mp3",
+    "series/development/s1/e1/development_s1e1_274.mp3",
+    "series/development/s1/e1/development_s1e1_270.mp3",
+    "series/development/s1/e1/development_s1e1_262.mp3",
     "notes/crase.md",
     "MATÉRIAS/EEAR.md",
     "notes/FÍSICA/ELETRICIDADE.md",

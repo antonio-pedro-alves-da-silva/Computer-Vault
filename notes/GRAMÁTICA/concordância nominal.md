@@ -1,13 +1,6 @@
 
 ### ==1. adjetivo e substantivo==
 
-#### sub1 + adj1
-
-O adjetivo deve concordar em gênero e número com o substantivo. Exemplos:
-
-- Que **pintura bonita**!
-- As **frutas** estão **deliciosas**.
-
 #### adj1 + sub2
 
 Quando há mais do que um substantivo, o adjetivo deve concordar com aquele que está mais próximo. Exemplo:
@@ -20,6 +13,14 @@ Mas, se os substantivos forem nomes próprios, o adjetivo deve ficar no plural. 
 - Debaixo dos Caracóis dos seus Cabelos é uma composição dos **grandes Roberto Carlos e Erasmo Carlos** em homenagem a Caetano Veloso.
 - As **encantadoras Clarice e Cecília Meireles** pertencem ao Modernismo.
 
+
+#### sub1 + adj1
+
+O adjetivo deve concordar em gênero e número com o substantivo. Exemplos:
+
+- Que **pintura bonita**!
+- As **frutas** estão **deliciosas**.
+
 #### sub2 + adj1
 Quando há mais do que um substantivo, e o adjetivo vem depois dos substantivos, deve concordar com aquele que está mais próximo ou com todos eles. Exemplos:
 
@@ -29,7 +30,7 @@ Quando há mais do que um substantivo, e o adjetivo vem depois dos substantivos,
 - Que **poema e pintura bonitos**!
 
 
-#### sub1 + adj2
+#### (as) sub1 + (a) adj2
 
 Quando um substantivo é caracterizado por mais do que um adjetivo, a concordância pode ser feita das seguintes formas:
 
@@ -58,18 +59,17 @@ Colocando o substantivo e o artigo que o antecede no plural. Exemplo:
 #### ==Anexo==
 
 A palavra "anexo" deve concordar em gênero e número com o substantivo. Exemplos:
-
 - Segue **anexo o** recibo.
 - Segue **anexa a** fatura.
 
-Mas, a expressão "em anexo" não varia. Exemplos:
-
-- Segue **em anexo o recibo**.
-- Segue **em anexo a fatura**.
+**Em anexo**
+	Mas, a expressão "em anexo" não varia. Exemplos:
+	- Segue **em anexo o recibo**.
+	- Segue **em anexo a fatura**.
 
 #### ==Bastante(s),Meio,Só(s)==
 
-Bastante(s) , Meio , Só , Sós irão variar quando forem adjetivo , mas quando forem advérbio não variam
+Bastante(s) , Meio , Só , Sós irão variar quando forem adjetivo , mas quando forem advérbio não variam.
 
 - Joaquim tinha motivos **bastantes** para sorrir.(adjetivo ,como adjetivo indica uma quantidade de algo)
 - Fomos **bastante amigos**.(advérbio de intensidade ,como advérbio não indica quantidade)
@@ -108,13 +108,6 @@ O verbo "é necessário" concorda com o substantivo "uniforme" no singular, e a 
 
 ### ==4. Cores==
 
-caso a cor faça referência a um substantivo ela será invariável se não concordara com o substantivo que se refere
-a tonalidade da cor concorda com o substantivo
-
-A concordância envolvendo cores gera muitas dúvidas. Na regra geral, as cores devem concordar com o substantivo a que se referem, quando são variáveis:
-
-- A mochila é amarela.
-- Os lençóis são azuis.
 
 Caso o nome da cor faça referência a um substantivo (laranja, rosa etc.), a cor é invariável.
 
