@@ -27,7 +27,7 @@ async function audioCutter(subtitleFile) {
 
     n_with_equalArr.map(async function (v, i, a) {
 
-      let time = timingArr[v].split("-->");
+      let time = timingArr[v - 1].split("-->");
       let startTime = time[0].trim().replace(",", ".");
       let endTime = time[1].trim().replace(",", ".");
 

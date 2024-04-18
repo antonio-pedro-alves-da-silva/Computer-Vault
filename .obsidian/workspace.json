@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "series/development/s1/e1/development_s1e1.md",
+                "file": "MATÉRIAS/EEAR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d3f26d067388a13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-53.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e03eb19d19407eb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/GRAMÁTICA/questões erradas de português.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "series/development/s1/e1/development_s1e1.md",
+                "file": "notes/GRAMÁTICA/questões erradas de português.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "series/development/s1/e1/development_s1e1.md",
+                "file": "notes/GRAMÁTICA/questões erradas de português.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "series/development/s1/e1/development_s1e1.md"
+                "file": "notes/GRAMÁTICA/questões erradas de português.md"
               }
             }
           },
@@ -169,13 +194,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ec16bf364be0e42b",
+  "active": "e03eb19d19407eb8",
   "lastOpenFiles": [
+    "notes/note-53.md",
+    "notes/note-340.md",
+    "notes/GRAMÁTICA/regras do acento gráfico.md",
+    "notes/note-143.md",
     "MATÉRIAS/EEAR.md",
-    "tranquei a porta.md",
-    "notes/Untitled 9.md",
-    "series/development/s1/e1/development_s1e1.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
+    "series/development/s1/e1/development_s1e1.md",
     "series/development/s1/e1/output.mp3",
     "series/development/s1/e1/development_s1e1_369.mp3",
     "series/development/s1/e1/development_s1e1_365.mp3",
@@ -186,7 +213,8 @@
     "series/development/s1/e1/development_s1e1_324.mp3",
     "series/development/s1/e1/development_s1e1_321.mp3",
     "series/development/s1/e1/development_s1e1_319.mp3",
-    "notes/note-143.md",
+    "tranquei a porta.md",
+    "notes/Untitled 9.md",
     "notes/note-404.md",
     "notes/note-414.md",
     "notes/note-405.md",
@@ -206,10 +234,7 @@
     "notes/note-18.md",
     "notes/note-12.md",
     "notes/series-to-learn-english.md",
-    "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md",
     "imagens/print_screen_359.png",
-    "notes/note-219.md",
-    "notes/note-220.md",
     "Pasted image 20240415165020.png",
     "imagens/Pasted image 20231201133941.png",
     "imagens/print_screen_555.png",
