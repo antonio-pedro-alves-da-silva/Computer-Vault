@@ -23,25 +23,21 @@ async function audioCutter(subtitleFile) {
     let n_with_equalArr = subtitleData.match(/\d+(?=[=])/gm);
 
 
-
-
     n_with_equalArr.map(async function (v, i, a) {
 
 
-      let time = timingArr[v].split("-->");
-      let startTime = time[0].trim().replace(",", ".");
-      let endTime = time[1].trim().replace(",", ".");
-      let c_cut = `ffmpeg -i ${inputFile} -vn -ss ${startTime} -to ${endTime} -q:a 0 ${seriesAndInfo}_${v}.mp3`;  
+        let time = timingArr[v].split("-->");
+        let startTime = time[0].trim().replace(",", ".");
+        let endTime = time[1].trim().replace(",", ".");
+        let c_cut = `ffmpeg -i ${inputFile} -vn -ss ${startTime} -to ${endTime} -q:a 0 ${seriesAndInfo}_${v}.mp3`;
 
-      exec(c_cut, (error) => {
-        if (error) {
-          console.log(error)
-        } else {
-          console.log(`audio cortado ${i+1}`)
-        }
-      })
+        exec(c_cut, function (error, stderr, stdout) {
+          if (error) {
+            reject(error)
+          }
+        })
+        console.log(`audio cortado ${i + 1}`)
       //concatenate all files
-
     })
 
 
