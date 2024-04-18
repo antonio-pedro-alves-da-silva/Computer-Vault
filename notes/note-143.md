@@ -18,9 +18,17 @@ formação de palavras
 [[note-335|separação silábica]] 
 [[notes/GRAMÁTICA/pronome relativo#==regras do pronome “cujo”==|pronome relativo cujo]]
 [[regras do acento gráfico]]
-gênero de substantivo 
-	uniforme 
-	biforme 
+substantivos
+	gênero de substantivo 
+		uniforme 
+		biforme
+	[[plural dos substantivos]]
+		plural de palavras compostas
+			Substantivo + substantivo que especifica o primeiro
+			Palavras unidas por preposição
+			Verbo ou advérbio + substantivo ou adjetivo
+			Palavras repetidas ou onomatopeias
+			Palavra variável + palavra variável
 [[note-401|flexão do substantivo]]
 Expressões confudidas
 	mau ou mal

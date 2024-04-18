@@ -50,8 +50,6 @@ async function generateMdTable(subtitleFile,translatedFile,FirstRow) {
         throw err; // Propagate the error
     }
 
-    
-
 }
 
 generateMdTable(subtitleFile,translatedFile,"|n|English|Portuguese|")
