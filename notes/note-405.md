@@ -1,12 +1,9 @@
 
-| **Tipo de oração subordinada  <br>adverbial** | **Função**                                                       | **Exemplo**                                                                              |
-| --------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| Causal                                        | estabelece sentido de causa em relação à oração principal        | Por já conhecer o caminho, eu cheguei bem rápido.                                        |
-| Comparativa                                   | estabelece sentido de comparação em relação à oração principal   | A comida desse restaurante é preparada tal qual é feita a comida do restaurante vizinho. |
-| Concessiva                                    | estabelece sentido de concessão em relação à oração principal    | A festa foi muito divertida, apesar de ter havido alguns momentos constrangedores...     |
-| Condicional                                   | estabelece sentido de condição em relação à oração principal     | Resolvemos dar mais uma chance, contanto que elas se esforçassem também.                 |
-| Conformativa                                  | estabelece sentido de conformidade em relação à oração principal | Conforme havia combinado, entreguei os últimos trabalhos.                                |
-| Consecutiva                                   | estabelece sentido de consequência em relação à oração principal | Falava tanto que até ficou sem voz.                                                      |
-| Final                                         | estabelece sentido de finalidade em relação à oração principal   | Trabalhamos muito para viajarmos no final do ano.                                        |
-| Proporcional                                  | estabelece sentido de proporção em relação à oração principal    | À medida que estudava, ficava mais inteligente.                                          |
-| Temporal                                      | estabelece sentido de tempo em relação à oração principal        | Abraçou a avó assim que chegou à casa dela.                                              |
+| **Tipo de oração subordinada  <br>substantiva** | **Função**                                               | **Exemplo**                                                                    |
+| ----------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| Subjetiva                                       | exerce função de sujeito da oração principal             | É importante que saibamos o papel de cada um no projeto.                       |
+| Objetiva direta                                 | exerce função de objeto direto da oração principal       | Eu acho que não precisamos brigar por isso.                                    |
+| Objetiva indireta                               | exerce função de objeto indireto da oração principal     | Eles têm certeza de que essa foi a melhor decisão.                             |
+| Predicativa                                     | exerce função de predicativo da oração principal         | A maior conquista é que você sempre persiste.                                  |
+| Completiva nominal                              | exerce função de complemento nominal da oração principal | Tenho o desejo de que tudo se resolva da melhor maneira.                       |
+| Apositiva                                       | exerce função de aposto da oração principal              | Temos foco no nosso maior objetivo: que ajudemos o máximo de pessoas possível! |

@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "2ef5a5caf74d34db",
+            "id": "6ce52966e28caae1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5d9aa219715422ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-404.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-143.md",
+                "file": "notes/note-404.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-143.md",
+                "file": "notes/note-404.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-143.md"
+                "file": "notes/note-404.md"
               }
             }
           },
@@ -182,11 +194,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2ef5a5caf74d34db",
+  "active": "5d9aa219715422ca",
   "lastOpenFiles": [
-    "notes/note-414.md",
     "notes/note-143.md",
+    "notes/note-404.md",
+    "notes/note-405.md",
     "MATÉRIAS/EEAR.md",
+    "notes/note-414.md",
     "series/development/s1/e1/development_s1e1.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/GRAMÁTICA/concordância nominal.md",
@@ -223,8 +237,6 @@
     "imagens/Pasted image 20231201133941.png",
     "notes/Untitled 7.md",
     "notes/FÍSICA/GRAVITAÇÃO.md",
-    "notes/note-210.md",
-    "notes/FÍSICA/HIDROESTÁTICA.md",
     "imagens/print_screen_555.png",
     "imagens/print_screen_679.png",
     "imagens/print_screen_252.png",
