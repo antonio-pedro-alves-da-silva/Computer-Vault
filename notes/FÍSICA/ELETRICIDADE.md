@@ -193,7 +193,7 @@ eletricidade
 			[como calcular a resistência mínima para que um dos enrolamentos não se queime](https://www.qconcursos.com/questoes-militares/questoes/d733cbaf-4b)
 		exercícios errados de eletromagnetismo
 			[1](https://www.qconcursos.com/questoes-militares/questoes/5b3cd502-16)tipo de movimento da carga no campo magnético e no campo elétrico
-			[2](https://www.qconcursos.com/questoes-militares/questoes/2131c90c-4d)exemplo de aplicação e lei de fenz
+			[2](https://www.qconcursos.com/questoes-militares/questoes/2131c90c-4d)exemplo de aplicação e lei de lenz
 			[5](https://www.qconcursos.com/questoes-militares/questoes/d7098fc6-4b)variação de fluxo
 			[6](https://www.qconcursos.com/questoes-militares/questoes/47b8eef5-8d)exemplo de aplicação da regra da mão vbf
 			[7](https://www.qconcursos.com/questoes-militares/questoes/67e44517-86)substâncias magnéticas([[note-295|resolução]])
