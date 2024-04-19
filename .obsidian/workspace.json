@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d16526d083020208",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/FÍSICA/ELETRICIDADE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "notes/FÍSICA/ELETRICIDADE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "notes/FÍSICA/ELETRICIDADE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATÉRIAS/EEAR.md"
+                "file": "notes/FÍSICA/ELETRICIDADE.md"
               }
             }
           },
@@ -169,8 +182,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ec16bf364be0e42b",
+  "active": "d16526d083020208",
   "lastOpenFiles": [
+    "MATÉRIAS/EEAR.md",
     "my-configuration-files/js-scripts/audioConcat.cjs",
     "notes/note-53.md",
     "tranquei a porta.md",
@@ -179,7 +193,6 @@
     "notes/note-340.md",
     "notes/GRAMÁTICA/regras do acento gráfico.md",
     "notes/note-143.md",
-    "MATÉRIAS/EEAR.md",
     "series/development/s1/e1/development_s1e1.md",
     "series/development/s1/e1/output.mp3",
     "series/development/s1/e1/development_s1e1_369.mp3",
@@ -190,7 +203,6 @@
     "series/development/s1/e1/development_s1e1_335.mp3",
     "series/development/s1/e1/development_s1e1_324.mp3",
     "series/development/s1/e1/development_s1e1_321.mp3",
-    "series/development/s1/e1/development_s1e1_319.mp3",
     "notes/Untitled 9.md",
     "notes/note-404.md",
     "notes/note-414.md",
