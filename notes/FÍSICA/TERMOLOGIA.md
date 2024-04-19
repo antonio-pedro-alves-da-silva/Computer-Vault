@@ -1,4 +1,4 @@
-
+ 
 termologia
 	[[note-92|diagrama de mudança de estado]]
 	diferença entre calefação , ebuilçaõ e evaporização
