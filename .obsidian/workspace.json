@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
+                "file": "MATÉRIAS/EEAR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b06abf88112cff5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/FÍSICA/TERMOLOGIA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
+                "file": "notes/FÍSICA/TERMOLOGIA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
+                "file": "notes/FÍSICA/TERMOLOGIA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md"
+                "file": "notes/FÍSICA/TERMOLOGIA.md"
               }
             }
           },
@@ -169,11 +182,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ec16bf364be0e42b",
+  "active": "5b06abf88112cff5",
   "lastOpenFiles": [
     "MATÉRIAS/EEAR.md",
-    "notes/series-to-learn-english.md",
     "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
+    "notes/series-to-learn-english.md",
     "notes/note-317.md",
     "series/development/s1/e1/development_s1e1.md",
     "notes/note-330.md",
