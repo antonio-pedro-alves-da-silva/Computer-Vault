@@ -5,16 +5,24 @@
       "path": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md"
     },
     {
+      "basename": "development_s1e1",
+      "path": "series/development/s1/e1/development_s1e1.md"
+    },
+    {
+      "basename": "note-330",
+      "path": "notes/note-330.md"
+    },
+    {
+      "basename": "development_s1e2",
+      "path": "series/development/s1/e2/development_s1e2.md"
+    },
+    {
       "basename": "note-40",
       "path": "notes/note-40.md"
     },
     {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
-    },
-    {
-      "basename": "development_s1e2",
-      "path": "series/development/s1/e2/development_s1e2.md"
     },
     {
       "basename": "print_screen_664",
@@ -67,10 +75,6 @@
     {
       "basename": "note-143",
       "path": "notes/note-143.md"
-    },
-    {
-      "basename": "development_s1e1",
-      "path": "series/development/s1/e1/development_s1e1.md"
     },
     {
       "basename": "Untitled 9",
@@ -195,10 +199,6 @@
     {
       "basename": "note-187",
       "path": "notes/note-187.md"
-    },
-    {
-      "basename": "note-372",
-      "path": "notes/note-372.md"
     }
   ],
   "omittedPaths": [],
