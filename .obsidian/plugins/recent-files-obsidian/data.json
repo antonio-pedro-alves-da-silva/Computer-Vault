@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "questões erradas de português",
-      "path": "notes/GRAMÁTICA/questões erradas de português.md"
+      "basename": "EEAR",
+      "path": "MATÉRIAS/EEAR.md"
     },
     {
       "basename": "note-53",
       "path": "notes/note-53.md"
+    },
+    {
+      "basename": "tranquei a porta",
+      "path": "tranquei a porta.md"
+    },
+    {
+      "basename": "dia para ir ao dentista",
+      "path": "dia para ir ao dentista.md"
+    },
+    {
+      "basename": "questões erradas de português",
+      "path": "notes/GRAMÁTICA/questões erradas de português.md"
     },
     {
       "basename": "note-340",
@@ -21,16 +33,8 @@
       "path": "notes/note-143.md"
     },
     {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
-    },
-    {
       "basename": "development_s1e1",
       "path": "series/development/s1/e1/development_s1e1.md"
-    },
-    {
-      "basename": "tranquei a porta",
-      "path": "tranquei a porta.md"
     },
     {
       "basename": "Untitled 9",
@@ -195,10 +199,6 @@
     {
       "basename": "note-407",
       "path": "notes/note-407.md"
-    },
-    {
-      "basename": "note-408",
-      "path": "notes/note-408.md"
     }
   ],
   "omittedPaths": [],

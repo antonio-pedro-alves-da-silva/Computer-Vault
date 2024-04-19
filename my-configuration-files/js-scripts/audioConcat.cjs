@@ -22,7 +22,6 @@ async function audioCutter(subtitleFile) {
     let timingArr = subtitleData.match(/\d\d:\d\d:\d\d,\d\d\d --> \d\d:\d\d:\d\d,\d\d\d/gm);
     let n_with_equalArr = subtitleData.match(/\d+(?=[=])/gm);
 
-    let c_cut = "";
     let list_of_files = "";
 
     n_with_equalArr.map(async function (v, i, a) {
@@ -31,14 +30,12 @@ async function audioCutter(subtitleFile) {
       let startTime = time[0].trim().replace(",", ".");
       let endTime = time[1].trim().replace(",", ".");
 
-      c_cut += `ffmpeg -i ${inputFile} -vn -ss ${startTime} -to ${endTime} -q:a 0 ${seriesAndInfo}_${v}.mp3;`;
       list_of_files += `${seriesAndInfo}_${(v)}.mp3 `;
 
     });
 
     let c_concat = `ffmpeg -i "concat:${list_of_files.trim().split(" ").join("|")}" -acodec copy output.mp3`;
-    let c_cut_concat = `${c_cut}${c_concat}`
-    console.log(c_cut_concat);
+    console.log(c_concat);
 
 
   } catch (err) {
