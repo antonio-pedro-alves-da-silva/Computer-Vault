@@ -28,7 +28,7 @@ ondulatória
 	qualidade do som
 		[[note-30|intensidade]]
 			[[note-38|formula da intensidade sonora]]
-			[[note-39|escala sonora na itensidade de bel ou decibel]]
+			[[note-39|formuça da itensidade de bel ou decibel]]
 		[[note-29|altura]]
 		[[note-31|timbre]]
 	[[note-32|efeitos doppler]]
@@ -36,7 +36,7 @@ ondulatória
 	[[note-33|tubos sonoros(lambda e comprimento)]]
     ondas estacionárias
 		o que é onda estacionária ?
-			é quando duas ondas iguais se encontram
+			é quando duas ondas iguais se encontram , as duas são ondas estacionárias
 	    [[note-34|velocidade da onda por meio da densidade]]
 	    [[note-382|densidade por meio do comprimento]]
 	fenômenos ondulatórios

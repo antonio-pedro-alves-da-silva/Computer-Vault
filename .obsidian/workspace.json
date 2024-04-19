@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "9ef4492871dd988a",
+            "id": "c6e142a300d5ad1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
+                "file": "series/development/s1/e2/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.51103591918945,
-    "collapsed": true
+    "width": 323.51103591918945
   },
   "right": {
     "id": "ee4e8bcf9413ed0e",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
+                "file": "series/development/s1/e2/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
+                "file": "series/development/s1/e2/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md"
+                "file": "series/development/s1/e2/Untitled.md"
               }
             }
           },
@@ -182,10 +181,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9ef4492871dd988a",
+  "active": "c6e142a300d5ad1e",
   "lastOpenFiles": [
-    "MATÉRIAS/EEAR.md",
     "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
+    "series/development/s1/e2/Untitled.md",
+    "notes/note-40.md",
+    "MATÉRIAS/EEAR.md",
+    "notes/note-30.md",
     "notes/FÍSICA/ELETRICIDADE.md",
     "notes/note-19.md",
     "notes/note-291.md",
@@ -217,10 +219,7 @@
     "notes/note-411.md",
     "notes/note-412.md",
     "notes/note-410.md",
-    "notes/crase.md",
     "imagens/print_screen_677.png",
-    "notes/Untitled seven.md",
-    "notes/Untitled 8.md",
     "imagens/print_screen_569.png",
     "imagens/print_screen_359.png",
     "Pasted image 20240415165020.png",
