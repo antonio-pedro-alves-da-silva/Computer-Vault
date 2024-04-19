@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92901c4292c641ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,11 +169,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "92901c4292c641ee",
+  "active": "ec16bf364be0e42b",
   "lastOpenFiles": [
     "MATÉRIAS/EEAR.md",
-    "notes/note-317.md",
+    "notes/series-to-learn-english.md",
     "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
+    "notes/note-317.md",
     "series/development/s1/e1/development_s1e1.md",
     "notes/note-330.md",
     "series/development/s1/e2/development_s1e2.md",
@@ -221,7 +209,6 @@
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/GRAMÁTICA/concordância nominal.md",
     "notes/note-413.md",
-    "notes/note-411.md",
     "imagens/print_screen_677.png",
     "imagens/print_screen_569.png",
     "imagens/print_screen_359.png",

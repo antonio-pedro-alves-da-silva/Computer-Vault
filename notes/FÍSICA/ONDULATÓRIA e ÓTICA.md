@@ -78,7 +78,7 @@ ondulatória
 		[10](https://www.qconcursos.com/questoes-militares/questoes/5b3a2687-16)([[note-317|o que é constante na refração]])
 		[11](https://www.qconcursos.com/questoes-militares/questoes/a7a2706e-6b)(<span style="color:#ff0000">ATENÇÃO !!!</span> EM <span style="color:#ff0000">km/h</span> não em m/s)
 		[12](https://www.qconcursos.com/questoes-militares/questoes/d75ef328-49)([[note-329|velocidade da luz]] , e que a faixa corresponde ao comprimento de onda)
-		[13](https://www.qconcursos.com/questoes-militares/questoes/19b041c3-45)([[note-317|o que é constante na refração]] , <span style="color:#ff0000">cuidado está em mega hertz</span>)
+		[13](https://www.qconcursos.com/questoes-militares/questoes/19b041c3-45)([[note-317|o que é constante na refração]])
 		[16](https://www.qconcursos.com/questoes-militares/questoes/f54af8f0-a0)(aprendi o que é defasar a onda em $\Large \frac{1}{2}$ período)
 ótica
 	óptica geométrica

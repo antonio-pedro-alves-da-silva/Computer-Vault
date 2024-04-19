@@ -9,6 +9,10 @@
       "path": "MATÉRIAS/EEAR.md"
     },
     {
+      "basename": "series-to-learn-english",
+      "path": "notes/series-to-learn-english.md"
+    },
+    {
       "basename": "note-317",
       "path": "notes/note-317.md"
     },
@@ -151,10 +155,6 @@
     {
       "basename": "note-12",
       "path": "notes/note-12.md"
-    },
-    {
-      "basename": "series-to-learn-english",
-      "path": "notes/series-to-learn-english.md"
     },
     {
       "basename": "Estudo Analítico",
