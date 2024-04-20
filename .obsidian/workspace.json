@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "3ec7928a65b436db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-143.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8802ddf98e6ab72f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/GRAMÁTICA/colocação pronominal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "02d37db07df5bfed",
             "type": "leaf",
             "state": {
@@ -30,21 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "fc3461c62c21032d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -196,11 +208,12 @@
   },
   "active": "02d37db07df5bfed",
   "lastOpenFiles": [
-    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "notes/GRAMÁTICA/colocação pronominal.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
-    "MATÉRIAS/EEAR.md",
-    "notes/note-415.md",
     "notes/note-143.md",
+    "MATÉRIAS/EEAR.md",
+    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "notes/note-415.md",
     "imagens/print_screen_212.png",
     "notes/series-to-learn-english.md",
     "notes/FÍSICA/TERMOLOGIA.md",

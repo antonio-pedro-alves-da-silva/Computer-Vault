@@ -5,20 +5,24 @@
       "path": "notes/GRAMÁTICA/questões erradas de português.md"
     },
     {
-      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
-      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+      "basename": "colocação pronominal",
+      "path": "notes/GRAMÁTICA/colocação pronominal.md"
+    },
+    {
+      "basename": "note-143",
+      "path": "notes/note-143.md"
     },
     {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
     },
     {
-      "basename": "note-415",
-      "path": "notes/note-415.md"
+      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
+      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
     },
     {
-      "basename": "note-143",
-      "path": "notes/note-143.md"
+      "basename": "note-415",
+      "path": "notes/note-415.md"
     },
     {
       "basename": "print_screen_212",
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20231201133941",
       "path": "imagens/Pasted image 20231201133941.png"
-    },
-    {
-      "basename": "Untitled 7",
-      "path": "notes/Untitled 7.md"
     }
   ],
   "omittedPaths": [],
