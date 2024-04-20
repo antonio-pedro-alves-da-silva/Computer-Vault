@@ -19,7 +19,7 @@ termologia
 		[[note-90|unidade de calor cal]]
 		[[note-89|capacidade térmica ou capacidade calorífica]]
 		[[note-91|quantidade de calor latente]]
-	[como determinar a quantidade de kilocalorias de um alimento](https://www.qconcursos.com/questoes-militares/questoes/461db4a7-49)
+	[como calcular a calorias de um alimento](https://www.qconcursos.com/questoes-militares/questoes/461db4a7-49)
 	[aquecimento de duas amostras iguais](https://www.qconcursos.com/questoes-militares/questoes/d7281eb2-4b)
 	[[print_screen_466.png|potência térmica]]
 	trocas de calor

@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "series-to-learn-english",
+      "path": "notes/series-to-learn-english.md"
+    },
+    {
       "basename": "TERMOLOGIA",
       "path": "notes/FÍSICA/TERMOLOGIA.md"
+    },
+    {
+      "basename": "note-96",
+      "path": "notes/note-96.md"
     },
     {
       "basename": "EEAR",
@@ -19,10 +27,6 @@
     {
       "basename": "ONDULATÓRIA e ÓTICA",
       "path": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md"
-    },
-    {
-      "basename": "series-to-learn-english",
-      "path": "notes/series-to-learn-english.md"
     },
     {
       "basename": "note-317",
@@ -195,10 +199,6 @@
     {
       "basename": "note-210",
       "path": "notes/note-210.md"
-    },
-    {
-      "basename": "HIDROESTÁTICA",
-      "path": "notes/FÍSICA/HIDROESTÁTICA.md"
     }
   ],
   "omittedPaths": [],
