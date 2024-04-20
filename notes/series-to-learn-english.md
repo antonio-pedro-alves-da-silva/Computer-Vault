@@ -1,4 +1,3 @@
 developement
 princess
-young sheldon
 modern family

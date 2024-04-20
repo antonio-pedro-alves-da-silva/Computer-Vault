@@ -1,5 +1,5 @@
 
-[1](https://www.qconcursos.com/questoes-militares/questoes/ae1edea0-55)- [[print_screen_212.png|o apótema é a altura da face da pirâmide triangular regular]]
+[1](https://www.qconcursos.com/questoes-militares/questoes/ae1edea0-55)- [[print_screen_212.png|o apótema é a altura da face da pirâmide triangular regular]] 
 [2](https://www.qconcursos.com/questoes-militares/questoes/2586276c-4e)-[[print_screen_243.png|Discussão e classificação de um sistema (2x2)]] e [[print_screen_244.png|Discussão de um sistema (3x3)]]
 [3](https://www.qconcursos.com/questoes-militares/questoes/2599174b-4e)- [[print_screen_140.png|Arcos congruos e simétricos]]
 [4](https://www.qconcursos.com/questoes-militares/questoes/25b8c262-4e)-[[print_screen_245.png|REGRAS DE MULTIPLICAÇÃO DE MATRIZES]]
@@ -89,4 +89,6 @@ prova de 2006
 17( [[note-362|Relações trigonométricas de um triangulo retângulo]])
 [18](https://militares.estrategia.com/public/questoes/pentagono-regular17b30947b3/)([[print_screen_678.png|resolução]])
 [19](https://www.qconcursos.com/questoes-militares/questoes/5ae24f77-16)([[print_screen_152.png|arco metade]])
-2020
+prova de 2020
+62 - [[note-415|ponto médio entre dois pontos]]
+66 - briot ruffini

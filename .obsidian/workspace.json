@@ -20,12 +20,24 @@
             }
           },
           {
-            "id": "59f058ba0279c493",
+            "id": "fc3461c62c21032d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/series-to-learn-english.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd172a6926027394",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-415.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/series-to-learn-english.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/series-to-learn-english.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/series-to-learn-english.md"
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
               }
             }
           },
@@ -182,16 +194,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "59f058ba0279c493",
+  "active": "fc3461c62c21032d",
   "lastOpenFiles": [
+    "notes/note-415.md",
+    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "MATÉRIAS/EEAR.md",
+    "imagens/print_screen_212.png",
+    "notes/series-to-learn-english.md",
     "notes/FÍSICA/TERMOLOGIA.md",
     "notes/note-96.md",
-    "notes/note-415.md",
-    "MATÉRIAS/EEAR.md",
     "tranquei a porta.md",
     "dia para ir ao dentista.md",
     "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
-    "notes/series-to-learn-english.md",
     "notes/note-317.md",
     "series/development/s1/e1/development_s1e1.md",
     "notes/note-330.md",
@@ -220,8 +234,6 @@
     "notes/note-143.md",
     "notes/Untitled 9.md",
     "notes/note-404.md",
-    "notes/note-414.md",
-    "notes/note-405.md",
     "imagens/print_screen_677.png",
     "imagens/print_screen_569.png",
     "imagens/print_screen_359.png",
@@ -229,7 +241,6 @@
     "imagens/Pasted image 20231201133941.png",
     "imagens/print_screen_555.png",
     "imagens/print_screen_679.png",
-    "imagens/print_screen_252.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
