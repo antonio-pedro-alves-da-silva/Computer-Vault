@@ -92,3 +92,4 @@ prova de 2006
 prova de 2020
 62 - [[note-415|ponto médio entre dois pontos]]
 66 - briot ruffini
+prova de 2019
