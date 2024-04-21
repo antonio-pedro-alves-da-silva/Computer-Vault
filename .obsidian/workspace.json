@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/TERMOLOGIA.md",
+                "file": "series/development/s1/e4/development_s1e4.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.51103591918945,
-    "collapsed": true
+    "width": 323.51103591918945
   },
   "right": {
     "id": "ee4e8bcf9413ed0e",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/TERMOLOGIA.md",
+                "file": "series/development/s1/e4/development_s1e4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/TERMOLOGIA.md",
+                "file": "series/development/s1/e4/development_s1e4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/TERMOLOGIA.md"
+                "file": "series/development/s1/e4/development_s1e4.md"
               }
             }
           },
@@ -182,8 +181,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9963b9ee3aeb29e8",
+  "active": "7d2ff1388fc577af",
   "lastOpenFiles": [
+    "series/development/s1/e5/translated.srt",
+    "notes/FÍSICA/TERMOLOGIA.md",
+    "notes/note-112.md",
+    "series/development/s1/e5/subtitles.srt",
     "series/development/s1/e4/output.mp3",
     "series/development/s1/e4/development_s1e4_366.mp3",
     "series/development/s1/e4/development_s1e4_363.mp3",
@@ -193,11 +196,8 @@
     "series/development/s1/e4/development_s1e4_253.mp3",
     "series/development/s1/e4/development_s1e4_238.mp3",
     "series/development/s1/e4/development_s1e4_236.mp3",
-    "series/development/s1/e4/development_s1e4_235.mp3",
-    "series/development/s1/e4/development_s1e4_230.mp3",
     "MATÉRIAS/EEAR.md",
     "series/development/s1/e4/development_s1e4.md",
-    "notes/FÍSICA/TERMOLOGIA.md",
     "notes/note-113.md",
     "series/development/s1/e3/development_s1e3.md",
     "notes/note-100.md",
@@ -223,7 +223,6 @@
     "imagens/print_screen_664.png",
     "imagens/print_screen_663.png",
     "notes/note-30.md",
-    "notes/FÍSICA/ELETRICIDADE.md",
     "imagens/print_screen_677.png",
     "imagens/print_screen_569.png",
     "imagens/print_screen_359.png",

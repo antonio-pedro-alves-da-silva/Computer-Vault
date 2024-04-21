@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "development_s1e4",
+      "path": "series/development/s1/e4/development_s1e4.md"
+    },
+    {
       "basename": "TERMOLOGIA",
       "path": "notes/FÍSICA/TERMOLOGIA.md"
     },
     {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
+      "basename": "note-112",
+      "path": "notes/note-112.md"
     },
     {
-      "basename": "development_s1e4",
-      "path": "series/development/s1/e4/development_s1e4.md"
+      "basename": "EEAR",
+      "path": "MATÉRIAS/EEAR.md"
     },
     {
       "basename": "note-113",
@@ -195,10 +199,6 @@
     {
       "basename": "print_screen_569",
       "path": "imagens/print_screen_569.png"
-    },
-    {
-      "basename": "note-18",
-      "path": "notes/note-18.md"
     }
   ],
   "omittedPaths": [],

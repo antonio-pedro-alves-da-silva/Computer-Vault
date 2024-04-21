@@ -1,2 +1,2 @@
-$\Large \frac{Q_{q}}{Q_{f}}=\frac{T_{q}}{T_{f}}$
+$\Large \frac{T_{f}}{T_{q}}=\frac{Q_{f}}{Q_{q}}$
 
