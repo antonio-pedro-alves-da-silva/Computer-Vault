@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "9963b9ee3aeb29e8",
+            "id": "13e31cca6bae32a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "series/development/s1/e4/development_s1e4.md",
+                "file": "series/development/s1/e1/development_s1e1.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.51103591918945
+    "width": 323.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "ee4e8bcf9413ed0e",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "series/development/s1/e4/development_s1e4.md",
+                "file": "series/development/s1/e1/development_s1e1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "series/development/s1/e4/development_s1e4.md",
+                "file": "series/development/s1/e1/development_s1e1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "series/development/s1/e4/development_s1e4.md"
+                "file": "series/development/s1/e1/development_s1e1.md"
               }
             }
           },
@@ -181,23 +182,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7d2ff1388fc577af",
+  "active": "13e31cca6bae32a9",
   "lastOpenFiles": [
-    "series/development/s1/e5/translated.srt",
-    "notes/FÍSICA/TERMOLOGIA.md",
-    "notes/note-112.md",
-    "series/development/s1/e5/subtitles.srt",
-    "series/development/s1/e4/output.mp3",
-    "series/development/s1/e4/development_s1e4_366.mp3",
-    "series/development/s1/e4/development_s1e4_363.mp3",
-    "series/development/s1/e4/development_s1e4_323.mp3",
-    "series/development/s1/e4/development_s1e4_322.mp3",
-    "series/development/s1/e4/development_s1e4_291.mp3",
-    "series/development/s1/e4/development_s1e4_253.mp3",
-    "series/development/s1/e4/development_s1e4_238.mp3",
-    "series/development/s1/e4/development_s1e4_236.mp3",
-    "MATÉRIAS/EEAR.md",
+    "series/development/s1/e1/development_s1e1_311.mp3",
+    "series/development/s1/e1/development_s1e1_310.mp3",
+    "series/development/s1/e1/development_s1e1_277.mp3",
+    "series/development/s1/e1/development_s1e1_274.mp3",
+    "series/development/s1/e1/development_s1e1_270.mp3",
+    "series/development/s1/e1/development_s1e1_262.mp3",
+    "series/development/s1/e1/development_s1e1_252.mp3",
+    "series/development/s1/e1/development_s1e1_251.mp3",
+    "series/development/s1/e1/development_s1e1_225.mp3",
+    "series/development/s1/e1/development_s1e1_224.mp3",
+    "series/development/s1/e1/development_s1e1_202.mp3",
     "series/development/s1/e4/development_s1e4.md",
+    "series/development/s1/e5/development_s1e5.md",
+    "notes/FÍSICA/TERMOLOGIA.md",
+    "MATÉRIAS/EEAR.md",
+    "notes/note-112.md",
     "notes/note-113.md",
     "series/development/s1/e3/development_s1e3.md",
     "notes/note-100.md",
@@ -222,7 +224,6 @@
     "notes/note-40.md",
     "imagens/print_screen_664.png",
     "imagens/print_screen_663.png",
-    "notes/note-30.md",
     "imagens/print_screen_677.png",
     "imagens/print_screen_569.png",
     "imagens/print_screen_359.png",

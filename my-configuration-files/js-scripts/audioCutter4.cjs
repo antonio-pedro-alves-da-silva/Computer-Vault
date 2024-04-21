@@ -5,7 +5,7 @@ const fs = require("fs/promises");
 const { stdout, stderr } = require("process");
 
 
-const inputFile = "development_s1e4.mkv";
+const inputFile = "development_s1e1.mkv";
 const subtitleFile = "subtitles.srt";
 const translatedFile = "translated.srt";
 const seriesAndInfo = inputFile.split(".")[0];
@@ -34,7 +34,7 @@ async function audioCutter(subtitleFile) {
 
     n_with_equalArr.map((v, i, a) => {
 
-      let time = timingArr[v].split("-->");
+      let time = timingArr[v - 1].split("-->");
       let startTime = time[0].trim().replace(",", ".");
       let endTime = time[1].trim().replace(",", ".");
 

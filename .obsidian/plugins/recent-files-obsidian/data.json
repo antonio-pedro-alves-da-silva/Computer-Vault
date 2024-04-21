@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "development_s1e1",
+      "path": "series/development/s1/e1/development_s1e1.md"
+    },
+    {
       "basename": "development_s1e4",
       "path": "series/development/s1/e4/development_s1e4.md"
+    },
+    {
+      "basename": "development_s1e5",
+      "path": "series/development/s1/e5/development_s1e5.md"
     },
     {
       "basename": "TERMOLOGIA",
       "path": "notes/FÍSICA/TERMOLOGIA.md"
     },
     {
-      "basename": "note-112",
-      "path": "notes/note-112.md"
-    },
-    {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "note-112",
+      "path": "notes/note-112.md"
     },
     {
       "basename": "note-113",
@@ -87,10 +95,6 @@
     {
       "basename": "note-317",
       "path": "notes/note-317.md"
-    },
-    {
-      "basename": "development_s1e1",
-      "path": "series/development/s1/e1/development_s1e1.md"
     },
     {
       "basename": "note-330",
@@ -195,10 +199,6 @@
     {
       "basename": "note-381",
       "path": "notes/note-381.md"
-    },
-    {
-      "basename": "print_screen_569",
-      "path": "imagens/print_screen_569.png"
     }
   ],
   "omittedPaths": [],
