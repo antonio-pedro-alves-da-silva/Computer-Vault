@@ -85,7 +85,7 @@ termologia
 		dilatação
 			[1](https://www.qconcursos.com/questoes-militares/questoes/b606d2d9-55)(dilatação superficial)
 			[2](https://www.qconcursos.com/questoes-militares/questoes/a7709357-6b)-(dilatação volumétrica)
-			[3](https://www.qconcursos.com/questoes-militares/questoes/85b1a0bf-53)(aplicação de dilatação supercial de um furo)
+			[3](https://www.qconcursos.com/questoes-militares/questoes/85b1a0bf-53)([[note-420|resolução]])
 		gás ideal
 			[1](https://www.qconcursos.com/questoes-militares/questoes/9d816be1-50)(qual transformação aumenta de temperatura mais rápido)
 			[2](https://www.qconcursos.com/questoes-militares/questoes/25fce71f-4e)(transformações gasosas)

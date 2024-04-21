@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "f3fa7608acd1535e",
+            "id": "4d68df1e982e3da8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "series/development/s1/e4/development_s1e4.md",
+                "file": "notes/FÍSICA/TERMOLOGIA.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "series/development/s1/e4/development_s1e4.md",
+                "file": "notes/FÍSICA/TERMOLOGIA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "series/development/s1/e4/development_s1e4.md",
+                "file": "notes/FÍSICA/TERMOLOGIA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "series/development/s1/e4/development_s1e4.md"
+                "file": "notes/FÍSICA/TERMOLOGIA.md"
               }
             }
           },
@@ -182,14 +182,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f3fa7608acd1535e",
+  "active": "4d68df1e982e3da8",
   "lastOpenFiles": [
-    "notes/note-418.md",
-    "series/development/s1/e4/development_s1e4.md",
-    "MATÉRIAS/EEAR.md",
-    "notes/FÍSICA/TERMOLOGIA.md",
-    "series/development/s1/e4/development_s1e4.mkv",
+    "notes/note-420.md",
     "series/development/s1/e3/development_s1e3.md",
+    "series/development/s1/e4/development_s1e4.md",
+    "notes/FÍSICA/TERMOLOGIA.md",
+    "MATÉRIAS/EEAR.md",
+    "notes/note-419.md",
+    "notes/note-418.md",
+    "series/development/s1/e4/development_s1e4.mkv",
     "notes/note-417.md",
     "series/development/s1/e3/output.mp3",
     "notes/note-416.md",
@@ -221,8 +223,6 @@
     "notes/series-to-learn-english.md",
     "notes/note-96.md",
     "tranquei a porta.md",
-    "dia para ir ao dentista.md",
-    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "imagens/print_screen_664.png",
     "imagens/print_screen_663.png",
     "imagens/print_screen_677.png",
