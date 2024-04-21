@@ -1,0 +1,1 @@
+expresso de forma indireta; não declarada ou expressa abertamente.

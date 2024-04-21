@@ -2,10 +2,9 @@
 const log = require("console");
 const { exec } = require("child_process");
 const fs = require("fs/promises");
-const { stdout, stderr } = require("process");
 
 
-const inputFile = "development_s1e5.mkv";
+const inputFile = "development_s1e6.mkv";
 const subtitleFile = "subtitles.srt";
 const translatedFile = "translated.srt";
 const seriesAndInfo = inputFile.split(".")[0];

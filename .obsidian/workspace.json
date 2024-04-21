@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ec16bf364be0e42b",
+            "id": "f98decb292cd672f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "a41d3d42daeeade2",
+            "id": "f3fa7608acd1535e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/TERMOLOGIA.md",
+                "file": "series/development/s1/e4/development_s1e4.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/TERMOLOGIA.md",
+                "file": "series/development/s1/e4/development_s1e4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/TERMOLOGIA.md",
+                "file": "series/development/s1/e4/development_s1e4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/TERMOLOGIA.md"
+                "file": "series/development/s1/e4/development_s1e4.md"
               }
             }
           },
@@ -182,25 +182,30 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7d2ff1388fc577af",
+  "active": "f3fa7608acd1535e",
   "lastOpenFiles": [
+    "notes/note-418.md",
+    "series/development/s1/e4/development_s1e4.md",
     "MATÉRIAS/EEAR.md",
-    "series/development/s1/e6/translated.srt",
-    "series/development/s1/e6/subtitles.srt",
-    "series/development/s1/e5/output.mp3",
-    "series/development/s1/e5/development_s1e5_396.mp3",
-    "series/development/s1/e5/development_s1e5_352.mp3",
-    "series/development/s1/e5/development_s1e5_345.mp3",
-    "series/development/s1/e5/development_s1e5_293.mp3",
-    "series/development/s1/e5/development_s1e5_286.mp3",
-    "series/development/s1/e5/development_s1e5_282.mp3",
-    "series/development/s1/e5/development_s1e5_266.mp3",
+    "notes/FÍSICA/TERMOLOGIA.md",
+    "series/development/s1/e4/development_s1e4.mkv",
     "series/development/s1/e3/development_s1e3.md",
+    "notes/note-417.md",
+    "series/development/s1/e3/output.mp3",
+    "notes/note-416.md",
+    "Pasted image 20240421171104.png",
+    "series/development/s1/e6/output.mp3",
+    "series/development/s1/e6/development_s1e6_386.mp3",
+    "series/development/s1/e6/development_s1e6_383.mp3",
+    "series/development/s1/e6/development_s1e6_369.mp3",
+    "series/development/s1/e6/development_s1e6_349.mp3",
+    "series/development/s1/e6/development_s1e6_348.mp3",
+    "series/development/s1/e6/development_s1e6_338.mp3",
+    "series/development/s1/e6/development_s1e6.md",
+    "series/development/s1/e6/development_s1e6_325.mp3",
     "series/development/s1/e2/development_s1e2.md",
     "series/development/s1/e1/development_s1e1.md",
-    "series/development/s1/e4/development_s1e4.md",
     "series/development/s1/e5/development_s1e5.md",
-    "notes/FÍSICA/TERMOLOGIA.md",
     "notes/note-112.md",
     "notes/note-113.md",
     "notes/note-100.md",
@@ -218,9 +223,6 @@
     "tranquei a porta.md",
     "dia para ir ao dentista.md",
     "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
-    "notes/note-317.md",
-    "notes/note-330.md",
-    "notes/note-40.md",
     "imagens/print_screen_664.png",
     "imagens/print_screen_663.png",
     "imagens/print_screen_677.png",
@@ -228,7 +230,6 @@
     "imagens/print_screen_359.png",
     "Pasted image 20240415165020.png",
     "imagens/Pasted image 20231201133941.png",
-    "imagens/print_screen_555.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
