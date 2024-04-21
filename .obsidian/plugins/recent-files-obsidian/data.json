@@ -5,6 +5,10 @@
       "path": "notes/FÍSICA/TERMOLOGIA.md"
     },
     {
+      "basename": "print_screen_472",
+      "path": "imagens/print_screen_472.png"
+    },
+    {
       "basename": "note-98",
       "path": "notes/note-98.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "note-219",
       "path": "notes/note-219.md"
-    },
-    {
-      "basename": "note-220",
-      "path": "notes/note-220.md"
     }
   ],
   "omittedPaths": [],
