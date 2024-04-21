@@ -11,7 +11,6 @@ const episode = inputFile.match(/(?<=_s\de)\d+(?=[.])/)[0];
 const log = require("console");
 const { exec } = require("child_process");
 const fs = require("fs/promises");
-const { stdout, stderr } = require("process");
 
 
 let i = 0;
