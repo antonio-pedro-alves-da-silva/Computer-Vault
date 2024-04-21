@@ -5,18 +5,13 @@ const fs = require("fs/promises");
 const { stdout, stderr } = require("process");
 
 
-const inputFile = "development_s1e1.mkv";
+const inputFile = "development_s1e5.mkv";
 const subtitleFile = "subtitles.srt";
 const translatedFile = "translated.srt";
 const seriesAndInfo = inputFile.split(".")[0];
 const seriesName = inputFile.split("_")[0];
 const season = inputFile.match(/(?<=_s)\d+(?=e\d+.)/)[0];
 const episode = inputFile.match(/(?<=_s\de)\d+(?=[.])/)[0];
-
-
-
-
-
 
 
 let i = 0;
