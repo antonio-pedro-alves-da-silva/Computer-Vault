@@ -5,6 +5,22 @@
       "path": "notes/FÍSICA/TERMOLOGIA.md"
     },
     {
+      "basename": "EEAR",
+      "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "development_s1e4",
+      "path": "series/development/s1/e4/development_s1e4.md"
+    },
+    {
+      "basename": "note-113",
+      "path": "notes/note-113.md"
+    },
+    {
+      "basename": "development_s1e3",
+      "path": "series/development/s1/e3/development_s1e3.md"
+    },
+    {
       "basename": "note-100",
       "path": "notes/note-100.md"
     },
@@ -15,10 +31,6 @@
     {
       "basename": "note-98",
       "path": "notes/note-98.md"
-    },
-    {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
     },
     {
       "basename": "note-95",
@@ -187,18 +199,6 @@
     {
       "basename": "note-18",
       "path": "notes/note-18.md"
-    },
-    {
-      "basename": "note-12",
-      "path": "notes/note-12.md"
-    },
-    {
-      "basename": "Estudo Analítico",
-      "path": "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md"
-    },
-    {
-      "basename": "print_screen_359",
-      "path": "imagens/print_screen_359.png"
     }
   ],
   "omittedPaths": [],
