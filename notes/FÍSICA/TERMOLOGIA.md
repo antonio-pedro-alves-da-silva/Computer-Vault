@@ -6,7 +6,7 @@ termologia
 	[[note-84|Transferência de calor e Equlíbrio térmico]]
 	escalas celsius e fahrenheit , kelvin e reaumur
 		$\Large\frac{c}{5}=\frac{f-32}{9}=\frac{k-273}{5}=\frac{Re}{4}$
-	dilatação térmica
+	dilatação térmica       
 		[[Pasted image 20231214210504.png|dilatação linear]]
 		[[print_screen_463.png|dilatação superficial]]
 		[[print_screen_464.png|dilatação volumétrica]]
