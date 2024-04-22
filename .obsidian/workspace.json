@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "file": "MATÉRIAS/EEAR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c2f98c3c6cbbff1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e40fcc5b703a49d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md"
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
               }
             }
           },
@@ -169,16 +194,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c5769b544f17281d",
+  "active": "0e40fcc5b703a49d",
   "lastOpenFiles": [
-    "series/development/s1/e6/development_s1e6.md",
-    "notes/GRAMÁTICA/questões erradas de português.md",
+    "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md",
     "MATÉRIAS/EEAR.md",
-    "series/development/s1/e4/development_s1e4.md",
+    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "series/development/s1/e3/development_s1e3.md",
+    "imagens/Pasted image 20240202184837.png",
+    "notes/GRAMÁTICA/questões erradas de português.md",
+    "series/development/s1/e6/development_s1e6.md",
+    "series/development/s1/e4/development_s1e4.md",
     "notes/note-417.md",
     "series/development/s1/e5/development_s1e5.md",
-    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
     "notes/note-143.md",
     "notes/GRAMÁTICA/regras do acento gráfico.md",
@@ -198,7 +225,6 @@
     "notes/note-421.md",
     "Pasted image 20240422085532.png",
     "dia para ir ao dentista.md",
-    "notes/FÍSICA/TERMOLOGIA.md",
     "Pasted image 20240421200938.png",
     "series/development/s1/e4/development_s1e4.mkv",
     "series/development/s1/e3/output.mp3",
@@ -216,7 +242,6 @@
     "imagens/print_screen_663.png",
     "imagens/print_screen_677.png",
     "imagens/print_screen_569.png",
-    "imagens/print_screen_359.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

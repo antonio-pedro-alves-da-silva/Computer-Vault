@@ -7,7 +7,16 @@
 [6](https://www.qconcursos.com/questoes-militares/questoes/fe1dcdf2-7e)- [[note-346|relações de Girard]]
 [7](https://www.qconcursos.com/questoes-militares/questoes/45ee02a5-49)- Graus de Polinômios
 [8](https://www.qconcursos.com/questoes-militares/questoes/fe0b6c24-7e)- média de histograma
+prova de 2020
+62 - [[note-415|ponto médio entre dois pontos]]
+66 - briot ruffini
+prova de 2019
+53 - algarismos distintos
+55 - formulas trigonométrica
+63- potência de ponto
+65 - [[print_screen_174.png|poligônos inscritos]] e [[print_screen_180.png|poligônos circunscritos]]
 prova de 2018
+54 - 
 [1](https://www.qconcursos.com/questoes-militares/questoes/3e55d2fc-3b)-[[print_screen_141.png|gráfico da função seno]] e [[print_screen_143.png|gráfico da função cosseno]]
 [2](https://www.qconcursos.com/questoes-militares/questoes/5b251d62-3d)-polinômios(aprendi a como resolver um sistema de polinômios)
 [1](https://www.qconcursos.com/questoes-militares/questoes/5b30af15-3d)-[[Pasted image 20240202184837.png|números de diagonais de um poligono]]
@@ -89,11 +98,4 @@ prova de 2006
 17( [[note-362|Relações trigonométricas de um triangulo retângulo]])
 [18](https://militares.estrategia.com/public/questoes/pentagono-regular17b30947b3/)([[print_screen_678.png|resolução]])
 [19](https://www.qconcursos.com/questoes-militares/questoes/5ae24f77-16)([[print_screen_152.png|arco metade]])
-prova de 2020
-62 - [[note-415|ponto médio entre dois pontos]]
-66 - briot ruffini
-prova de 2019
-53 - algarismos distintos
-55 - formulas trigonométrica
-63- potência de ponto
-65 - [[print_screen_174.png|poligônos inscritos]] e [[print_screen_180.png|poligônos circunscritos]]
+
