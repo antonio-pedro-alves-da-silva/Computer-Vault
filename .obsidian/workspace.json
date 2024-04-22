@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "3a439c7da25c9a35",
+            "id": "55fd635b5b2825e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md"
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
               }
             }
           },
@@ -182,14 +182,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3a439c7da25c9a35",
+  "active": "55fd635b5b2825e6",
   "lastOpenFiles": [
+    "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md",
+    "notes/note-426.md",
+    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "MATÉRIAS/EEAR.md",
+    "imagens/print_screen_683.png",
     "imagens/print_screen_682.png",
     "imagens/print_screen_681.png",
     "imagens/print_screen_680.png",
-    "MATÉRIAS/EEAR.md",
-    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
-    "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md",
     "series/development/s1/e3/development_s1e3.md",
     "imagens/Pasted image 20240202184837.png",
     "notes/GRAMÁTICA/questões erradas de português.md",
@@ -228,8 +230,6 @@
     "series/development/s1/e6/development_s1e6_338.mp3",
     "imagens/print_screen_472.png",
     "imagens/print_screen_212.png",
-    "imagens/print_screen_664.png",
-    "imagens/print_screen_663.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

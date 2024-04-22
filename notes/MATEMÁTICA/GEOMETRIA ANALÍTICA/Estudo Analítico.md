@@ -3,41 +3,14 @@ da reta
 	equação reduzida da reta
 		[[print_screen_680.png|coeficiente angular]]
 		[[print_screen_681.png|equação ponto/coeficiente angular]]
+		[[print_screen_683.png|reta horizontal e quando não há equação reduzida]]
 	equação geral da reta
 		[[print_screen_682.png|equação geral de reta com dois pontos]]
 	posição relativa entre duas retas
 		[[print_screen_166.png|paralelas]]
 		[[print_screen_167.png|perpendiculares]]
 	[[print_screen_168.png|distância entre ponto e reta]]
-
-
-
-## Distância entre duas retas paralelas
-
-![[print_screen_171.png]]
-## Interseção entre retas
-# da circuferência
-![[print_screen_461.png]]
-## Equação reduzida da circuferência
-
-![[print_screen_169.png]]
-## [Equação geral da circuferência]
-## posições relativas entre ponto e circunferência
-
-![[print_screen_170.png]]
-
-## [Posição relativa entre duas circuferências](https://www.youtube.com/watch?v=9lK6KL9kQmk)
-
-### 1.Circuferências externas
-### 2.Circuferências tangentes
-### 3.Circuferências tangentes internamente
-### 4. Circuferências secantes
-### 5. Circuferências interior a outra
-
-
-
-
-
-# Área do triângulo  e do equilátero
-
-
+da circuferência
+	[[print_screen_169.png|equação reduzida]]
+	equação geral
+	[[note-117|descobrindo o raio e o centro de curvatura]]
