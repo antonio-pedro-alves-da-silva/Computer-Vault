@@ -19,7 +19,7 @@ Por outro lado, se o coletivo estiver especificado, o verbo pode ser conjugado n
 - **A multidão de fãs ultrapassou** o limite.
 - **A multidão de fãs ultrapassaram** o limite.
 
-### 2. Concordância com coletivos partitivos
+### ==2. Concordância com coletivos partitivos==
 
 O verbo pode ser usado no singular ou no plural em coletivos partitivos, tais como "a maioria de", "a maior parte de", "grande número de","a metade de". Exemplos:
 

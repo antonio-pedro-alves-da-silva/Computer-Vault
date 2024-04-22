@@ -7,7 +7,7 @@ oração coordenada
 	oração coordenada assindética
 	[[note-414|oração coordenada sindética]]
 
-orações coordenadas
+orações coordenadas erradas
 	[1](https://www.qconcursos.com/questoes-militares/questoes/0924a4cf-ed)(aprendi([[note-184|que existe oração coordenada aditiva reduzida do infinitivo]]))
 	[2](https://www.qconcursos.com/questoes-militares/questoes/7409d956-0d)(aprendi([[note-185|...]]))
 	[3](https://www.qconcursos.com/questoes-militares/questoes/c6bcfb5b-59)(o que é relação lógica e relação lógica de adversidade)
