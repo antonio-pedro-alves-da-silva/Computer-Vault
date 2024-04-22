@@ -20,24 +20,12 @@
             }
           },
           {
-            "id": "05ccbd7a353c1aca",
+            "id": "98047db74632eb74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-143.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ed6c4f2cc9b76ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-143.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-143.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-143.md"
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
               }
             }
           },
@@ -194,17 +182,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "05ccbd7a353c1aca",
+  "active": "98047db74632eb74",
   "lastOpenFiles": [
+    "MATÉRIAS/EEAR.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
-    "notes/note-414.md",
     "notes/note-143.md",
+    "notes/GRAMÁTICA/regras do acento gráfico.md",
+    "notes/note-335.md",
+    "notes/TEXTO/tipos de discurso.md",
+    "notes/note-340.md",
+    "notes/crase.md",
+    "notes/note-425.md",
+    "notes/note-424.md",
+    "notes/note-423.md",
+    "notes/note-414.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/GRAMÁTICA/concordância verbal.md",
     "notes/note-404.md",
-    "notes/crase.md",
     "notes/GRAMÁTICA/concordância nominal.md",
-    "MATÉRIAS/EEAR.md",
     "series/development/s1/e5/development_s1e5.md",
     "series/development/s1/e5/development_s1e5.mkv",
     "notes/note-422.md",
@@ -219,9 +214,7 @@
     "notes/note-419.md",
     "notes/note-418.md",
     "series/development/s1/e4/development_s1e4.mkv",
-    "notes/note-417.md",
     "series/development/s1/e3/output.mp3",
-    "notes/note-416.md",
     "Pasted image 20240421171104.png",
     "series/development/s1/e6/output.mp3",
     "series/development/s1/e6/development_s1e6_386.mp3",
@@ -230,11 +223,6 @@
     "series/development/s1/e6/development_s1e6_349.mp3",
     "series/development/s1/e6/development_s1e6_348.mp3",
     "series/development/s1/e6/development_s1e6_338.mp3",
-    "series/development/s1/e6/development_s1e6.md",
-    "series/development/s1/e2/development_s1e2.md",
-    "series/development/s1/e1/development_s1e1.md",
-    "notes/note-112.md",
-    "notes/note-113.md",
     "imagens/print_screen_472.png",
     "imagens/print_screen_212.png",
     "imagens/print_screen_664.png",

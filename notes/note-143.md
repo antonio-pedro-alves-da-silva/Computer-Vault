@@ -24,10 +24,10 @@ substantivos
 		biforme
 	[[plural dos substantivos]]
 		plural de palavras compostas
-			Substantivo + substantivo que especifica o primeiro
-			Palavras unidas por preposição
+			[[note-423|Substantivo + substantivo que especifica o primeiro]]
+			[[note-424|Palavras unidas por preposição]]
 			Verbo ou advérbio + substantivo ou adjetivo
-			Palavras repetidas ou onomatopeias
+			[[note-425|Palavras repetidas ou onomatopeias]]
 			Palavra variável + palavra variável
 [[note-401|flexão do substantivo]]
 Expressões confudidas
