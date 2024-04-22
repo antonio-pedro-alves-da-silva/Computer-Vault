@@ -94,5 +94,6 @@ prova de 2020
 66 - briot ruffini
 prova de 2019
 53 - algarismos distintos
-55 - 
-
+55 - formulas trigonométrica
+63- potência de ponto
+65 - [[print_screen_174.png|poligônos inscritos]] e [[print_screen_180.png|poligônos circunscritos]]

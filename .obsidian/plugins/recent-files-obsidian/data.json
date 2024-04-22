@@ -5,6 +5,10 @@
       "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
     },
     {
+      "basename": "Polígonos",
+      "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md"
+    },
+    {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "note-330",
       "path": "notes/note-330.md"
-    },
-    {
-      "basename": "note-40",
-      "path": "notes/note-40.md"
     }
   ],
   "omittedPaths": [],

@@ -25,6 +25,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "MATÉRIAS/EEAR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "026fc9004a59cdb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "mode": "source",
                 "source": false
@@ -32,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "inscrito",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -182,8 +195,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "98047db74632eb74",
+  "active": "026fc9004a59cdb9",
   "lastOpenFiles": [
+    "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
+    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "MATÉRIAS/EEAR.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-143.md",
@@ -196,7 +211,6 @@
     "notes/note-424.md",
     "notes/note-423.md",
     "notes/note-414.md",
-    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/GRAMÁTICA/concordância verbal.md",
     "notes/note-404.md",
     "notes/GRAMÁTICA/concordância nominal.md",
@@ -212,7 +226,6 @@
     "series/development/s1/e3/development_s1e3.md",
     "notes/note-420.md",
     "notes/note-419.md",
-    "notes/note-418.md",
     "series/development/s1/e4/development_s1e4.mkv",
     "series/development/s1/e3/output.mp3",
     "Pasted image 20240421171104.png",
