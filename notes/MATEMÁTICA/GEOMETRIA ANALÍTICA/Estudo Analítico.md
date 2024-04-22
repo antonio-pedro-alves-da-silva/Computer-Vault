@@ -1,24 +1,18 @@
-# do ponto
 
-# da reta
-## Equação reduzida da reta
-
-![[print_screen_162.png]]
-coeficiente angular se uma reta passa por dois pontos
-![[print_screen_164.png]]
-
-## Posições relativa entre duas retas
-
-![[print_screen_166.png]]
-
-![[print_screen_167.png]]
-
-## Distância entre ponto e reta
-
-![[print_screen_168.png]]
+da reta
+	equação reduzida da reta
+		[[print_screen_680.png|coeficiente angular]]
+		[[print_screen_681.png|equação ponto/coeficiente angular]]
+	equação geral da reta
+		[[print_screen_682.png|equação geral de reta com dois pontos]]
+	posição relativa entre duas retas
+		[[print_screen_166.png|paralelas]]
+		[[print_screen_167.png|perpendiculares]]
+	[[print_screen_168.png|distância entre ponto e reta]]
 
 
-## Distância entre duas retas
+
+## Distância entre duas retas paralelas
 
 ![[print_screen_171.png]]
 ## Interseção entre retas
