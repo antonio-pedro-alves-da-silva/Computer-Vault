@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/TERMOLOGIA.md",
+                "file": "dia para ir ao dentista.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.51103591918945,
-    "collapsed": true
+    "width": 323.51103591918945
   },
   "right": {
     "id": "ee4e8bcf9413ed0e",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/TERMOLOGIA.md",
+                "file": "dia para ir ao dentista.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/TERMOLOGIA.md",
+                "file": "dia para ir ao dentista.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/TERMOLOGIA.md"
+                "file": "dia para ir ao dentista.md"
               }
             }
           },
@@ -184,8 +183,8 @@
   },
   "active": "4d68df1e982e3da8",
   "lastOpenFiles": [
-    "series/development/s1/e4/development_s1e4.md",
     "notes/FÍSICA/TERMOLOGIA.md",
+    "series/development/s1/e4/development_s1e4.md",
     "Pasted image 20240421200938.png",
     "series/development/s1/e3/development_s1e3.md",
     "notes/note-420.md",
