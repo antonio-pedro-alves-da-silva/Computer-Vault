@@ -58,3 +58,4 @@ exercícios errados
 	[5](https://www.qconcursos.com/questoes-militares/questoes/8d416a19-f3)(pêndulo balístico)
 	[6](https://www.qconcursos.com/questoes-militares/questoes/2624593e-4e)([[note-364|plano inclinado]])
 	[7](https://www.qconcursos.com/questoes-militares/questoes/5818c192-4b)([[note-365|resolução]])
+
