@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "note-432",
+      "path": "notes/note-432.md"
+    },
+    {
       "basename": "tipos de funções",
       "path": "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md"
+    },
+    {
+      "basename": "note-431",
+      "path": "notes/note-431.md"
     },
     {
       "basename": "note-430",
@@ -191,14 +199,6 @@
     {
       "basename": "print_screen_472",
       "path": "imagens/print_screen_472.png"
-    },
-    {
-      "basename": "note-98",
-      "path": "notes/note-98.md"
-    },
-    {
-      "basename": "note-95",
-      "path": "notes/note-95.md"
     }
   ],
   "omittedPaths": [],

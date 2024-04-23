@@ -14,37 +14,25 @@ função quadrática ou função do 2 grau
 	[[print_screen_019.png|imagem da parábola]]
 	estudo do sinal
 função modular
-
-# Função Modular
-## Módulo de um Número Real
-
-![[print_screen_030.png]]![[print_screen_031.png]]![[print_screen_032.png]]
-
-
-## Propriedades de um módulo
-
-
-4ª propriedade: o módulo da diferença é maior ou igual à diferença dos módulos.
-|n – m| ≥ |n| – |m|"
-
-![[print_screen_033.png]]![[print_screen_034.png]]![[print_screen_035.png]]
-
-
-**porque fica + e - no cinco**
-**na 3 terceira linha tudo que nós fazemos no lado esquerdo nós devemos fazer no lado direto como colocar a raiz do lado esquerdo nos devemos colocar a raiz no lado direito**
-![[print_screen_036.png]]
-
+	propriedade de um módulo
+		[[print_screen_033.png|propriedade1]]
+		[[note-431|propriedade2]]
+		[[note-432|propriedade3]]
+	soma de duas funções modulares
+		[[print_screen_031.png|equação da soma de duas funções modulares]]
+		[[print_screen_032.png|estudo de sinal da soma de duas funções modula]]
+	[[print_screen_037.png|gráfico]]
+		[[print_screen_040.png|deslocamento]]
+		espelho
+			[[print_screen_041.png|função modular dentro de um módulo]]
+			[[print_screen_042.png|função quadrática dentro de um módulo]]
 ## Gráfico
 
-### função do primeiro grau crescente e decrescente
-![[print_screen_229.png]]
 
-![[print_screen_037.png]]
-![[print_screen_040.png]]![[print_screen_041.png]]![[print_screen_042.png]]
 ## Equações Modulares
 
-![[print_screen_043.png]]
-![[print_screen_044.png]]
+
+
 
 ![[print_screen_046.png]]
 

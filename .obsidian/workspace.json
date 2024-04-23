@@ -80,6 +80,18 @@
             }
           },
           {
+            "id": "4dcaa88136405725",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-432.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "92a2e6bb7426daaa",
             "type": "leaf",
             "state": {
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -179,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md",
+                "file": "notes/note-432.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md",
+                "file": "notes/note-432.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md"
+                "file": "notes/note-432.md"
               }
             }
           },
@@ -254,10 +266,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cdf8e0e0afba3796",
+  "active": "4dcaa88136405725",
   "lastOpenFiles": [
-    "notes/note-430.md",
     "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md",
+    "notes/note-432.md",
+    "notes/note-431.md",
+    "notes/note-430.md",
     "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md",
     "notes/note-429.md",
     "notes/note-428.md",
@@ -285,8 +299,6 @@
     "notes/note-340.md",
     "notes/crase.md",
     "notes/note-425.md",
-    "notes/note-424.md",
-    "notes/note-423.md",
     "series/development/s1/e5/development_s1e5.mkv",
     "Pasted image 20240422085532.png",
     "Pasted image 20240421200938.png",
