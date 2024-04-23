@@ -1,100 +1,19 @@
-# quando uma função é sobrejetora/sobrejetiva ?
-**é aquela que possui imagem igual ao contradomínio, ou seja, em que todos os elementos do contradomínio estão relacionados a elementos do domínio**
-
-# quando uma função é injetiva/injentora ?
-será injetora quando :
- - todos os elementos possuírem um corresponde único que é apenas seu
-![[Pasted image 20231015181556.png]]
-# quando uma função é bijetora
-Uma função f: A → B será bijetora se, e somente se, ela for injetora e sobrejetora simultaneamente
-# Função composta
-
-![[Pasted image 20231015183203.png]]
-$f(x)=4x+2$
-$g(x) = 2x + 3$
-$gof(x)=g(f(x))=$ $2.(4x+2)+3$
-$gof(x)=g(f(x))=8x+2+3$
-
-
-
-
-# Função do 1° grau ou função afim ou função polinomial do 1° grau
-## Termos da função do 1° grau
-
-
-![[Pasted image 20231016100049.png]]
-b : coeficiente Linear ou Termo independente
-
-## Coeficiente angular e Coeficiente linear
-
-### Coeficiente angular
-![[print_screen.png]]
-![[print_screen_000.png]]
-![[print_screen_001.png]]
-### Coeficiente linear
-o coeficiente linear indica onde a reta intersecta o eixo y
-![[print_screen_002.png]]
-## Zero ou Raiz da função afim
-para encontra a raiz(o ponto em que a reta intersecta o eixo x) se iguala a função a 0
-
-![[print_screen_028.png]]
-## Estudo do sinal
-![[print_screen_029.png]]
-# Função Inversa
-
-![[função_inversa.png]]
-![[Pasted image 20231016101610.png]]
-
-# Função quadrática
-
-## Determine os zeros da função
-![[print_screen_003.png]]
-
-### Determinando a função dos zeros quando a função é incompleta
-
-
-
-![[print_screen_004.png]]![[print_screen_005.png]]
-
-### Determinação dos zeros através da soma e produto
-
-![[print_screen_006.png]]
-## Quantidade de raizes reais
-
-![[print_screen_007.png]]
-
-$\Delta<0$ -> não há raiz real (duas raizes complexas)
-$f(x)=2x²+3x+4$
-$a=2,b=3,c=4$
-$\Large x1=\frac{-3+\sqrt{-23}}{8}$
-$\Large x2=\frac{-3-\sqrt{-23}}{8}$
-
-## Gráfico da parábola
-b indica se a pará
-bola intersecta o eixo y crescendo ou decrescendo
-![[print_screen_015.png]]
-![[print_screen_009.png]]
-c mostra onde a parábola corta exatamente o eixo y
-![[print_screen_011.png]]
-![[print_screen_012.png]]
-
-![[print_screen_013.png]]![[print_screen_014.png]]
-## Grafico da parábola vértices
-![[print_screen_016.png]]
-o x do vertice também pode ser dado como $\Large xv = \frac{x1 + x2}{2}$
-o x do vertice também pode ser dado como $\Large f(xv)=yv$ então se você passar o valor do x do vertice pela função o valor será o y do vértice
-
-
-![[print_screen_018.png]]
-
-**IMAGEM DA PARÁBOLA**
-![[print_screen_019.png]]
-
-## Estudo do sinal gráfico
-
-
-![[print_screen_024.png]]![[print_screen_025.png]]![[print_screen_026.png]]![[print_screen_027.png]]
-
+[[note-428|função sobrejetora]]
+[[note-429|função injetora]]
+[[note-427|função bijetora]]
+[[Pasted image 20231015183203.png|função composta]]
+função inversa
+função afim ou função do 1 grau
+função quadrática ou função do 2 grau
+	[[print_screen_007.png|quantidade de raízes]]
+	gráfico da parábola
+		[[print_screen_015.png|onde b intersecta]]
+		[[print_screen_011.png|onde c corta o eixo y]]
+		[[print_screen_013.png|raízes no gráfico]]
+		[[print_screen_016.png|vértice da parábola]] | [[note-430|vértice da parábola]]
+	[[print_screen_019.png|imagem da parábola]]
+	estudo do sinal
+função modular
 
 # Função Modular
 ## Módulo de um Número Real

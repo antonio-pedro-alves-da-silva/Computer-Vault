@@ -1,0 +1,1 @@
+$\Large xv = \frac{x1 + x2}{2}$

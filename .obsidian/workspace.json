@@ -20,6 +20,78 @@
             }
           },
           {
+            "id": "ad5d162d5d34e68b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f3a3522d194f8dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad271f327c47ae1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-428.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36ad9f55a5c114c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-427.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cdf8e0e0afba3796",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92a2e6bb7426daaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-430.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "55fd635b5b2825e6",
             "type": "leaf",
             "state": {
@@ -32,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -107,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+                "file": "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md"
               }
             }
           },
@@ -182,12 +254,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "55fd635b5b2825e6",
+  "active": "cdf8e0e0afba3796",
   "lastOpenFiles": [
+    "notes/note-430.md",
+    "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md",
     "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md",
-    "notes/note-426.md",
-    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "notes/note-429.md",
+    "notes/note-428.md",
+    "notes/note-427.md",
     "MATÉRIAS/EEAR.md",
+    "imagens/funções definidas por fórmulas.md",
+    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "notes/note-426.md",
     "imagens/print_screen_683.png",
     "imagens/print_screen_682.png",
     "imagens/print_screen_681.png",
@@ -209,13 +287,7 @@
     "notes/note-425.md",
     "notes/note-424.md",
     "notes/note-423.md",
-    "notes/note-414.md",
-    "notes/GRAMÁTICA/concordância verbal.md",
-    "notes/note-404.md",
-    "notes/GRAMÁTICA/concordância nominal.md",
     "series/development/s1/e5/development_s1e5.mkv",
-    "notes/note-422.md",
-    "notes/note-421.md",
     "Pasted image 20240422085532.png",
     "Pasted image 20240421200938.png",
     "series/development/s1/e4/development_s1e4.mkv",

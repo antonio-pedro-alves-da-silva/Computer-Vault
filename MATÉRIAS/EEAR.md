@@ -902,21 +902,7 @@ MATEMÁTICA
 		Funções
 			[[definição de função]]
 			[[domínio, imagem e contradomínio]]
-			[[LEI DE FORMAÇÃO , VALOR NUMÉRICO E RAIZ]]
-			[[funções definidas por fórmulas]]
-			[[diferentes tipos de funções]]
-				 sobrejetora ou sobrejetiva
-				 funções injetora
-				 bijetora
-				 composta
-				 crescente e decrescente
-				 inversa
-				 polinomial do 1º grau
-				 quadrática
-				 exponencial
-				 logarítmica.
-		Resolução de equações , inequações e sistemas
-		Sequências
+			[[tipos de funções]]
 		[[progressões aritmética e geométrica]]
 	GEOMETRIA PLANA
 		[[Ângulos]]
@@ -1023,8 +1009,8 @@ MATEMÁTICA
 			**Área do triângulo equilátero**
 	LOGARITMO
 		[[condição de existência]]
-		[[diferentes tipos de funções#Propriedades de potenciação|Propriedades de potenciação]]
-		[[diferentes tipos de funções#Propriedades operatórias|Propriedades operatórias]]
+		[[tipos de funções#Propriedades de potenciação|Propriedades de potenciação]]
+		[[tipos de funções#Propriedades operatórias|Propriedades operatórias]]
 	ÁLGEBRA III
 		[[Números Complexos]]
 			conceitos

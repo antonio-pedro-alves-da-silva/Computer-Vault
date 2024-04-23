@@ -16,7 +16,8 @@ prova de 2019
 63- potência de ponto
 65 - [[print_screen_174.png|poligônos inscritos]] e [[print_screen_180.png|poligônos circunscritos]]
 prova de 2018
-54 - 12 
+54 - 
+56 - trocar $2^{x}=y$
 [1](https://www.qconcursos.com/questoes-militares/questoes/3e55d2fc-3b)-[[print_screen_141.png|gráfico da função seno]] e [[print_screen_143.png|gráfico da função cosseno]]
 [2](https://www.qconcursos.com/questoes-militares/questoes/5b251d62-3d)-polinômios(aprendi a como resolver um sistema de polinômios)
 [1](https://www.qconcursos.com/questoes-militares/questoes/5b30af15-3d)-[[Pasted image 20240202184837.png|números de diagonais de um poligono]]
@@ -61,7 +62,7 @@ prova de 2010
 [4](https://www.qconcursos.com/questoes-militares/questoes/c7d8252a-59)- inequação - soma dos môdulos inteiros
 [5](https://www.qconcursos.com/questoes-militares/questoes/c7e886c9-59)- [[print_screen_187.png|Setor Circular]]
 prova de 2009
-[1](https://militares.estrategia.com/public/questoes/x-y-sa-numeros-reais24ccc9c8e0/)([[note-179|Cologaritmo]] , [[diferentes tipos de funções#Propriedades operatórias|Propriedades do logaritmo]])
+[1](https://militares.estrategia.com/public/questoes/x-y-sa-numeros-reais24ccc9c8e0/)([[note-179|Cologaritmo]] , [[tipos de funções#Propriedades operatórias|Propriedades do logaritmo]])
 [2](https://militares.estrategia.com/public/questoes/dividir-x5-3x4-2x2-x-52331ad6f4e/)([[print_screen_647.png|Como dividir polinômios)]]
 [3](https://www.youtube.com/watch?v=JqTikKf9sv8)(Prisma Quadrangular)
 [4](https://militares.estrategia.com/public/questoes/5a-serie-Colegio-X66d96c9d74/)nota modal ([[note-374|moda]] e [[note-375|mediana]])

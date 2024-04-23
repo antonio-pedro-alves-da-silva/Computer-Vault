@@ -1,20 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
-      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+      "basename": "tipos de funções",
+      "path": "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md"
+    },
+    {
+      "basename": "note-430",
+      "path": "notes/note-430.md"
     },
     {
       "basename": "Estudo Analítico",
       "path": "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md"
     },
     {
-      "basename": "note-426",
-      "path": "notes/note-426.md"
+      "basename": "note-429",
+      "path": "notes/note-429.md"
+    },
+    {
+      "basename": "note-428",
+      "path": "notes/note-428.md"
+    },
+    {
+      "basename": "note-427",
+      "path": "notes/note-427.md"
     },
     {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "funções definidas por fórmulas",
+      "path": "imagens/funções definidas por fórmulas.md"
+    },
+    {
+      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
+      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+    },
+    {
+      "basename": "note-426",
+      "path": "notes/note-426.md"
     },
     {
       "basename": "development_s1e3",
@@ -175,30 +199,6 @@
     {
       "basename": "note-95",
       "path": "notes/note-95.md"
-    },
-    {
-      "basename": "colocação pronominal",
-      "path": "notes/GRAMÁTICA/colocação pronominal.md"
-    },
-    {
-      "basename": "note-415",
-      "path": "notes/note-415.md"
-    },
-    {
-      "basename": "print_screen_212",
-      "path": "imagens/print_screen_212.png"
-    },
-    {
-      "basename": "series-to-learn-english",
-      "path": "notes/series-to-learn-english.md"
-    },
-    {
-      "basename": "note-96",
-      "path": "notes/note-96.md"
-    },
-    {
-      "basename": "tranquei a porta",
-      "path": "tranquei a porta.md"
     }
   ],
   "omittedPaths": [],
