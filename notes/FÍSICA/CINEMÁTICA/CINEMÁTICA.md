@@ -6,7 +6,7 @@ cinemática
 		[[print_screen_634.png|formula de queda livre]]
 	lançamento vertical
 		[[print_screen_635.png|formulas de lançamento vertical]]
-		[[note-126|lançamento vertical tempo de subida]]
+		[[note-126|tempo de subida]]
 	[[print_screen_247.png|lançamento horizontal]]
 	lançamento oblíquo
 		[[Pasted image 20231227161652.png|lançamento oblíquo vetores]]

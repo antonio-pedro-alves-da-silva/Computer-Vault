@@ -5,6 +5,10 @@
       "path": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
     },
     {
+      "basename": "print_screen_247",
+      "path": "imagens/print_screen_247.png"
+    },
+    {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "output",
       "path": "series/development/s1/e3/output.mp3"
-    },
-    {
-      "basename": "note-416",
-      "path": "notes/note-416.md"
     }
   ],
   "omittedPaths": [],
