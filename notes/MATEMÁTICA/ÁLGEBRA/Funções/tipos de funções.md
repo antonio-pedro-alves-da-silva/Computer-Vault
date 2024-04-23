@@ -7,17 +7,17 @@ função afim ou função do 1 grau
 função quadrática ou função do 2 grau
 	[[print_screen_007.png|quantidade de raízes]]
 	gráfico da parábola
-		[[print_screen_015.png|onde b intersecta]]
-		[[print_screen_011.png|onde c corta o eixo y]]
+		[[print_screen_015.png|b - crescendo ou decrecendo]]
+		[[print_screen_011.png|c - onde c corta o eixo y]]
 		[[print_screen_013.png|raízes no gráfico]]
 		[[print_screen_016.png|vértice da parábola]] | [[note-430|vértice da parábola]]
 	[[print_screen_019.png|imagem da parábola]]
 	estudo do sinal
 função modular
 	propriedade de um módulo
-		[[print_screen_033.png|propriedade1]]
-		[[note-431|propriedade2]]
-		[[note-432|propriedade3]]
+		[[print_screen_033.png|propriedade 1]]
+		[[note-431|propriedade 2]]
+		[[note-432|propriedade 3]]
 	soma de duas funções modulares
 		[[print_screen_031.png|equação da soma de duas funções modulares]]
 		[[print_screen_032.png|estudo de sinal da soma de duas funções modula]]
@@ -26,126 +26,25 @@ função modular
 		espelho
 			[[print_screen_041.png|função modular dentro de um módulo]]
 			[[print_screen_042.png|função quadrática dentro de um módulo]]
-## Gráfico
-
-
-## Equações Modulares
-
-
-
-
-![[print_screen_046.png]]
-
-![[print_screen_047.png]]
-
-
-
-
-
-
-![[print_screen_048.png]]
-## Inequações Modulares
-
-
-![[print_screen_049.png]]
-![[print_screen_050.png]]
-![[print_screen_051.png]]
-![[print_screen_052.png]]
-
-# Função Exponencial
-
-## Propriedades de potenciação
-
-![[print_screen_053.png]]
-![[print_screen_054.png]]
-![[print_screen_055.png]]
-![[print_screen_058.png]]
-$$\Large e) 3².5²=(3.5)²=15²$$
-![[print_screen_059.png]]
-### j)
-$$a^{n}.b^{m}.c^{r}=\frac{a^{n}}{b^{-(m)}.c^{-(r)}}$$
-$$4.3^{-1}.5^{-2}=\frac{4}{3^{-(-1)}.5^{-(-2)}}$$
-
-## Introdução
-
-![[print_screen_065.png]]
-
-## Gráfico
-
-dominio,imagem,contradominio
-crescente e decrescente
-
-![[print_screen_066.png]]![[print_screen_067.png]]
-
-![[print_screen_068.png]]
-![[print_screen_069.png]]
-![[print_screen_070.png]]![[print_screen_072.png]]![[print_screen_073.png]]
-![[print_screen_074.png]]
-![[print_screen_076.png]]
-
-
-## Equações Exponenciais
-
-![[print_screen_077.png]]
-
-
-
-
-
-## Inequações Exponenciais
-
-
-# Função Logaritima
-## Logaritmo
-![[print_screen_078.png]]
-![[print_screen_085.png]]
-
-![[print_screen_079.png]]
-
-![[print_screen_080.png]]
-![[print_screen_081.png]]
-![[print_screen_083.png]]
-![[print_screen_084.png]]
-![[print_screen_086.png]]
-
-## Consequências da definição
-
-![[print_screen_087.png]]
-![[print_screen_089.png]]
-![[print_screen_090.png]]
-![[print_screen_091.png]]
-![[print_screen_092.png]]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Propriedades operatórias
-
-![[print_screen_093.png]]
-![[print_screen_094.png]]
-
-![[print_screen_095.png]]
-![[print_screen_096.png]]
-![[print_screen_097.png]]
-![[print_screen_098.png]]
-![[print_screen_099.png]]
-![[print_screen_100.png]]
-![[print_screen_101.png]]
-![[print_screen_228.png]]
-$$$$
-![[print_screen_230.png]]
+função exponencial
+	propriedades de potenciação
+		[[print_screen_053.png|propriedade1]]
+		[[print_screen_054.png|propriedade2]]
+		[[print_screen_055.png|propriedade3]]
+		[[print_screen_058.png|propriedade4]]
+		[[print_screen_059.png|propriedade5]]
+	[[print_screen_065.png|regra]]
+	gráfico
+		[[print_screen_684.png|crescente e decrescente]]
+função logaritima
+	[[print_screen_085.png|condição de existência]]
+	propriedades logarítmicas
+		[[print_screen_094.png|propriedade 1]] , [[print_screen_095.png|propriedade1 - exemplo]]
+		[[print_screen_097.png|propriedade 2]]
+		[[print_screen_100.png|propriedade 3]]
+		[[print_screen_228.png|propriedade 4]]
+		[[print_screen_087.png|propriedade 5]]
+		[[print_screen_089.png|propriedade 6]]
 
 ## Função Logarítmica e Gráfico
 ### Definição
