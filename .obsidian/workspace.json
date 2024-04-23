@@ -20,19 +20,31 @@
             }
           },
           {
-            "id": "13b94103b9adabe4",
+            "id": "81bbf2d7ab64d659",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "series/development/s1/e6/development_s1e6.md",
+                "file": "MATÉRIAS/EEAR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18e88dfdcda258bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/FÍSICA/DINÂMICA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "series/development/s1/e6/development_s1e6.md",
+                "file": "notes/FÍSICA/DINÂMICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "series/development/s1/e6/development_s1e6.md",
+                "file": "notes/FÍSICA/DINÂMICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "series/development/s1/e6/development_s1e6.md"
+                "file": "notes/FÍSICA/DINÂMICA.md"
               }
             }
           },
@@ -182,14 +194,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "13b94103b9adabe4",
+  "active": "18e88dfdcda258bc",
   "lastOpenFiles": [
-    "notes/note-434.md",
-    "series/development/s1/e6/development_s1e6.md",
-    "notes/note-433.md",
-    "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
-    "imagens/print_screen_247.png",
     "MATÉRIAS/EEAR.md",
+    "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
+    "series/development/s1/e6/development_s1e6.md",
+    "notes/note-434.md",
+    "notes/note-433.md",
+    "imagens/print_screen_247.png",
     "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
     "notes/note-121.md",
     "imagens/Pasted image 20240205174448.png",
