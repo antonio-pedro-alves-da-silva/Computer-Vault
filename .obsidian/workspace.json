@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c5769b544f17281d",
+            "id": "825fe6461a5d2831",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "07f82c38ce7ecbe6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/raiz quadrada de 11 até 40.md",
+                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/raiz quadrada de 11 até 40.md",
+                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/raiz quadrada de 11 até 40.md",
+                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/raiz quadrada de 11 até 40.md"
+                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
               }
             }
           },
@@ -182,9 +169,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "07f82c38ce7ecbe6",
+  "active": "825fe6461a5d2831",
   "lastOpenFiles": [
     "MATÉRIAS/EEAR.md",
+    "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
+    "notes/note-121.md",
+    "imagens/Pasted image 20240205174448.png",
+    "imagens/output.jpg",
+    "imagens/Pasted image 20231125105757.png",
+    "imagens/Pasted image 20240422085532.png",
+    "imagens/Pasted image 20240421200938.png",
+    "imagens/Pasted image 20240421171104.png",
+    "imagens/Pasted image 20240415165020.png",
+    "imagens/print_screen_685.jpg",
     "notes/raiz quadrada de 11 até 40.md",
     "notes/FÍSICA/TERMOLOGIA.md",
     "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md",
@@ -200,11 +197,7 @@
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-426.md",
     "imagens/print_screen_683.png",
-    "imagens/print_screen_682.png",
-    "imagens/print_screen_681.png",
-    "imagens/print_screen_680.png",
     "series/development/s1/e3/development_s1e3.md",
-    "imagens/Pasted image 20240202184837.png",
     "notes/GRAMÁTICA/questões erradas de português.md",
     "series/development/s1/e6/development_s1e6.md",
     "series/development/s1/e4/development_s1e4.md",
@@ -213,15 +206,9 @@
     "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
     "notes/note-143.md",
     "notes/GRAMÁTICA/regras do acento gráfico.md",
-    "notes/note-335.md",
-    "notes/TEXTO/tipos de discurso.md",
-    "notes/note-340.md",
     "series/development/s1/e5/development_s1e5.mkv",
-    "Pasted image 20240422085532.png",
-    "Pasted image 20240421200938.png",
     "series/development/s1/e4/development_s1e4.mkv",
     "series/development/s1/e3/output.mp3",
-    "Pasted image 20240421171104.png",
     "series/development/s1/e6/output.mp3",
     "series/development/s1/e6/development_s1e6_386.mp3",
     "series/development/s1/e6/development_s1e6_383.mp3",
@@ -229,7 +216,6 @@
     "series/development/s1/e6/development_s1e6_349.mp3",
     "series/development/s1/e6/development_s1e6_348.mp3",
     "series/development/s1/e6/development_s1e6_338.mp3",
-    "imagens/print_screen_472.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
