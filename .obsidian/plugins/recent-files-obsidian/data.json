@@ -9,6 +9,30 @@
       "path": "MATÉRIAS/EEAR.md"
     },
     {
+      "basename": "note-143",
+      "path": "notes/note-143.md"
+    },
+    {
+      "basename": "note-406",
+      "path": "notes/note-406.md"
+    },
+    {
+      "basename": "note-437",
+      "path": "notes/note-437.md"
+    },
+    {
+      "basename": "note-436",
+      "path": "notes/note-436.md"
+    },
+    {
+      "basename": "note-435",
+      "path": "notes/note-435.md"
+    },
+    {
+      "basename": "note-408",
+      "path": "notes/note-408.md"
+    },
+    {
       "basename": "DINÂMICA",
       "path": "notes/FÍSICA/DINÂMICA.md"
     },
@@ -125,10 +149,6 @@
       "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md"
     },
     {
-      "basename": "note-143",
-      "path": "notes/note-143.md"
-    },
-    {
       "basename": "regras do acento gráfico",
       "path": "notes/GRAMÁTICA/regras do acento gráfico.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "development_s1e5",
       "path": "series/development/s1/e5/development_s1e5.mkv"
-    },
-    {
-      "basename": "note-422",
-      "path": "notes/note-422.md"
-    },
-    {
-      "basename": "note-421",
-      "path": "notes/note-421.md"
-    },
-    {
-      "basename": "dia para ir ao dentista",
-      "path": "dia para ir ao dentista.md"
-    },
-    {
-      "basename": "note-420",
-      "path": "notes/note-420.md"
-    },
-    {
-      "basename": "note-419",
-      "path": "notes/note-419.md"
     }
   ],
   "omittedPaths": [],
