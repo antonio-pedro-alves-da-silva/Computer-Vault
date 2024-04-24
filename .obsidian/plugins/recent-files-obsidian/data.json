@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "development_s1e6",
+      "path": "series/development/s1/e6/development_s1e6.md"
+    },
+    {
+      "basename": "EEAR",
+      "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
+      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+    },
+    {
       "basename": "questões erradas de português",
       "path": "notes/GRAMÁTICA/questões erradas de português.md"
+    },
+    {
+      "basename": "note-439",
+      "path": "notes/note-439.md"
     },
     {
       "basename": "note-143",
       "path": "notes/note-143.md"
     },
     {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
+      "basename": "regência verbal",
+      "path": "notes/GRAMÁTICA/regência verbal.md"
     },
     {
       "basename": "note-438",
@@ -43,10 +59,6 @@
     {
       "basename": "CINEMÁTICA",
       "path": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
-    },
-    {
-      "basename": "development_s1e6",
-      "path": "series/development/s1/e6/development_s1e6.md"
     },
     {
       "basename": "note-434",
@@ -121,10 +133,6 @@
       "path": "imagens/funções definidas por fórmulas.md"
     },
     {
-      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
-      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
-    },
-    {
       "basename": "note-426",
       "path": "notes/note-426.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "concordância verbal",
       "path": "notes/GRAMÁTICA/concordância verbal.md"
-    },
-    {
-      "basename": "note-404",
-      "path": "notes/note-404.md"
-    },
-    {
-      "basename": "concordância nominal",
-      "path": "notes/GRAMÁTICA/concordância nominal.md"
     }
   ],
   "omittedPaths": [],

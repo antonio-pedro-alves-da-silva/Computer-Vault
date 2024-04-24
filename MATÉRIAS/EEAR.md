@@ -1040,7 +1040,7 @@ MATEMÁTICA
 					![[print_screen_226.png]]
 			[[Teorema das raízes racionais]]
 	[[PROBRABILIDADE]]
-	[[QUESTÕES ERRADAS DE MATEMÁTICA]]
+	[[QUESTÕES ERRADAS DE MATEMÁTICA]]B
 FÍSICA
 	[[raiz quadrada de 11 até 40]]
 	[[CONCEITOS BÁSICOS E FUNDAMENTAIS]]

@@ -8,7 +8,7 @@ agradecer
 escutar
 	funciona apenas como transitivo direto
 beijar
-	funciona apenas como transitivo direto
+	poder funcionar como transitivo direto ou [[note-439|verbo pronomial]]
 torturar
 	funciona apenas como transitivo direto
 [[note-65|aspirar]]

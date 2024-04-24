@@ -20,31 +20,19 @@
             }
           },
           {
-            "id": "fed6fed598b493d9",
+            "id": "59b09dedace1f2c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-143.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9846d4f37300a13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "file": "series/development/s1/e6/development_s1e6.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "file": "series/development/s1/e6/development_s1e6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "file": "series/development/s1/e6/development_s1e6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md"
+                "file": "series/development/s1/e6/development_s1e6.md"
               }
             }
           },
@@ -194,11 +182,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d9846d4f37300a13",
+  "active": "59b09dedace1f2c2",
   "lastOpenFiles": [
-    "notes/note-143.md",
-    "notes/GRAMÁTICA/questões erradas de português.md",
     "MATÉRIAS/EEAR.md",
+    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "notes/GRAMÁTICA/questões erradas de português.md",
+    "notes/note-439.md",
+    "notes/note-143.md",
+    "notes/GRAMÁTICA/regência verbal.md",
     "notes/note-438.md",
     "notes/note-406.md",
     "notes/note-437.md",
@@ -229,9 +220,6 @@
     "imagens/print_screen_684.png",
     "notes/note-432.md",
     "notes/note-431.md",
-    "notes/note-429.md",
-    "notes/note-428.md",
-    "notes/note-427.md",
     "series/development/s1/e5/development_s1e5.mkv",
     "series/development/s1/e4/development_s1e4.mkv",
     "series/development/s1/e3/output.mp3",
