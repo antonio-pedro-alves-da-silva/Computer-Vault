@@ -18,6 +18,7 @@ prova de 2019
 prova de 2018
 54 - 
 56 - trocar $2^{x}=y$
+63 -Progressão aritmética - Como descobrir o elemento do meio
 
 [1](https://www.qconcursos.com/questoes-militares/questoes/3e55d2fc-3b)-[[print_screen_141.png|gráfico da função seno]] e [[print_screen_143.png|gráfico da função cosseno]]
 [2](https://www.qconcursos.com/questoes-militares/questoes/5b251d62-3d)-polinômios(aprendi a como resolver um sistema de polinômios)

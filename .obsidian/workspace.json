@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "59b09dedace1f2c2",
+            "id": "20270dcfc7c1d049",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "series/development/s1/e6/development_s1e6.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "series/development/s1/e6/development_s1e6.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "series/development/s1/e6/development_s1e6.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "series/development/s1/e6/development_s1e6.md"
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
               }
             }
           },
@@ -182,9 +182,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "59b09dedace1f2c2",
+  "active": "20270dcfc7c1d049",
   "lastOpenFiles": [
     "MATÉRIAS/EEAR.md",
+    "series/development/s1/e6/development_s1e6.md",
+    "series/development/s1/e7/translated.srt",
+    "series/pursuit/s1/e1/pursuit.mkv",
+    "series/pursuit/s1/e1",
+    "series/pursuit/s1",
+    "series/pursuit",
+    "series/development/s1/e7/subtitles.srt",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-439.md",
@@ -198,7 +205,6 @@
     "notes/note-408.md",
     "notes/FÍSICA/DINÂMICA.md",
     "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
-    "series/development/s1/e6/development_s1e6.md",
     "notes/note-434.md",
     "notes/note-433.md",
     "imagens/print_screen_247.png",
@@ -219,17 +225,10 @@
     "notes/note-430.md",
     "imagens/print_screen_684.png",
     "notes/note-432.md",
-    "notes/note-431.md",
     "series/development/s1/e5/development_s1e5.mkv",
     "series/development/s1/e4/development_s1e4.mkv",
     "series/development/s1/e3/output.mp3",
     "series/development/s1/e6/output.mp3",
-    "series/development/s1/e6/development_s1e6_386.mp3",
-    "series/development/s1/e6/development_s1e6_383.mp3",
-    "series/development/s1/e6/development_s1e6_369.mp3",
-    "series/development/s1/e6/development_s1e6_349.mp3",
-    "series/development/s1/e6/development_s1e6_348.mp3",
-    "series/development/s1/e6/development_s1e6_338.mp3",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
