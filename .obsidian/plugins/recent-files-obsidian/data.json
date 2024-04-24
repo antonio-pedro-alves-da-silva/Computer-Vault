@@ -5,12 +5,16 @@
       "path": "notes/GRAMÁTICA/questões erradas de português.md"
     },
     {
+      "basename": "note-143",
+      "path": "notes/note-143.md"
+    },
+    {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
     },
     {
-      "basename": "note-143",
-      "path": "notes/note-143.md"
+      "basename": "note-438",
+      "path": "notes/note-438.md"
     },
     {
       "basename": "note-406",
@@ -195,10 +199,6 @@
     {
       "basename": "concordância nominal",
       "path": "notes/GRAMÁTICA/concordância nominal.md"
-    },
-    {
-      "basename": "development_s1e5",
-      "path": "series/development/s1/e5/development_s1e5.mkv"
     }
   ],
   "omittedPaths": [],

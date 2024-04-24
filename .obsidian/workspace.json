@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "fed6fed598b493d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-143.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d9846d4f37300a13",
             "type": "leaf",
             "state": {
@@ -32,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,13 +196,14 @@
   },
   "active": "d9846d4f37300a13",
   "lastOpenFiles": [
-    "MATÉRIAS/EEAR.md",
     "notes/note-143.md",
+    "notes/GRAMÁTICA/questões erradas de português.md",
+    "MATÉRIAS/EEAR.md",
+    "notes/note-438.md",
     "notes/note-406.md",
     "notes/note-437.md",
     "notes/note-436.md",
     "notes/note-435.md",
-    "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-408.md",
     "notes/FÍSICA/DINÂMICA.md",
     "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
@@ -219,7 +232,6 @@
     "notes/note-429.md",
     "notes/note-428.md",
     "notes/note-427.md",
-    "imagens/funções definidas por fórmulas.md",
     "series/development/s1/e5/development_s1e5.mkv",
     "series/development/s1/e4/development_s1e4.mkv",
     "series/development/s1/e3/output.mp3",
