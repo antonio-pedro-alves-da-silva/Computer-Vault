@@ -5,6 +5,10 @@
       "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
     },
     {
+      "basename": "note-440",
+      "path": "notes/note-440.md"
+    },
+    {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "note-414",
       "path": "notes/note-414.md"
-    },
-    {
-      "basename": "concordância verbal",
-      "path": "notes/GRAMÁTICA/concordância verbal.md"
     }
   ],
   "omittedPaths": [],
