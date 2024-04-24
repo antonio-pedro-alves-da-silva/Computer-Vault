@@ -39,10 +39,13 @@
 1)
 15)crase com zeugma
 
-**prova de 2022**
+**prova de 2020**
 
 3)
 11)linguagem culta(linguagem formal) e linguagem coloquial(linguagem informal)
 13)
 16)[[note-399|lista de verbos defectivos]]
 24)[[note-439|verbo pronomial]] , [[regência verbal]] 
+
+**prova de 2019**
+
