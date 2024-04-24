@@ -5,6 +5,14 @@
       "path": "notes/GRAMÁTICA/questões erradas de português.md"
     },
     {
+      "basename": "note-",
+      "path": "notes/note-.md"
+    },
+    {
+      "basename": "note-441",
+      "path": "notes/note-441.md"
+    },
+    {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "note-424",
       "path": "notes/note-424.md"
-    },
-    {
-      "basename": "note-423",
-      "path": "notes/note-423.md"
-    },
-    {
-      "basename": "note-414",
-      "path": "notes/note-414.md"
     }
   ],
   "omittedPaths": [],
