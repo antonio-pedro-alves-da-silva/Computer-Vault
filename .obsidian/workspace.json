@@ -13,98 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63ef8d3c54441edf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-143.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa2f5a0f11f7bf39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/GRAMÁTICA/diferença entre adjunto adnominal e complemento nominal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b9e969a95fbd460",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-281.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f63e4398f3e8e01f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-281.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45de32f9e935594c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-281.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f7e38bcadb568d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-281.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d1a25fcfbae40b7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-281.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-281.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-281.md"
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
               }
             }
           },
@@ -254,18 +169,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7b9e969a95fbd460",
+  "active": "81bbf2d7ab64d659",
   "lastOpenFiles": [
+    "series/development/s1/e6/development_s1e6.md",
+    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "notes/GRAMÁTICA/questões erradas de português.md",
+    "MATÉRIAS/EEAR.md",
+    "notes/note-143.md",
     "notes/GRAMÁTICA/diferença entre adjunto adnominal e complemento nominal.md",
     "notes/note-281.md",
-    "notes/note-143.md",
-    "MATÉRIAS/EEAR.md",
-    "notes/GRAMÁTICA/questões erradas de português.md",
+    "notes/note-279.md",
     "notes/note-.md",
     "notes/note-441.md",
-    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-440.md",
-    "series/development/s1/e6/development_s1e6.md",
     "series/development/s1/e7/translated.srt",
     "series/pursuit/s1/e1/pursuit.mkv",
     "series/pursuit/s1/e1",
@@ -296,7 +212,6 @@
     "imagens/Pasted image 20240415165020.png",
     "imagens/print_screen_685.jpg",
     "notes/raiz quadrada de 11 até 40.md",
-    "notes/FÍSICA/TERMOLOGIA.md",
     "imagens/print_screen_684.png",
     "series/development/s1/e5/development_s1e5.mkv",
     "series/development/s1/e4/development_s1e4.mkv",
