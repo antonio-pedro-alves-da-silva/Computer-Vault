@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "97312af02901acf1",
+            "id": "ceb2b16f40c81aa6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/HIDROESTÁTICA.md",
+                "file": "notes/FÍSICA/GRAVITAÇÃO.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/HIDROESTÁTICA.md",
+                "file": "notes/FÍSICA/GRAVITAÇÃO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/HIDROESTÁTICA.md",
+                "file": "notes/FÍSICA/GRAVITAÇÃO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/HIDROESTÁTICA.md"
+                "file": "notes/FÍSICA/GRAVITAÇÃO.md"
               }
             }
           },
@@ -182,11 +182,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "97312af02901acf1",
+  "active": "ceb2b16f40c81aa6",
   "lastOpenFiles": [
-    "notes/note-208.md",
-    "notes/FÍSICA/HIDROESTÁTICA.md",
     "MATÉRIAS/EEAR.md",
+    "notes/FÍSICA/GRAVITAÇÃO.md",
+    "notes/FÍSICA/HIDROESTÁTICA.md",
+    "notes/note-208.md",
     "notes/note-181.md",
     "series/development/s1/e7/development_s1e7.md",
     "Pasted image 20240425162150.png",
@@ -227,7 +228,6 @@
     "notes/note-281.md",
     "notes/note-279.md",
     "notes/note-.md",
-    "notes/note-441.md",
     "imagens/print_screen_247.png",
     "imagens/Pasted image 20240205174448.png",
     "Untitled.canvas",
