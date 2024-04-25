@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "351b2011d3a3c8a5",
+        "id": "6186f7da3eb66dd5",
         "type": "tabs",
         "children": [
           {
-            "id": "8b5302a58ea7c2f4",
+            "id": "d2e7de27bdae239b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATÉRIAS/EEAR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40669e9014e834d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,16 +182,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8b5302a58ea7c2f4",
+  "active": "40669e9014e834d9",
   "lastOpenFiles": [
+    "MATÉRIAS/EEAR.md",
+    "Lista de Tarefas/lista de tarefas.md",
+    "notes/FÍSICA/DINÂMICA.md",
+    "Untitled 10.md",
+    "Untitled",
+    "Lista de Tarefas/Lista de Tarefa Do Dia.md",
+    "notes/note-445.md",
+    "imagens/Pasted image 20240425114657.png",
+    "imagens/Pasted image 20240425114513.png",
+    "imagens/print_screen_278.png",
     "series/development/s1/e7/development_s1e7.md",
     "series/development/s1/e6/development_s1e6.md",
-    "notes/FÍSICA/DINÂMICA.md",
     "imagens/print_screen_531.png",
-    "MATÉRIAS/EEAR.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-444.md",
-    "Pasted image 20240425092457.png",
+    "imagens/Pasted image 20240425092457.png",
     "Pasted image 20240425092422.png",
     "notes/note-443.md",
     "series/development/s1/e7/output.mp3",
@@ -190,7 +211,6 @@
     "series/development/s1/e7/development_s1e7_278.mp3",
     "series/development/s1/e7/development_s1e7_267.mp3",
     "series/development/s1/e7/development_s1e7_266.mp3",
-    "series/development/s1/e7/development_s1e7_263.mp3",
     "notes/note-442.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-143.md",
@@ -206,16 +226,10 @@
     "notes/note-406.md",
     "notes/note-437.md",
     "notes/note-436.md",
-    "notes/note-435.md",
-    "notes/note-408.md",
-    "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
     "imagens/print_screen_247.png",
     "imagens/Pasted image 20240205174448.png",
     "imagens/output.jpg",
     "imagens/Pasted image 20231125105757.png",
-    "imagens/Pasted image 20240422085532.png",
-    "imagens/Pasted image 20240421200938.png",
-    "imagens/Pasted image 20240421171104.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

@@ -4,7 +4,7 @@ LEIS DE NEWTON E SUAS APLICAÇÕES
 	Força de atrito
 		[[note-1|Força de atrito esático e dinâmico]]
 Polias e Roldanas
-	[[print_screen_278.png|polia fixa]]
+	[[note-445|polia fixa]]
 	[[print_screen_512.png|força da polia móvel]]
 	[[print_screen_513.png|força da polia móvel-2]]
 Plano inclinado

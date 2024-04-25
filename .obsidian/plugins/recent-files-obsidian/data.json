@@ -5,6 +5,18 @@
       "path": "notes/FÍSICA/DINÂMICA.md"
     },
     {
+      "basename": "EEAR",
+      "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "lista de tarefas",
+      "path": "Lista de Tarefas/lista de tarefas.md"
+    },
+    {
+      "basename": "note-445",
+      "path": "notes/note-445.md"
+    },
+    {
       "basename": "development_s1e7",
       "path": "series/development/s1/e7/development_s1e7.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "print_screen_531",
       "path": "imagens/print_screen_531.png"
-    },
-    {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
     },
     {
       "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
@@ -191,14 +199,6 @@
     {
       "basename": "development_s1e4",
       "path": "series/development/s1/e4/development_s1e4.md"
-    },
-    {
-      "basename": "note-417",
-      "path": "notes/note-417.md"
-    },
-    {
-      "basename": "development_s1e5",
-      "path": "series/development/s1/e5/development_s1e5.md"
     }
   ],
   "omittedPaths": [],
