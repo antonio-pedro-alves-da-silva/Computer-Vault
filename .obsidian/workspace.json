@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "11230b2acdcc1921",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "series/development/s1/e7/development_s1e7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/HIDROESTÁTICA.md",
+                "file": "series/development/s1/e7/development_s1e7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/HIDROESTÁTICA.md",
+                "file": "series/development/s1/e7/development_s1e7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/HIDROESTÁTICA.md"
+                "file": "series/development/s1/e7/development_s1e7.md"
               }
             }
           },
@@ -182,8 +194,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "327d6f227a6c7d46",
+  "active": "7d2ff1388fc577af",
   "lastOpenFiles": [
+    "notes/FÍSICA/HIDROESTÁTICA.md",
+    "Pasted image 20240425162150.png",
     "MATÉRIAS/EEAR.md",
     "notes/FÍSICA/ESTÁTICA.md",
     "notes/raiz quadrada de 11 até 40.md",
@@ -225,11 +239,8 @@
     "notes/note-.md",
     "notes/note-441.md",
     "notes/note-440.md",
-    "notes/note-439.md",
-    "notes/GRAMÁTICA/regência verbal.md",
     "imagens/print_screen_247.png",
     "imagens/Pasted image 20240205174448.png",
-    "imagens/output.jpg",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

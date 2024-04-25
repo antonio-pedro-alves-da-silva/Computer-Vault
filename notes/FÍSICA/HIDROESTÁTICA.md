@@ -2,7 +2,7 @@
 hidroestática
 	princípio de stevin
 		[[note-8|pressão atmosférica e pressão hidrostática]]
-		principio dos vasos comunicantes
+		[[Pasted image 20240425162150.png|principio dos vasos comunicantes]]
 		diferença de pressão entre dois pontos
 			$\Delta P = \mu * g * \Delta h$
 		[[print_screen_550.png|pressão de gás]]
