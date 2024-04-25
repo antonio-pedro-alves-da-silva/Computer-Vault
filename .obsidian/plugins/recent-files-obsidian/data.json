@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "DINÂMICA",
-      "path": "notes/FÍSICA/DINÂMICA.md"
+      "basename": "development_s1e7",
+      "path": "series/development/s1/e7/development_s1e7.md"
+    },
+    {
+      "basename": "ESTÁTICA",
+      "path": "notes/FÍSICA/ESTÁTICA.md"
+    },
+    {
+      "basename": "note-446",
+      "path": "notes/note-446.md"
     },
     {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "DINÂMICA",
+      "path": "notes/FÍSICA/DINÂMICA.md"
+    },
+    {
+      "basename": "note-364",
+      "path": "notes/note-364.md"
     },
     {
       "basename": "lista de tarefas",
@@ -15,10 +31,6 @@
     {
       "basename": "note-445",
       "path": "notes/note-445.md"
-    },
-    {
-      "basename": "development_s1e7",
-      "path": "series/development/s1/e7/development_s1e7.md"
     },
     {
       "basename": "development_s1e6",
@@ -187,18 +199,6 @@
     {
       "basename": "note-426",
       "path": "notes/note-426.md"
-    },
-    {
-      "basename": "development_s1e3",
-      "path": "series/development/s1/e3/development_s1e3.md"
-    },
-    {
-      "basename": "Pasted image 20240202184837",
-      "path": "imagens/Pasted image 20240202184837.png"
-    },
-    {
-      "basename": "development_s1e4",
-      "path": "series/development/s1/e4/development_s1e4.md"
     }
   ],
   "omittedPaths": [],

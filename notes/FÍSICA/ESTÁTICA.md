@@ -1,12 +1,12 @@
 
 equilíbrio de um ponto material
-[[print_screen_545.png|força  interfixa , interpotente e interresistente]]
+[[note-446|força  interfixa , interpotente e interresistente]]
 equilíbrio de um corpo extenso
 	[[print_screen_539.png|corpo extenso , somatoria das forças e somatoria dos momentos]]
 	[[print_screen_540.png|somatoria das forças e somatoria dos momentos]]
 	[[note-7|escorregamento]]
 		[[print_screen_636.png|momento do apoio parede e momento do peso do chão]]
-		[[print_screen_637.png|força de atrito minima para a escada não escorregar]]
+		[[print_screen_637.png|condição ; força de atrito minima para a escada não escorregar]]
 	torque e alavancas
 		 [[print_screen_541.png|momento de uma força]]
     [[print_screen_553.png|reações de apoio]]
