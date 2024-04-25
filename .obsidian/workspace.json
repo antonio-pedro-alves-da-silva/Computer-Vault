@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "81bbf2d7ab64d659",
+            "id": "8b5302a58ea7c2f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75c7d525135bf5a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "notes/FÍSICA/DINÂMICA.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/DINÂMICA.md",
+                "file": "series/development/s1/e7/development_s1e7.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/DINÂMICA.md",
+                "file": "series/development/s1/e7/development_s1e7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/DINÂMICA.md",
+                "file": "series/development/s1/e7/development_s1e7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/DINÂMICA.md"
+                "file": "series/development/s1/e7/development_s1e7.md"
               }
             }
           },
@@ -196,8 +184,24 @@
   },
   "active": "d81e90d8cf6dde9b",
   "lastOpenFiles": [
+    "notes/FÍSICA/DINÂMICA.md",
     "MATÉRIAS/EEAR.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "series/development/s1/e7/development_s1e7.md",
+    "notes/note-444.md",
+    "Pasted image 20240425092457.png",
+    "Pasted image 20240425092422.png",
+    "notes/note-443.md",
+    "series/development/s1/e7/output.mp3",
+    "series/development/s1/e7/development_s1e7_332.mp3",
+    "series/development/s1/e7/development_s1e7_321.mp3",
+    "series/development/s1/e7/development_s1e7_302.mp3",
+    "series/development/s1/e7/development_s1e7_295.mp3",
+    "series/development/s1/e7/development_s1e7_292.mp3",
+    "series/development/s1/e7/development_s1e7_278.mp3",
+    "series/development/s1/e7/development_s1e7_267.mp3",
+    "series/development/s1/e7/development_s1e7_266.mp3",
+    "series/development/s1/e7/development_s1e7_263.mp3",
     "notes/note-442.md",
     "series/development/s1/e6/development_s1e6.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
@@ -208,12 +212,6 @@
     "notes/note-.md",
     "notes/note-441.md",
     "notes/note-440.md",
-    "series/development/s1/e7/translated.srt",
-    "series/pursuit/s1/e1/pursuit.mkv",
-    "series/pursuit/s1/e1",
-    "series/pursuit/s1",
-    "series/pursuit",
-    "series/development/s1/e7/subtitles.srt",
     "notes/note-439.md",
     "notes/GRAMÁTICA/regência verbal.md",
     "notes/note-438.md",
@@ -222,13 +220,8 @@
     "notes/note-436.md",
     "notes/note-435.md",
     "notes/note-408.md",
-    "notes/FÍSICA/DINÂMICA.md",
     "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
-    "notes/note-434.md",
-    "notes/note-433.md",
     "imagens/print_screen_247.png",
-    "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
-    "notes/note-121.md",
     "imagens/Pasted image 20240205174448.png",
     "imagens/output.jpg",
     "imagens/Pasted image 20231125105757.png",
@@ -236,12 +229,6 @@
     "imagens/Pasted image 20240421200938.png",
     "imagens/Pasted image 20240421171104.png",
     "imagens/Pasted image 20240415165020.png",
-    "imagens/print_screen_685.jpg",
-    "imagens/print_screen_684.png",
-    "series/development/s1/e5/development_s1e5.mkv",
-    "series/development/s1/e4/development_s1e4.mkv",
-    "series/development/s1/e3/output.mp3",
-    "series/development/s1/e6/output.mp3",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

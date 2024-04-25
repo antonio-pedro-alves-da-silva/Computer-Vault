@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "development_s1e7",
+      "path": "series/development/s1/e7/development_s1e7.md"
+    },
+    {
       "basename": "DINÂMICA",
       "path": "notes/FÍSICA/DINÂMICA.md"
     },
@@ -11,6 +15,14 @@
     {
       "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
       "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+    },
+    {
+      "basename": "note-444",
+      "path": "notes/note-444.md"
+    },
+    {
+      "basename": "note-443",
+      "path": "notes/note-443.md"
     },
     {
       "basename": "note-442",
@@ -187,18 +199,6 @@
     {
       "basename": "Polígonos",
       "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md"
-    },
-    {
-      "basename": "regras do acento gráfico",
-      "path": "notes/GRAMÁTICA/regras do acento gráfico.md"
-    },
-    {
-      "basename": "note-335",
-      "path": "notes/note-335.md"
-    },
-    {
-      "basename": "tipos de discurso",
-      "path": "notes/TEXTO/tipos de discurso.md"
     }
   ],
   "omittedPaths": [],

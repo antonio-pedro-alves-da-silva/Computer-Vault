@@ -1,0 +1,1 @@
+_CONNIPTION_ significado, definição _CONNIPTION_: 1. to be very angry or upset: 2. to be very angry or upset:

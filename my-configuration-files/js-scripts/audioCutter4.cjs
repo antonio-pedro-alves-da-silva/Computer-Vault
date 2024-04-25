@@ -4,7 +4,7 @@ const { exec } = require("child_process");
 const fs = require("fs/promises");
 
 
-const inputFile = "development_s1e6.mkv";
+const inputFile = "development_s1e7.mkv";
 const subtitleFile = "subtitles.srt";
 const translatedFile = "translated.srt";
 const seriesAndInfo = inputFile.split(".")[0];
@@ -37,7 +37,7 @@ async function audioCutter(subtitleFile) {
 
       if (i == a.length - 1) {
         c_cut_concat += `ffmpeg -i "concat:${list_of_files.trim().split(" ").join("|")}" -acodec copy output.mp3`;
-        exec(c_cut_concat, (error) => {
+        exec(`${c_cut_concat}`, (error) => {
           if (error) {
             console.log(error)
           } else {
