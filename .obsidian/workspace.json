@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d81e90d8cf6dde9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "series/development/s1/e7/development_s1e7.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "series/development/s1/e7/development_s1e7.md",
+                "file": "notes/FÍSICA/DINÂMICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "series/development/s1/e7/development_s1e7.md",
+                "file": "notes/FÍSICA/DINÂMICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "series/development/s1/e7/development_s1e7.md"
+                "file": "notes/FÍSICA/DINÂMICA.md"
               }
             }
           },
@@ -182,12 +169,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d81e90d8cf6dde9b",
+  "active": "8b5302a58ea7c2f4",
   "lastOpenFiles": [
+    "series/development/s1/e7/development_s1e7.md",
     "notes/FÍSICA/DINÂMICA.md",
     "MATÉRIAS/EEAR.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
-    "series/development/s1/e7/development_s1e7.md",
     "notes/note-444.md",
     "Pasted image 20240425092457.png",
     "Pasted image 20240425092422.png",
