@@ -5,6 +5,10 @@
       "path": "notes/FÍSICA/HIDROESTÁTICA.md"
     },
     {
+      "basename": "note-208",
+      "path": "notes/note-208.md"
+    },
+    {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "note-429",
       "path": "notes/note-429.md"
-    },
-    {
-      "basename": "note-428",
-      "path": "notes/note-428.md"
     }
   ],
   "omittedPaths": [],
