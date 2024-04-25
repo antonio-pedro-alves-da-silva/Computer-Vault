@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "ESTÁTICA",
-      "path": "notes/FÍSICA/ESTÁTICA.md"
+      "basename": "HIDROESTÁTICA",
+      "path": "notes/FÍSICA/HIDROESTÁTICA.md"
     },
     {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "ESTÁTICA",
+      "path": "notes/FÍSICA/ESTÁTICA.md"
     },
     {
       "basename": "raiz quadrada de 11 até 40",
@@ -195,10 +199,6 @@
     {
       "basename": "note-427",
       "path": "notes/note-427.md"
-    },
-    {
-      "basename": "funções definidas por fórmulas",
-      "path": "imagens/funções definidas por fórmulas.md"
     }
   ],
   "omittedPaths": [],
