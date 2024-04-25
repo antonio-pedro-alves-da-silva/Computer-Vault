@@ -5,6 +5,10 @@
       "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
     },
     {
+      "basename": "note-442",
+      "path": "notes/note-442.md"
+    },
+    {
       "basename": "development_s1e6",
       "path": "series/development/s1/e6/development_s1e6.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "tipos de discurso",
       "path": "notes/TEXTO/tipos de discurso.md"
-    },
-    {
-      "basename": "note-340",
-      "path": "notes/note-340.md"
     }
   ],
   "omittedPaths": [],
