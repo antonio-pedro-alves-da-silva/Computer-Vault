@@ -44,8 +44,8 @@ colisão
 	[[print_screen_529.png|Qix=Qfx e Qiy=Qfy- colisão bidimensional entre duas bolas ]]
 	[[print_screen_528.png|colisão entre particulas de mesma massa]]
 	colisão contra obstáculo fixo
-		[[print_screen_533.png|análise unidimensinal]]
-		[[print_screen_531.png|análise bidimensinal]]
+		[[print_screen_533.png|análise unidimensinal contra a parede]]
+		[[print_screen_531.png|análise bidimensinal contra o chão]]
 			[[print_screen_532.png|coeficiente de restituição em relação a tangente (vale a penas para análise bidimensional)]]
 centro de massa
 	[[print_screen_534.png|centro de massa no plano cartesiano]]

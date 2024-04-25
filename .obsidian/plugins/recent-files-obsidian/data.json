@@ -9,6 +9,14 @@
       "path": "series/development/s1/e7/development_s1e7.md"
     },
     {
+      "basename": "development_s1e6",
+      "path": "series/development/s1/e6/development_s1e6.md"
+    },
+    {
+      "basename": "print_screen_531",
+      "path": "imagens/print_screen_531.png"
+    },
+    {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "note-442",
       "path": "notes/note-442.md"
-    },
-    {
-      "basename": "development_s1e6",
-      "path": "series/development/s1/e6/development_s1e6.md"
     },
     {
       "basename": "questões erradas de português",
@@ -195,10 +199,6 @@
     {
       "basename": "development_s1e5",
       "path": "series/development/s1/e5/development_s1e5.md"
-    },
-    {
-      "basename": "Polígonos",
-      "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md"
     }
   ],
   "omittedPaths": [],
