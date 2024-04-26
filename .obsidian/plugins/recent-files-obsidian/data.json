@@ -5,6 +5,10 @@
       "path": "notes/note-447.md"
     },
     {
+      "basename": "note-448",
+      "path": "notes/note-448.md"
+    },
+    {
       "basename": "questões erradas de português",
       "path": "notes/GRAMÁTICA/questões erradas de português.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "TERMOLOGIA",
       "path": "notes/FÍSICA/TERMOLOGIA.md"
-    },
-    {
-      "basename": "Estudo Analítico",
-      "path": "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md"
     }
   ],
   "omittedPaths": [],
