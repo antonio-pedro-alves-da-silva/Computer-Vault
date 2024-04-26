@@ -20,19 +20,31 @@
             }
           },
           {
-            "id": "be5ab408197f7a62",
+            "id": "de4b7f8f7edafbe1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "184f0807d996d861",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-447.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "notes/note-447.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "notes/note-447.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+                "file": "notes/note-447.md"
               }
             }
           },
@@ -182,12 +194,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "be5ab408197f7a62",
+  "active": "184f0807d996d861",
   "lastOpenFiles": [
-    "MATÉRIAS/EEAR.md",
-    "notes/GRAMÁTICA/concordância nominal.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
+    "notes/note-447.md",
+    "MATÉRIAS/EEAR.md",
+    "notes/note-143.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "notes/GRAMÁTICA/concordância nominal.md",
     "notes/FÍSICA/ELETRICIDADE.md",
     "notes/FÍSICA/GRAVITAÇÃO.md",
     "series/development/s1/e7/development_s1e7.md",
@@ -226,8 +240,6 @@
     "series/development/s1/e7/development_s1e7_267.mp3",
     "series/development/s1/e7/development_s1e7_266.mp3",
     "notes/note-442.md",
-    "notes/note-143.md",
-    "notes/GRAMÁTICA/diferença entre adjunto adnominal e complemento nominal.md",
     "imagens/print_screen_247.png",
     "imagens/Pasted image 20240205174448.png",
     "Untitled.canvas",

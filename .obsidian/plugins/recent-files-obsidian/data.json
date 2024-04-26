@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
-      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+      "basename": "note-447",
+      "path": "notes/note-447.md"
+    },
+    {
+      "basename": "questões erradas de português",
+      "path": "notes/GRAMÁTICA/questões erradas de português.md"
     },
     {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
     },
     {
-      "basename": "concordância nominal",
-      "path": "notes/GRAMÁTICA/concordância nominal.md"
+      "basename": "note-143",
+      "path": "notes/note-143.md"
     },
     {
-      "basename": "questões erradas de português",
-      "path": "notes/GRAMÁTICA/questões erradas de português.md"
+      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
+      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+    },
+    {
+      "basename": "concordância nominal",
+      "path": "notes/GRAMÁTICA/concordância nominal.md"
     },
     {
       "basename": "ELETRICIDADE",
@@ -95,10 +103,6 @@
     {
       "basename": "note-442",
       "path": "notes/note-442.md"
-    },
-    {
-      "basename": "note-143",
-      "path": "notes/note-143.md"
     },
     {
       "basename": "diferença entre adjunto adnominal e complemento nominal",
@@ -195,10 +199,6 @@
     {
       "basename": "Estudo Analítico",
       "path": "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md"
-    },
-    {
-      "basename": "tipos de funções",
-      "path": "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md"
     }
   ],
   "omittedPaths": [],
