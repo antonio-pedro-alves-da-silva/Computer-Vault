@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "questões erradas de português",
-      "path": "notes/GRAMÁTICA/questões erradas de português.md"
+      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
+      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
     },
     {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
     },
     {
-      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
-      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+      "basename": "concordância nominal",
+      "path": "notes/GRAMÁTICA/concordância nominal.md"
+    },
+    {
+      "basename": "questões erradas de português",
+      "path": "notes/GRAMÁTICA/questões erradas de português.md"
     },
     {
       "basename": "ELETRICIDADE",
@@ -195,10 +199,6 @@
     {
       "basename": "tipos de funções",
       "path": "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md"
-    },
-    {
-      "basename": "note-430",
-      "path": "notes/note-430.md"
     }
   ],
   "omittedPaths": [],
