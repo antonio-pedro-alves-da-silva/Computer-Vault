@@ -20,12 +20,24 @@
             }
           },
           {
-            "id": "a555400e9089f119",
+            "id": "e8a6cfa10532ceed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md",
+                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be5ab408197f7a62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md",
+                "file": "notes/GRAMÁTICA/questões erradas de português.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md",
+                "file": "notes/GRAMÁTICA/questões erradas de português.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md"
+                "file": "notes/GRAMÁTICA/questões erradas de português.md"
               }
             }
           },
@@ -182,9 +194,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a555400e9089f119",
+  "active": "e8a6cfa10532ceed",
   "lastOpenFiles": [
     "MATÉRIAS/EEAR.md",
+    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "notes/FÍSICA/ELETRICIDADE.md",
     "notes/FÍSICA/GRAVITAÇÃO.md",
     "series/development/s1/e7/development_s1e7.md",
     "notes/note-210.md",
@@ -208,7 +222,6 @@
     "imagens/print_screen_278.png",
     "series/development/s1/e6/development_s1e6.md",
     "imagens/print_screen_531.png",
-    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-444.md",
     "imagens/Pasted image 20240425092457.png",
     "Pasted image 20240425092422.png",
@@ -227,7 +240,6 @@
     "notes/note-143.md",
     "notes/GRAMÁTICA/diferença entre adjunto adnominal e complemento nominal.md",
     "notes/note-281.md",
-    "notes/note-279.md",
     "imagens/print_screen_247.png",
     "imagens/Pasted image 20240205174448.png",
     "Untitled.canvas",
