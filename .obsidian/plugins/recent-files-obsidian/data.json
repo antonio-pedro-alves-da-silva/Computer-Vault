@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "questões erradas de português",
-      "path": "notes/GRAMÁTICA/questões erradas de português.md"
+      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
+      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+    },
+    {
+      "basename": "EEAR",
+      "path": "MATÉRIAS/EEAR.md"
     },
     {
       "basename": "note-143",
@@ -13,8 +17,12 @@
       "path": "notes/GRAMÁTICA/regência verbal.md"
     },
     {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
+      "basename": "questões erradas de português",
+      "path": "notes/GRAMÁTICA/questões erradas de português.md"
+    },
+    {
+      "basename": "note-449",
+      "path": "notes/note-449.md"
     },
     {
       "basename": "note-447",
@@ -23,10 +31,6 @@
     {
       "basename": "note-448",
       "path": "notes/note-448.md"
-    },
-    {
-      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
-      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
     },
     {
       "basename": "concordância nominal",
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20231125105757",
       "path": "imagens/Pasted image 20231125105757.png"
-    },
-    {
-      "basename": "TERMOLOGIA",
-      "path": "notes/FÍSICA/TERMOLOGIA.md"
     }
   ],
   "omittedPaths": [],

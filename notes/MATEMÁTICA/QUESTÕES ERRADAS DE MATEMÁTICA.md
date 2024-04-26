@@ -22,7 +22,7 @@ prova de 2018
 prova de 2017
 50 - [[note-442|inequação - propriedade dos expoentes]]
 57 - soma dos extremos 
-63 - onde parei
+
 
 [1](https://www.qconcursos.com/questoes-militares/questoes/3e55d2fc-3b)-[[print_screen_141.png|gráfico da função seno]] e [[print_screen_143.png|gráfico da função cosseno]]
 [2](https://www.qconcursos.com/questoes-militares/questoes/5b251d62-3d)-polinômios(aprendi a como resolver um sistema de polinômios)
