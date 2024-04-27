@@ -20,24 +20,12 @@
             }
           },
           {
-            "id": "e94d3fc973c58155",
+            "id": "6b7f1fc0cc997dbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "notes/FÍSICA/ELETRICIDADE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "382c39ec4c3ebeb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-450.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,13 +182,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e94d3fc973c58155",
+  "active": "6b7f1fc0cc997dbf",
   "lastOpenFiles": [
-    "notes/note-450.md",
+    "notes/note-409.md",
+    "Pasted image 20240427132655.png",
     "notes/FÍSICA/ELETRICIDADE.md",
+    "notes/note-450.md",
+    "MATÉRIAS/EEAR.md",
+    "imagens/print_screen_582.png",
     "imagens/print_screen_685.png",
     "imagens/Pasted image 20231201133941.png",
-    "MATÉRIAS/EEAR.md",
     "Lista de Tarefas/lista de tarefas.md",
     "notes/FÍSICA/GRAVITAÇÃO.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
@@ -226,13 +217,10 @@
     "Untitled 10.md",
     "Untitled",
     "Lista de Tarefas/Lista de Tarefa Do Dia.md",
-    "notes/note-445.md",
     "imagens/Pasted image 20240425114657.png",
     "imagens/Pasted image 20240425114513.png",
     "imagens/print_screen_278.png",
     "imagens/print_screen_531.png",
-    "imagens/Pasted image 20240425092457.png",
-    "Pasted image 20240425092422.png",
     "series/development/s1/e7/output.mp3",
     "series/development/s1/e7/development_s1e7_332.mp3",
     "series/development/s1/e7/development_s1e7_321.mp3",
