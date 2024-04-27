@@ -1,2 +1,2 @@
 - [ ] esperar o cartão chegar no dia 30/04
-- [ ] esperar o cartão do meu irmão chegar
+- [ ] aprender a respirar por 5 minutos

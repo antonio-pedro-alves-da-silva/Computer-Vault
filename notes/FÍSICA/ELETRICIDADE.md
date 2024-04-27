@@ -4,7 +4,7 @@ eletricidade
 		[[note-15|quantidade de carga elétrica]]
 		[[print_screen_352.png|corrente elétrica]]
 			 o que é corrente elétrica ?
-			 qual é o sentido convencional da corrente elétrica
+			 sentido convencional e sentido real da corrente elétrica
 			 intensidade da corrente elétrica
 			 gráfico da intensidade da corrente elétrica em função do tempo
 		eletrização
