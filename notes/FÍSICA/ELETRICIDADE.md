@@ -31,6 +31,7 @@ eletricidade
 			[[print_screen_589.png|potencial elétrico gerado por várias cargas fontes]]
 		campo elétrico de cargas puntiformes
 			[[print_screen_582.png|campo elétrico de cargas puntiformes e direção do campo elétrico]]
+			[[print_screen_685.png|direção do campo elétrico]]
 			quando se forma um campo elétrico ?
 				**Quando uma carga elétrica de prova é colocada em uma região próxima de outra carga de fonte**, seus campos elétricos se somam vetorialmente.
 			[[note-215|itensidade do campo elétrico ou campo elétrico]]		 

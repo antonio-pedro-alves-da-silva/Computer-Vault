@@ -30,6 +30,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "382c39ec4c3ebeb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-450.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -184,8 +196,10 @@
   },
   "active": "e94d3fc973c58155",
   "lastOpenFiles": [
-    "imagens/Pasted image 20231201133941.png",
+    "notes/note-450.md",
     "notes/FÍSICA/ELETRICIDADE.md",
+    "imagens/print_screen_685.png",
+    "imagens/Pasted image 20231201133941.png",
     "MATÉRIAS/EEAR.md",
     "Lista de Tarefas/lista de tarefas.md",
     "notes/FÍSICA/GRAVITAÇÃO.md",
@@ -228,8 +242,6 @@
     "series/development/s1/e7/development_s1e7_278.mp3",
     "series/development/s1/e7/development_s1e7_267.mp3",
     "series/development/s1/e7/development_s1e7_266.mp3",
-    "imagens/print_screen_247.png",
-    "imagens/Pasted image 20240205174448.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
