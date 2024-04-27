@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md",
+                "file": "series/development/s1/e8/development_s1e8.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md",
+                "file": "series/development/s1/e8/development_s1e8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md",
+                "file": "series/development/s1/e8/development_s1e8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md"
+                "file": "series/development/s1/e8/development_s1e8.md"
               }
             }
           },
@@ -184,10 +184,20 @@
   },
   "active": "6b7f1fc0cc997dbf",
   "lastOpenFiles": [
-    "MATÉRIAS/EEAR.md",
+    "series/development/s1/e8/output.mp3",
+    "series/development/s1/e8/development_s1e8_393.mp3",
+    "series/development/s1/e8/development_s1e8_385.mp3",
+    "series/development/s1/e8/development_s1e8_383.mp3",
+    "series/development/s1/e8/development_s1e8_370.mp3",
+    "series/development/s1/e8/development_s1e8_367.mp3",
+    "series/development/s1/e8/development_s1e8_363.mp3",
+    "series/development/s1/e8/development_s1e8_355.mp3",
+    "series/development/s1/e8/development_s1e8_354.mp3",
+    "series/development/s1/e8/development_s1e8_351.mp3",
+    "series/development/s1/e8/development_s1e8_336.mp3",
     "notes/FÍSICA/ELETRICIDADE.md",
-    "series/development/s1/e8/translated.srt",
-    "series/development/s1/e8/subtitles.srt",
+    "series/development/s1/e8/development_s1e8.md",
+    "MATÉRIAS/EEAR.md",
     "imagens/print_screen_366.png",
     "notes/note-409.md",
     "Pasted image 20240427132655.png",
@@ -217,18 +227,9 @@
     "notes/note-446.md",
     "notes/FÍSICA/DINÂMICA.md",
     "notes/note-364.md",
-    "Untitled 10.md",
-    "Untitled",
     "imagens/Pasted image 20240425114657.png",
     "imagens/Pasted image 20240425114513.png",
     "imagens/print_screen_278.png",
-    "series/development/s1/e7/output.mp3",
-    "series/development/s1/e7/development_s1e7_332.mp3",
-    "series/development/s1/e7/development_s1e7_321.mp3",
-    "series/development/s1/e7/development_s1e7_302.mp3",
-    "series/development/s1/e7/development_s1e7_295.mp3",
-    "series/development/s1/e7/development_s1e7_292.mp3",
-    "series/development/s1/e7/development_s1e7_278.mp3",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
