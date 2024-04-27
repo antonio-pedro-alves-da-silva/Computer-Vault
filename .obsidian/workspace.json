@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "f3aa8a997bdd681f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/FÍSICA/ELETRICIDADE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6b7f1fc0cc997dbf",
             "type": "leaf",
             "state": {
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "series/development/s1/e8/development_s1e8.md",
+                "file": "notes/FÍSICA/ELETRICIDADE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "series/development/s1/e8/development_s1e8.md",
+                "file": "notes/FÍSICA/ELETRICIDADE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "series/development/s1/e8/development_s1e8.md"
+                "file": "notes/FÍSICA/ELETRICIDADE.md"
               }
             }
           },
@@ -182,8 +194,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6b7f1fc0cc997dbf",
+  "active": "f3aa8a997bdd681f",
   "lastOpenFiles": [
+    "MATÉRIAS/EEAR.md",
+    "series/development/s1/e8/development_s1e8.md",
     "series/development/s1/e8/output.mp3",
     "series/development/s1/e8/development_s1e8_393.mp3",
     "series/development/s1/e8/development_s1e8_385.mp3",
@@ -194,10 +208,7 @@
     "series/development/s1/e8/development_s1e8_355.mp3",
     "series/development/s1/e8/development_s1e8_354.mp3",
     "series/development/s1/e8/development_s1e8_351.mp3",
-    "series/development/s1/e8/development_s1e8_336.mp3",
     "notes/FÍSICA/ELETRICIDADE.md",
-    "series/development/s1/e8/development_s1e8.md",
-    "MATÉRIAS/EEAR.md",
     "imagens/print_screen_366.png",
     "notes/note-409.md",
     "Pasted image 20240427132655.png",

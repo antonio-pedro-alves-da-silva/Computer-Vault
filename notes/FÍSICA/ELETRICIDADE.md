@@ -68,7 +68,6 @@ eletricidade
 				 relação entre ddps
 				 [[print_screen_358.png|truque da corrente]]
 			[calculando associação mista de resistores](http://www.brawnexercicios.com.br/2015/12/exercicio-resolvido-resistencia-equivalente-circuito-2.html)
-			[[print_screen_359.png|fio liso , curto-circuito e potenciais]]
 			Medidores elétricos
 				 amperímetro
 					 - usado para medir a corrente
@@ -103,7 +102,7 @@ eletricidade
 			[[note-12|Leis do nós e diferença de potencial nos terminais de um resistor e de um gerador]]
 			[[imagens/print_screen_569.png|exemplo de aplicação das leis de kirchoff]]
 			[[print_screen_570.png|exemplo calculando a ddp entre dois pontos]]
-		capacitores
+		capacitores                                                                                                                    
 			 [[note-265|o que é capacitância ?]]
 			 [[print_screen_571.png|capacitor e capacitância]]
 			 [[print_screen_572.png|associação de capacitores em série]]
