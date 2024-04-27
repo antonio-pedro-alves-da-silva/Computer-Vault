@@ -30,18 +30,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6b7f1fc0cc997dbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "series/development/s1/e8/development_s1e8.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -196,8 +184,9 @@
   },
   "active": "f3aa8a997bdd681f",
   "lastOpenFiles": [
-    "MATÉRIAS/EEAR.md",
     "series/development/s1/e8/development_s1e8.md",
+    "notes/FÍSICA/ELETRICIDADE.md",
+    "MATÉRIAS/EEAR.md",
     "series/development/s1/e8/output.mp3",
     "series/development/s1/e8/development_s1e8_393.mp3",
     "series/development/s1/e8/development_s1e8_385.mp3",
@@ -208,7 +197,6 @@
     "series/development/s1/e8/development_s1e8_355.mp3",
     "series/development/s1/e8/development_s1e8_354.mp3",
     "series/development/s1/e8/development_s1e8_351.mp3",
-    "notes/FÍSICA/ELETRICIDADE.md",
     "imagens/print_screen_366.png",
     "notes/note-409.md",
     "Pasted image 20240427132655.png",
