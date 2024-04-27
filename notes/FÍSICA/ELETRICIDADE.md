@@ -24,7 +24,7 @@ eletricidade
 			Q = carga fonte que cria o campo elétrico
 			q = carga de prova que entra no campo elétrico da carga fonte
 		[[print_screen_342.png|energia potencial em sistemas com varias particulas]]
-		potencial elétrico
+		potencial elétrico 
 			[[note-214|o que é o potencial elétrico ??]]
 			[[print_screen_590.png|potência elétrico gerado por uma carga fonte]]
 			[[print_screen_588.png|potencial elétrico entre uma carga fonte e uma carga de prova]]
