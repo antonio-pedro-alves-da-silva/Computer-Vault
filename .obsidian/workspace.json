@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "12e11df544223957",
+            "id": "12cb5a924bb08d77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "inscrito",
+                "query": "cujo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md"
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
               }
             }
           },
@@ -182,10 +183,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "12e11df544223957",
+  "active": "12cb5a924bb08d77",
   "lastOpenFiles": [
     "MATÉRIAS/EEAR.md",
+    "notes/GRAMÁTICA/questões erradas de português.md",
+    "notes/note-450.md",
     "notes/note-143.md",
+    "notes/GRAMÁTICA/pronome relativo.md",
     "notes/FÍSICA/ELETRICIDADE.md",
     "series/development/s1/e8/development_s1e8.md",
     "series/development/s1/e8/output.mp3",
@@ -201,13 +205,11 @@
     "imagens/print_screen_366.png",
     "notes/note-409.md",
     "Pasted image 20240427132655.png",
-    "notes/note-450.md",
     "imagens/print_screen_582.png",
     "imagens/print_screen_685.png",
     "imagens/Pasted image 20231201133941.png",
     "Lista de Tarefas/lista de tarefas.md",
     "notes/FÍSICA/GRAVITAÇÃO.md",
-    "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/GRAMÁTICA/regência verbal.md",
     "notes/note-449.md",

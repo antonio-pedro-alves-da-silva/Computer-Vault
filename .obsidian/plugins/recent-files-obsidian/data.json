@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "questões erradas de português",
-      "path": "notes/GRAMÁTICA/questões erradas de português.md"
+      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
+      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
     },
     {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
     },
     {
+      "basename": "questões erradas de português",
+      "path": "notes/GRAMÁTICA/questões erradas de português.md"
+    },
+    {
+      "basename": "note-450",
+      "path": "notes/note-450.md"
+    },
+    {
       "basename": "note-143",
       "path": "notes/note-143.md"
+    },
+    {
+      "basename": "pronome relativo",
+      "path": "notes/GRAMÁTICA/pronome relativo.md"
     },
     {
       "basename": "ELETRICIDADE",
@@ -43,10 +55,6 @@
     {
       "basename": "GRAVITAÇÃO",
       "path": "notes/FÍSICA/GRAVITAÇÃO.md"
-    },
-    {
-      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
-      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
     },
     {
       "basename": "regência verbal",
@@ -191,14 +199,6 @@
     {
       "basename": "CINEMÁTICA",
       "path": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
-    },
-    {
-      "basename": "note-434",
-      "path": "notes/note-434.md"
-    },
-    {
-      "basename": "note-433",
-      "path": "notes/note-433.md"
     }
   ],
   "omittedPaths": [],
