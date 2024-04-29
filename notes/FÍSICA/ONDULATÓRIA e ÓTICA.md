@@ -6,8 +6,8 @@ ondulatória
 	ondas sonoroas
 		de que tipo são as ondas sonoras ?
 			mecânicas, longitudinais e tridimensionais que propagam-se com maior velocidade em meios sólidos.
-	ondas eletromagnéticas	 
-		que tipo de onda ela é
+	ondas eletromagnéticas
+		tipo de vibração da onda
 			- ondas eletromagnéticas são ondas transversais
 		velocidade que se movimentam
 			- se movimentam na velocidade da luz 299 792 458 m / s
@@ -17,9 +17,7 @@ ondulatória
 		a oscilação de uma carga elétrica da origem ao que ?
 			dá origem a [campos magnéticos](https://mundoeducacao.uol.com.br/fisica/campo-magnetico.htm) que por sua vez sua indução eletromagnética(variação de fluxo magnético) produz campos elétricos. 
 			 /informação adicional que não precissa ser lembrada agora{assim como a variação de fluxo de campos elétricos origina campos magnéticos. A interação entre esses campos é responsável pelo surgimento das ondas eletromagnéticas.}/
-		[[Pasted image 20240125164437.png|luz visível]]
-		frequências da luz visível
-			vlavav
+		[[note-451|frequência das cores]]
 		qual luz é mais rápida na terra ?
 			a luz vermelha por ter maior comprimento de onda
 	equação fundamental da ondulatória
@@ -180,5 +178,3 @@ ondulatória
 			[2](https://www.qconcursos.com/questoes-militares/questoes/9d59824f-50)([[note-48|rotação de um espelho plano]])
 			[3](https://www.qconcursos.com/questoes-militares/questoes/763aebc5-55)()
 		instrumentos ópticos
-
-

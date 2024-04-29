@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "f5f52c5b8cedc715",
+            "id": "fc0c1720cb73b2f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md",
+                "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md",
+                "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md",
+                "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md"
+                "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md"
               }
             }
           },
@@ -183,12 +183,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f5f52c5b8cedc715",
+  "active": "fc0c1720cb73b2f0",
   "lastOpenFiles": [
-    "notes/note-292.md",
-    "notes/FÍSICA/ELETRICIDADE.md",
-    "notes/note-291.md",
+    "notes/note-451.md",
+    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
+    "imagens/Pasted image 20240125164437.png",
     "MATÉRIAS/EEAR.md",
+    "notes/FÍSICA/ELETRICIDADE.md",
+    "notes/note-292.md",
+    "notes/note-291.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-450.md",
@@ -225,12 +228,9 @@
     "notes/note-181.md",
     "Pasted image 20240425162150.png",
     "notes/FÍSICA/ESTÁTICA.md",
-    "notes/raiz quadrada de 11 até 40.md",
     "imagens/print_screen_553.png",
-    "notes/note-446.md",
     "imagens/Pasted image 20240425114657.png",
     "imagens/Pasted image 20240425114513.png",
-    "imagens/print_screen_278.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
