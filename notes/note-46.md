@@ -1,5 +1,5 @@
 
-$\Large \frac{sen i}{sen r}=\frac{vi}{vr}=\frac{nr}{ni}$
+$\Large \frac{nr}{ni}=\frac{sen i}{sen r}=\frac{vi}{vr}$
 
 
 

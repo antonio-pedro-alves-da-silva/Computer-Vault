@@ -178,3 +178,5 @@ ondulatória
 			[2](https://www.qconcursos.com/questoes-militares/questoes/9d59824f-50)([[note-48|rotação de um espelho plano]])
 			[3](https://www.qconcursos.com/questoes-militares/questoes/763aebc5-55)()
 		instrumentos ópticos
+
+
