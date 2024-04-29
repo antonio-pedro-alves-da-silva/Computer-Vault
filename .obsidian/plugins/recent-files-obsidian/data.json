@@ -5,6 +5,14 @@
       "path": "notes/FÍSICA/ELETRICIDADE.md"
     },
     {
+      "basename": "note-292",
+      "path": "notes/note-292.md"
+    },
+    {
+      "basename": "note-291",
+      "path": "notes/note-291.md"
+    },
+    {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "note-435",
       "path": "notes/note-435.md"
-    },
-    {
-      "basename": "note-408",
-      "path": "notes/note-408.md"
-    },
-    {
-      "basename": "CINEMÁTICA",
-      "path": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
     }
   ],
   "omittedPaths": [],

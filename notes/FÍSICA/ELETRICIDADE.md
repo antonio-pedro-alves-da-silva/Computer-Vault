@@ -176,17 +176,16 @@ eletricidade
 			[[note-288|direção e sentido do campo magnético de um solenóide]]
 		[[note-287|raio e periodo de uma carga elétrica no campo magnético em mcu]]
 		indução eletromagnética
-			[[note-290|o que é indução eletromagnética ?]]
 			[[print_screen_600.png|fluxo do campo magnético]]
 				variação de fluxo de um condutor em um campo magnético
 					[15](https://www.qconcursos.com/questoes-militares/questoes/9d6186a8-50)-([[note-289|onde há ocorre variação de fluxo ?]])
+			[[note-290|o que é indução eletromagnética ?]]
 			[[print_screen_412.png|força eletromotriz induzida no condutor retilíneo que se move em um campo magnético uniforme ]]
 			[[note-21|lei de lenz(sentido da corrente)]]
 				[exemplo de aplicação da lei de lenz](https://www.qconcursos.com/questoes-militares/questoes/2131c90c-4d)
-			[[print_screen_411.png|lei de faraday(força eletromotriz média induzida)]]
+			[[print_screen_411.png|lei de faraday(força eletromotriz média induzida) e itensidade da corrente elétrica induzida]]
 		transformador
 			[[note-270|o que são transformadores ?]]
-			[[note-291|o que acontece se abaixar a tensão elétrica ?]]
 			[[note-271|relação de potência e relação entre tensão]]
 			[[print_screen_602.png|relação de potências]]
 			[[note-292|Porque transformador não funciona com corrente contínua?]]
@@ -203,4 +202,3 @@ eletricidade
 			[12](https://www.qconcursos.com/questoes-militares/questoes/ae489780-55)formula da variação de fluxo
 		    [13](https://www.qconcursos.com/questoes-militares/questoes/a25cf891-55)regra da mão direita ibf
 
-  
