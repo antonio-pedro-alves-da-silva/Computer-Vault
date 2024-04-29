@@ -32,11 +32,6 @@ ondulatória
 	[[note-32|efeitos doppler]]
 		[[note-40|formula do efeito doppler]]
 	[[note-33|tubos sonoros(lambda e comprimento)]]
-    ondas estacionárias
-		o que é onda estacionária ?
-			é quando duas ondas iguais se encontram , as duas são ondas estacionárias
-	    [[note-34|velocidade da onda por meio da densidade]]
-	    [[note-382|densidade por meio do comprimento]]
 	fenômenos ondulatórios
 		reflexão
 		refração
@@ -45,6 +40,11 @@ ondulatória
 		[[note-36|polarização]]
 		iterferência
 			[[print_screen_423.png|construtiva(ic) e destrutiva(id)]]
+		ondas estacionárias
+			o que é onda estacionária ?
+				é quando duas ondas iguais se encontram , as duas são ondas estacionárias
+			[[note-34|velocidade da onda por meio da densidade]]
+			[[note-382|densidade por meio do comprimento]]
 		ressonância
 			o que é ressonância ?
 				 ressonância é o aumento periódico da amplitude da onda
@@ -52,7 +52,7 @@ ondulatória
 	movimento harmônico simples
 		[[print_screen_500.png|força no MHS]]
         energia no MHS
-        [[note-324|velocidade angular da mola e do pênudulo simples]]
+        [[note-324|velocidade angular da mola e do pêndulo simples]]
 		[[print_screen_424.png|periodo da mola e periodo do pêndulo simples]]
 		[[print_screen_664.png|função horária da elongação e função horária da velocidade do mhs]]    
 		[[print_screen_663.png|velocidade escalar em função da elongação no mhs]]

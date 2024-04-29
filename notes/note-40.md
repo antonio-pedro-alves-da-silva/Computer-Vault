@@ -6,5 +6,5 @@ sinal da velocidade da fonte e do observador quando se aproximam e afastam
 
 |     | aṕ  | af  |
 | --- | --- | --- |
-| F   | -   | +   |
 | O   | +   | -   |
+| F   | -   | +   |
