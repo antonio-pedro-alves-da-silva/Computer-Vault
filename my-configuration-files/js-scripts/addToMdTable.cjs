@@ -1,4 +1,4 @@
-const inputFile = "development_s1e1.mkv";
+const inputFile = "development_s1e9.mkv";
 const subtitleFile = "subtitles.srt";
 const translatedFile = "translated.srt";
 const seriesAndInfo = inputFile.split(".")[0];

@@ -8,7 +8,12 @@
 | concâvo      | convexo      |
 | ------------ | ------------ |
 | f(+) -> R(+) | f(-) -> R(-) |
-- o > 0 → objeto para cima;
+
+|       |     |
+| ----- | --- |
+| i ou  |     |
+
+- o ou i > 0 → objeto para cima;
 - o < 0 → objeto para baixo;
 - i > 0 → imagem para cima;
 - i < 0 → imagem para baixo;

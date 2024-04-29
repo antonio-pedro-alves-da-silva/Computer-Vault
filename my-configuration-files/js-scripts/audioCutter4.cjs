@@ -4,7 +4,7 @@ const { exec } = require("child_process");
 const fs = require("fs/promises");
 
 
-const inputFile = "development_s1e8.mkv";
+const inputFile = "development_s1e9.mkv";
 const subtitleFile = "subtitles.srt";
 const translatedFile = "translated.srt";
 const seriesAndInfo = inputFile.split(".")[0];

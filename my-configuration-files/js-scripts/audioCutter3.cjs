@@ -6,7 +6,7 @@ const {exec} = require("child_process");
 
 let n = 0;
 
-const inputFile = "development_s1e7.mkv";
+const inputFile = "development_s1e9.mkv";
 const srtFile = "subtitles.srt";
 const seriesAndInfo = inputFile.split(".")[0];
 const seriesName = inputFile.split("_")[0];
