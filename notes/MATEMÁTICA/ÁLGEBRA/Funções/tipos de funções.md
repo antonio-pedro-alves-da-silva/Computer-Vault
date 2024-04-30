@@ -10,9 +10,11 @@ função quadrática ou função do 2 grau
 		[[print_screen_015.png|b - crescendo ou decrecendo]]
 		[[print_screen_011.png|c - onde c corta o eixo y]]
 		[[print_screen_013.png|raízes no gráfico]]
-		[[print_screen_016.png|vértice da parábola]] | [[note-430|vértice da parábola]]
+		[[print_screen_016.png|vértice da parábola]] | [[note-430|vértice Vy da parábola]]
+		[[note-454|mínimo e máximos]]
 	[[print_screen_019.png|imagem da parábola]]
 	estudo do sinal
+
 função modular
 	propriedade de um módulo
 		[[print_screen_033.png|propriedade 1]]

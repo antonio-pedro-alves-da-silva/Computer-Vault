@@ -39,6 +39,7 @@ prova de 2016
 [7](https://www.qconcursos.com/questoes-militares/questoes/7e13fff4-3a)-volume de uma esfera
 [8](https://www.qconcursos.com/questoes-militares/questoes/7e4b03e3-3a)-lei do cossenos
 prova de 2015
+59 - 
 
 [1](https://www.qconcursos.com/questoes-militares/questoes/88b5051e-dc)-[[note-127|restrições de valores para x]]
 [2](https://www.qconcursos.com/questoes-militares/questoes/b57d919e-55)(distância entre pontos e [[Produto Notaveis|produtos notáveis]])

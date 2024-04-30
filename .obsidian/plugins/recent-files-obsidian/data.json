@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
-      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+      "basename": "tipos de funções",
+      "path": "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md"
+    },
+    {
+      "basename": "note-454",
+      "path": "notes/note-454.md"
     },
     {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
+      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+    },
+    {
+      "basename": "Números Complexos",
+      "path": "notes/MATEMÁTICA/ÁLGEBRA III/Números Complexos.md"
     },
     {
       "basename": "questões erradas de português",
@@ -187,18 +199,6 @@
     {
       "basename": "note-446",
       "path": "notes/note-446.md"
-    },
-    {
-      "basename": "DINÂMICA",
-      "path": "notes/FÍSICA/DINÂMICA.md"
-    },
-    {
-      "basename": "note-364",
-      "path": "notes/note-364.md"
-    },
-    {
-      "basename": "note-445",
-      "path": "notes/note-445.md"
     }
   ],
   "omittedPaths": [],

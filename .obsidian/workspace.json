@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "974b18cd9343c906",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9c3d05c50b608faf",
             "type": "leaf",
             "state": {
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+                "file": "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md"
               }
             }
           },
@@ -182,9 +194,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9c3d05c50b608faf",
+  "active": "974b18cd9343c906",
   "lastOpenFiles": [
+    "notes/note-454.md",
+    "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md",
     "MATÉRIAS/EEAR.md",
+    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "notes/MATEMÁTICA/ÁLGEBRA III/Números Complexos.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-453.md",
     "notes/note-452.md",
@@ -217,18 +233,14 @@
     "notes/FÍSICA/ELETRICIDADE.md",
     "notes/note-292.md",
     "notes/note-291.md",
-    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-450.md",
     "notes/note-143.md",
     "notes/GRAMÁTICA/pronome relativo.md",
     "imagens/print_screen_366.png",
-    "notes/note-409.md",
     "Pasted image 20240427132655.png",
     "imagens/print_screen_582.png",
     "imagens/print_screen_685.png",
     "imagens/Pasted image 20231201133941.png",
-    "Lista de Tarefas/lista de tarefas.md",
-    "notes/FÍSICA/GRAVITAÇÃO.md",
     "Pasted image 20240425162150.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
