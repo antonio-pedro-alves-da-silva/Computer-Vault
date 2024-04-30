@@ -9,12 +9,8 @@
 | ------------ | ------------ |
 | f(+) -> R(+) | f(-) -> R(-) |
 
-|       |     |
-| ----- | --- |
-| i ou  |     |
+|        | para cima | para baixo |
+| ------ | --------- | ---------- |
+| o ou i | +         | -          |
 
-- o ou i > 0 → objeto para cima;
-- o < 0 → objeto para baixo;
-- i > 0 → imagem para cima;
-- i < 0 → imagem para baixo;
 
