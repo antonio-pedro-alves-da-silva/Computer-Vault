@@ -1,0 +1,1 @@
+**Aproximação entre palavras que gera um som desagradável ou um vocábulo com sentido ridículo ou obsceno**.

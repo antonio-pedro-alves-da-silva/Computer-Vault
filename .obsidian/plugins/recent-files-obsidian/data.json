@@ -5,6 +5,14 @@
       "path": "notes/GRAMÁTICA/questões erradas de português.md"
     },
     {
+      "basename": "note-453",
+      "path": "notes/note-453.md"
+    },
+    {
+      "basename": "note-452",
+      "path": "notes/note-452.md"
+    },
+    {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "note-445",
       "path": "notes/note-445.md"
-    },
-    {
-      "basename": "development_s1e6",
-      "path": "series/development/s1/e6/development_s1e6.md"
-    },
-    {
-      "basename": "print_screen_531",
-      "path": "imagens/print_screen_531.png"
     }
   ],
   "omittedPaths": [],
