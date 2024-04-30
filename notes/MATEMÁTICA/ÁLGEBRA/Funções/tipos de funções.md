@@ -14,7 +14,6 @@ função quadrática ou função do 2 grau
 		[[note-454|mínimo e máximos]]
 	[[print_screen_019.png|imagem da parábola]]
 	estudo do sinal
-
 função modular
 	propriedade de um módulo
 		[[print_screen_033.png|propriedade 1]]

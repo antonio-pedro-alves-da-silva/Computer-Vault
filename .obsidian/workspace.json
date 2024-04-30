@@ -20,24 +20,12 @@
             }
           },
           {
-            "id": "974b18cd9343c906",
+            "id": "8b21d5adedf19bb5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c3d05c50b608faf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "notes/GRAMÁTICA/questões erradas de português.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md",
+                "file": "notes/GRAMÁTICA/questões erradas de português.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md",
+                "file": "notes/GRAMÁTICA/questões erradas de português.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md"
+                "file": "notes/GRAMÁTICA/questões erradas de português.md"
               }
             }
           },
@@ -194,12 +182,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "974b18cd9343c906",
+  "active": "8b21d5adedf19bb5",
   "lastOpenFiles": [
-    "notes/note-454.md",
-    "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md",
     "MATÉRIAS/EEAR.md",
+    "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "notes/note-454.md",
     "notes/MATEMÁTICA/ÁLGEBRA III/Números Complexos.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-453.md",
