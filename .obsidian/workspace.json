@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e505d15948f878a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.51103591918945
+    "width": 323.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "ee4e8bcf9413ed0e",
@@ -93,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATÉRIAS/EEAR.md"
+                "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md"
               }
             }
           },
@@ -168,10 +182,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d2e7de27bdae239b",
+  "active": "e505d15948f878a1",
   "lastOpenFiles": [
-    "series/development/s1/e8/development_s1e8.md",
     "MATÉRIAS/EEAR.md",
+    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
+    "imagens/print_screen_621.png",
+    "series/development/s1/e8/development_s1e8.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md",
@@ -179,7 +195,6 @@
     "notes/MATEMÁTICA/ÁLGEBRA III/Números Complexos.md",
     "notes/note-453.md",
     "notes/note-452.md",
-    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "notes/note-45.md",
     "series/development/s1/e9/output.mp3",
     "series/development/s1/e9/development_s1e9_334.mp3",
@@ -209,13 +224,11 @@
     "notes/note-291.md",
     "notes/note-450.md",
     "notes/note-143.md",
-    "notes/GRAMÁTICA/pronome relativo.md",
     "imagens/print_screen_366.png",
     "Pasted image 20240427132655.png",
     "imagens/print_screen_582.png",
     "imagens/print_screen_685.png",
     "imagens/Pasted image 20231201133941.png",
-    "Pasted image 20240425162150.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
