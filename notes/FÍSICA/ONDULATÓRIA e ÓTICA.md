@@ -179,4 +179,3 @@ ondulatória
 			[3](https://www.qconcursos.com/questoes-militares/questoes/763aebc5-55)()
 		instrumentos ópticos
 
-
