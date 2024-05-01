@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "8421859dfca0472c",
+            "id": "3b411571905fba58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/TERMOLOGIA.md",
+                "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/TERMOLOGIA.md",
+                "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/TERMOLOGIA.md",
+                "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/TERMOLOGIA.md"
+                "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md"
               }
             }
           },
@@ -182,12 +182,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8421859dfca0472c",
+  "active": "3b411571905fba58",
   "lastOpenFiles": [
+    "notes/note-47.md",
+    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "MATÉRIAS/EEAR.md",
     "notes/FÍSICA/TERMOLOGIA.md",
+    "notes/note-104.md",
     "series/development/s1/e8/development_s1e8.md",
-    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "notes/note-45.md",
     "notes/note-44.md",
     "imagens/print_screen_621.png",
@@ -223,8 +225,6 @@
     "imagens/Pasted image 20240125164437.png",
     "notes/FÍSICA/ELETRICIDADE.md",
     "notes/note-292.md",
-    "notes/note-291.md",
-    "notes/note-450.md",
     "imagens/print_screen_366.png",
     "Pasted image 20240427132655.png",
     "imagens/print_screen_582.png",
