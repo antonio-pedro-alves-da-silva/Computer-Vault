@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "f6791bbdf567f6c8",
+            "id": "8421859dfca0472c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
+                "file": "notes/FÍSICA/TERMOLOGIA.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
+                "file": "notes/FÍSICA/TERMOLOGIA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
+                "file": "notes/FÍSICA/TERMOLOGIA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md"
+                "file": "notes/FÍSICA/TERMOLOGIA.md"
               }
             }
           },
@@ -182,14 +182,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f6791bbdf567f6c8",
+  "active": "8421859dfca0472c",
   "lastOpenFiles": [
     "MATÉRIAS/EEAR.md",
-    "notes/note-45.md",
+    "notes/FÍSICA/TERMOLOGIA.md",
+    "series/development/s1/e8/development_s1e8.md",
     "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
+    "notes/note-45.md",
     "notes/note-44.md",
     "imagens/print_screen_621.png",
-    "series/development/s1/e8/development_s1e8.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md",
@@ -224,7 +225,6 @@
     "notes/note-292.md",
     "notes/note-291.md",
     "notes/note-450.md",
-    "notes/note-143.md",
     "imagens/print_screen_366.png",
     "Pasted image 20240427132655.png",
     "imagens/print_screen_582.png",

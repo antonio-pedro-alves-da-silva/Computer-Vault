@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "ONDULATÓRIA e ÓTICA",
-      "path": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md"
+      "basename": "TERMOLOGIA",
+      "path": "notes/FÍSICA/TERMOLOGIA.md"
     },
     {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "development_s1e8",
+      "path": "series/development/s1/e8/development_s1e8.md"
+    },
+    {
+      "basename": "ONDULATÓRIA e ÓTICA",
+      "path": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md"
     },
     {
       "basename": "note-45",
@@ -19,10 +27,6 @@
     {
       "basename": "print_screen_621",
       "path": "imagens/print_screen_621.png"
-    },
-    {
-      "basename": "development_s1e8",
-      "path": "series/development/s1/e8/development_s1e8.md"
     },
     {
       "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
@@ -51,10 +55,6 @@
     {
       "basename": "note-452",
       "path": "notes/note-452.md"
-    },
-    {
-      "basename": "development_s1e9",
-      "path": "series/development/s1/e9/development_s1e9.mkv"
     },
     {
       "basename": "development_s1e7",
@@ -195,10 +195,6 @@
     {
       "basename": "ESTÁTICA",
       "path": "notes/FÍSICA/ESTÁTICA.md"
-    },
-    {
-      "basename": "raiz quadrada de 11 até 40",
-      "path": "notes/raiz quadrada de 11 até 40.md"
     }
   ],
   "omittedPaths": [],
