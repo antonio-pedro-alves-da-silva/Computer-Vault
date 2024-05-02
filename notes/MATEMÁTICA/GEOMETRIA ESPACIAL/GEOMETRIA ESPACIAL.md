@@ -1,67 +1,20 @@
-# Poliedros
-## Regras de euler
+Poliedros
+	Regras de euler
+	[[Pasted image 20231031151346.png|regras de euler]] , [[GEOMETRIA ESPACIAL THODI.excalidraw|thodi]] , [[note-327|calculando aresta]]
+	[[Pasted image 20231031155103.png|soma dos ângulos da faces de um poliedro]]
+	[[Pasted image 20231101094601.png|prisma]]
+	pirâmides
+		[[print_screen_212.png|Pirâmide quadrangular regular]]
+		[[print_screen_213.png|Tetraedro regular ou pirâmide triangular regular - formula v at h]]
+	cilindro
+		[[print_screen_215.png|cilindro reto]]
+		[[print_screen_686.png|cilindro equilátero - revolução e seção meridiana]]
+	cone
+		[[print_screen_220.png|área]]
+	esfera
+		[[Pasted image 20231031205034.png|área e volume]]
+		
 
-## [[note-326|Calculando o numero de aresta]]
-
-
-
-## Poliedro regulares
-
-![[Pasted image 20231031153757.png]]
-
-![[GEOMETRIA ESPACIAL THODI.excalidraw]]
-
-
-## Soma dos ângulos das faces de um poliedro
-
-![[Pasted image 20231031155103.png]]
-
-
-# Prisma
-
-## definição
-![[print_screen_208.png]]
-![[Pasted image 20231101094601.png]]
-
-## áreas e volumes
-
-![[print_screen_209.png]]
-
-
-# Pirâmide
-
-![[print_screen_212.png]]
-
-## Tetraedo regular ou pirâmide regular
-
-![[print_screen_213.png]]
-## Altura da pirâmide
-
-![[print_screen_224.png]]
-# Cilindro
-
-## Cilindro Reto
-
-
-
-![[print_screen_215.png]]
-
-**se a seção meridiana for um quadrado ela é um cilinddro equilátero então g = 2R**
-![[print_screen_219.png]]
-
-
-# Cone
-seção meridiana triangulo equilátero
-volume 
-area lateral
-cone reto
-
-![[print_screen_220.png]]
-
-![[print_screen_221.png]]
-# Esfera
-
-![[Pasted image 20231031205034.png]]
 
 
 ![[Pasted image 20231031205503.png]]
