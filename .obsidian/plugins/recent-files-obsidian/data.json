@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Análise combinatória",
-      "path": "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md"
-    },
-    {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
     },
     {
+      "basename": "Análise combinatória",
+      "path": "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md"
+    },
+    {
+      "basename": "questões erradas de português",
+      "path": "notes/GRAMÁTICA/questões erradas de português.md"
+    },
+    {
+      "basename": "regência verbal",
+      "path": "notes/GRAMÁTICA/regência verbal.md"
+    },
+    {
+      "basename": "note-143",
+      "path": "notes/note-143.md"
+    },
+    {
       "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
       "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+    },
+    {
+      "basename": "Números Complexos",
+      "path": "notes/MATEMÁTICA/ÁLGEBRA III/Números Complexos.md"
     },
     {
       "basename": "TRIGONOMETRIA",
@@ -31,10 +47,6 @@
     {
       "basename": "Produto Notaveis",
       "path": "notes/MATEMÁTICA/ÁLGEBRA III/Produto Notaveis.md"
-    },
-    {
-      "basename": "Números Complexos",
-      "path": "notes/MATEMÁTICA/ÁLGEBRA III/Números Complexos.md"
     },
     {
       "basename": "note-457",
@@ -59,14 +71,6 @@
     {
       "basename": "note-456",
       "path": "notes/note-456.md"
-    },
-    {
-      "basename": "note-143",
-      "path": "notes/note-143.md"
-    },
-    {
-      "basename": "questões erradas de português",
-      "path": "notes/GRAMÁTICA/questões erradas de português.md"
     },
     {
       "basename": "print_screen_651",
@@ -195,10 +199,6 @@
     {
       "basename": "note-34",
       "path": "notes/note-34.md"
-    },
-    {
-      "basename": "note-324",
-      "path": "notes/note-324.md"
     }
   ],
   "omittedPaths": [],

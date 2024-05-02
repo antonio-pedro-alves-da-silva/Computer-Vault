@@ -976,15 +976,6 @@ MATEMÁTICA
 		[[Estudo Analítico]]: 
 	ÁLGEBRA III
 		[[Números Complexos]]
-			conceitos
-			conjugado 
-			igualdade 
-			operações 
-			potências de i 
-			representação no plano de Argand-Gauss 
-			módulo
-			argumento
-			forma trigonométrica e operações na forma trigonométrica
 		[[Produto Notaveis]]
 		[[Polinômios ]]
 	[[PROBRABILIDADE]]

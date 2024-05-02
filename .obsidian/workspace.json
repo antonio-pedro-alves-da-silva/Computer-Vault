@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4fb3822418ce7a6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md",
+                "file": "MATÉRIAS/EEAR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md",
+                "file": "MATÉRIAS/EEAR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md"
+                "file": "MATÉRIAS/EEAR.md"
               }
             }
           },
@@ -183,10 +170,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4fb3822418ce7a6a",
+  "active": "d2e7de27bdae239b",
   "lastOpenFiles": [
+    "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md",
     "MATÉRIAS/EEAR.md",
+    "notes/GRAMÁTICA/questões erradas de português.md",
+    "notes/GRAMÁTICA/regência verbal.md",
+    "notes/note-143.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "notes/MATEMÁTICA/ÁLGEBRA III/Números Complexos.md",
     "notes/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md",
     "imagens/print_screen_688.png",
     "imagens/print_screen_687.png",
@@ -194,7 +186,6 @@
     "notes/MATEMÁTICA/ÁLGEBRA III/Polinômios/Polinômios.md",
     "notes/note-458.md",
     "notes/MATEMÁTICA/ÁLGEBRA III/Produto Notaveis.md",
-    "notes/MATEMÁTICA/ÁLGEBRA III/Números Complexos.md",
     "notes/note-457.md",
     "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md",
     "notes/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
@@ -202,8 +193,6 @@
     "imagens/print_screen_686.png",
     "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md",
     "notes/note-456.md",
-    "notes/note-143.md",
-    "notes/GRAMÁTICA/questões erradas de português.md",
     "imagens/print_screen_651.png",
     "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
     "imagens/print_screen_176.png",
@@ -219,7 +208,6 @@
     "notes/note-117.md",
     "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "notes/note-70.md",
-    "notes/note-47.md",
     "series/development/s1/e9/output.mp3",
     "series/development/s1/e9/development_s1e9_334.mp3",
     "series/development/s1/e9/development_s1e9_333.mp3",
