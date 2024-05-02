@@ -5,6 +5,38 @@
       "path": "MATÉRIAS/EEAR.md"
     },
     {
+      "basename": "Polígonos",
+      "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md"
+    },
+    {
+      "basename": "GEOMETRIA ESPACIAL",
+      "path": "notes/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md"
+    },
+    {
+      "basename": "print_screen_185",
+      "path": "imagens/print_screen_185.png"
+    },
+    {
+      "basename": "Ângulos",
+      "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/Ângulos.md"
+    },
+    {
+      "basename": "note-455",
+      "path": "notes/note-455.md"
+    },
+    {
+      "basename": "progressões aritmética e geométrica",
+      "path": "notes/MATEMÁTICA/ÁLGEBRA/progressões aritmética e geométrica.md"
+    },
+    {
+      "basename": "Pasted image 20231107105812",
+      "path": "imagens/Pasted image 20231107105812.png"
+    },
+    {
+      "basename": "tipos de funções",
+      "path": "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md"
+    },
+    {
       "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
       "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
     },
@@ -55,10 +87,6 @@
     {
       "basename": "print_screen_621",
       "path": "imagens/print_screen_621.png"
-    },
-    {
-      "basename": "tipos de funções",
-      "path": "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md"
     },
     {
       "basename": "note-454",
@@ -171,34 +199,6 @@
     {
       "basename": "lista de tarefas",
       "path": "Lista de Tarefas/lista de tarefas.md"
-    },
-    {
-      "basename": "GRAVITAÇÃO",
-      "path": "notes/FÍSICA/GRAVITAÇÃO.md"
-    },
-    {
-      "basename": "regência verbal",
-      "path": "notes/GRAMÁTICA/regência verbal.md"
-    },
-    {
-      "basename": "note-449",
-      "path": "notes/note-449.md"
-    },
-    {
-      "basename": "note-447",
-      "path": "notes/note-447.md"
-    },
-    {
-      "basename": "note-448",
-      "path": "notes/note-448.md"
-    },
-    {
-      "basename": "concordância nominal",
-      "path": "notes/GRAMÁTICA/concordância nominal.md"
-    },
-    {
-      "basename": "note-210",
-      "path": "notes/note-210.md"
     }
   ],
   "omittedPaths": [],
