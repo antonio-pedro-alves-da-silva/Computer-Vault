@@ -9,6 +9,10 @@
       "path": "MATÉRIAS/EEAR.md"
     },
     {
+      "basename": "TRIGONOMETRIA",
+      "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md"
+    },
+    {
       "basename": "questões erradas de português",
       "path": "notes/GRAMÁTICA/questões erradas de português.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "HIDROESTÁTICA",
       "path": "notes/FÍSICA/HIDROESTÁTICA.md"
-    },
-    {
-      "basename": "note-208",
-      "path": "notes/note-208.md"
     }
   ],
   "omittedPaths": [],
