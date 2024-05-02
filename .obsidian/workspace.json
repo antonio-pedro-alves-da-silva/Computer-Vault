@@ -20,31 +20,19 @@
             }
           },
           {
-            "id": "40cb1853529a955d",
+            "id": "4fb3822418ce7a6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b2971799b9f7ce6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
+                "file": "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cujo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -119,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
+                "file": "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
+                "file": "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md"
+                "file": "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md"
               }
             }
           },
@@ -194,13 +183,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4b2971799b9f7ce6",
+  "active": "4fb3822418ce7a6a",
   "lastOpenFiles": [
+    "MATÉRIAS/EEAR.md",
+    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "notes/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md",
+    "imagens/print_screen_688.png",
+    "imagens/print_screen_687.png",
+    "notes/MATEMÁTICA/PROBABILIDADE/PROBRABILIDADE.md",
+    "notes/MATEMÁTICA/ÁLGEBRA III/Polinômios/Polinômios.md",
+    "notes/note-458.md",
+    "notes/MATEMÁTICA/ÁLGEBRA III/Produto Notaveis.md",
+    "notes/MATEMÁTICA/ÁLGEBRA III/Números Complexos.md",
+    "notes/note-457.md",
+    "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md",
+    "notes/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
     "imagens/print_screen_219.png",
     "imagens/print_screen_686.png",
-    "notes/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
-    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
-    "MATÉRIAS/EEAR.md",
     "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md",
     "notes/note-456.md",
     "notes/note-143.md",
@@ -218,18 +217,9 @@
     "imagens/Pasted image 20231107105812.png",
     "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md",
     "notes/note-117.md",
-    "notes/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md",
     "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "notes/note-70.md",
     "notes/note-47.md",
-    "notes/FÍSICA/TERMOLOGIA.md",
-    "notes/note-104.md",
-    "series/development/s1/e8/development_s1e8.md",
-    "notes/note-45.md",
-    "notes/note-44.md",
-    "imagens/print_screen_621.png",
-    "notes/note-454.md",
-    "notes/MATEMÁTICA/ÁLGEBRA III/Números Complexos.md",
     "series/development/s1/e9/output.mp3",
     "series/development/s1/e9/development_s1e9_334.mp3",
     "series/development/s1/e9/development_s1e9_333.mp3",
@@ -240,8 +230,6 @@
     "series/development/s1/e9/development_s1e9_328.mp3",
     "series/development/s1/e9/development_s1e9_327.mp3",
     "series/development/s1/e9/development_s1e9_326.mp3",
-    "Pasted image 20240429202604.png",
-    "imagens/print_screen_432.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

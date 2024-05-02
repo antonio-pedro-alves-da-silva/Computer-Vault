@@ -1,22 +1,8 @@
-# princípio fundamental da contagem
+princípio fundamental da contagem
+[[Pasted image 20231107215316.png|permutação]]
 
 
-# Arranjo , combinação e permutação
 
-## Permutação 
-
-### Permutação formulas
-
-![[Pasted image 20231107215316.png]]
-
-
-### Permutação Simples
-- seria a troca de posições de elementos 
-- na permutação o numero de elementos é igual o de posições
-- na permutação se usa tracinho
-
-
-### Permutação com repetição
 
 ![[print_screen_232.png]]
 

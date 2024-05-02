@@ -1,43 +1,11 @@
-
-# Trigonometria no triângulo
-
-![[print_screen_133.png]]
-# VALORES NOTÁVEIS
-
-![[Pasted image 20231021094552.png]]
-
-[[Drawing 2023-10-21 21.46.15.excalidraw|valores de seno e cosseno na circuferência]]
-
-
-![[Pasted image 20231030171834.png]]
-
-
-# co-tangente,secante,cossecante
-
-ciclo trigonométrico -> https://www.geogebra.org/m/gcnxqh8e
-
-![[Pasted image 20231023202425.png]]
-
-# Relaçaõ fundamental da trigonometria
-## Relação fundamental da trigonometria entre seno e cosseno
-
-![[Pasted image 20231023204305.png]]
-
-# Relação decorrente da relação fundamental da trigonometria
-
-![[relações decorrentes da relação fundamental da trigonometria.jpeg]]
-# arcos congruos e simétricos
-
-Dizemos que dois arcos são côngruos se eles tiverem as mesmas extremidades. No contexto do ciclo trigonométrico, são aqueles que possuem a mesma origem no ponto A e o final no ponto B, como indicado abaixo.
-
-para achar o arco congruo é so diminuir ou somar  360° pelo grau do arco
-$\Large \frac{45\pi}{11}$
-
-
-![[Pasted image 20231020200303.png]]
-![[print_screen_140.png]]
-
-
+valores notáveis de seno , cosseno e tangente
+[[Drawing 2023-10-21 21.46.15.excalidraw|valores de seno , cosseno e tangente na circuferência]]
+[[Pasted image 20231023202425.png|co-tangente,secante,cossecante]]
+[[relações decorrentes da relação fundamental da trigonometria.jpeg|Relação decorrente da relação fundamental da trigonometria]]
+[[print_screen_140.png|arcos simétricos]]
+formulas trigonométricas
+	 [[print_screen_150.png|formulas trigonométrica de adição]] , [[print_screen_153.png|arco duplo]] e [[print_screen_152.png|arco metade]]
+[[print_screen_687.png|Lei seno]] e  [[print_screen_688.png|Lei cosseno]]
 
 # Funções trigonométricas
 
@@ -87,22 +55,6 @@ a função seno vai cortar o eixo y no eixo de simétria da função
 ![[print_screen_148.png]]
 
 
-# Formulas trigonométricas
-
-## Formulas trigonométricas de adição
-
-![[print_screen_150.png]]
-
-## Formulas de arco duplo(duplicação)
-
-
-![[print_screen_153.png]]
-![[print_screen_237.png]]
-
-
-## Arco Metade (bissecção)
-![[print_screen_152.png]]
-
 
 # Equações trigonométricas
 
@@ -113,15 +65,3 @@ a função seno vai cortar o eixo y no eixo de simétria da função
 
 ![[print_screen_157.png]]
 # Lei dos senos e dos cossenos
-
-## Lei dos cossenos
-
-![[print_screen_158.png]]
-
-
-
-
-## Lei dos senos
-
-![[print_screen_159.png]]
-

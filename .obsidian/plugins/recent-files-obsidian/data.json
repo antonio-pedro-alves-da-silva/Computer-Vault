@@ -1,20 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "GEOMETRIA ESPACIAL",
-      "path": "notes/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md"
+      "basename": "Análise combinatória",
+      "path": "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md"
     },
     {
-      "basename": "print_screen_219",
-      "path": "imagens/print_screen_219.png"
+      "basename": "EEAR",
+      "path": "MATÉRIAS/EEAR.md"
     },
     {
       "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
       "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
     },
     {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
+      "basename": "TRIGONOMETRIA",
+      "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md"
+    },
+    {
+      "basename": "PROBRABILIDADE",
+      "path": "notes/MATEMÁTICA/PROBABILIDADE/PROBRABILIDADE.md"
+    },
+    {
+      "basename": "Polinômios",
+      "path": "notes/MATEMÁTICA/ÁLGEBRA III/Polinômios/Polinômios.md"
+    },
+    {
+      "basename": "note-458",
+      "path": "notes/note-458.md"
+    },
+    {
+      "basename": "Produto Notaveis",
+      "path": "notes/MATEMÁTICA/ÁLGEBRA III/Produto Notaveis.md"
+    },
+    {
+      "basename": "Números Complexos",
+      "path": "notes/MATEMÁTICA/ÁLGEBRA III/Números Complexos.md"
+    },
+    {
+      "basename": "note-457",
+      "path": "notes/note-457.md"
+    },
+    {
+      "basename": "Estudo Analítico",
+      "path": "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md"
+    },
+    {
+      "basename": "GEOMETRIA ESPACIAL",
+      "path": "notes/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md"
+    },
+    {
+      "basename": "print_screen_219",
+      "path": "imagens/print_screen_219.png"
     },
     {
       "basename": "Matrizes",
@@ -85,10 +121,6 @@
       "path": "notes/note-117.md"
     },
     {
-      "basename": "TRIGONOMETRIA",
-      "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md"
-    },
-    {
       "basename": "ONDULATÓRIA e ÓTICA",
       "path": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md"
     },
@@ -129,10 +161,6 @@
       "path": "notes/note-454.md"
     },
     {
-      "basename": "Números Complexos",
-      "path": "notes/MATEMÁTICA/ÁLGEBRA III/Números Complexos.md"
-    },
-    {
       "basename": "note-453",
       "path": "notes/note-453.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "note-324",
       "path": "notes/note-324.md"
-    },
-    {
-      "basename": "note-33",
-      "path": "notes/note-33.md"
-    },
-    {
-      "basename": "note-40",
-      "path": "notes/note-40.md"
-    },
-    {
-      "basename": "note-29",
-      "path": "notes/note-29.md"
-    },
-    {
-      "basename": "note-451",
-      "path": "notes/note-451.md"
-    },
-    {
-      "basename": "Pasted image 20240125164437",
-      "path": "imagens/Pasted image 20240125164437.png"
-    },
-    {
-      "basename": "ELETRICIDADE",
-      "path": "notes/FÍSICA/ELETRICIDADE.md"
-    },
-    {
-      "basename": "note-292",
-      "path": "notes/note-292.md"
     }
   ],
   "omittedPaths": [],

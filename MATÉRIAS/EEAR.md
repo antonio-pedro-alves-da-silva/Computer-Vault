@@ -953,62 +953,13 @@ MATEMÁTICA
 						[[print_screen_089.png|propriedade 6]]
 			[[progressões aritmética e geométrica]]
 	GEOMETRIA PLANA
-		[[Ângulos]]
-			Ângulo interno e ângulo externo de um poligono regular
-			Teorema do ângulo externo
-		[[Polígonos]]
-			definição
-			elementos
-			nomeclatura
-			propriedades
-			polígonos regulares
-			perímetros e áreas
-			Triângulos
-				condições de existência
-				elementos
-				classificação
-				propriedades
-				congruências
-				áreas do triângulo usando o seno
-				mediana,bissetriz,altura e pontos notáveis
-				semelhança
-				relações métricas e áreas
-			Quadriláteros notáveis
-				definições
-				propriedades
-				base média e áreas
-			Circuferência
-				definições
-				elementos
-				posições relativas de reta
-				circuferências
-				segmentos tangentes
-				potência de ponto
-				ângulos na circuferência
-				comprimento da circuferência
-			Círculo e suas partes 
-				conceitos e áreas
-			[[TRIGONOMETRIA]]
-				Razões trigonométricas no triângulo retângulo
-				arcos e ângulos em graus e radianos
-				relações de conversão
-				ciclo trigonométrico
-				arcos côngruos e simétricos
-				funções trigonométricas
-				relações e identidades trigonométricas
-				fórmulas de adição, subtração, duplicação e bissecção de arcos equações e inequações trigonométricas
-				leis dos senos e dos cossenos.
-		Teorema de tales 
+		[[ângulos]]
+		[[polígonos]]
+		[[trigonometria]]
+		teorema de tales
 	ÁLGEBRA II
 		[[Matrizes]]
-			Lei de formação
-			Matriz transposta , oposta , simétrica e antisimétrica
-			conceitos, igualdade e operações. 
-			Determinantes. 
-			Sistemas lineares. 
-			[[Análise combinatória]]
-				princípio fundamental da contagem
-				arranjos, combinações e permutações simples probabilidades
+		[[Análise combinatória]]
 	ESTATÍSTICA
 		[[população , amostra , variável , rol e amplitude]]
 		tabelas
@@ -1021,44 +972,8 @@ MATEMÁTICA
 		[[medidas de tendência central]]
 			moda, média e mediana. 
 	[[GEOMETRIA ESPACIAL]]
-		Poliedro: 
-			conceitos e propriedades
-		Prisma: 
-			conceitos, propriedades, diagonais, áreas e volumes. 
-		Pirâmide, cilindro, cone e esfera: conceitos, áreas e volumes. 
 	GEOMETRIA ANALÍTICA: 
 		[[Estudo Analítico]]: 
-			**do Ponto** 
-				ponto médio
-				cálculo do baricentro
-				distância entre dois pontos
-				área do triângulo
-				condição de alinhamento de três pontos
-			**da Reta** 
-				equação geral 
-				equação reduzida
-				equação segmentária
-				posição entre duas retas : paralelismo e perpendicularismo de retas
-				ângulo entre duas retas
-				distância de um ponto a uma reta
-				distancia entre duas retas
-				interseção entre retas
-			**da Circunferência** 
-				equações
-				posições relativas entre ponto e circunferência
-				entre reta e circunferência 
-				entre duas circunferências
-					1.Circuferências externas
-					2.Circuferências tangentes externas
-					3.Circuferências tangentes internas
-					4. Circuferências secantes
-					5. Circuferências interior a outra
-			1. 
-			**Área do triângulo equilátero**
-	LOGARITMO
-		[[condição de existência]]
-		[[tipos de funções#Propriedades de potenciação|Propriedades de potenciação]]
-		[[tipos de funções#Propriedades operatórias|Propriedades operatórias]]
 	ÁLGEBRA III
 		[[Números Complexos]]
 			conceitos
@@ -1072,21 +987,6 @@ MATEMÁTICA
 			forma trigonométrica e operações na forma trigonométrica
 		[[Produto Notaveis]]
 		[[Polinômios ]]
-			Polinômio Nulo
-			identidade
-			Divisão de polinômios
-				divisão normal
-				briot-ruffini
-			Equações polinômias		
-				Teorema da decomposição
-				Teorema do resto
-			Multiplicidade de uma raiz ou raízes
-			Raizes complexas e relações de girard ou soma e produto
-			definições importantes
-				![[print_screen_225.png]]
-				4) se a soma impar for igual a soma par então  o polinômio possui uma raiz igual a -1
-					![[print_screen_226.png]]
-			[[Teorema das raízes racionais]]
 	[[PROBRABILIDADE]]
 	[[QUESTÕES ERRADAS DE MATEMÁTICA]]
 FÍSICA

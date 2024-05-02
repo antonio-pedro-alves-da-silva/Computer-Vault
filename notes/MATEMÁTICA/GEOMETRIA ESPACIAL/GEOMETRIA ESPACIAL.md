@@ -13,30 +13,9 @@ Poliedros
 		[[print_screen_220.png|área]]
 	esfera
 		[[Pasted image 20231031205034.png|área e volume]]
-		
-
-
-
-![[Pasted image 20231031205503.png]]
-
-## Partes da esfera cunha e fuso
-
-
-### volume da cunha e área do fuso
-
-![[Pasted image 20231101071244.png]]
-
-
-![[print_screen_223.png]]
+		[[Pasted image 20231101071244.png|volume do cunha e área do fuso]]
 
 
 
 
 
-
-
-
-
-## Calota e zona
-
-![[calota_e_zona (1).png]]
