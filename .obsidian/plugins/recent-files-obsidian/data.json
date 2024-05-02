@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "EEAR",
+      "path": "MATÉRIAS/EEAR.md"
+    },
+    {
       "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
       "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
     },
     {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
+      "basename": "note-117",
+      "path": "notes/note-117.md"
     },
     {
       "basename": "TRIGONOMETRIA",
@@ -195,10 +199,6 @@
     {
       "basename": "note-210",
       "path": "notes/note-210.md"
-    },
-    {
-      "basename": "HIDROESTÁTICA",
-      "path": "notes/FÍSICA/HIDROESTÁTICA.md"
     }
   ],
   "omittedPaths": [],
