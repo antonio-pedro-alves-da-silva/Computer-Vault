@@ -11,7 +11,12 @@ trapézio
 paralelogramo
 	[[print_screen_201.png|área]]
 	[[print_screen_185.png|ângulo]]
-
+circuferência
+	[[Pasted image 20231027113419.png|comprimento do arco]]
+	área do setor circular
+	[[print_screen_188.png|área do segmento circular]] e [[print_screen_191.png|exemplo]]
+	[[Pasted image 20231026084817.png|potência de ponto]]
+		[[print_screen_192.png|circuferência inscrita]]
 
 # Triângulos
 ## ângulos
@@ -28,27 +33,11 @@ paralelogramo
 
 
 
-![[print_screen_193.png]]
+
 ![[print_screen_206.png]]
 ![[Pasted image 20231030102858.png]]
 
-## pontos notáveis 
 
-
-
-
-
-
-
-
-
-![[print_screen_198.png]]
-
-![[print_screen_199.png]]
-
-![[print_screen_200.png]]
-
-MACETE PARA SE LEBRAR BICO(BARICENTRO,INCENTRO,CIRCUCENTRO,ORTOCENTRO)
 ![[bico(pontos notáveis)]]
 ## semelhança de triângulo
 
@@ -86,21 +75,12 @@ as retas r e s são paralelas póis possuem o mesmo angulo de inclinação
 # Circuferência
 ## Potência de ponto
 
-![[Pasted image 20231026084817.png]]
+
 ## retas tangentes a circuferência
 
-![[print_screen_192.png]]
-## comprimento de um arco
 
-![[Pasted image 20231027113419.png]]
 
-## Raio no ponto de tangência forma 90°
 
-# Circulo e suas partes
-## area do circulo e de suas partes
 
-![[print_screen_187.png]]
 
-![[print_screen_188.png]]
 
-![[print_screen_191.png]]

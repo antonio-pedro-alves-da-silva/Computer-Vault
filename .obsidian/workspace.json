@@ -18,8 +18,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ff3a59d08974b1f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4cdce8b50dc1d55f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "imagens/print_screen_192.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATÉRIAS/EEAR.md"
+                "file": "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md"
               }
             }
           },
@@ -169,10 +192,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d2e7de27bdae239b",
+  "active": "ff3a59d08974b1f8",
   "lastOpenFiles": [
-    "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
     "MATÉRIAS/EEAR.md",
+    "notes/bico(pontos notáveis).md",
+    "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
+    "imagens/print_screen_192.png",
+    "imagens/Pasted image 20231026084817.png",
     "notes/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
     "imagens/print_screen_185.png",
     "notes/MATEMÁTICA/GEOMETRIA PLANA/Ângulos.md",
@@ -211,12 +237,9 @@
     "series/development/s1/e7/development_s1e7.md",
     "notes/note-332.md",
     "imagens/print_screen_432.png",
-    "notes/note-46.md",
     "imagens/print_screen_664.png",
     "imagens/Pasted image 20240125164437.png",
     "imagens/print_screen_366.png",
-    "Pasted image 20240427132655.png",
-    "imagens/print_screen_582.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

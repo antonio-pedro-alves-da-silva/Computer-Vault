@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Polígonos",
+      "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md"
+    },
+    {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
     },
     {
-      "basename": "Polígonos",
-      "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md"
+      "basename": "bico(pontos notáveis)",
+      "path": "notes/bico(pontos notáveis).md"
+    },
+    {
+      "basename": "print_screen_192",
+      "path": "imagens/print_screen_192.png"
+    },
+    {
+      "basename": "Pasted image 20231026084817",
+      "path": "imagens/Pasted image 20231026084817.png"
     },
     {
       "basename": "GEOMETRIA ESPACIAL",
@@ -187,18 +199,6 @@
     {
       "basename": "note-409",
       "path": "notes/note-409.md"
-    },
-    {
-      "basename": "print_screen_582",
-      "path": "imagens/print_screen_582.png"
-    },
-    {
-      "basename": "Pasted image 20231201133941",
-      "path": "imagens/Pasted image 20231201133941.png"
-    },
-    {
-      "basename": "lista de tarefas",
-      "path": "Lista de Tarefas/lista de tarefas.md"
     }
   ],
   "omittedPaths": [],
