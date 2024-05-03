@@ -982,6 +982,7 @@ MATEMÁTICA
 	[[QUESTÕES ERRADAS DE MATEMÁTICA]]
 FÍSICA
 	[[raiz quadrada de 11 até 40]]
+	[[note-459|como multiplicar de cabeça]]
 	[[CONCEITOS BÁSICOS E FUNDAMENTAIS]]
 		[[vetores]]
 			[grandezas vetoriais e escalares](https://www.google.com/search?q=o+que+%C3%A9+uma+grandeza+vetorial&oq=o+que+%C3%A9+uma+grandeza+ve&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIICAUQABgWGB4yCAgGEAAYFhgeMggIBxAAGBYYHjIICAgQABgWGB4yCAgJEAAYFhgeqAIAsAIA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:a65fddf3,vid:oZPWOXtIUFI,st:0)

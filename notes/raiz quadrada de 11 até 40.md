@@ -1,4 +1,5 @@
-formula : 
+formula : para fazer de cabeça
+$12^{2}=(10+2)^{2}=10^{2}+2 \cdot 10 \cdot 2 + 2^{2}$
 
 11²=121
 12²=144

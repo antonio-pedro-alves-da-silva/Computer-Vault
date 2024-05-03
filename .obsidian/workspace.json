@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "083cd2d8f60f893a",
+            "id": "486d6dcea2265fda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/raiz quadrada de 11 até 40.md",
+                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/raiz quadrada de 11 até 40.md",
+                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/raiz quadrada de 11 até 40.md",
+                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/raiz quadrada de 11 até 40.md"
+                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
               }
             }
           },
@@ -183,9 +183,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "083cd2d8f60f893a",
+  "active": "486d6dcea2265fda",
   "lastOpenFiles": [
     "MATÉRIAS/EEAR.md",
+    "notes/note-459.md",
+    "notes/raiz quadrada de 11 até 40.md",
     "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/GRAMÁTICA/regência verbal.md",
@@ -219,8 +221,6 @@
     "imagens/Pasted image 20231107105812.png",
     "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md",
     "notes/note-117.md",
-    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
-    "notes/note-70.md",
     "series/development/s1/e9/output.mp3",
     "series/development/s1/e9/development_s1e9_334.mp3",
     "series/development/s1/e9/development_s1e9_333.mp3",
