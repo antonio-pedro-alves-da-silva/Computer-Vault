@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "7c5a61e665b27d3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "series/development/s1/e1/development_s1e1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4b35561341870f69",
             "type": "leaf",
             "state": {
@@ -119,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "series/development/s1/e1/development_s1e1.md",
+                "file": "notes/FÍSICA/DINÂMICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "series/development/s1/e1/development_s1e1.md",
+                "file": "notes/FÍSICA/DINÂMICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "series/development/s1/e1/development_s1e1.md"
+                "file": "notes/FÍSICA/DINÂMICA.md"
               }
             }
           },
@@ -194,10 +182,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7c5a61e665b27d3e",
+  "active": "4b35561341870f69",
   "lastOpenFiles": [
-    "notes/FÍSICA/DINÂMICA.md",
     "series/development/s1/e1/development_s1e1.md",
+    "notes/FÍSICA/DINÂMICA.md",
     "MATÉRIAS/EEAR.md",
     "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
     "notes/note-460.md",
