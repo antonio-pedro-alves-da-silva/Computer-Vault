@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "7c5a61e665b27d3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "series/development/s1/e1/development_s1e1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4b35561341870f69",
             "type": "leaf",
             "state": {
@@ -86,8 +98,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -108,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/DINÂMICA.md",
+                "file": "series/development/s1/e1/development_s1e1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/DINÂMICA.md",
+                "file": "series/development/s1/e1/development_s1e1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/DINÂMICA.md"
+                "file": "series/development/s1/e1/development_s1e1.md"
               }
             }
           },
@@ -183,10 +194,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4b35561341870f69",
+  "active": "7c5a61e665b27d3e",
   "lastOpenFiles": [
-    "MATÉRIAS/EEAR.md",
     "notes/FÍSICA/DINÂMICA.md",
+    "series/development/s1/e1/development_s1e1.md",
+    "MATÉRIAS/EEAR.md",
     "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
     "notes/note-460.md",
     "imagens/print_screen_498.png",
@@ -220,7 +232,6 @@
     "imagens/Pasted image 20231026084817.png",
     "imagens/print_screen_185.png",
     "notes/MATEMÁTICA/GEOMETRIA PLANA/Ângulos.md",
-    "notes/note-455.md",
     "series/development/s1/e9/output.mp3",
     "series/development/s1/e9/development_s1e9_334.mp3",
     "series/development/s1/e9/development_s1e9_333.mp3",
