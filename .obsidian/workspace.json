@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "486d6dcea2265fda",
+            "id": "4b35561341870f69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
+                "file": "notes/FÍSICA/DINÂMICA.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
+                "file": "notes/FÍSICA/DINÂMICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
+                "file": "notes/FÍSICA/DINÂMICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
+                "file": "notes/FÍSICA/DINÂMICA.md"
               }
             }
           },
@@ -183,9 +183,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "486d6dcea2265fda",
+  "active": "4b35561341870f69",
   "lastOpenFiles": [
     "MATÉRIAS/EEAR.md",
+    "notes/FÍSICA/DINÂMICA.md",
+    "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
+    "notes/note-460.md",
+    "imagens/print_screen_498.png",
     "notes/note-459.md",
     "notes/raiz quadrada de 11 até 40.md",
     "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md",
@@ -217,10 +221,6 @@
     "imagens/print_screen_185.png",
     "notes/MATEMÁTICA/GEOMETRIA PLANA/Ângulos.md",
     "notes/note-455.md",
-    "notes/MATEMÁTICA/ÁLGEBRA/progressões aritmética e geométrica.md",
-    "imagens/Pasted image 20231107105812.png",
-    "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md",
-    "notes/note-117.md",
     "series/development/s1/e9/output.mp3",
     "series/development/s1/e9/development_s1e9_334.mp3",
     "series/development/s1/e9/development_s1e9_333.mp3",

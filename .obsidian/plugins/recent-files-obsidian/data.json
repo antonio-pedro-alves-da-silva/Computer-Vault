@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "CINEMÁTICA",
-      "path": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
+      "basename": "DINÂMICA",
+      "path": "notes/FÍSICA/DINÂMICA.md"
     },
     {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "CINEMÁTICA",
+      "path": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
+    },
+    {
+      "basename": "note-460",
+      "path": "notes/note-460.md"
+    },
+    {
+      "basename": "print_screen_498",
+      "path": "imagens/print_screen_498.png"
     },
     {
       "basename": "note-459",
@@ -187,18 +199,6 @@
     {
       "basename": "development_s1e7",
       "path": "series/development/s1/e7/development_s1e7.md"
-    },
-    {
-      "basename": "development_s1e8_187",
-      "path": "series/development/s1/e8/development_s1e8_187.mp3"
-    },
-    {
-      "basename": "development_s1e8_178",
-      "path": "series/development/s1/e8/development_s1e8_178.mp3"
-    },
-    {
-      "basename": "print_screen_432",
-      "path": "imagens/print_screen_432.png"
     }
   ],
   "omittedPaths": [],

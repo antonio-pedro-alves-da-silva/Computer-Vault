@@ -11,7 +11,7 @@ cinemática
 	lançamento oblíquo
 		[[Pasted image 20231227161652.png|lançamento oblíquo vetores]]
 		[[print_screen_248.png|lançamento oblíquo formulas]]
-		[[print_screen_498.png|lançamento oblíquo do alto]]
+		[[note-460|lançamento oblíquo do alto]]
 	movimento rétilineo circular uniforme
 		[[print_screen_250.png|espaço linear]]
 		[[note-4|periodo e frequência]]
