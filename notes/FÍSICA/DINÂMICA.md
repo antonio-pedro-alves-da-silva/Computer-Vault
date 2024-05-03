@@ -37,7 +37,7 @@ quantidade de movimento e impulso
 		conservação da energia mecânica
 	[[print_screen_514.png|impulso]]
 	[[print_screen_515.png|Teorema do Impulso]]
-colisão 
+colisão
 	[[note-2|fase da deformação e fase da restituição]]
 	[[print_screen_525.png|coeficiente de restituição]]
 	[[note-3|tipos de colisões]]

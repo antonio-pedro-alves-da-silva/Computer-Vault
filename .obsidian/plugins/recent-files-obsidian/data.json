@@ -5,6 +5,10 @@
       "path": "notes/FÍSICA/DINÂMICA.md"
     },
     {
+      "basename": "print_screen_522",
+      "path": "imagens/print_screen_522.png"
+    },
+    {
       "basename": "development_s1e1",
       "path": "series/development/s1/e1/development_s1e1.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "note-453",
       "path": "notes/note-453.md"
-    },
-    {
-      "basename": "note-452",
-      "path": "notes/note-452.md"
     }
   ],
   "omittedPaths": [],
