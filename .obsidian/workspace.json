@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "30115260cf2843bc",
+            "id": "87b23580a3d65ab9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/TERMOLOGIA.md",
+                "file": "notes/GRAMÁTICA/questões erradas de português.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/TERMOLOGIA.md",
+                "file": "notes/GRAMÁTICA/questões erradas de português.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/TERMOLOGIA.md",
+                "file": "notes/GRAMÁTICA/questões erradas de português.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/TERMOLOGIA.md"
+                "file": "notes/GRAMÁTICA/questões erradas de português.md"
               }
             }
           },
@@ -182,12 +182,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "30115260cf2843bc",
+  "active": "87b23580a3d65ab9",
   "lastOpenFiles": [
-    "imagens/Pasted image 20231216091346.png",
-    "notes/FÍSICA/TERMOLOGIA.md",
-    "notes/note-95.md",
     "MATÉRIAS/EEAR.md",
+    "notes/FÍSICA/TERMOLOGIA.md",
+    "imagens/Pasted image 20231216091346.png",
+    "notes/note-95.md",
     "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "notes/note-45.md",
     "notes/FÍSICA/DINÂMICA.md",
@@ -219,7 +219,6 @@
     "imagens/print_screen_651.png",
     "imagens/print_screen_176.png",
     "imagens/print_screen_192.png",
-    "imagens/Pasted image 20231026084817.png",
     "series/development/s1/e9/output.mp3",
     "series/development/s1/e9/development_s1e9_334.mp3",
     "series/development/s1/e9/development_s1e9_333.mp3",
