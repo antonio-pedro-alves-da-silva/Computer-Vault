@@ -13,3 +13,7 @@ torturar
 	funciona apenas como transitivo direto
 [[note-65|aspirar]]
 lembrar
+	é regido pela preposição "de"
+	também pode servir como pronominal
+[[note-461|precisar]]
+[[note-462|preferir]]

@@ -87,3 +87,9 @@
 23)[[regência verbal]] 
 
 **prova de 2011**
+
+7)[[7 erros com pronomes pessoais]]
+8)[[regência verbal]]
+9)
+15)
+25)

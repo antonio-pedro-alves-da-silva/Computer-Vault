@@ -7,7 +7,7 @@ mim não pratica a ação quem pratica a ação é o eu
 
 exemplos:
 	para mim fazer. (errado)
-	para eu fazer. (correto)
+	para eu fazer. (o correto seria usar pronome pessoal do caso reto em vez do pronome do caso oblíquo)
 
 # 2)
 - entre eu e você

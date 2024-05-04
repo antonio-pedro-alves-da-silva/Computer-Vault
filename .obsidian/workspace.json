@@ -13,26 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "notes/GRAMÁTICA/questões erradas de português.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ab17b33c07865a9e",
+            "id": "2a22767f3bff2c2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md",
+                "file": "notes/GRAMÁTICA/regência verbal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "433277d318d61bc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-462.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "erro",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -107,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md",
+                "file": "notes/note-462.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md",
+                "file": "notes/note-462.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md"
+                "file": "notes/note-462.md"
               }
             }
           },
@@ -182,10 +195,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ab17b33c07865a9e",
+  "active": "433277d318d61bc7",
   "lastOpenFiles": [
-    "MATÉRIAS/EEAR.md",
+    "notes/GRAMÁTICA/regência verbal.md",
+    "notes/note-462.md",
+    "notes/note-461.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
+    "notes/GRAMÁTICA/pronome/7 erros com pronomes pessoais.md",
+    "MATÉRIAS/EEAR.md",
+    "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md",
     "notes/FÍSICA/TERMOLOGIA.md",
     "imagens/Pasted image 20231216091346.png",
     "notes/note-95.md",
@@ -200,8 +218,6 @@
     "imagens/print_screen_498.png",
     "notes/note-459.md",
     "notes/raiz quadrada de 11 até 40.md",
-    "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md",
-    "notes/GRAMÁTICA/regência verbal.md",
     "notes/note-143.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/MATEMÁTICA/ÁLGEBRA III/Números Complexos.md",
@@ -212,8 +228,6 @@
     "notes/MATEMÁTICA/ÁLGEBRA III/Polinômios/Polinômios.md",
     "notes/note-458.md",
     "notes/MATEMÁTICA/ÁLGEBRA III/Produto Notaveis.md",
-    "notes/note-457.md",
-    "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md",
     "imagens/print_screen_219.png",
     "imagens/print_screen_686.png",
     "imagens/print_screen_651.png",
