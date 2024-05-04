@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "87b23580a3d65ab9",
+            "id": "ab17b33c07865a9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "file": "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "file": "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "file": "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md"
+                "file": "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md"
               }
             }
           },
@@ -182,9 +182,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "87b23580a3d65ab9",
+  "active": "ab17b33c07865a9e",
   "lastOpenFiles": [
     "MATÉRIAS/EEAR.md",
+    "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/FÍSICA/TERMOLOGIA.md",
     "imagens/Pasted image 20231216091346.png",
     "notes/note-95.md",
@@ -200,7 +201,6 @@
     "notes/note-459.md",
     "notes/raiz quadrada de 11 até 40.md",
     "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md",
-    "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/GRAMÁTICA/regência verbal.md",
     "notes/note-143.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
