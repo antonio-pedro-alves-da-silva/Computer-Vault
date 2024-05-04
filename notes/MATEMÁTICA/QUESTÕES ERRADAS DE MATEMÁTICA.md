@@ -47,7 +47,7 @@ prova de 2015
 prova de 2014
 51 - área de um losango
 
-prova de 2011 
+prova de 2011
 [1](https://www.qconcursos.com/questoes-militares/questoes/adbc4f5d-55)-função modular
 [2](https://www.qconcursos.com/questoes-militare/questoes/adcf7f97-55)-quantas raizes uma função polinomial admite
 [3](https://www.qconcursos.com/questoes-militares/questoes/adf246e4-55)-função sobrejetora
@@ -84,6 +84,7 @@ prova de 2009
 [7](https://www.youtube.com/watch?v=lB1qcH1v_FA)(os ângulos da base maior de um trapézio)
 [8](https://www.youtube.com/watch?v=GkGzP1hb9F0)([[note-205|se a + b = 90]])
 prova de 2008
+
 [1](https://militares.estrategia.com/public/questoes/urna-contem-3-bolas32eed1490e/)(probabilidade de ambos os eventos ocorrem 3/7*2/6)
 [2](https://militares.estrategia.com/public/questoes/Comparando-tg-20deg-tg950159ce4/)(https://www.geogebra.org/m/EKPJP535)(ciclo trigonométrico - analisando a tangente)
 [3](https://militares.estrategia.com/public/questoes/Dado-x-para-que-numero29880c1b4e/)([[note-204|para que z seja real a parte imaginária tem que ser 0]])

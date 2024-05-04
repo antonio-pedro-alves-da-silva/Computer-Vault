@@ -1,0 +1,7 @@
+- Prefiro praia.
+- Prefiro sol.
+- Prefiro você.
+- Prefiro Roma.
+- Prefiro doce de leite.
+- Prefiro morango.
+- Prefiro isso.
