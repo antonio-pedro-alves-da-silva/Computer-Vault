@@ -921,7 +921,7 @@ MATEMÁTICA
 					estudo do sinal
 				função modular
 					propriedade de um módulo
-						[[print_screen_033.png|propriedade 1]]
+						[[print_screen_033.png|propriedade1]]
 						[[note-431|propriedade 2]]
 						[[note-432|propriedade 3]]
 					soma de duas funções modulares
@@ -1084,7 +1084,6 @@ AS MATÉRIAS QUE MAIS CAEM DE FÍSICA
 	- Resistores: Associação em série, paralelo e mista
 	- Potência e Energia Elétrica: Potência elétrica e energia elétrica.
 	- Eletromagnetismo: Ímas, campo magnético, força magnética, Lei de Faraday e Lenz
-
 
 AS MATÉRIAS QUE MAIS CAEM DE MATMÁTICA
 	MATEMÁTICA
