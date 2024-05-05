@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f68f7be46296fc10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATÉRIAS/EEAR.md"
+                "file": "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md"
               }
             }
           },
@@ -170,11 +183,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d2e7de27bdae239b",
+  "active": "f68f7be46296fc10",
   "lastOpenFiles": [
-    "notes/note-459.md",
     "MATÉRIAS/EEAR.md",
+    "notes/note-121.md",
     "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
+    "notes/note-466.md",
+    "notes/note-459.md",
     "notes/raiz quadrada de 11 até 40.md",
     "notes/FÍSICA/TERMOLOGIA.md",
     "notes/note-397.md",
@@ -199,9 +214,7 @@
     "imagens/print_screen_522.png",
     "series/development/s1/e1/development_s1e1.md",
     "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
-    "notes/note-460.md",
     "imagens/print_screen_498.png",
-    "notes/note-143.md",
     "imagens/print_screen_688.png",
     "imagens/print_screen_687.png",
     "imagens/print_screen_219.png",

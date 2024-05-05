@@ -1071,6 +1071,7 @@ FÍSICA
 			Olho humano (principais defeitos da visão). 
 	[[TERMOLOGIA]]
 
+
 AS MATÉRIAS QUE MAIS CAEM DE FÍSICA
 	Cinemática: M.U , M.U.V , equações, gráficos, torricelli, lançamentos e queda livre
 	Vetores: Lei dos cossenos, Pitágoras, Decomposição de vetores

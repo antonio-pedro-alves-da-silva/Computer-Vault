@@ -1,7 +1,7 @@
 
 vetores
 	qual a diferença entre grandezas vetoriais e escalares ?
-	[[Pasted image 20231125094454.png|Direção e Sentido]]
+	[[note-466|Direção e Sentido]]
 	[[Pasted image 20231225220906.png|Sinal da Direção]]
 	Soma de Vetores
 		[[note-121|regra do paralelogramo]]
