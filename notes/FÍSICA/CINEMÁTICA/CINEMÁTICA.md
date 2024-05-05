@@ -24,7 +24,7 @@ cinemática
 	Acoplamento de polia por engrenagens
 		[[note-124|Acoplamento com mesmo eixo]]
 		[[note-123|raio para acoplamento por engrenagens]]
-	velocidade relativa da imagen em relação ao espelho e observador 
+	velocidade relativa da imagen em relação ao espelho e observador
 		[[print_screen_631.png|espelho parado e observador em movimento]]
 		[[print_screen_632.png|espelho em movimento e obserador parado]]
 		[[print_screen_633.png|espelho em movimento e observador em movimento]]
