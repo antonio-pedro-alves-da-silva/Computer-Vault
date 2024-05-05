@@ -5,6 +5,10 @@
       "path": "notes/FÍSICA/TERMOLOGIA.md"
     },
     {
+      "basename": "note-397",
+      "path": "notes/note-397.md"
+    },
+    {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "note-455",
       "path": "notes/note-455.md"
-    },
-    {
-      "basename": "progressões aritmética e geométrica",
-      "path": "notes/MATEMÁTICA/ÁLGEBRA/progressões aritmética e geométrica.md"
     }
   ],
   "omittedPaths": [],
