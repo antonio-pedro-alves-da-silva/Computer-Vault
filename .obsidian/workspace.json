@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "f68f7be46296fc10",
+            "id": "4565abbddc48e3e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
+                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
+                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
+                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md"
+                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
               }
             }
           },
@@ -183,11 +183,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f68f7be46296fc10",
+  "active": "4565abbddc48e3e2",
   "lastOpenFiles": [
+    "series/harry/s1/e1/harry_s1e1.mkv",
+    "series/harry/s1/e1/Harry.Potter.And.The.Sorcerers.Stone.2001.Ult.Extended.480P.Bluray.Hindi.English.Esub.MoviesMod.org.mkv",
+    "series/harry/s1/e1",
+    "series/harry/s1",
+    "series/harry",
     "MATÉRIAS/EEAR.md",
-    "notes/note-121.md",
     "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
+    "notes/note-121.md",
     "notes/note-466.md",
     "notes/note-459.md",
     "notes/raiz quadrada de 11 até 40.md",
@@ -213,7 +218,6 @@
     "dia para ir ao dentista.md",
     "imagens/print_screen_522.png",
     "series/development/s1/e1/development_s1e1.md",
-    "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
     "imagens/print_screen_498.png",
     "imagens/print_screen_688.png",
     "imagens/print_screen_687.png",
@@ -227,10 +231,6 @@
     "series/development/s1/e9/development_s1e9_332.mp3",
     "series/development/s1/e9/development_s1e9_331.mp3",
     "series/development/s1/e9/development_s1e9_330.mp3",
-    "series/development/s1/e9/development_s1e9_329.mp3",
-    "series/development/s1/e9/development_s1e9_328.mp3",
-    "series/development/s1/e9/development_s1e9_327.mp3",
-    "series/development/s1/e9/development_s1e9_326.mp3",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
