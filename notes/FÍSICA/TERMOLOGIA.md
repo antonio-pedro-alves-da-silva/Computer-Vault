@@ -95,4 +95,3 @@ termologia
 			[1](https://www.qconcursos.com/questoes-militares/questoes/fe829d84-7e)(rendimento do ciclo de carnot)
 			[2](https://www.qconcursos.com/questoes-militares/questoes/5883270b-ad)([[note-397|resolução]])
 
-
