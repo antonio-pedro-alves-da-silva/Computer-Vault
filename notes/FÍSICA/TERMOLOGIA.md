@@ -88,7 +88,7 @@ termologia
 			[3](https://www.qconcursos.com/questoes-militares/questoes/85b1a0bf-53)([[note-420|resolução]])
 		gás ideal
 			[1](https://www.qconcursos.com/questoes-militares/questoes/9d816be1-50)(qual transformação aumenta de temperatura mais rápido)
-			[2](https://www.qconcursos.com/questoes-militares/questoes/25fce71f-4e)(temperatura aumenta mais rápidamente a volume constante)
+			[2](https://www.qconcursos.com/questoes-militares/questoes/25fce71f-4e)(temperatura aumenta mais rápidamente a volume constante do que a pressão constante)
 		1° Lei da termodinâmica
 			[1](https://www.qconcursos.com/questoes-militares/questoes/b203e8d8-01)(a variação de energia é a mesma já que ele começam no ponto i e terminam no ponto f  , [[print_screen_624.png|Wa > Wb > Wc]])
 		2° Lei da termodinâmica
