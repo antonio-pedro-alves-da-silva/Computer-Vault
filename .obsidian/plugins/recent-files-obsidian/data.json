@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "EEAR",
+      "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "note-459",
+      "path": "notes/note-459.md"
+    },
+    {
+      "basename": "vetores",
+      "path": "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md"
+    },
+    {
+      "basename": "raiz quadrada de 11 até 40",
+      "path": "notes/raiz quadrada de 11 até 40.md"
+    },
+    {
       "basename": "TERMOLOGIA",
       "path": "notes/FÍSICA/TERMOLOGIA.md"
     },
     {
       "basename": "note-397",
       "path": "notes/note-397.md"
-    },
-    {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
     },
     {
       "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
@@ -105,14 +117,6 @@
       "path": "imagens/print_screen_498.png"
     },
     {
-      "basename": "note-459",
-      "path": "notes/note-459.md"
-    },
-    {
-      "basename": "raiz quadrada de 11 até 40",
-      "path": "notes/raiz quadrada de 11 até 40.md"
-    },
-    {
       "basename": "note-143",
       "path": "notes/note-143.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Ângulos",
       "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/Ângulos.md"
-    },
-    {
-      "basename": "note-455",
-      "path": "notes/note-455.md"
     }
   ],
   "omittedPaths": [],
