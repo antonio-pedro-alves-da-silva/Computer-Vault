@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "4565abbddc48e3e2",
+            "id": "7d804a6939a6abd5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
+                "file": "notes/GRAMÁTICA/questões erradas de português.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
+                "file": "notes/GRAMÁTICA/questões erradas de português.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
+                "file": "notes/GRAMÁTICA/questões erradas de português.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
+                "file": "notes/GRAMÁTICA/questões erradas de português.md"
               }
             }
           },
@@ -183,10 +183,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4565abbddc48e3e2",
+  "active": "7d804a6939a6abd5",
   "lastOpenFiles": [
-    "notes/note-467.md",
+    "MATÉRIAS/EEAR.md",
     "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
+    "notes/note-467.md",
     "imagens/print_screen_248.png",
     "series/helsing/s1/e1/translated.srt",
     "series/helsing/s1/e1/subtitles.srt",
@@ -198,7 +199,6 @@
     "series/s1/e1/helsing_s1e1.mkv",
     "series/s1/e1",
     "series/s1",
-    "MATÉRIAS/EEAR.md",
     "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
     "notes/note-121.md",
     "notes/note-466.md",
