@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c31e5723921e0454",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "MATÉRIAS/EEAR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "MATÉRIAS/EEAR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+                "file": "MATÉRIAS/EEAR.md"
               }
             }
           },
@@ -183,8 +170,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c31e5723921e0454",
+  "active": "d2e7de27bdae239b",
   "lastOpenFiles": [
+    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "series/helsing/s1/e1/output.mp3",
     "series/helsing/s1/e1/helsing_s1e1_1108.mp3",
     "series/helsing/s1/e1/helsing_s1e1_1104.mp3",
@@ -195,9 +183,7 @@
     "series/helsing/s1/e1/helsing_s1e1_997.mp3",
     "series/helsing/s1/e1/helsing_s1e1_994.mp3",
     "series/helsing/s1/e1/helsing_s1e1_988.mp3",
-    "series/helsing/s1/e1/helsing_s1e1_984.mp3",
     "MATÉRIAS/EEAR.md",
-    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "Pasted image 20240506182118.png",
     "Pasted image 20240506181958.png",
     "Pasted image 20240506181907.png",

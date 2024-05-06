@@ -57,6 +57,7 @@ prova de 2011
 
 prova de 2009
 62 - 
+72 - 
 
 prova de 2023
 [1](https://www.qconcursos.com/questoes-militares/questoes/5ad19354-16)-função polinomial do 1° grau
