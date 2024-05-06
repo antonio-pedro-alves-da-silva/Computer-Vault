@@ -7,10 +7,11 @@ cinemática
 	lançamento vertical
 		[[print_screen_635.png|formulas de lançamento vertical]]
 		[[note-126|tempo de subida]]
+		[encontro de duas bolas com delay](https://www.youtube.com/watch?v=CttqSRW-nzE)
 	[[print_screen_247.png|lançamento horizontal]]
 	lançamento oblíquo
 		[[Pasted image 20231227161652.png|lançamento oblíquo vetores]]
-		[[print_screen_248.png|lançamento oblíquo formulas]]
+		[[note-467|lançamento oblíquo formulas]]
 		[[note-460|lançamento oblíquo do alto]]
 	movimento rétilineo circular uniforme
 		[[print_screen_250.png|espaço linear]]

@@ -5,6 +5,14 @@
       "path": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
     },
     {
+      "basename": "note-467",
+      "path": "notes/note-467.md"
+    },
+    {
+      "basename": "print_screen_248",
+      "path": "imagens/print_screen_248.png"
+    },
+    {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "bico(pontos notáveis)",
       "path": "notes/bico(pontos notáveis).md"
-    },
-    {
-      "basename": "print_screen_192",
-      "path": "imagens/print_screen_192.png"
-    },
-    {
-      "basename": "Pasted image 20231026084817",
-      "path": "imagens/Pasted image 20231026084817.png"
     }
   ],
   "omittedPaths": [],
