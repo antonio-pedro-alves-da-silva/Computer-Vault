@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "cbc014d04b041495",
+            "id": "c31e5723921e0454",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "quadrangular",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md"
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
               }
             }
           },
@@ -183,11 +183,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cbc014d04b041495",
+  "active": "c31e5723921e0454",
   "lastOpenFiles": [
     "MATÉRIAS/EEAR.md",
-    "notes/MATEMÁTICA/GEOMETRIA PLANA/Ângulos.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "Pasted image 20240506182118.png",
+    "Pasted image 20240506181958.png",
+    "Pasted image 20240506181907.png",
+    "Pasted image 20240506181843.png",
+    "notes/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
+    "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
+    "notes/MATEMÁTICA/GEOMETRIA PLANA/Ângulos.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-143.md",
     "notes/note-53.md",
@@ -220,17 +226,10 @@
     "notes/note-463.md",
     "notes/note-461.md",
     "notes/GRAMÁTICA/pronome/7 erros com pronomes pessoais.md",
-    "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md",
     "imagens/Pasted image 20231216091346.png",
-    "notes/note-95.md",
-    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "imagens/print_screen_522.png",
     "imagens/print_screen_498.png",
     "imagens/print_screen_688.png",
-    "imagens/print_screen_687.png",
-    "imagens/print_screen_219.png",
-    "imagens/print_screen_686.png",
-    "imagens/print_screen_651.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

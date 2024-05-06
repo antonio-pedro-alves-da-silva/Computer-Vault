@@ -46,7 +46,7 @@ prova de 2015
 [3](https://www.qconcursos.com/questoes-militares/questoes/b590aac0-55)(estudo analítico da circuferência)(distância entre pontos e produtos notáveis)
 prova de 2014
 51 - área de um losango
-
+66 -[[Pasted image 20240506181907.png|cartograma]] , [[Pasted image 20240506181843.png|pictograma]] , [[Pasted image 20240506181958.png|histrograma]] e [[Pasted image 20240506182118.png|estereograma]]
 prova de 2011
 [1](https://www.qconcursos.com/questoes-militares/questoes/adbc4f5d-55)-função modular
 [2](https://www.qconcursos.com/questoes-militare/questoes/adcf7f97-55)-quantas raizes uma função polinomial admite
@@ -56,6 +56,7 @@ prova de 2011
 [6](https://www.qconcursos.com/questoes-militares/questoes/7c9d4c07-58)- [[print_screen_150.png|Formula trigonométrica adição]] , [[print_screen_153.png|arco duplo]] e [[print_screen_152.png|arco metade]]
 
 prova de 2009
+62 - 
 
 prova de 2023
 [1](https://www.qconcursos.com/questoes-militares/questoes/5ad19354-16)-função polinomial do 1° grau

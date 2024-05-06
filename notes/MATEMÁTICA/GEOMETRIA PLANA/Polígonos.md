@@ -22,7 +22,7 @@ circuferência
 		[[print_screen_192.png|circuferência inscrita em um triângulo retângulo]]
 
 
-
+ 
 ## semelhança de triângulo
 
 ![[print_screen_203.png]]
