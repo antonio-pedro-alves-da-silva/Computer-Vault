@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "7d804a6939a6abd5",
+            "id": "cbc014d04b041495",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "file": "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "erro",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "file": "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "file": "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md"
+                "file": "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md"
               }
             }
           },
@@ -183,9 +183,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7d804a6939a6abd5",
+  "active": "cbc014d04b041495",
   "lastOpenFiles": [
     "MATÉRIAS/EEAR.md",
+    "notes/MATEMÁTICA/GEOMETRIA PLANA/Ângulos.md",
+    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "notes/GRAMÁTICA/questões erradas de português.md",
+    "notes/note-143.md",
+    "notes/note-53.md",
     "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
     "notes/note-467.md",
     "imagens/print_screen_248.png",
@@ -206,9 +211,7 @@
     "notes/raiz quadrada de 11 até 40.md",
     "notes/FÍSICA/TERMOLOGIA.md",
     "notes/note-397.md",
-    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "imagens/Pasted image 20240302171101.png",
-    "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/crase.md",
     "notes/GRAMÁTICA/regência verbal.md",
     "notes/note-462.md",
@@ -221,9 +224,6 @@
     "imagens/Pasted image 20231216091346.png",
     "notes/note-95.md",
     "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
-    "notes/note-45.md",
-    "notes/FÍSICA/DINÂMICA.md",
-    "dia para ir ao dentista.md",
     "imagens/print_screen_522.png",
     "imagens/print_screen_498.png",
     "imagens/print_screen_688.png",

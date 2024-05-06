@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "questões erradas de português",
-      "path": "notes/GRAMÁTICA/questões erradas de português.md"
+      "basename": "Polígonos",
+      "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md"
     },
     {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "Ângulos",
+      "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/Ângulos.md"
+    },
+    {
+      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
+      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+    },
+    {
+      "basename": "questões erradas de português",
+      "path": "notes/GRAMÁTICA/questões erradas de português.md"
+    },
+    {
+      "basename": "note-143",
+      "path": "notes/note-143.md"
+    },
+    {
+      "basename": "note-53",
+      "path": "notes/note-53.md"
     },
     {
       "basename": "CINEMÁTICA",
@@ -47,10 +67,6 @@
     {
       "basename": "note-397",
       "path": "notes/note-397.md"
-    },
-    {
-      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
-      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
     },
     {
       "basename": "Pasted image 20240302171101",
@@ -133,10 +149,6 @@
       "path": "imagens/print_screen_498.png"
     },
     {
-      "basename": "note-143",
-      "path": "notes/note-143.md"
-    },
-    {
       "basename": "Números Complexos",
       "path": "notes/MATEMÁTICA/ÁLGEBRA III/Números Complexos.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "print_screen_651",
       "path": "imagens/print_screen_651.png"
-    },
-    {
-      "basename": "Polígonos",
-      "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md"
-    },
-    {
-      "basename": "print_screen_176",
-      "path": "imagens/print_screen_176.png"
-    },
-    {
-      "basename": "bico(pontos notáveis)",
-      "path": "notes/bico(pontos notáveis).md"
     }
   ],
   "omittedPaths": [],

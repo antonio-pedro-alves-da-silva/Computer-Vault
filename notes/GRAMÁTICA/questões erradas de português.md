@@ -1,16 +1,3 @@
-**prova de 2008**
-
-6)b - inodora,insípida,pluviais,fluviais
-8)[[crase]]
-12)
-	plural de palavras compostas
-		[[note-423|Substantivo + substantivo que especifica o primeiro]]
-		[[note-424|Palavras unidas por preposição]]
-		Verbo ou advérbio + substantivo ou adjetivo
-		[[note-425|Palavras repetidas ou onomatopeias]]
-		Palavra variável + palavra variável
-13)[[note-414|oração coordenada sindética]]
-23)[[note-53|acento diferenciais]]
 
 **prova de 2006**
 
@@ -94,3 +81,15 @@
 15)easy
 25)
 
+
+**prova de 2008**
+
+5)easy
+6)inodora,insípida,pluviais,fluviais
+8)easy
+16)easy
+17)easy
+23)[[note-53|acento diferenciais]]
+24)
+
+**prova de 2009** - onde parei
