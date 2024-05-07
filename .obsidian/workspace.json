@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "78c7e1570ee7ea69",
+            "id": "388d8baaf2e7ae90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
+                "file": "series/helsing/s1/e1/helsing_s1e1.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
+                "file": "series/helsing/s1/e1/helsing_s1e1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
+                "file": "series/helsing/s1/e1/helsing_s1e1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
+                "file": "series/helsing/s1/e1/helsing_s1e1.md"
               }
             }
           },
@@ -182,10 +182,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "78c7e1570ee7ea69",
+  "active": "388d8baaf2e7ae90",
   "lastOpenFiles": [
     "MATÉRIAS/EEAR.md",
-    "series/helsing/s1/e1/development_s1e1.md",
+    "series/helsing/s1/e1/helsing_s1e1.md",
+    "notes/Untitled 10.md",
+    "Pasted image 20240507124727.png",
+    "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
     "series/helsing/s1/e1/output.mp3",
     "series/helsing/s1/e1/helsing_s1e1_1108.mp3",
     "series/helsing/s1/e1/helsing_s1e1_1104.mp3",
@@ -196,7 +199,6 @@
     "series/helsing/s1/e1/helsing_s1e1_997.mp3",
     "series/helsing/s1/e1/helsing_s1e1_994.mp3",
     "series/helsing/s1/e1/helsing_s1e1_988.mp3",
-    "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "imagens/print_screen_174.png",
     "notes/GRAMÁTICA/questões erradas de português.md",
@@ -228,7 +230,6 @@
     "imagens/Pasted image 20240302171101.png",
     "imagens/Pasted image 20231216091346.png",
     "imagens/print_screen_522.png",
-    "imagens/print_screen_498.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

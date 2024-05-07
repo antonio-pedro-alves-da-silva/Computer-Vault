@@ -41,7 +41,7 @@ cinemática
 		[13](https://www.qconcursos.com/questoes-militares/questoes/b0d57b92-d0)(aceleração média através da performance)	
 		[14](https://www.qconcursos.com/questoes-militares/questoes/b0cce20c-d0)(velocidade tangencial, em km/h, do movimento de translação do planeta Terra em torno do Sol)
 		[15](https://www.qconcursos.com/questoes-militares/questoes/78d3721b-bf)([[Pasted image 20240324144324.png|Velocidade Média]])
-		[16](https://www.qconcursos.com/questoes-militares/questoes/3e6b0d13-3b)(aceleração média)
+		[16](https://www.qconcursos.com/questoes-militares/questoes/3e6b0d13-3b)(equação de torriceli)
 		[17](https://www.qconcursos.com/questoes-militares/questoes/c8a45a58-59)(lançamento vertical de uma granada)
 		[18](https://www.qconcursos.com/questoes-militares/questoes/c8780f97-59)(Lançamento Vertical)
 		[19](https://www.qconcursos.com/questoes-militares/questoes/a1f0e635-55)- MRUV
