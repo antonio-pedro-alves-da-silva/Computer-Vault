@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "388d8baaf2e7ae90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "series/helsing/s1/e1/helsing_s1e1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "series/helsing/s1/e1/helsing_s1e1.md",
+                "file": "MATÉRIAS/EEAR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "series/helsing/s1/e1/helsing_s1e1.md",
+                "file": "MATÉRIAS/EEAR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "series/helsing/s1/e1/helsing_s1e1.md"
+                "file": "MATÉRIAS/EEAR.md"
               }
             }
           },
@@ -182,10 +169,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "388d8baaf2e7ae90",
+  "active": "d2e7de27bdae239b",
   "lastOpenFiles": [
-    "MATÉRIAS/EEAR.md",
     "series/helsing/s1/e1/helsing_s1e1.md",
+    "MATÉRIAS/EEAR.md",
+    "Pasted image 20240507130409.png",
     "notes/Untitled 10.md",
     "Pasted image 20240507124727.png",
     "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
@@ -226,10 +214,8 @@
     "notes/note-459.md",
     "notes/raiz quadrada de 11 até 40.md",
     "notes/FÍSICA/TERMOLOGIA.md",
-    "notes/note-397.md",
     "imagens/Pasted image 20240302171101.png",
     "imagens/Pasted image 20231216091346.png",
-    "imagens/print_screen_522.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
