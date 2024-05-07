@@ -48,7 +48,7 @@ cinemática
 		[19](https://www.qconcursos.com/questoes-militares/questoes/a1f0e635-55)- MRUV
 		[20](https://www.qconcursos.com/questoes-militares/questoes/45011f49-53)-MCUV
 		[21](https://www.qconcursos.com/questoes-militares/questoes/44f4224a-53)-Função horária da gota quando cai da nuvem em relação ao solo
-		[22](https://www.qconcursos.com/questoes-militares/questoes/e7ea93ad-4d)- MRUV(470m e 560m)
+		[22](https://www.qconcursos.com/questoes-militares/questoes/e7ea93ad-4d)-MRUV(470m e 560m)
 		[23](https://www.qconcursos.com/questoes-militares/questoes/4d9aa9d1-42)-(espelho na lua , tempo médio do experimento da luz)
 		[24](https://www.qconcursos.com/questoes-militares/questoes/4d77ca6e-42)-()
 		[25](https://www.qconcursos.com/questoes-militares/questoes/4650a6c6-49)(lançamento no plano inclinado)
