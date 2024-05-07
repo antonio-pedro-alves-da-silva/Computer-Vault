@@ -1,5 +1,9 @@
 dintongo aberto : [a, é, ó] + semivogal
 
-[[note-51|quando acentuar]]
-[[note-52|quando não acentuar]]
+==sendo a ultima silába se acentua== Ex.:coronéis , anéis , fiéis , heróis , troféus.
+
+==em palavras paroxítonas **NÃO** são acentuados==. 
+Exemplos: boia, estreia, heroico, ideia, jiboia, paranoia, plateia, colmeia, assembleia.
+
+
 

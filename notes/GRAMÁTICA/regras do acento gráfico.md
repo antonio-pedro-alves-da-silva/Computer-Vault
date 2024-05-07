@@ -1,12 +1,7 @@
 
 Proparoxítonas
 	todas são acentudas sem exceção
-Paroxítonas
-	terminações
-		==recebem acento quando terminadas em: -i (s), u(s), um(s), l, r, x, n , m , ditongo oral seguido ou não de s. , -guam, -guem ,  -ons, -ps , -ei(s) ==
-	deixam de ser acentudas
-		==-o de -oo== deixa de ser acentuada.
-		deixou de ser usado em ==paroxítonas homógrafas==
+[[note-468|Paroxítonas]]
 Oxítonas
 	 acentuam-se as terminadas em: -a(s), -e(s), -o(s), -em(ns) . Exemplos: cajá, café, paletó, também, parabéns.Formas verbais terminadas em "a", "e", "o" tônicos seguidas de lo(s), la(s)
 	Acentuação dos monossílabos tônicos
@@ -17,7 +12,14 @@ Oxítonas
 		**ÉU, ÉUS**: céu, céus, réu, réus, véu, véus.
 		**ÉI, ÉIS**: réis, géis.
 		**ÓI, ÓIS**: dói, mói, sóis.
-[[note-338|hiatos]]
+hiatos
+	quando acrescentar o acento
+		[[note-305|1]].iu
+		[[note-306|2]].ditongo 
+	quando não acrescentar o acento
+		[[note-307|1]].nh
+		[[note-308|2]].idêntica
+		[[note-309|3]].ditongo
 [[note-339|ditongos abertos]]
 [[note-53|acento diferenciais]]
 

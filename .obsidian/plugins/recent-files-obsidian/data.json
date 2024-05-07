@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "note-339",
+      "path": "notes/note-339.md"
+    },
+    {
+      "basename": "regras do acento gráfico",
+      "path": "notes/GRAMÁTICA/regras do acento gráfico.md"
+    },
+    {
+      "basename": "note-309",
+      "path": "notes/note-309.md"
+    },
+    {
       "basename": "questões erradas de português",
       "path": "notes/GRAMÁTICA/questões erradas de português.md"
+    },
+    {
+      "basename": "note-468",
+      "path": "notes/note-468.md"
     },
     {
       "basename": "EEAR",
@@ -175,30 +191,6 @@
     {
       "basename": "Produto Notaveis",
       "path": "notes/MATEMÁTICA/ÁLGEBRA III/Produto Notaveis.md"
-    },
-    {
-      "basename": "note-457",
-      "path": "notes/note-457.md"
-    },
-    {
-      "basename": "Estudo Analítico",
-      "path": "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md"
-    },
-    {
-      "basename": "print_screen_219",
-      "path": "imagens/print_screen_219.png"
-    },
-    {
-      "basename": "Matrizes",
-      "path": "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md"
-    },
-    {
-      "basename": "note-456",
-      "path": "notes/note-456.md"
-    },
-    {
-      "basename": "print_screen_651",
-      "path": "imagens/print_screen_651.png"
     }
   ],
   "omittedPaths": [],
