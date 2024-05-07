@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
+                "file": "series/helsing/s1/e1/development_s1e1.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "quadrangular",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
+                "file": "series/helsing/s1/e1/development_s1e1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
+                "file": "series/helsing/s1/e1/development_s1e1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
+                "file": "series/helsing/s1/e1/development_s1e1.md"
               }
             }
           },
@@ -185,6 +184,19 @@
   },
   "active": "54b0ae3fc3ea41fd",
   "lastOpenFiles": [
+    "series/helsing/s1/e1/output.mp3",
+    "series/helsing/s1/e1/helsing_s1e1_1108.mp3",
+    "series/helsing/s1/e1/helsing_s1e1_1104.mp3",
+    "series/helsing/s1/e1/helsing_s1e1_1092.mp3",
+    "series/helsing/s1/e1/helsing_s1e1_1087.mp3",
+    "series/helsing/s1/e1/helsing_s1e1_1040.mp3",
+    "series/helsing/s1/e1/helsing_s1e1_1021.mp3",
+    "series/helsing/s1/e1/helsing_s1e1_997.mp3",
+    "series/helsing/s1/e1/helsing_s1e1_994.mp3",
+    "series/helsing/s1/e1/helsing_s1e1_988.mp3",
+    "series/helsing/s1/e1/helsing_s1e1_984.mp3",
+    "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
+    "series/helsing/s1/e1/development_s1e1.md",
     "MATÉRIAS/EEAR.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "imagens/print_screen_174.png",
@@ -197,16 +209,6 @@
     "notes/note-338.md",
     "notes/note-468.md",
     "notes/note-143.md",
-    "series/helsing/s1/e1/output.mp3",
-    "series/helsing/s1/e1/helsing_s1e1_1108.mp3",
-    "series/helsing/s1/e1/helsing_s1e1_1104.mp3",
-    "series/helsing/s1/e1/helsing_s1e1_1092.mp3",
-    "series/helsing/s1/e1/helsing_s1e1_1087.mp3",
-    "series/helsing/s1/e1/helsing_s1e1_1040.mp3",
-    "series/helsing/s1/e1/helsing_s1e1_1021.mp3",
-    "series/helsing/s1/e1/helsing_s1e1_997.mp3",
-    "series/helsing/s1/e1/helsing_s1e1_994.mp3",
-    "series/helsing/s1/e1/helsing_s1e1_988.mp3",
     "Pasted image 20240506182118.png",
     "Pasted image 20240506181958.png",
     "Pasted image 20240506181907.png",
@@ -215,7 +217,6 @@
     "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
     "notes/MATEMÁTICA/GEOMETRIA PLANA/Ângulos.md",
     "notes/note-53.md",
-    "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
     "notes/note-467.md",
     "imagens/print_screen_248.png",
     "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
@@ -226,7 +227,6 @@
     "notes/FÍSICA/TERMOLOGIA.md",
     "notes/note-397.md",
     "imagens/Pasted image 20240302171101.png",
-    "notes/crase.md",
     "imagens/Pasted image 20231216091346.png",
     "imagens/print_screen_522.png",
     "imagens/print_screen_498.png",
