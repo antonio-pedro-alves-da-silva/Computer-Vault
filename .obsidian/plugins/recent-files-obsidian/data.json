@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "DINÂMICA",
+      "path": "notes/FÍSICA/DINÂMICA.md"
+    },
+    {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
     },
     {
-      "basename": "helsing_s1e1",
-      "path": "series/helsing/s1/e1/helsing_s1e1.md"
+      "basename": "note-2",
+      "path": "notes/note-2.md"
     },
     {
-      "basename": "DINÂMICA",
-      "path": "notes/FÍSICA/DINÂMICA.md"
+      "basename": "print_screen_516",
+      "path": "imagens/print_screen_516.png"
+    },
+    {
+      "basename": "helsing_s1e1",
+      "path": "series/helsing/s1/e1/helsing_s1e1.md"
     },
     {
       "basename": "CINEMÁTICA",
@@ -191,14 +199,6 @@
     {
       "basename": "PROBRABILIDADE",
       "path": "notes/MATEMÁTICA/PROBABILIDADE/PROBRABILIDADE.md"
-    },
-    {
-      "basename": "Polinômios",
-      "path": "notes/MATEMÁTICA/ÁLGEBRA III/Polinômios/Polinômios.md"
-    },
-    {
-      "basename": "note-458",
-      "path": "notes/note-458.md"
     }
   ],
   "omittedPaths": [],
