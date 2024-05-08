@@ -1,6 +1,8 @@
+
 valores notáveis de seno , cosseno e tangente
 [[Drawing 2023-10-21 21.46.15.excalidraw|valores de seno , cosseno e tangente na circuferência]]
 [[Pasted image 20231023202425.png|co-tangente,secante,cossecante]]
+[[Pasted image 20240508173859.png|de onde vêm esses valores]]
 [[relações decorrentes da relação fundamental da trigonometria.jpeg|Relação decorrente da relação fundamental da trigonometria]]
 [[print_screen_140.png|arcos simétricos]]
 formulas trigonométricas

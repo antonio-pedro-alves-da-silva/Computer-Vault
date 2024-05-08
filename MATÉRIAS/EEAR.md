@@ -951,7 +951,7 @@ MATEMÁTICA
 						[[print_screen_228.png|propriedade 4]]
 						[[print_screen_087.png|propriedade 5]]
 						[[print_screen_089.png|propriedade 6]]
-			[[progressões aritmética e geométrica]]
+		[[progressões aritmética e geométrica]]
 	GEOMETRIA PLANA
 		[[ângulos]]
 		[[polígonos]]
@@ -960,6 +960,9 @@ MATEMÁTICA
 	ÁLGEBRA II
 		[[Matrizes]]
 		[[Análise combinatória]]
+		inequação
+			propriedades
+				[[note-442|inequação - propriedade dos expoentes]]
 	ESTATÍSTICA
 		[[população , amostra , variável , rol e amplitude]]
 		tabelas
