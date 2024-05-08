@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "file": "MATÉRIAS/EEAR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "file": "MATÉRIAS/EEAR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md"
+                "file": "MATÉRIAS/EEAR.md"
               }
             }
           },
@@ -182,8 +181,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "845e40b1bfe37e7a",
+  "active": "d2e7de27bdae239b",
   "lastOpenFiles": [
+    "notes/GRAMÁTICA/questões erradas de português.md",
     "MATÉRIAS/EEAR.md",
     "notes/FÍSICA/DINÂMICA.md",
     "series/helsing/s1/e1/helsing_s1e1.md",
@@ -211,7 +211,6 @@
     "series/helsing/s1/e1/helsing_s1e1_988.mp3",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "imagens/print_screen_174.png",
-    "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-339.md",
     "notes/note-51.md",
     "notes/note-52.md",
