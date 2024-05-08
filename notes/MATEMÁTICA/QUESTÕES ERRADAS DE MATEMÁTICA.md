@@ -30,7 +30,7 @@ prova de 2017
 prova de 2016
 53 - 
 56 -
-61 - 
+60 - 
  
 [1](https://www.qconcursos.com/questoes-militares/questoes/7dde27f8-3a)-inequação 
 [2](https://www.qconcursos.com/questoes-militares/questoes/7de8f92f-3a)-progressão geométrica

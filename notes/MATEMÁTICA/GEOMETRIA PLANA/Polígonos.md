@@ -5,7 +5,7 @@ triângulos
 	[[Pasted image 20231025164307.png|classificação quanto aos lados]]
 	[[Pasted image 20231025164510.png|classificação quanto aos ângulos]]
 	[[Pasted image 20231111153400.png|triângulo egípicio]]
-	[[print_screen_179.png|relações métricas e áreas]]
+	[[note-471|relações métricas e áreas]]
 	[[print_screen_193.png|área do tringulo]]
 	[[print_screen_176.png|congruência dos triângulos]]
 	semelhança de triângulo

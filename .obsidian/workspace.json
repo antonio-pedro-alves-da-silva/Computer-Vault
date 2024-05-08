@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "formulas",
+                "query": "relações",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,14 +185,17 @@
   },
   "active": "cc925550b3e8c5aa",
   "lastOpenFiles": [
-    "MATÉRIAS/EEAR.md",
-    "notes/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md",
+    "notes/MATEMÁTICA/ÁLGEBRA III/Produto Notaveis.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "MATÉRIAS/EEAR.md",
+    "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
+    "notes/note-471.md",
+    "notes/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
+    "notes/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md",
     "Pasted image 20240508173859.png",
     "notes/MATEMÁTICA/ÁLGEBRA/progressões aritmética e geométrica.md",
     "notes/note-442.md",
     "notes/note-440.md",
-    "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
     "imagens/print_screen_192.png",
     "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
@@ -228,8 +231,6 @@
     "notes/note-309.md",
     "notes/note-338.md",
     "notes/note-468.md",
-    "notes/note-143.md",
-    "notes/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
