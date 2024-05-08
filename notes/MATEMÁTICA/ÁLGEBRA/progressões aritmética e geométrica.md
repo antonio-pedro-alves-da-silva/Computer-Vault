@@ -2,6 +2,7 @@
 [[print_screen_661.png|equivalência da progressão aritmética e geométrica]]
 [[Pasted image 20231107110414.png|propriedade da p.a]]
 [[Pasted image 20231107105812.png|propriedade da p.g]]
+[[note-440|Progressão aritmética - Como descobrir o elemento do meio]]
 
 ![[Pasted image 20231107104740.png]]
 

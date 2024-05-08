@@ -6,15 +6,13 @@
 [5](https://brainly.com.br/tarefa/21576246#:~:text=O%20valor%20de%20n%20%C3%A9%20b)- [[note-362|Relações trigonométricas de um triangulo retângulo]]
 [6](https://www.qconcursos.com/questoes-militares/questoes/fe1dcdf2-7e)- [[note-346|relações de Girard]]
 [7](https://www.qconcursos.com/questoes-militares/questoes/45ee02a5-49)- Graus de Polinômios
-[8](https://www.qconcursos.com/questoes-militares/questoes/fe0b6c24-7e)- média de histograma
-
-prova de 2020
+[8](https://www.qconcursos.com/questoes-militares/questoes/fe0b6c24-7e)- média de histogra
 62 - [[note-415|ponto médio entre dois pontos]]
 66 - briot ruffini
 prova de 2019
 53 - algarismos distintos
 55 - formulas trigonométrica
-63- potência de ponto
+63- [[Pasted image 20231026084817.png|potência de ponto]] e [[print_screen_192.png|circuferência inscrita em um triângulo retângulo]]
 65 - [[print_screen_174.png|poligônos inscritos]] e [[print_screen_180.png|poligônos circunscritos]]
 prova de 2018
 54 - 

@@ -20,8 +20,6 @@ circuferência
 	[[print_screen_188.png|área do segmento circular]] e [[print_screen_191.png|exemplo]]
 	[[Pasted image 20231026084817.png|potência de ponto]]
 		[[print_screen_192.png|circuferência inscrita em um triângulo retângulo]]
-
-
  
 ## semelhança de triângulo
 

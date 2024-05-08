@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "note-440",
+      "path": "notes/note-440.md"
+    },
+    {
+      "basename": "progressões aritmética e geométrica",
+      "path": "notes/MATEMÁTICA/ÁLGEBRA/progressões aritmética e geométrica.md"
+    },
+    {
+      "basename": "Polígonos",
+      "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md"
+    },
+    {
       "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
       "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
     },
     {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "print_screen_192",
+      "path": "imagens/print_screen_192.png"
+    },
+    {
+      "basename": "Estudo Analítico",
+      "path": "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md"
+    },
+    {
+      "basename": "TRIGONOMETRIA",
+      "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md"
     },
     {
       "basename": "questões erradas de português",
@@ -67,10 +91,6 @@
     {
       "basename": "GEOMETRIA ESPACIAL",
       "path": "notes/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md"
-    },
-    {
-      "basename": "Polígonos",
-      "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md"
     },
     {
       "basename": "Ângulos",
@@ -179,26 +199,6 @@
     {
       "basename": "print_screen_522",
       "path": "imagens/print_screen_522.png"
-    },
-    {
-      "basename": "development_s1e1",
-      "path": "series/development/s1/e1/development_s1e1.md"
-    },
-    {
-      "basename": "note-460",
-      "path": "notes/note-460.md"
-    },
-    {
-      "basename": "print_screen_498",
-      "path": "imagens/print_screen_498.png"
-    },
-    {
-      "basename": "Números Complexos",
-      "path": "notes/MATEMÁTICA/ÁLGEBRA III/Números Complexos.md"
-    },
-    {
-      "basename": "TRIGONOMETRIA",
-      "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md"
     }
   ],
   "omittedPaths": [],
