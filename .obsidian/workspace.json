@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "ac85a2ebbf3f542f",
+            "id": "845e40b1bfe37e7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/DINÂMICA.md",
+                "file": "notes/GRAMÁTICA/questões erradas de português.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/DINÂMICA.md",
+                "file": "notes/GRAMÁTICA/questões erradas de português.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/DINÂMICA.md",
+                "file": "notes/GRAMÁTICA/questões erradas de português.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/DINÂMICA.md"
+                "file": "notes/GRAMÁTICA/questões erradas de português.md"
               }
             }
           },
@@ -182,13 +182,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ac85a2ebbf3f542f",
+  "active": "845e40b1bfe37e7a",
   "lastOpenFiles": [
+    "MATÉRIAS/EEAR.md",
+    "notes/FÍSICA/DINÂMICA.md",
     "series/helsing/s1/e1/helsing_s1e1.md",
     "notes/note-470.md",
     "Pasted image 20240507212813.png",
-    "notes/FÍSICA/DINÂMICA.md",
-    "MATÉRIAS/EEAR.md",
     "notes/note-2.md",
     "imagens/print_screen_516.png",
     "Pasted image 20240507184540.png",
