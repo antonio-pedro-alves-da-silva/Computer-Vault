@@ -1,0 +1,1 @@
+"If there's one thing I've learned it's never to be the first to stick" suggests a cautious approach to taking action or making decisions

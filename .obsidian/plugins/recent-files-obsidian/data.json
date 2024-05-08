@@ -5,6 +5,14 @@
       "path": "notes/FÍSICA/DINÂMICA.md"
     },
     {
+      "basename": "helsing_s1e1",
+      "path": "series/helsing/s1/e1/helsing_s1e1.md"
+    },
+    {
+      "basename": "note-470",
+      "path": "notes/note-470.md"
+    },
+    {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "print_screen_516",
       "path": "imagens/print_screen_516.png"
-    },
-    {
-      "basename": "helsing_s1e1",
-      "path": "series/helsing/s1/e1/helsing_s1e1.md"
     },
     {
       "basename": "CINEMÁTICA",
@@ -195,10 +199,6 @@
     {
       "basename": "TRIGONOMETRIA",
       "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md"
-    },
-    {
-      "basename": "PROBRABILIDADE",
-      "path": "notes/MATEMÁTICA/PROBABILIDADE/PROBRABILIDADE.md"
     }
   ],
   "omittedPaths": [],
