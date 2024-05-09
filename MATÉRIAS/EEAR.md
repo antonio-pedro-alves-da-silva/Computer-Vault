@@ -862,7 +862,7 @@ LÍNGUA INGLESA
 		vocabulário
 			[[note-175|vocabulário1 (100 words)]]
 		[[note-318|active voice , passive voice]] 
-		Tempos verbais
+		[[note-488|Tempos verbais]]
 		[[note-313|Modal verbs]]
 		[[note-323|Infinitivo , gerúndio e particípio]]
 		[[note-319|Modos imperativo]] e [[note-322|subjuntivo]]

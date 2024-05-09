@@ -20,19 +20,31 @@
             }
           },
           {
-            "id": "2db0ca34d23f09dc",
+            "id": "204a66e6733dd963",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-478.md",
+                "file": "notes/note-488.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e91416ee5bfbf9d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-494.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-478.md",
+                "file": "notes/note-494.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-478.md",
+                "file": "notes/note-494.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-478.md"
+                "file": "notes/note-494.md"
               }
             }
           },
@@ -183,9 +195,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2db0ca34d23f09dc",
+  "active": "e91416ee5bfbf9d9",
   "lastOpenFiles": [
+    "notes/note-488.md",
+    "notes/note-494.md",
+    "notes/note-493.md",
+    "notes/note-492.md",
+    "notes/note-491.md",
+    "notes/note-490.md",
+    "notes/note-489.md",
     "MATÉRIAS/EEAR.md",
+    "notes/note-476.md",
     "notes/note-478.md",
     "notes/note-487.md",
     "notes/note-486.md",
@@ -197,7 +217,6 @@
     "notes/note-480.md",
     "notes/note-479.md",
     "Pasted image 20240509161831.png",
-    "notes/note-476.md",
     "notes/note-477.md",
     "notes/FÍSICA/HIDROESTÁTICA.md",
     "notes/FÍSICA/ESTÁTICA.md",
@@ -207,13 +226,6 @@
     "Pasted image 20240509135902.png",
     "notes/FÍSICA/DINÂMICA.md",
     "notes/note-473.md",
-    "notes/note-365.md",
-    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
-    "notes/note-472.md",
-    "notes/MATEMÁTICA/ÁLGEBRA III/Produto Notaveis.md",
-    "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
-    "notes/note-471.md",
-    "notes/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
     "Pasted image 20240508173859.png",
     "imagens/print_screen_192.png",
     "Pasted image 20240507212813.png",
