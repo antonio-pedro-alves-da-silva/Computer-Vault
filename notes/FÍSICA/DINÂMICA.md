@@ -51,11 +51,13 @@ centro de massa
 	[[print_screen_534.png|centro de massa no plano cartesiano]]
 	[[print_screen_537.png|representação vetorial]]
     [[print_screen_536.png|quantidade de movimento total pelo centro de massa]]
+pressão
+	[[note-473|pressão resultante na placa de menor pressão]]
 exercícios errados
 	[1](https://www.qconcursos.com/questoes-militares/questoes/b1c48382-01)([[Pasted image 20231125094454.png|Direção e Sentido]])
 	[3](https://www.qconcursos.com/questoes-militares/questoes/462428b6-49)(Pessoa no elevador puxando a corda polia para subir o elevador)
 	[4](https://www.qconcursos.com/questoes-militares/questoes/8d454c79-f3)([[note-363|resolução]])
 	[5](https://www.qconcursos.com/questoes-militares/questoes/8d416a19-f3)(pêndulo balístico)
 	[6](https://www.qconcursos.com/questoes-militares/questoes/2624593e-4e)([[note-364|plano inclinado]])
-	[7](https://www.qconcursos.com/questoes-militares/questoes/5818c192-4b)([[note-365|resolução]])
+	[7](https://www.qconcursos.com/questoes-militares/questoes/5818c192-4b)()
 

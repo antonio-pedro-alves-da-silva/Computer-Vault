@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "c76752780ca37b0c",
+            "id": "3693ebc87d338ec5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/DINÂMICA.md",
+                "file": "notes/FÍSICA/ESTÁTICA.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/DINÂMICA.md",
+                "file": "notes/FÍSICA/ESTÁTICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/DINÂMICA.md",
+                "file": "notes/FÍSICA/ESTÁTICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/DINÂMICA.md"
+                "file": "notes/FÍSICA/ESTÁTICA.md"
               }
             }
           },
@@ -183,9 +183,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c76752780ca37b0c",
+  "active": "3693ebc87d338ec5",
   "lastOpenFiles": [
     "MATÉRIAS/EEAR.md",
+    "notes/FÍSICA/HIDROESTÁTICA.md",
+    "notes/FÍSICA/DINÂMICA.md",
+    "notes/note-473.md",
+    "notes/note-365.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-472.md",
     "notes/MATEMÁTICA/ÁLGEBRA III/Produto Notaveis.md",
@@ -200,7 +204,6 @@
     "imagens/print_screen_192.png",
     "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
-    "notes/FÍSICA/DINÂMICA.md",
     "series/helsing/s1/e1/helsing_s1e1.md",
     "notes/note-470.md",
     "Pasted image 20240507212813.png",
@@ -228,9 +231,6 @@
     "notes/note-339.md",
     "notes/note-51.md",
     "notes/note-52.md",
-    "notes/GRAMÁTICA/regras do acento gráfico.md",
-    "notes/note-309.md",
-    "notes/note-338.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

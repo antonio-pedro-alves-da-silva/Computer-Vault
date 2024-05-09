@@ -1,5 +1,5 @@
 
-equilíbrio de um ponto materialklou
+equilíbrio de um ponto material
 [[note-446|força  interfixa , interpotente e interresistente]]
 equilíbrio de um corpo extenso
 	[[print_screen_539.png|corpo extenso , somatoria das forças e somatoria dos momentos]]

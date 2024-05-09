@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "DINÂMICA",
-      "path": "notes/FÍSICA/DINÂMICA.md"
+      "basename": "ESTÁTICA",
+      "path": "notes/FÍSICA/ESTÁTICA.md"
     },
     {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "HIDROESTÁTICA",
+      "path": "notes/FÍSICA/HIDROESTÁTICA.md"
+    },
+    {
+      "basename": "DINÂMICA",
+      "path": "notes/FÍSICA/DINÂMICA.md"
+    },
+    {
+      "basename": "note-473",
+      "path": "notes/note-473.md"
+    },
+    {
+      "basename": "note-365",
+      "path": "notes/note-365.md"
     },
     {
       "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
@@ -183,22 +199,6 @@
     {
       "basename": "note-463",
       "path": "notes/note-463.md"
-    },
-    {
-      "basename": "note-461",
-      "path": "notes/note-461.md"
-    },
-    {
-      "basename": "7 erros com pronomes pessoais",
-      "path": "notes/GRAMÁTICA/pronome/7 erros com pronomes pessoais.md"
-    },
-    {
-      "basename": "Análise combinatória",
-      "path": "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md"
-    },
-    {
-      "basename": "Pasted image 20231216091346",
-      "path": "imagens/Pasted image 20231216091346.png"
     }
   ],
   "omittedPaths": [],
