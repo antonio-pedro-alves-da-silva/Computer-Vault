@@ -9,7 +9,7 @@ equilíbrio de um corpo extenso
 		[[print_screen_637.png|condição ; força de atrito minima para a escada não escorregar]]
 	torque e alavancas
 		 [[print_screen_541.png|momento de uma força]]
-    [[print_screen_553.png|reações de apoio]]
+    [[note-475|reações de apoio]]
 	    [[print_screen_638.png|exercício 1]](Ra é 0 já que está soltando do ponto de apoio)
  exercícios errados de estática
 	[1](https://www.qconcursos.com/questoes-militares/questoes/75fbdeb8-55)([[note-366|resolução]])

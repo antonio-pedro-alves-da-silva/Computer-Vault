@@ -896,6 +896,7 @@ LÍNGUA INGLESA
 			regulares
 			irregulares
 			auxiliares
+	[[note-476|provas feitas de inglês]]
 MATEMÁTICA
 	[[Pasted image 20240302171101.png|CONJUNTOS NUMÉRICO]]
 	ÁLGEBRA 

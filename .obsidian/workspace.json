@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "3693ebc87d338ec5",
+            "id": "fe1f1dd37f47be8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/ESTÁTICA.md",
+                "file": "notes/note-476.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/ESTÁTICA.md",
+                "file": "notes/note-476.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/ESTÁTICA.md",
+                "file": "notes/note-476.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/ESTÁTICA.md"
+                "file": "notes/note-476.md"
               }
             }
           },
@@ -183,10 +183,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3693ebc87d338ec5",
+  "active": "fe1f1dd37f47be8b",
   "lastOpenFiles": [
     "MATÉRIAS/EEAR.md",
+    "notes/note-476.md",
     "notes/FÍSICA/HIDROESTÁTICA.md",
+    "notes/FÍSICA/ESTÁTICA.md",
+    "notes/note-475.md",
+    "imagens/print_screen_553.png",
+    "notes/note-474.md",
+    "Pasted image 20240509135902.png",
     "notes/FÍSICA/DINÂMICA.md",
     "notes/note-473.md",
     "notes/note-365.md",
@@ -215,8 +221,6 @@
     "imagens/print_screen_689.png",
     "Pasted image 20240507162517.png",
     "Pasted image 20240507130409.png",
-    "notes/Untitled 10.md",
-    "Pasted image 20240507124727.png",
     "series/helsing/s1/e1/output.mp3",
     "series/helsing/s1/e1/helsing_s1e1_1108.mp3",
     "series/helsing/s1/e1/helsing_s1e1_1104.mp3",
@@ -227,10 +231,6 @@
     "series/helsing/s1/e1/helsing_s1e1_997.mp3",
     "series/helsing/s1/e1/helsing_s1e1_994.mp3",
     "series/helsing/s1/e1/helsing_s1e1_988.mp3",
-    "imagens/print_screen_174.png",
-    "notes/note-339.md",
-    "notes/note-51.md",
-    "notes/note-52.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

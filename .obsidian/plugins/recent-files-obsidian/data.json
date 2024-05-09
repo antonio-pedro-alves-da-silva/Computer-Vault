@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "ESTÁTICA",
-      "path": "notes/FÍSICA/ESTÁTICA.md"
+      "basename": "note-476",
+      "path": "notes/note-476.md"
     },
     {
       "basename": "EEAR",
@@ -11,6 +11,22 @@
     {
       "basename": "HIDROESTÁTICA",
       "path": "notes/FÍSICA/HIDROESTÁTICA.md"
+    },
+    {
+      "basename": "ESTÁTICA",
+      "path": "notes/FÍSICA/ESTÁTICA.md"
+    },
+    {
+      "basename": "note-475",
+      "path": "notes/note-475.md"
+    },
+    {
+      "basename": "print_screen_553",
+      "path": "imagens/print_screen_553.png"
+    },
+    {
+      "basename": "note-474",
+      "path": "notes/note-474.md"
     },
     {
       "basename": "DINÂMICA",
@@ -183,22 +199,6 @@
     {
       "basename": "regência verbal",
       "path": "notes/GRAMÁTICA/regência verbal.md"
-    },
-    {
-      "basename": "note-462",
-      "path": "notes/note-462.md"
-    },
-    {
-      "basename": "note-465",
-      "path": "notes/note-465.md"
-    },
-    {
-      "basename": "note-464",
-      "path": "notes/note-464.md"
-    },
-    {
-      "basename": "note-463",
-      "path": "notes/note-463.md"
     }
   ],
   "omittedPaths": [],
