@@ -20,31 +20,19 @@
             }
           },
           {
-            "id": "204a66e6733dd963",
+            "id": "8cd989154c28a3df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-488.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e91416ee5bfbf9d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-494.md",
+                "file": "notes/FÍSICA/HIDROESTÁTICA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-494.md",
+                "file": "notes/FÍSICA/HIDROESTÁTICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-494.md",
+                "file": "notes/FÍSICA/HIDROESTÁTICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-494.md"
+                "file": "notes/FÍSICA/HIDROESTÁTICA.md"
               }
             }
           },
@@ -195,17 +183,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e91416ee5bfbf9d9",
+  "active": "8cd989154c28a3df",
   "lastOpenFiles": [
+    "MATÉRIAS/EEAR.md",
+    "notes/FÍSICA/ESTÁTICA.md",
+    "notes/note-475.md",
+    "notes/note-476.md",
     "notes/note-488.md",
+    "notes/note-490.md",
+    "notes/note-500.md",
+    "notes/note-499.md",
+    "notes/note-498.md",
+    "notes/note-497.md",
     "notes/note-494.md",
+    "notes/note-496.md",
+    "notes/note-495.md",
     "notes/note-493.md",
     "notes/note-492.md",
     "notes/note-491.md",
-    "notes/note-490.md",
     "notes/note-489.md",
-    "MATÉRIAS/EEAR.md",
-    "notes/note-476.md",
     "notes/note-478.md",
     "notes/note-487.md",
     "notes/note-486.md",
@@ -215,17 +211,9 @@
     "notes/note-482.md",
     "notes/note-481.md",
     "notes/note-480.md",
-    "notes/note-479.md",
     "Pasted image 20240509161831.png",
-    "notes/note-477.md",
-    "notes/FÍSICA/HIDROESTÁTICA.md",
-    "notes/FÍSICA/ESTÁTICA.md",
-    "notes/note-475.md",
     "imagens/print_screen_553.png",
-    "notes/note-474.md",
     "Pasted image 20240509135902.png",
-    "notes/FÍSICA/DINÂMICA.md",
-    "notes/note-473.md",
     "Pasted image 20240508173859.png",
     "imagens/print_screen_192.png",
     "Pasted image 20240507212813.png",
