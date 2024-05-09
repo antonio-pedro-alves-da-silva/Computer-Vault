@@ -875,6 +875,8 @@ LÍNGUA INGLESA
 			[[note-173|tipos de substantivos]]
 			[[note-174|gênero]]
 			singular e plural
+				[[note-477|regular plural]]
+				[[note-478|irregular plurals]]
 			composto , contável e incontável 
 			forma possessiva
 		adjectives

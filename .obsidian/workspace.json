@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "fe1f1dd37f47be8b",
+            "id": "2db0ca34d23f09dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-476.md",
+                "file": "notes/note-478.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-476.md",
+                "file": "notes/note-478.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-476.md",
+                "file": "notes/note-478.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-476.md"
+                "file": "notes/note-478.md"
               }
             }
           },
@@ -183,10 +183,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fe1f1dd37f47be8b",
+  "active": "2db0ca34d23f09dc",
   "lastOpenFiles": [
     "MATÉRIAS/EEAR.md",
+    "notes/note-478.md",
+    "notes/note-487.md",
+    "notes/note-486.md",
+    "notes/note-485.md",
+    "notes/note-484.md",
+    "notes/note-483.md",
+    "notes/note-482.md",
+    "notes/note-481.md",
+    "notes/note-480.md",
+    "notes/note-479.md",
+    "Pasted image 20240509161831.png",
     "notes/note-476.md",
+    "notes/note-477.md",
     "notes/FÍSICA/HIDROESTÁTICA.md",
     "notes/FÍSICA/ESTÁTICA.md",
     "notes/note-475.md",
@@ -202,25 +214,13 @@
     "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
     "notes/note-471.md",
     "notes/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
-    "notes/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md",
     "Pasted image 20240508173859.png",
-    "notes/MATEMÁTICA/ÁLGEBRA/progressões aritmética e geométrica.md",
-    "notes/note-442.md",
-    "notes/note-440.md",
     "imagens/print_screen_192.png",
-    "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md",
-    "notes/GRAMÁTICA/questões erradas de português.md",
-    "series/helsing/s1/e1/helsing_s1e1.md",
-    "notes/note-470.md",
     "Pasted image 20240507212813.png",
-    "notes/note-2.md",
     "imagens/print_screen_516.png",
     "Pasted image 20240507184540.png",
-    "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
-    "notes/note-469.md",
     "imagens/print_screen_689.png",
     "Pasted image 20240507162517.png",
-    "Pasted image 20240507130409.png",
     "series/helsing/s1/e1/output.mp3",
     "series/helsing/s1/e1/helsing_s1e1_1108.mp3",
     "series/helsing/s1/e1/helsing_s1e1_1104.mp3",
