@@ -9,6 +9,10 @@
       "path": "MATÉRIAS/EEAR.md"
     },
     {
+      "basename": "note-368",
+      "path": "notes/note-368.md"
+    },
+    {
       "basename": "ESTÁTICA",
       "path": "notes/FÍSICA/ESTÁTICA.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "helsing_s1e1",
       "path": "series/helsing/s1/e1/helsing_s1e1.md"
-    },
-    {
-      "basename": "note-470",
-      "path": "notes/note-470.md"
     }
   ],
   "omittedPaths": [],
