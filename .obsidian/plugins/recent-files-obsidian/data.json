@@ -5,6 +5,10 @@
       "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
     },
     {
+      "basename": "note-472",
+      "path": "notes/note-472.md"
+    },
+    {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20231216091346",
       "path": "imagens/Pasted image 20231216091346.png"
-    },
-    {
-      "basename": "note-95",
-      "path": "notes/note-95.md"
     }
   ],
   "omittedPaths": [],

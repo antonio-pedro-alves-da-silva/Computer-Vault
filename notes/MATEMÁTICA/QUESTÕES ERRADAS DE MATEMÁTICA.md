@@ -59,7 +59,7 @@ prova de 2009
 72 - 
 
 prova de 2023
-[1](https://www.qconcursos.com/questoes-militares/questoes/5ad19354-16)-função polinomial do 1° grau
+[1](https://www.qconcursos.com/questoes-militares/questoes/5ad19354-16)-[[note-472|função polinomial do 1° grau]]
 [2](https://www.youtube.com/watch?v=OakQs52IE2s)-([[note-127|restrições de valores para x]])
 [3](https://www.qconcursos.com/questoes-militares/questoes/5adcaf54-16)-[[print_screen_140.png|Arcos congruos e simétricos]]
 [4](https://www.qconcursos.com/questoes-militares/questoes/5adf51fa-16)-Questão Bem Elaborada de Geometria Analítica
