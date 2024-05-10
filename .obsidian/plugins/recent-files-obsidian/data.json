@@ -9,6 +9,18 @@
       "path": "notes/GRAMÁTICA/questões erradas de português.md"
     },
     {
+      "basename": "note-507",
+      "path": "notes/note-507.md"
+    },
+    {
+      "basename": "note-453",
+      "path": "notes/note-453.md"
+    },
+    {
+      "basename": "note-452",
+      "path": "notes/note-452.md"
+    },
+    {
       "basename": "note-505",
       "path": "notes/note-505.md"
     },
@@ -51,10 +63,6 @@
     {
       "basename": "note-508",
       "path": "notes/note-508.md"
-    },
-    {
-      "basename": "note-507",
-      "path": "notes/note-507.md"
     },
     {
       "basename": "tranquei a porta",
@@ -191,14 +199,6 @@
     {
       "basename": "print_screen_553",
       "path": "images/print_screen_553.png"
-    },
-    {
-      "basename": "note-474",
-      "path": "notes/note-474.md"
-    },
-    {
-      "basename": "DINÂMICA",
-      "path": "notes/FÍSICA/DINÂMICA.md"
     }
   ],
   "omittedPaths": [],
