@@ -100,7 +100,7 @@ eletricidade
 			[[print_screen_567.png|ponte wheatstone]]
 		Leis de kirchhoff
 			[[note-12|Leis do nós e diferença de potencial nos terminais de um resistor e de um gerador]]
-			[[imagens/print_screen_569.png|exemplo de aplicação das leis de kirchoff]]
+			[[print_screen_569.png|exemplo de aplicação das leis de kirchoff]]
 			[[print_screen_570.png|exemplo calculando a ddp entre dois pontos]]
 		capacitores                                                                                                                    
 			 [[note-265|o que é capacitância ?]]

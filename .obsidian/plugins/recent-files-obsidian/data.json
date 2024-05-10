@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "note-476",
-      "path": "notes/note-476.md"
-    },
-    {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "note-476",
+      "path": "notes/note-476.md"
     },
     {
       "basename": "HIDROESTÁTICA",
@@ -122,7 +122,7 @@
     },
     {
       "basename": "print_screen_553",
-      "path": "imagens/print_screen_553.png"
+      "path": "images/print_screen_553.png"
     },
     {
       "basename": "note-474",
@@ -169,10 +169,6 @@
       "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md"
     },
     {
-      "basename": "Pasted image 20240508173859",
-      "path": "Pasted image 20240508173859.png"
-    },
-    {
       "basename": "progressões aritmética e geométrica",
       "path": "notes/MATEMÁTICA/ÁLGEBRA/progressões aritmética e geométrica.md"
     },
@@ -186,19 +182,11 @@
     },
     {
       "basename": "print_screen_192",
-      "path": "imagens/print_screen_192.png"
+      "path": "images/print_screen_192.png"
     },
     {
       "basename": "Estudo Analítico",
       "path": "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md"
-    },
-    {
-      "basename": "questões erradas de português",
-      "path": "notes/GRAMÁTICA/questões erradas de português.md"
-    },
-    {
-      "basename": "helsing_s1e1",
-      "path": "series/helsing/s1/e1/helsing_s1e1.md"
     }
   ],
   "omittedPaths": [],

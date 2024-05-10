@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6186f7da3eb66dd5",
+        "id": "fe093e027ce622f3",
         "type": "tabs",
         "children": [
           {
-            "id": "d2e7de27bdae239b",
+            "id": "a850afcf5770f1c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-476.md",
+                "file": "MATÉRIAS/EEAR.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-476.md",
+                "file": "MATÉRIAS/EEAR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-476.md",
+                "file": "MATÉRIAS/EEAR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-476.md"
+                "file": "MATÉRIAS/EEAR.md"
               }
             }
           },
@@ -170,14 +169,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d2e7de27bdae239b",
+  "active": "a850afcf5770f1c9",
   "lastOpenFiles": [
+    "Pasted image 20240509161831.png",
+    "images/Pasted image 20240509161831.png",
+    "images/Pasted image 20240509135902.png",
+    "images/Pasted image 20240508173859.png",
+    "images/Pasted image 20240507212813.png",
+    "images/Pasted image 20240507184540.png",
+    "images/Pasted image 20240507162517.png",
+    "images/Pasted image 20240507130409.png",
+    "images/Pasted image 20240507124727.png",
+    "images/Pasted image 20240506182118.png",
+    "images/Pasted image 20240506181958.png",
+    "notes/note-476.md",
     "MATÉRIAS/EEAR.md",
     "notes/FÍSICA/HIDROESTÁTICA.md",
     "notes/note-368.md",
     "notes/FÍSICA/ESTÁTICA.md",
     "notes/note-475.md",
-    "notes/note-476.md",
     "notes/note-488.md",
     "notes/note-490.md",
     "notes/note-500.md",
@@ -197,17 +207,6 @@
     "notes/note-485.md",
     "notes/note-484.md",
     "notes/note-483.md",
-    "notes/note-482.md",
-    "Pasted image 20240509161831.png",
-    "imagens/print_screen_553.png",
-    "Pasted image 20240509135902.png",
-    "Pasted image 20240508173859.png",
-    "imagens/print_screen_192.png",
-    "Pasted image 20240507212813.png",
-    "imagens/print_screen_516.png",
-    "Pasted image 20240507184540.png",
-    "imagens/print_screen_689.png",
-    "Pasted image 20240507162517.png",
     "series/helsing/s1/e1/output.mp3",
     "series/helsing/s1/e1/helsing_s1e1_1108.mp3",
     "series/helsing/s1/e1/helsing_s1e1_1104.mp3",
