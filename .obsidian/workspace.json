@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "79e416ebf71c4f36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/GRAMÁTICA/regência verbal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -119,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-508.md",
+                "file": "notes/GRAMÁTICA/regência verbal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-508.md",
+                "file": "notes/GRAMÁTICA/regência verbal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-508.md"
+                "file": "notes/GRAMÁTICA/regência verbal.md"
               }
             }
           },
@@ -194,11 +206,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b753d9d394729957",
+  "active": "79e416ebf71c4f36",
   "lastOpenFiles": [
+    "notes/note-508.md",
     "Pasted image 20240510150226.png",
     "notes/GRAMÁTICA/questões erradas de português.md",
-    "notes/note-508.md",
     "notes/note-507.md",
     "my-configuration-files/backup/cfs/cfs-2-2020_gabarito.pdf",
     "my-configuration-files/backup/cfs/cfs-1-2019_gabarito.pdf",
@@ -229,7 +241,6 @@
     "images/Pasted image 20240507162517.png",
     "images/Pasted image 20240507130409.png",
     "images/Pasted image 20240507124727.png",
-    "images/Pasted image 20240506182118.png",
     "notes/note-476.md",
     "notes/FÍSICA/HIDROESTÁTICA.md",
     "notes/note-368.md",
