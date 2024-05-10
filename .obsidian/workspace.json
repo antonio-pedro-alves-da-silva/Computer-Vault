@@ -20,31 +20,19 @@
             }
           },
           {
-            "id": "9ab6602b926d84fd",
+            "id": "057ac4d29850c420",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "09a569407b4dc10a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-509.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-509.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-509.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-509.md"
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
               }
             }
           },
@@ -194,13 +182,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "09a569407b4dc10a",
+  "active": "057ac4d29850c420",
   "lastOpenFiles": [
-    "notes/GRAMÁTICA/questões erradas de português.md",
+    "notes/note-127.md",
+    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "notes/note-472.md",
     "MATÉRIAS/EEAR.md",
+    "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-509.md",
-    "notes/note-508.md",
+    "notes/note-511.md",
+    "notes/note-514.md",
+    "notes/note-513.md",
+    "notes/note-512.md",
     "notes/GRAMÁTICA/regência verbal.md",
+    "notes/crase.md",
+    "notes/note-508.md",
     "Pasted image 20240510150226.png",
     "notes/note-507.md",
     "my-configuration-files/backup/cfs/cfs-2-2020_gabarito.pdf",
@@ -218,9 +214,6 @@
     "notes/note-502.md",
     "notes/note-501.md",
     "notes/note-510.md",
-    "tranquei a porta.md",
-    "dia para ir ao dentista.md",
-    "notes/note-143.md",
     "Pasted image 20240509161831.png",
     "images/Pasted image 20240509161831.png",
     "images/Pasted image 20240509135902.png",
@@ -230,11 +223,6 @@
     "images/Pasted image 20240507162517.png",
     "images/Pasted image 20240507130409.png",
     "images/Pasted image 20240507124727.png",
-    "notes/note-476.md",
-    "notes/FÍSICA/HIDROESTÁTICA.md",
-    "notes/note-368.md",
-    "notes/FÍSICA/ESTÁTICA.md",
-    "notes/note-475.md",
     "series/helsing/s1/e1/output.mp3",
     "series/helsing/s1/e1/helsing_s1e1_1108.mp3",
     "series/helsing/s1/e1/helsing_s1e1_1104.mp3",

@@ -1,0 +1,1 @@
+Com muita habilidade, o policial disparou a arma **visando** **o bandido** que tentava agredi-lo.
