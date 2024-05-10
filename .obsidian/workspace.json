@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "c5c6f6863bc987ff",
+            "id": "53574aea2156966d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-505.md",
+                "file": "notes/note-506.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-505.md",
+                "file": "notes/note-506.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-505.md",
+                "file": "notes/note-506.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-505.md"
+                "file": "notes/note-506.md"
               }
             }
           },
@@ -194,9 +194,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c5c6f6863bc987ff",
+  "active": "53574aea2156966d",
   "lastOpenFiles": [
     "notes/GRAMÁTICA/questões erradas de português.md",
+    "notes/note-506.md",
     "notes/note-505.md",
     "notes/note-504.md",
     "notes/note-447.md",
@@ -209,7 +210,6 @@
     "notes/note-509.md",
     "notes/note-508.md",
     "notes/note-507.md",
-    "notes/note-506.md",
     "tranquei a porta.md",
     "dia para ir ao dentista.md",
     "MATÉRIAS/EEAR.md",
