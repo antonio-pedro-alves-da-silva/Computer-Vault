@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "17dd75317ea05698",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-502.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "file": "notes/note-502.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "file": "notes/note-502.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md"
+                "file": "notes/note-502.md"
               }
             }
           },
@@ -182,10 +194,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9ab6602b926d84fd",
+  "active": "17dd75317ea05698",
   "lastOpenFiles": [
-    "MATÉRIAS/EEAR.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
+    "notes/note-501.md",
+    "notes/note-510.md",
+    "notes/note-509.md",
+    "notes/note-508.md",
+    "notes/note-507.md",
+    "notes/note-506.md",
+    "notes/note-505.md",
+    "notes/note-504.md",
+    "notes/note-503.md",
+    "notes/note-502.md",
+    "tranquei a porta.md",
+    "dia para ir ao dentista.md",
+    "MATÉRIAS/EEAR.md",
     "notes/note-143.md",
     "Pasted image 20240509161831.png",
     "images/Pasted image 20240509161831.png",
@@ -208,18 +232,6 @@
     "notes/note-499.md",
     "notes/note-498.md",
     "notes/note-497.md",
-    "notes/note-494.md",
-    "notes/note-496.md",
-    "notes/note-495.md",
-    "notes/note-493.md",
-    "notes/note-492.md",
-    "notes/note-491.md",
-    "notes/note-489.md",
-    "notes/note-478.md",
-    "notes/note-487.md",
-    "notes/note-486.md",
-    "notes/note-485.md",
-    "notes/note-484.md",
     "series/helsing/s1/e1/output.mp3",
     "series/helsing/s1/e1/helsing_s1e1_1108.mp3",
     "series/helsing/s1/e1/helsing_s1e1_1104.mp3",
