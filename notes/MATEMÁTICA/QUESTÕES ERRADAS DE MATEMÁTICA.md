@@ -67,7 +67,7 @@ prova de 2023
 [6](https://www.qconcursos.com/questoes-militares/questoes/5af09bec-16)-[[note-362|Relações trigonométricas de um triangulo retângulo]] e semelhança de triangulo 
 [7](https://www.qconcursos.com/questoes-militares/questoes/5af629f6-16)- Progressão Aritmética
 [8](https://www.qconcursos.com/questoes-militares/questoes/5aff4fe2-16)- Geometria Plana
-[9](https://www.qconcursos.com/questoes-militares/questoes/5b04a469-16)- [[Ângulos#Ângulos na Circuferência|Ângulos na circuferência]]
+[9](https://www.qconcursos.com/questoes-militares/questoes/5b04a469-16)- [[Ângulos|Ângulos na circuferência]]
 [10](https://www.qconcursos.com/questoes-de-concursos/questoes/0923395e-d0)- Análise comibinatória - combinação simples de questões
 [11](https://www.qconcursos.com/questoes-militares/questoes/5b0c7f85-16)- Análise combinatória - Combinação simples
 [12](https://www.qconcursos.com/questoes-militares/questoes/5b122d7d-16)- Análise combinatória - Combinação simples e permutação
