@@ -1,2 +1,1 @@
-"A intertextualidade é a presença textual de elementos semânticos e/ou formais que se referem a outros textos produzidos anteriormente."
-
+é quando o primeiro texto possui elementos semânticos que se referem a um segundo texto ou outros textos
