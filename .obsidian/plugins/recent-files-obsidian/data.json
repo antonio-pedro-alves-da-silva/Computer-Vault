@@ -5,6 +5,10 @@
       "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
     },
     {
+      "basename": "print_screen_679",
+      "path": "images/print_screen_679.png"
+    },
+    {
       "basename": "Ângulos",
       "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/Ângulos.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "note-478",
       "path": "notes/note-478.md"
-    },
-    {
-      "basename": "note-487",
-      "path": "notes/note-487.md"
     }
   ],
   "omittedPaths": [],
