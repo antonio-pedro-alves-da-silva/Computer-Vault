@@ -39,6 +39,7 @@ eletricidade
 			 [[print_screen_584.png|fel no campo elétrico uniforme fel = fr]]  
 			 [[note-409|diferença de potencial entre dois pontos de um campo elétrico uniforme]]
 			 [[note-219|trabalho da força no campo uniforme]]
+				 [exemplo de aplicação](https://www.qconcursos.com/questoes-militares/questoes/b1dd845b-01)
 		esferas condutoras
 			[[print_screen_592.png|esfera em equilíbrio eletroestático - itensidade no interior , superfície e infinitamente próximo]]
 			[[print_screen_593.png|potencial elétrico de esferas condutoras em equilíbrio eletroestático]]
