@@ -5,6 +5,14 @@
       "path": "notes/FÍSICA/ELETRICIDADE.md"
     },
     {
+      "basename": "print_screen_570",
+      "path": "images/print_screen_570.png"
+    },
+    {
+      "basename": "print_screen_569",
+      "path": "images/print_screen_569.png"
+    },
+    {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "note-499",
       "path": "notes/note-499.md"
-    },
-    {
-      "basename": "note-498",
-      "path": "notes/note-498.md"
-    },
-    {
-      "basename": "note-497",
-      "path": "notes/note-497.md"
     }
   ],
   "omittedPaths": [],
