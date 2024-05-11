@@ -978,6 +978,7 @@ MATEMÁTICA
 			grafico da ogiva
 		[[medidas de tendência central]]
 			moda, média e mediana. 
+			[[note-374|moda]], [[note-375|mediana]] e média
 	[[GEOMETRIA ESPACIAL]]
 	GEOMETRIA ANALÍTICA: 
 		[[Estudo Analítico]]: 
