@@ -1,3 +1,4 @@
+
 (**V**) As Leis de Kepler são válidas para quaisquer sistemas em que corpos gravitam em torno de um corpo central.
 
 (**F**) Um satélite da Terra, movendo-se numa trajetória circular de raio R, terá seu período duas vezes maior do que o período de um outro satélite terrestre de órbita circular de raio R/2.

@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "ae37f021e6eda2ab",
+            "id": "b0c91d62bb29912b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/GRAVITAÇÃO.md",
+                "file": "notes/FÍSICA/ELETRICIDADE.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/GRAVITAÇÃO.md",
+                "file": "notes/FÍSICA/ELETRICIDADE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/GRAVITAÇÃO.md",
+                "file": "notes/FÍSICA/ELETRICIDADE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/GRAVITAÇÃO.md"
+                "file": "notes/FÍSICA/ELETRICIDADE.md"
               }
             }
           },
@@ -182,9 +182,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ae37f021e6eda2ab",
+  "active": "b0c91d62bb29912b",
   "lastOpenFiles": [
     "MATÉRIAS/EEAR.md",
+    "notes/FÍSICA/GRAVITAÇÃO.md",
+    "notes/note-211.md",
+    "notes/note-210.md",
     "notes/FÍSICA/HIDROESTÁTICA.md",
     "notes/note-372.md",
     "notes/FÍSICA/ESTÁTICA.md",
@@ -212,9 +215,6 @@
     "my-configuration-files/backup/cfs/cfs-1-2018_gabarito.pdf",
     "notes/note-506.md",
     "notes/note-453.md",
-    "notes/note-452.md",
-    "notes/note-505.md",
-    "notes/note-504.md",
     "Pasted image 20240509161831.png",
     "images/Pasted image 20240509161831.png",
     "images/Pasted image 20240509135902.png",
