@@ -139,7 +139,7 @@ eletricidade
 				[12](https://www.qconcursos.com/questoes-militares/questoes/d6fc612e-4b) - [[print_screen_572.png|associação de capacitores em série]] e	[[note-381|associação de capacitores em paralelo]]
 				[13](https://www.qconcursos.com/questoes-militares/questoes/4dcaec1f-42)- resistividade
 			associção de resistores
-				[1](https://www.qconcursos.com/questoes-militares/questoes/a7816122-6b)-aprendi([[print_screen_677.png|calculando a resistência equivalente do circuito como a chave aberta]])
+				[1](https://www.qconcursos.com/questoes-militares/questoes/a7816122-6b)-aprendi([[print_screen_677.png|calculando a resistência equivalente do circuito como a chave aberta]])-onde parei
 				[2](https://www.qconcursos.com/questoes-militares/questoes/cef03352-0d)-D
 				[3](https://www.qconcursos.com/questoes-militares/questoes/a24b4e0c-55)-([[note-266|resolução]])
 				[4](https://www.qconcursos.com/questoes-militares/questoes/19a794ab-45)-(resistores) em paralelo - req e ddp
