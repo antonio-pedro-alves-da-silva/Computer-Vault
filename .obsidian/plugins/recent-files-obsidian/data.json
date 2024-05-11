@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
-      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
-    },
-    {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "CINEMÁTICA",
+      "path": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
+    },
+    {
+      "basename": "vetores",
+      "path": "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md"
+    },
+    {
+      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
+      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
     },
     {
       "basename": "print_screen_679",
@@ -191,14 +199,6 @@
     {
       "basename": "note-491",
       "path": "notes/note-491.md"
-    },
-    {
-      "basename": "note-489",
-      "path": "notes/note-489.md"
-    },
-    {
-      "basename": "note-478",
-      "path": "notes/note-478.md"
     }
   ],
   "omittedPaths": [],
