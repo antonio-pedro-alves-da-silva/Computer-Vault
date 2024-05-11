@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "39219de295351a71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/FÍSICA/HIDROESTÁTICA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "notes/FÍSICA/HIDROESTÁTICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "notes/FÍSICA/HIDROESTÁTICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATÉRIAS/EEAR.md"
+                "file": "notes/FÍSICA/HIDROESTÁTICA.md"
               }
             }
           },
@@ -169,10 +182,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a850afcf5770f1c9",
+  "active": "39219de295351a71",
   "lastOpenFiles": [
-    "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
+    "notes/note-372.md",
+    "notes/FÍSICA/HIDROESTÁTICA.md",
     "MATÉRIAS/EEAR.md",
+    "notes/FÍSICA/ESTÁTICA.md",
+    "notes/FÍSICA/DINÂMICA.md",
+    "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
     "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "images/print_screen_679.png",
@@ -198,10 +215,6 @@
     "notes/note-452.md",
     "notes/note-505.md",
     "notes/note-504.md",
-    "notes/note-447.md",
-    "notes/note-503.md",
-    "notes/GRAMÁTICA/diferença entre adjunto adnominal e complemento nominal.md",
-    "notes/note-441.md",
     "Pasted image 20240509161831.png",
     "images/Pasted image 20240509161831.png",
     "images/Pasted image 20240509135902.png",

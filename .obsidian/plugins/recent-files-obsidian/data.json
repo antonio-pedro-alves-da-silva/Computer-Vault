@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "HIDROESTÁTICA",
+      "path": "notes/FÍSICA/HIDROESTÁTICA.md"
+    },
+    {
+      "basename": "note-372",
+      "path": "notes/note-372.md"
+    },
+    {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "ESTÁTICA",
+      "path": "notes/FÍSICA/ESTÁTICA.md"
+    },
+    {
+      "basename": "DINÂMICA",
+      "path": "notes/FÍSICA/DINÂMICA.md"
     },
     {
       "basename": "CINEMÁTICA",
@@ -137,16 +153,8 @@
       "path": "notes/note-476.md"
     },
     {
-      "basename": "HIDROESTÁTICA",
-      "path": "notes/FÍSICA/HIDROESTÁTICA.md"
-    },
-    {
       "basename": "note-368",
       "path": "notes/note-368.md"
-    },
-    {
-      "basename": "ESTÁTICA",
-      "path": "notes/FÍSICA/ESTÁTICA.md"
     },
     {
       "basename": "note-475",
@@ -191,14 +199,6 @@
     {
       "basename": "note-493",
       "path": "notes/note-493.md"
-    },
-    {
-      "basename": "note-492",
-      "path": "notes/note-492.md"
-    },
-    {
-      "basename": "note-491",
-      "path": "notes/note-491.md"
     }
   ],
   "omittedPaths": [],

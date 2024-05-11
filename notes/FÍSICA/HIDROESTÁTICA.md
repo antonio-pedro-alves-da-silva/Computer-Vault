@@ -14,6 +14,7 @@ hidroestática
 	[como calcular a fração do bloco que está fora e dentro](https://www.qconcursos.com/questoes-militares/questoes/4dea7d58-58)([[note-368|resolução]])
 	[[print_screen_552.png|barômetro de torriceli]]
 	[[print_screen_555.png|dois liquidos imiscíveis]]
+	
 exercícios de hidroestática errados
 	[1](https://www.qconcursos.com/questoes-militares/questoes/a7c3698b-6b)(aprendi a calcular a pressão)
 	[2](https://www.qconcursos.com/questoes-militares/questoes/a7c029f8-6b)([[note-181|aprendi que objetos em equilíbrio possuem a mesma massa]])
