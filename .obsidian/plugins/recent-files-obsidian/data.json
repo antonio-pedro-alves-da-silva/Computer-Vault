@@ -5,16 +5,20 @@
       "path": "notes/FÍSICA/ELETRICIDADE.md"
     },
     {
+      "basename": "EEAR",
+      "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "note-17",
+      "path": "notes/note-17.md"
+    },
+    {
       "basename": "print_screen_570",
       "path": "images/print_screen_570.png"
     },
     {
       "basename": "print_screen_569",
       "path": "images/print_screen_569.png"
-    },
-    {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
     },
     {
       "basename": "GRAVITAÇÃO",
@@ -195,10 +199,6 @@
     {
       "basename": "note-500",
       "path": "notes/note-500.md"
-    },
-    {
-      "basename": "note-499",
-      "path": "notes/note-499.md"
     }
   ],
   "omittedPaths": [],

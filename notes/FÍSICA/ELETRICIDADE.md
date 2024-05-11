@@ -103,7 +103,7 @@ eletricidade
 			[[note-12|Leis do nós e diferença de potencial nos terminais de um resistor e de um gerador]]
 			[[print_screen_569.png|exemplo de aplicação das leis de kirchoff]]
 			[[print_screen_570.png|exemplo calculando a ddp entre dois pontos]]
-		capacitores                                                                                                                 
+		capacitores                                                                                               
 			 [[note-265|o que é capacitância ?]]
 			 [[print_screen_571.png|capacitor e capacitância]]
 			 [[print_screen_572.png|associação de capacitores em série]]
