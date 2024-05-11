@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "39219de295351a71",
+            "id": "ae37f021e6eda2ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/HIDROESTÁTICA.md",
+                "file": "notes/FÍSICA/GRAVITAÇÃO.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/HIDROESTÁTICA.md",
+                "file": "notes/FÍSICA/GRAVITAÇÃO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/HIDROESTÁTICA.md",
+                "file": "notes/FÍSICA/GRAVITAÇÃO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/HIDROESTÁTICA.md"
+                "file": "notes/FÍSICA/GRAVITAÇÃO.md"
               }
             }
           },
@@ -182,11 +182,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "39219de295351a71",
+  "active": "ae37f021e6eda2ab",
   "lastOpenFiles": [
-    "notes/note-372.md",
-    "notes/FÍSICA/HIDROESTÁTICA.md",
     "MATÉRIAS/EEAR.md",
+    "notes/FÍSICA/HIDROESTÁTICA.md",
+    "notes/note-372.md",
     "notes/FÍSICA/ESTÁTICA.md",
     "notes/FÍSICA/DINÂMICA.md",
     "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
