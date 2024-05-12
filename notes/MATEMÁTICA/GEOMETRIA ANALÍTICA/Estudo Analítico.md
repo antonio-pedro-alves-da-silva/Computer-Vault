@@ -11,7 +11,7 @@ da reta
 		[[print_screen_167.png|perpendiculares]]
 	distância entre dois pontos
 	[[print_screen_168.png|distância entre ponto e reta]]
-	[[note-516|bissetriz dos quadrantes pares e dos quadrantes ímpares]]
+	[[note-516|bissetriz dos quadrantes impares]] e [[note-517|bissetriz dos quadrantes pares]]
 da circuferência
 	[[print_screen_169.png|equação reduzida]]
 	equação geral

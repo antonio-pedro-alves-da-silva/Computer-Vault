@@ -18,69 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f30e0cca961d029a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af2c34f05d5dec9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-516.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ae8f419a4401be6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2eb04e0df8cdcaff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf20f4d319b54542",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-328.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-516.md",
+                "file": "MATÉRIAS/EEAR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-516.md",
+                "file": "MATÉRIAS/EEAR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-516.md"
+                "file": "MATÉRIAS/EEAR.md"
               }
             }
           },
@@ -230,14 +169,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "af2c34f05d5dec9a",
+  "active": "a850afcf5770f1c9",
   "lastOpenFiles": [
     "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md",
     "notes/note-516.md",
-    "Pasted image 20240512172047.png",
-    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
-    "notes/note-328.md",
     "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
+    "notes/note-328.md",
+    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "notes/note-517.md",
+    "Pasted image 20240512175226.png",
+    "Pasted image 20240512172047.png",
     "MATÉRIAS/EEAR.md",
     "notes/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
     "Excalidraw/GEOMETRIA ESPACIAL THODI.excalidraw.md",
@@ -261,16 +202,13 @@
     "notes/note-143.md",
     "notes/note-476.md",
     "notes/FÍSICA/ELETRICIDADE.md",
-    "notes/note-17.md",
     "images/print_screen_570.png",
     "images/print_screen_569.png",
-    "notes/FÍSICA/GRAVITAÇÃO.md",
     "images/print_screen_679.png",
     "Pasted image 20240510150226.png",
     "my-configuration-files/backup/cfs/cfs-2-2020_gabarito.pdf",
     "my-configuration-files/backup/cfs/cfs-1-2019_gabarito.pdf",
     "my-configuration-files/backup/cfs/cfs-1-2018_gabarito.pdf",
-    "Pasted image 20240509161831.png",
     "series/helsing/s1/e1/output.mp3",
     "series/helsing/s1/e1/helsing_s1e1_1108.mp3",
     "series/helsing/s1/e1/helsing_s1e1_1104.mp3",
