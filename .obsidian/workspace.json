@@ -30,18 +30,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5fe3f30108e29a62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -196,8 +184,9 @@
   },
   "active": "d29644c66d7da469",
   "lastOpenFiles": [
-    "MATÉRIAS/EEAR.md",
     "notes/FÍSICA/ELETRICIDADE.md",
+    "notes/note-476.md",
+    "MATÉRIAS/EEAR.md",
     "notes/note-17.md",
     "images/print_screen_570.png",
     "images/print_screen_569.png",
@@ -225,7 +214,6 @@
     "notes/crase.md",
     "notes/note-508.md",
     "Pasted image 20240510150226.png",
-    "notes/note-507.md",
     "my-configuration-files/backup/cfs/cfs-2-2020_gabarito.pdf",
     "my-configuration-files/backup/cfs/cfs-1-2019_gabarito.pdf",
     "my-configuration-files/backup/cfs/cfs-1-2018_gabarito.pdf",
