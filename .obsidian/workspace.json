@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "31e95f471484d58a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-505.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "file": "notes/note-505.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "file": "notes/note-505.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md"
+                "file": "notes/note-505.md"
               }
             }
           },
@@ -182,10 +194,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4b551a690cca5051",
+  "active": "31e95f471484d58a",
   "lastOpenFiles": [
-    "notes/note-502.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
+    "notes/note-504.md",
+    "notes/note-505.md",
+    "notes/note-447.md",
+    "notes/note-503.md",
+    "notes/note-441.md",
+    "notes/note-502.md",
     "notes/note-501.md",
     "MATÉRIAS/EEAR.md",
     "notes/note-515.md",
@@ -207,12 +224,7 @@
     "notes/FÍSICA/DINÂMICA.md",
     "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
     "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
-    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "images/print_screen_679.png",
-    "notes/MATEMÁTICA/GEOMETRIA PLANA/Ângulos.md",
-    "notes/note-127.md",
-    "notes/note-472.md",
-    "notes/note-509.md",
     "Pasted image 20240510150226.png",
     "my-configuration-files/backup/cfs/cfs-2-2020_gabarito.pdf",
     "my-configuration-files/backup/cfs/cfs-1-2019_gabarito.pdf",

@@ -3,3 +3,4 @@
 5)crase
 8)[[diferença entre adjunto adnominal e complemento nominal]]
 17)
+
