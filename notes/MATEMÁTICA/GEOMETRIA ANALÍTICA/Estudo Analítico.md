@@ -12,6 +12,7 @@ da reta
 	distância entre dois pontos
 	[[print_screen_168.png|distância entre ponto e reta]]
 	[[note-516|bissetriz dos quadrantes impares]] e [[note-517|bissetriz dos quadrantes pares]]
+		[[note-328|exemplo de aplicação]]
 da circuferência
 	[[print_screen_169.png|equação reduzida]]
 	equação geral

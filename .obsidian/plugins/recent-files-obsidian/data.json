@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "note-353",
+      "path": "notes/note-353.md"
+    },
+    {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
     },
     {
+      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
+      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+    },
+    {
+      "basename": "Polinômios",
+      "path": "notes/MATEMÁTICA/ÁLGEBRA III/Polinômios/Polinômios.md"
+    },
+    {
+      "basename": "note-346",
+      "path": "notes/note-346.md"
+    },
+    {
       "basename": "Estudo Analítico",
       "path": "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md"
+    },
+    {
+      "basename": "note-328",
+      "path": "notes/note-328.md"
     },
     {
       "basename": "note-516",
@@ -15,14 +35,6 @@
     {
       "basename": "Polígonos",
       "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md"
-    },
-    {
-      "basename": "note-328",
-      "path": "notes/note-328.md"
-    },
-    {
-      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
-      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
     },
     {
       "basename": "note-517",
@@ -187,18 +199,6 @@
     {
       "basename": "note-512",
       "path": "notes/note-512.md"
-    },
-    {
-      "basename": "regência verbal",
-      "path": "notes/GRAMÁTICA/regência verbal.md"
-    },
-    {
-      "basename": "crase",
-      "path": "notes/crase.md"
-    },
-    {
-      "basename": "note-508",
-      "path": "notes/note-508.md"
     }
   ],
   "omittedPaths": [],

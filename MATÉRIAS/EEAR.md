@@ -960,6 +960,7 @@ MATEMÁTICA
 		[[polígonos]]
 		[[trigonometria]]
 		teorema de tales
+			[[note-353|trapézio]]
 	ÁLGEBRA II
 		[[Matrizes]]
 		[[Análise combinatória]]

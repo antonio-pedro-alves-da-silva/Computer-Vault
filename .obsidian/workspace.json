@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "50a5e8a529de0d8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "MATÉRIAS/EEAR.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "5e770a3e3fc0720b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-353.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "notes/note-353.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "notes/note-353.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATÉRIAS/EEAR.md"
+                "file": "notes/note-353.md"
               }
             }
           },
@@ -169,17 +194,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a850afcf5770f1c9",
+  "active": "5e770a3e3fc0720b",
   "lastOpenFiles": [
+    "MATÉRIAS/EEAR.md",
+    "notes/note-518.md",
+    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "notes/MATEMÁTICA/ÁLGEBRA III/Polinômios/Polinômios.md",
+    "notes/note-346.md",
     "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md",
+    "notes/note-328.md",
     "notes/note-516.md",
     "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
-    "notes/note-328.md",
-    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-517.md",
     "Pasted image 20240512175226.png",
     "Pasted image 20240512172047.png",
-    "MATÉRIAS/EEAR.md",
     "notes/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
     "Excalidraw/GEOMETRIA ESPACIAL THODI.excalidraw.md",
     "Pasted image 20240512170631.png",
@@ -200,8 +228,6 @@
     "notes/GRAMÁTICA/concordância nominal.md",
     "notes/GRAMÁTICA/concordância verbal.md",
     "notes/note-143.md",
-    "notes/note-476.md",
-    "notes/FÍSICA/ELETRICIDADE.md",
     "images/print_screen_570.png",
     "images/print_screen_569.png",
     "images/print_screen_679.png",
