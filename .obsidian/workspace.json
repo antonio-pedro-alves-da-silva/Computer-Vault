@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3b65e5a3a2a4c3be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-502.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-502.md",
+                "file": "notes/GRAMÁTICA/questões erradas de português.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-502.md",
+                "file": "notes/GRAMÁTICA/questões erradas de português.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-502.md"
+                "file": "notes/GRAMÁTICA/questões erradas de português.md"
               }
             }
           },
@@ -194,8 +182,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3b65e5a3a2a4c3be",
+  "active": "4b551a690cca5051",
   "lastOpenFiles": [
+    "notes/note-502.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-501.md",
     "MATÉRIAS/EEAR.md",
@@ -224,7 +213,6 @@
     "notes/note-127.md",
     "notes/note-472.md",
     "notes/note-509.md",
-    "notes/note-511.md",
     "Pasted image 20240510150226.png",
     "my-configuration-files/backup/cfs/cfs-2-2020_gabarito.pdf",
     "my-configuration-files/backup/cfs/cfs-1-2019_gabarito.pdf",
