@@ -1,5 +1,5 @@
 Poliedros
-	Regras de euler
+	[[Pasted image 20240512170631.png|tetraedro , hexaedro , octaedro , dodecagono e icósagono]]
 	[[Pasted image 20231031151346.png|regras de euler]] , [[GEOMETRIA ESPACIAL THODI.excalidraw|thodi]] , [[note-327|calculando aresta]]
 	[[Pasted image 20231031155103.png|soma dos ângulos da faces de um poliedro]]
 	[[Pasted image 20231101094601.png|prisma]]

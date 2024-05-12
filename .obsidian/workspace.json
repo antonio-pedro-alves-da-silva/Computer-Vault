@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "f30e0cca961d029a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af2c34f05d5dec9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-516.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8ae8f419a4401be6",
             "type": "leaf",
             "state": {
@@ -38,6 +62,18 @@
               "type": "markdown",
               "state": {
                 "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf20f4d319b54542",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-328.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "notes/note-516.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "notes/note-516.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+                "file": "notes/note-516.md"
               }
             }
           },
@@ -194,13 +230,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2eb04e0df8cdcaff",
+  "active": "af2c34f05d5dec9a",
   "lastOpenFiles": [
+    "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md",
+    "notes/note-516.md",
+    "Pasted image 20240512172047.png",
+    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "notes/note-328.md",
     "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
+    "MATÉRIAS/EEAR.md",
+    "notes/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
+    "Excalidraw/GEOMETRIA ESPACIAL THODI.excalidraw.md",
+    "Pasted image 20240512170631.png",
+    "images/Pasted image 20231031151346.png",
     "Pasted image 20240512155914.png",
     "images/print_screen_177.png",
-    "MATÉRIAS/EEAR.md",
-    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/().md",
     "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-505.md",
@@ -221,19 +265,12 @@
     "images/print_screen_570.png",
     "images/print_screen_569.png",
     "notes/FÍSICA/GRAVITAÇÃO.md",
-    "notes/note-211.md",
-    "notes/note-210.md",
-    "notes/FÍSICA/HIDROESTÁTICA.md",
-    "notes/note-372.md",
     "images/print_screen_679.png",
     "Pasted image 20240510150226.png",
     "my-configuration-files/backup/cfs/cfs-2-2020_gabarito.pdf",
     "my-configuration-files/backup/cfs/cfs-1-2019_gabarito.pdf",
     "my-configuration-files/backup/cfs/cfs-1-2018_gabarito.pdf",
     "Pasted image 20240509161831.png",
-    "images/Pasted image 20240509161831.png",
-    "images/Pasted image 20240509135902.png",
-    "images/Pasted image 20240508173859.png",
     "series/helsing/s1/e1/output.mp3",
     "series/helsing/s1/e1/helsing_s1e1_1108.mp3",
     "series/helsing/s1/e1/helsing_s1e1_1104.mp3",

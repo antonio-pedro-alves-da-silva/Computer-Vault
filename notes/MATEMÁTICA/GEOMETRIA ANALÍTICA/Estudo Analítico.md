@@ -9,7 +9,9 @@ da reta
 	posição relativa entre duas retas
 		[[print_screen_166.png|paralelas]]
 		[[print_screen_167.png|perpendiculares]]
+	distância entre dois pontos
 	[[print_screen_168.png|distância entre ponto e reta]]
+	[[note-516|bissetriz dos quadrantes pares e dos quadrantes ímpares]]
 da circuferência
 	[[print_screen_169.png|equação reduzida]]
 	equação geral

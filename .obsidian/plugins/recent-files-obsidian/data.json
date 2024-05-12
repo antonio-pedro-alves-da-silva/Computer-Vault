@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "note-516",
+      "path": "notes/note-516.md"
+    },
+    {
+      "basename": "Estudo Analítico",
+      "path": "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md"
+    },
+    {
       "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
       "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+    },
+    {
+      "basename": "note-328",
+      "path": "notes/note-328.md"
     },
     {
       "basename": "Polígonos",
@@ -11,6 +23,18 @@
     {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "GEOMETRIA ESPACIAL",
+      "path": "notes/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md"
+    },
+    {
+      "basename": "GEOMETRIA ESPACIAL THODI.excalidraw",
+      "path": "Excalidraw/GEOMETRIA ESPACIAL THODI.excalidraw.md"
+    },
+    {
+      "basename": "Pasted image 20231031151346",
+      "path": "images/Pasted image 20231031151346.png"
     },
     {
       "basename": "()",
@@ -175,26 +199,6 @@
     {
       "basename": "note-507",
       "path": "notes/note-507.md"
-    },
-    {
-      "basename": "note-506",
-      "path": "notes/note-506.md"
-    },
-    {
-      "basename": "note-453",
-      "path": "notes/note-453.md"
-    },
-    {
-      "basename": "note-452",
-      "path": "notes/note-452.md"
-    },
-    {
-      "basename": "diferença entre adjunto adnominal e complemento nominal",
-      "path": "notes/GRAMÁTICA/diferença entre adjunto adnominal e complemento nominal.md"
-    },
-    {
-      "basename": "tranquei a porta",
-      "path": "tranquei a porta.md"
     }
   ],
   "omittedPaths": [],
