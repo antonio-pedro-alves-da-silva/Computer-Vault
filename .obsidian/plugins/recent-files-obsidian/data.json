@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "concordância nominal",
+      "path": "notes/GRAMÁTICA/concordância nominal.md"
+    },
+    {
+      "basename": "note-510",
+      "path": "notes/note-510.md"
+    },
+    {
+      "basename": "concordância verbal",
+      "path": "notes/GRAMÁTICA/concordância verbal.md"
+    },
+    {
+      "basename": "questões erradas de português",
+      "path": "notes/GRAMÁTICA/questões erradas de português.md"
+    },
+    {
+      "basename": "EEAR",
+      "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "note-143",
+      "path": "notes/note-143.md"
+    },
+    {
       "basename": "note-476",
       "path": "notes/note-476.md"
     },
     {
       "basename": "ELETRICIDADE",
       "path": "notes/FÍSICA/ELETRICIDADE.md"
-    },
-    {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
     },
     {
       "basename": "note-17",
@@ -79,10 +99,6 @@
     {
       "basename": "note-472",
       "path": "notes/note-472.md"
-    },
-    {
-      "basename": "questões erradas de português",
-      "path": "notes/GRAMÁTICA/questões erradas de português.md"
     },
     {
       "basename": "note-509",
@@ -165,20 +181,12 @@
       "path": "notes/note-501.md"
     },
     {
-      "basename": "note-510",
-      "path": "notes/note-510.md"
-    },
-    {
       "basename": "tranquei a porta",
       "path": "tranquei a porta.md"
     },
     {
       "basename": "dia para ir ao dentista",
       "path": "dia para ir ao dentista.md"
-    },
-    {
-      "basename": "note-143",
-      "path": "notes/note-143.md"
     },
     {
       "basename": "note-368",
@@ -191,14 +199,6 @@
     {
       "basename": "note-488",
       "path": "notes/note-488.md"
-    },
-    {
-      "basename": "note-490",
-      "path": "notes/note-490.md"
-    },
-    {
-      "basename": "note-500",
-      "path": "notes/note-500.md"
     }
   ],
   "omittedPaths": [],

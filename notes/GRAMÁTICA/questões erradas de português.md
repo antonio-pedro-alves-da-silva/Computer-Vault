@@ -10,7 +10,7 @@ prova de 2015
 [[note-508|prova de 2011]]
 prova de 2010
 [[note-509|prova de 2008]]
-[[note-510|prova de 2006]] - onde parei
+[[note-510|prova de 2006]]
 
 
 prova de 2009 - a fazer

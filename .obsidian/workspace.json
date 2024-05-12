@@ -20,19 +20,43 @@
             }
           },
           {
-            "id": "d29644c66d7da469",
+            "id": "e3a0f00fa24a67c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-476.md",
+                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b92b94fc6de7ddb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-510.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89c195a3cac4ede9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/GRAMÁTICA/concordância nominal.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -107,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-476.md",
+                "file": "notes/GRAMÁTICA/concordância nominal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-476.md",
+                "file": "notes/GRAMÁTICA/concordância nominal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-476.md"
+                "file": "notes/GRAMÁTICA/concordância nominal.md"
               }
             }
           },
@@ -182,11 +206,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d29644c66d7da469",
+  "active": "89c195a3cac4ede9",
   "lastOpenFiles": [
-    "notes/FÍSICA/ELETRICIDADE.md",
-    "notes/note-476.md",
+    "notes/note-510.md",
+    "notes/GRAMÁTICA/concordância verbal.md",
+    "notes/GRAMÁTICA/questões erradas de português.md",
     "MATÉRIAS/EEAR.md",
+    "notes/note-143.md",
+    "notes/note-476.md",
+    "notes/FÍSICA/ELETRICIDADE.md",
     "notes/note-17.md",
     "images/print_screen_570.png",
     "images/print_screen_569.png",
@@ -204,15 +232,11 @@
     "notes/MATEMÁTICA/GEOMETRIA PLANA/Ângulos.md",
     "notes/note-127.md",
     "notes/note-472.md",
-    "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-509.md",
     "notes/note-511.md",
     "notes/note-514.md",
     "notes/note-513.md",
     "notes/note-512.md",
-    "notes/GRAMÁTICA/regência verbal.md",
-    "notes/crase.md",
-    "notes/note-508.md",
     "Pasted image 20240510150226.png",
     "my-configuration-files/backup/cfs/cfs-2-2020_gabarito.pdf",
     "my-configuration-files/backup/cfs/cfs-1-2019_gabarito.pdf",
