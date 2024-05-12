@@ -8,6 +8,7 @@ triângulos
 	[[note-471|relações métricas e áreas]]
 	[[print_screen_193.png|área do tringulo]]
 	[[print_screen_176.png|congruência dos triângulos]]
+	[[Pasted image 20231025174132.png|altura , bissetriz , mediana , mediatriz]] e [[Pasted image 20240512155914.png|baricentro , incentro , circucentro e ortocentro]] e [[print_screen_197.png|medida da mediana]]
 	semelhança de triângulo
 trapézio
 	[[print_screen_181.png|ângulo]]

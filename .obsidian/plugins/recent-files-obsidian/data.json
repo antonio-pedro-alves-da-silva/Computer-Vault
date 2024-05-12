@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "note-505",
-      "path": "notes/note-505.md"
+      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
+      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+    },
+    {
+      "basename": "Polígonos",
+      "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md"
+    },
+    {
+      "basename": "EEAR",
+      "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "()",
+      "path": "notes/().md"
     },
     {
       "basename": "questões erradas de português",
       "path": "notes/GRAMÁTICA/questões erradas de português.md"
+    },
+    {
+      "basename": "note-505",
+      "path": "notes/note-505.md"
     },
     {
       "basename": "note-504",
@@ -31,10 +47,6 @@
     {
       "basename": "note-501",
       "path": "notes/note-501.md"
-    },
-    {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
     },
     {
       "basename": "note-515",
@@ -113,10 +125,6 @@
       "path": "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md"
     },
     {
-      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
-      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
-    },
-    {
       "basename": "print_screen_679",
       "path": "images/print_screen_679.png"
     },
@@ -187,18 +195,6 @@
     {
       "basename": "tranquei a porta",
       "path": "tranquei a porta.md"
-    },
-    {
-      "basename": "dia para ir ao dentista",
-      "path": "dia para ir ao dentista.md"
-    },
-    {
-      "basename": "note-368",
-      "path": "notes/note-368.md"
-    },
-    {
-      "basename": "note-475",
-      "path": "notes/note-475.md"
     }
   ],
   "omittedPaths": [],
