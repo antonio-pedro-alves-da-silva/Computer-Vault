@@ -30,33 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e3d98f463fd58614",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-519.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ada97d1508443974",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-269.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-269.md",
+                "file": "notes/FÍSICA/ELETRICIDADE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-269.md",
+                "file": "notes/FÍSICA/ELETRICIDADE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-269.md"
+                "file": "notes/FÍSICA/ELETRICIDADE.md"
               }
             }
           },
@@ -206,12 +182,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ada97d1508443974",
+  "active": "1bd770656d641240",
   "lastOpenFiles": [
     "notes/note-519.md",
-    "Pasted image 20240513100650.png",
     "notes/FÍSICA/ELETRICIDADE.md",
     "notes/note-269.md",
+    "Pasted image 20240513100650.png",
     "notes/note-518.md",
     "Pasted image 20240513094318.png",
     "MATÉRIAS/EEAR.md",
