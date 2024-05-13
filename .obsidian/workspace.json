@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "522b6bfdd160673a",
+            "id": "65461472f323b425",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -182,8 +182,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "522b6bfdd160673a",
+  "active": "65461472f323b425",
   "lastOpenFiles": [
+    "MATÉRIAS/EEAR.md",
+    "notes/note-72.md",
+    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "series/ghostbusters/s1/e1/ghostbusters_s1e1.mkv",
     "series/ghostbusters/s1/e1",
     "series/ghostbusters/s1",
@@ -194,10 +197,8 @@
     "series/ghostbursters/ghostbusters_s1e1.mkv",
     "series/ghostbursters",
     "notes/note-333.md",
-    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "notes/note-521.md",
     "images/print_screen_429.png",
-    "MATÉRIAS/EEAR.md",
     "notes/note-451.md",
     "Pasted image 20240513155032.png",
     "images/Pasted image 20240125164437.png",
@@ -229,7 +230,6 @@
     "images/Pasted image 20231031151346.png",
     "Pasted image 20240512155914.png",
     "my-configuration-files/backup/cfs/cfs-2-2020_gabarito.pdf",
-    "my-configuration-files/backup/cfs/cfs-1-2019_gabarito.pdf",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
