@@ -113,7 +113,7 @@ prova de 2006
 13([[note-355|resolução]])
 14([[print_screen_213.png|tetraedro regular formulas]])
 [15]()([[note-360|resolução]])
-16([[note-361|resolução]])
+16([[note-361|resolução]])-onde parei
 17( [[note-362|Relações trigonométricas de um triangulo retângulo]])
 [18](https://militares.estrategia.com/public/questoes/pentagono-regular17b30947b3/)([[print_screen_678.png|resolução]])
 [19](https://www.qconcursos.com/questoes-militares/questoes/5ae24f77-16)([[print_screen_152.png|arco metade]])
