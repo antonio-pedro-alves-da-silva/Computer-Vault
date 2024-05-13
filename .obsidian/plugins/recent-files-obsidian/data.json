@@ -5,6 +5,14 @@
       "path": "notes/FÍSICA/ELETRICIDADE.md"
     },
     {
+      "basename": "EEAR",
+      "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "note-270",
+      "path": "notes/note-270.md"
+    },
+    {
       "basename": "note-519",
       "path": "notes/note-519.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "note-518",
       "path": "notes/note-518.md"
-    },
-    {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
     },
     {
       "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
@@ -195,10 +199,6 @@
     {
       "basename": "print_screen_679",
       "path": "images/print_screen_679.png"
-    },
-    {
-      "basename": "Ângulos",
-      "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/Ângulos.md"
     }
   ],
   "omittedPaths": [],
