@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "25a7e4fe32b600bd",
+            "id": "522b6bfdd160673a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md",
+                "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md",
+                "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md",
+                "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md"
+                "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md"
               }
             }
           },
@@ -182,11 +182,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "25a7e4fe32b600bd",
+  "active": "522b6bfdd160673a",
   "lastOpenFiles": [
     "MATÉRIAS/EEAR.md",
-    "notes/note-270.md",
     "notes/FÍSICA/ELETRICIDADE.md",
+    "notes/note-520.md",
+    "notes/note-270.md",
     "notes/note-519.md",
     "notes/note-269.md",
     "Pasted image 20240513100650.png",
@@ -217,7 +218,6 @@
     "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-505.md",
     "notes/note-504.md",
-    "notes/note-447.md",
     "images/print_screen_570.png",
     "images/print_screen_569.png",
     "my-configuration-files/backup/cfs/cfs-2-2020_gabarito.pdf",

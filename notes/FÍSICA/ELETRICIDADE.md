@@ -190,6 +190,7 @@ eletricidade
 		transformador
 			[[note-270|o que são transformadores ?]]
 			[[note-271|relação de potência e relação entre tensão]]
+			[[note-520|variação de fluxo no transformados]]
 			[[print_screen_602.png|relação de potências]]
 			[[note-292|Porque transformador não funciona com corrente contínua?]]
 			[como calcular a resistência mínima para que um dos enrolamentos não se queime](https://www.qconcursos.com/questoes-militares/questoes/d733cbaf-4b)

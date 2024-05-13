@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "ELETRICIDADE",
-      "path": "notes/FÍSICA/ELETRICIDADE.md"
+      "basename": "ONDULATÓRIA e ÓTICA",
+      "path": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md"
     },
     {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "ELETRICIDADE",
+      "path": "notes/FÍSICA/ELETRICIDADE.md"
+    },
+    {
+      "basename": "note-520",
+      "path": "notes/note-520.md"
     },
     {
       "basename": "note-270",
@@ -191,14 +199,6 @@
     {
       "basename": "CINEMÁTICA",
       "path": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
-    },
-    {
-      "basename": "vetores",
-      "path": "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md"
-    },
-    {
-      "basename": "print_screen_679",
-      "path": "images/print_screen_679.png"
     }
   ],
   "omittedPaths": [],
