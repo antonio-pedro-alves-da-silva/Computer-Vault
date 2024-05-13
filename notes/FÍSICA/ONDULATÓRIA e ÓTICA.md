@@ -89,8 +89,7 @@ ondulatória
 	refração da luz
 		[[print_screen_428.png|indice de refração]]
 		[[note-46|indice de refração relativo]]
-		[[print_screen_429.png|qual o meio é mais refrigente]]
-			 [[note-332|o meio mais refrigente sempre será aquele que tem]]
+		[[note-521|qual o meio é mais refrigente]]
 		[[print_screen_431.png|segunda lei da refração(lei de snell)]]
 		[[print_screen_432.png|ângulo limite e reflexão total]]
 			quando ocorre reflexão total
