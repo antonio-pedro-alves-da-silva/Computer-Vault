@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a850afcf5770f1c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a67609e7db74de5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-361.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6a259dbd34ded70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-361.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "50a5e8a529de0d8b",
             "type": "leaf",
             "state": {
@@ -54,9 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1bd770656d641240",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/FÍSICA/ELETRICIDADE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3d98f463fd58614",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-519.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ada97d1508443974",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-269.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-361.md",
+                "file": "notes/note-269.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-361.md",
+                "file": "notes/note-269.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-361.md"
+                "file": "notes/note-269.md"
               }
             }
           },
@@ -206,16 +206,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a67609e7db74de5f",
+  "active": "ada97d1508443974",
   "lastOpenFiles": [
+    "notes/note-519.md",
+    "Pasted image 20240513100650.png",
+    "notes/FÍSICA/ELETRICIDADE.md",
+    "notes/note-269.md",
+    "notes/note-518.md",
+    "Pasted image 20240513094318.png",
+    "MATÉRIAS/EEAR.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-361.md",
     "notes/note-360.md",
     "notes/note-355.md",
     "notes/note-354.md",
-    "MATÉRIAS/EEAR.md",
     "notes/note-353.md",
-    "notes/note-518.md",
     "notes/MATEMÁTICA/ÁLGEBRA III/Polinômios/Polinômios.md",
     "notes/note-346.md",
     "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md",
@@ -236,14 +241,8 @@
     "notes/note-505.md",
     "notes/note-504.md",
     "notes/note-447.md",
-    "notes/note-503.md",
-    "notes/note-441.md",
-    "notes/note-502.md",
-    "notes/note-501.md",
     "images/print_screen_570.png",
     "images/print_screen_569.png",
-    "images/print_screen_679.png",
-    "Pasted image 20240510150226.png",
     "my-configuration-files/backup/cfs/cfs-2-2020_gabarito.pdf",
     "my-configuration-files/backup/cfs/cfs-1-2019_gabarito.pdf",
     "my-configuration-files/backup/cfs/cfs-1-2018_gabarito.pdf",
