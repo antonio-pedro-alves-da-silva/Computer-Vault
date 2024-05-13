@@ -5,6 +5,10 @@
       "path": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md"
     },
     {
+      "basename": "note-451",
+      "path": "notes/note-451.md"
+    },
+    {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
     },
@@ -191,14 +195,6 @@
     {
       "basename": "ESTÁTICA",
       "path": "notes/FÍSICA/ESTÁTICA.md"
-    },
-    {
-      "basename": "DINÂMICA",
-      "path": "notes/FÍSICA/DINÂMICA.md"
-    },
-    {
-      "basename": "CINEMÁTICA",
-      "path": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
     }
   ],
   "omittedPaths": [],
