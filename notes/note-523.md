@@ -1,0 +1,2 @@
+- Use “make” for when you create or produce something.
+- Use “do” for actions you must do, like jobs or work, and for general activities, especially activities you repeat often.

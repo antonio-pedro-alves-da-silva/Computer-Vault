@@ -10,4 +10,9 @@ prova de 2019
 
 prova de 2018
 32 - adjectives - grau em inglês
+39 - [[note-523|make or do]]
+42 - 
+43 - 
+prova de 2017
 
+31 - onde parei

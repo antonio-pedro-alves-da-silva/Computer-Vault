@@ -9,6 +9,10 @@
       "path": "MATÉRIAS/EEAR.md"
     },
     {
+      "basename": "note-523",
+      "path": "notes/note-523.md"
+    },
+    {
       "basename": "note-522",
       "path": "notes/note-522.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "GRAVITAÇÃO",
       "path": "notes/FÍSICA/GRAVITAÇÃO.md"
-    },
-    {
-      "basename": "note-211",
-      "path": "notes/note-211.md"
     }
   ],
   "omittedPaths": [],
