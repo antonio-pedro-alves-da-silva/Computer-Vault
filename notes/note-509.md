@@ -5,5 +5,6 @@
 16)easy
 17)easy
 23)[[note-53|acento diferenciais]]
-24)[[note-511|crase de verbos]]
+24)[[note-511|crase dos verbos]]
+
 

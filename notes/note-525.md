@@ -1,0 +1,1 @@
+a infração de trânsito **implicou** multa

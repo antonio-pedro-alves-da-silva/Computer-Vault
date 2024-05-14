@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c29197462e3877da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-509.md",
+                "file": "notes/note-510.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-509.md",
+                "file": "notes/note-510.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-509.md",
+                "file": "notes/note-510.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-509.md"
+                "file": "notes/note-510.md"
               }
             }
           },
@@ -194,10 +182,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c29197462e3877da",
+  "active": "140cb549bdf2523b",
   "lastOpenFiles": [
     "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-509.md",
+    "notes/note-511.md",
+    "notes/note-527.md",
+    "notes/note-526.md",
+    "notes/note-525.md",
+    "notes/note-512.md",
     "notes/note-515.md",
     "notes/GRAMÁTICA/regência verbal.md",
     "notes/note-524.md",
@@ -229,13 +222,8 @@
     "notes/FÍSICA/ELETRICIDADE.md",
     "notes/note-520.md",
     "notes/note-270.md",
-    "notes/note-519.md",
-    "notes/note-269.md",
     "Pasted image 20240513100650.png",
-    "notes/note-518.md",
     "Pasted image 20240513094318.png",
-    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
-    "notes/note-361.md",
     "Pasted image 20240512175226.png",
     "Pasted image 20240512172047.png",
     "Pasted image 20240512170631.png",
