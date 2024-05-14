@@ -20,19 +20,79 @@
             }
           },
           {
-            "id": "bdcae28f759c882f",
+            "id": "140cb549bdf2523b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-476.md",
+                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9410c136a00093da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-515.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dbf90e6232cc5f6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/GRAMÁTICA/regência verbal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92880df989c1f3df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-524.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23c306bcd3567068",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-515.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30c485a47613daca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-509.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -107,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-476.md",
+                "file": "notes/note-524.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-476.md",
+                "file": "notes/note-524.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-476.md"
+                "file": "notes/note-524.md"
               }
             }
           },
@@ -182,9 +242,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bdcae28f759c882f",
+  "active": "92880df989c1f3df",
   "lastOpenFiles": [
+    "notes/GRAMÁTICA/regência verbal.md",
+    "notes/note-524.md",
+    "notes/note-515.md",
+    "notes/GRAMÁTICA/questões erradas de português.md",
+    "notes/note-509.md",
+    "notes/note-508.md",
+    "notes/note-507.md",
+    "notes/note-506.md",
     "MATÉRIAS/EEAR.md",
+    "notes/note-143.md",
     "notes/note-476.md",
     "notes/note-523.md",
     "notes/note-522.md",
@@ -215,15 +284,6 @@
     "Pasted image 20240513094318.png",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-361.md",
-    "notes/note-360.md",
-    "notes/note-355.md",
-    "notes/note-354.md",
-    "notes/note-353.md",
-    "notes/MATEMÁTICA/ÁLGEBRA III/Polinômios/Polinômios.md",
-    "notes/note-346.md",
-    "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md",
-    "notes/note-328.md",
-    "notes/note-516.md",
     "Pasted image 20240512175226.png",
     "Pasted image 20240512172047.png",
     "Pasted image 20240512170631.png",

@@ -1,4 +1,6 @@
-
+chamar
+	[[note-524|td ou tdi-> convocar]]
+	[[note-|tdi -> qualificar,apelidar]]
 [[note-61|custar]]
 agradecer
 	a coisa - transitivo direto
