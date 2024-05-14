@@ -5,6 +5,14 @@
       "path": "notes/note-510.md"
     },
     {
+      "basename": "discurso direto,indireto e indireto livre",
+      "path": "notes/discurso direto,indireto e indireto livre.md"
+    },
+    {
+      "basename": "EEAR",
+      "path": "MATÉRIAS/EEAR.md"
+    },
+    {
       "basename": "questões erradas de português",
       "path": "notes/GRAMÁTICA/questões erradas de português.md"
     },
@@ -55,10 +63,6 @@
     {
       "basename": "note-506",
       "path": "notes/note-506.md"
-    },
-    {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
     },
     {
       "basename": "note-143",
@@ -195,10 +199,6 @@
     {
       "basename": "note-505",
       "path": "notes/note-505.md"
-    },
-    {
-      "basename": "note-504",
-      "path": "notes/note-504.md"
     }
   ],
   "omittedPaths": [],

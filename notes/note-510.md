@@ -1,3 +1,4 @@
+
 7)[[discurso direto,indireto e indireto livre]]
 8)palvras que se classificam como ditongos
 10)[[regras do acento gráfico]]
@@ -17,3 +18,4 @@
 				zum-zum
 27)[[concordância verbal]]
 28)[[concordância nominal]]
+
