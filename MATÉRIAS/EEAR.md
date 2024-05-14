@@ -880,7 +880,7 @@ LÍNGUA INGLESA
 			composto , contável e incontável 
 			forma possessiva
 		adjectives
-			posição, grau de comparação, sinônimos e antônimos
+			[[note-522|Degrees of the adjectives]]
 		pronouns 
 			pessoal do caso reto e do oblíquo
 			indefinidos (pronomes substantivos e adjetivos)
