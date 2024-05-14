@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "note-541",
+      "path": "notes/note-541.md"
+    },
+    {
       "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
       "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
     },
     {
-      "basename": "note-541",
-      "path": "notes/note-541.md"
+      "basename": "EEAR",
+      "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "Polígonos",
+      "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md"
     },
     {
       "basename": "note-540",
@@ -71,10 +79,6 @@
     {
       "basename": "note-361",
       "path": "notes/note-361.md"
-    },
-    {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
     },
     {
       "basename": "note-510",
@@ -195,10 +199,6 @@
     {
       "basename": "note-519",
       "path": "notes/note-519.md"
-    },
-    {
-      "basename": "note-269",
-      "path": "notes/note-269.md"
     }
   ],
   "omittedPaths": [],
