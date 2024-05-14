@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "85b372ed7488c0dd",
+            "id": "e7aa0a21f2d2ae60",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "relações",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -194,12 +195,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "85b372ed7488c0dd",
+  "active": "e7aa0a21f2d2ae60",
   "lastOpenFiles": [
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "notes/note-530.md",
+    "notes/note-541.md",
     "MATÉRIAS/EEAR.md",
     "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
-    "notes/note-541.md",
     "my-configuration-files/backup/cfs/prova_cfs 2 2022_cod_61.pdf",
     "notes/note-540.md",
     "notes/note-539.md",
@@ -211,7 +213,6 @@
     "notes/note-533.md",
     "notes/note-531.md",
     "notes/note-532.md",
-    "notes/note-530.md",
     "notes/note-529.md",
     "notes/note-528.md",
     "notes/note-352.md",
