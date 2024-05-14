@@ -20,12 +20,24 @@
             }
           },
           {
-            "id": "140cb549bdf2523b",
+            "id": "23da4b68566ecf2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-510.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "497505989823882b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-541.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-510.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-510.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-510.md"
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
               }
             }
           },
@@ -182,30 +194,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "140cb549bdf2523b",
+  "active": "23da4b68566ecf2e",
   "lastOpenFiles": [
-    "notes/discurso direto,indireto e indireto livre.md",
-    "notes/note-510.md",
+    "notes/note-541.md",
+    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "notes/note-540.md",
+    "notes/note-539.md",
+    "notes/note-538.md",
+    "notes/note-537.md",
+    "notes/note-536.md",
+    "notes/note-535.md",
+    "notes/note-534.md",
+    "notes/note-533.md",
+    "notes/note-531.md",
+    "notes/note-532.md",
+    "notes/note-530.md",
+    "notes/note-529.md",
+    "notes/note-528.md",
+    "notes/note-352.md",
+    "images/print_screen_678.png",
+    "notes/note-361.md",
     "MATÉRIAS/EEAR.md",
+    "notes/note-510.md",
+    "notes/GRAMÁTICA/concordância verbal.md",
+    "notes/discurso direto,indireto e indireto livre.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-509.md",
     "notes/note-511.md",
     "notes/note-527.md",
     "notes/note-526.md",
-    "notes/note-525.md",
-    "notes/note-512.md",
-    "notes/note-515.md",
-    "notes/GRAMÁTICA/regência verbal.md",
-    "notes/note-524.md",
-    "notes/note-508.md",
-    "notes/note-507.md",
-    "notes/note-506.md",
-    "notes/note-143.md",
-    "notes/note-476.md",
-    "notes/note-523.md",
-    "notes/note-522.md",
-    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
-    "notes/note-72.md",
     "series/ghostbusters/s1/e1/ghostbusters_s1e1.mkv",
     "series/ghostbusters/s1/e1",
     "series/ghostbusters/s1",
@@ -215,20 +232,15 @@
     "brave_shortcuts.txt",
     "series/ghostbursters/ghostbusters_s1e1.mkv",
     "series/ghostbursters",
-    "notes/note-333.md",
-    "notes/note-521.md",
     "images/print_screen_429.png",
-    "notes/note-451.md",
     "Pasted image 20240513155032.png",
     "images/Pasted image 20240125164437.png",
-    "notes/FÍSICA/ELETRICIDADE.md",
     "Pasted image 20240513100650.png",
     "Pasted image 20240513094318.png",
     "Pasted image 20240512175226.png",
     "Pasted image 20240512172047.png",
     "Pasted image 20240512170631.png",
     "images/Pasted image 20231031151346.png",
-    "Pasted image 20240512155914.png",
     "my-configuration-files/backup/cfs/cfs-2-2020_gabarito.pdf",
     "Untitled.canvas",
     "Untitled 1.canvas"

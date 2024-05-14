@@ -1,0 +1,8 @@
+[1](https://militares.estrategia.com/public/questoes/urna-contem-3-bolas32eed1490e/)(probabilidade de ambos os eventos ocorrem 3/7*2/6)
+[2](https://militares.estrategia.com/public/questoes/Comparando-tg-20deg-tg950159ce4/)(https://www.geogebra.org/m/EKPJP535)(ciclo trigonométrico - analisando a tangente)
+[3](https://militares.estrategia.com/public/questoes/Dado-x-para-que-numero29880c1b4e/)([[note-204|para que z seja real a parte imaginária tem que ser 0]])
+[4]()([[note-186|quando um prisma é regular ?]])
+[5]()([[print_screen_166.png|retas paralelas não coincidentes e não coincidentes]] ou [[print_screen_167.png|retas perpendiculares]]) 
+[6](https://militares.estrategia.com/public/questoes/r-x-6y-2-0-s-8x-t-1-y30007348a8/)([[note-203|aprendi a arredondar números]])
+[7](https://militares.estrategia.com/public/questoes/retangulo-lados-2m-5m249588e67f/)([[Pasted image 20240302184726.png|aprendi como o retângulo roda em torno do próprio eixo]])
+[8] ([[Pasted image 20231025174132.png|altura , bissetriz , mediana , mediatriz]] e [[print_screen_177.png|ortocentro , baricentro , incentro]] e [[print_screen_197.png|medida da mediana]])
