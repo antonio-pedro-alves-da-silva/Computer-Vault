@@ -17,7 +17,7 @@ ondulatória
 		a oscilação de uma carga elétrica da origem ao que ?
 			dá origem a [campos magnéticos](https://mundoeducacao.uol.com.br/fisica/campo-magnetico.htm) que por sua vez sua indução eletromagnética(variação de fluxo magnético) produz campos elétricos. 
 			 /informação adicional que não precissa ser lembrada agora{assim como a variação de fluxo de campos elétricos origina campos magnéticos. A interação entre esses campos é responsável pelo surgimento das ondas eletromagnéticas.}/
-		[[note-451|frequência , comprimento e velocidade das cores]]
+		[[note-451|espectro eletromagnéticos]]
 	equação fundamental da ondulatória
 	3 coisa que a velocidade da onda depende
 		- do comprimento , do meio e da frequência

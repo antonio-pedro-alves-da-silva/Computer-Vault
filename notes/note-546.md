@@ -3,12 +3,7 @@ Modelos atômicos
 	[[note-549|J.J Thomson]]
 	[[note-550|Ernest Rutherford]]
 	[[note-551|Niels Bohr]]
-	Erwin schrödinger
-propriedades dos materiais (térmicas,
-elétricas, magnéticas, etc.) 
-Espectro eletromagnético (das ondas de rádio aos raios y) e suas
-tecnologias (radar, rádio, forno de micro-ondas, tomografia, etc.).
-
+	[[note-553|Erwin schrödinger]]
 Radiações e meios materiais
 (fotocélulas, emissão e transmissão de luz, telas de monitores, radiografias). Potências de ondas eletromagnéticas. 
 
