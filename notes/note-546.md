@@ -2,7 +2,7 @@ Modelos atômicos
 	[[note-548|John dalton]]
 	[[note-549|J.J Thomson]]
 	[[note-550|Ernest Rutherford]]
-	Niels Bohr
+	[[note-551|Niels Bohr]]
 	Erwin schrödinger
 propriedades dos materiais (térmicas,
 elétricas, magnéticas, etc.) 
