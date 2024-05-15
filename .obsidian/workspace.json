@@ -20,31 +20,19 @@
             }
           },
           {
-            "id": "23da4b68566ecf2e",
+            "id": "754d31e722a4ef66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7aa0a21f2d2ae60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-541.md",
+                "file": "notes/note-542.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-541.md",
+                "file": "notes/note-542.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-541.md",
+                "file": "notes/note-542.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-541.md"
+                "file": "notes/note-542.md"
               }
             }
           },
@@ -195,12 +183,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7aa0a21f2d2ae60",
+  "active": "754d31e722a4ef66",
   "lastOpenFiles": [
-    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
-    "notes/note-530.md",
-    "notes/note-541.md",
     "MATÉRIAS/EEAR.md",
+    "notes/note-542.md",
+    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "notes/note-541.md",
+    "notes/note-530.md",
     "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
     "my-configuration-files/backup/cfs/prova_cfs 2 2022_cod_61.pdf",
     "notes/note-540.md",
@@ -224,7 +213,6 @@
     "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-509.md",
     "notes/note-511.md",
-    "notes/note-527.md",
     "series/ghostbusters/s1/e1/ghostbusters_s1e1.mkv",
     "series/ghostbusters/s1/e1",
     "series/ghostbusters/s1",

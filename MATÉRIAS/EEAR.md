@@ -1079,7 +1079,7 @@ FÍSICA
 			Instrumentos ópticos simples. 
 			Olho humano (principais defeitos da visão). 
 	[[TERMOLOGIA]]
-
+	[[note-542|provas anteriores de física]]
 AS MATÉRIAS QUE MAIS CAEM DE FÍSICA
 	Cinemática: M.U , M.U.V , equações, gráficos, torricelli, lançamentos e queda livre
 	Vetores: Lei dos cossenos, Pitágoras, Decomposição de vetores
