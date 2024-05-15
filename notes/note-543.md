@@ -1,0 +1,1 @@
+87)não há corrente em circurto aberto
