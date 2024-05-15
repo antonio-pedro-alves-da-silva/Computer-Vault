@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "notes/note-542.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd2429adb91af648",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "MATÉRIAS/EEAR.md",
                 "mode": "source",
                 "source": false
@@ -20,24 +32,12 @@
             }
           },
           {
-            "id": "48b04b2c7af1ae43",
+            "id": "f0b9e8e9e5db2808",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14dbb4337d7bb47e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-45.md",
+                "file": "notes/note-542.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,8 +98,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -120,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-45.md",
+                "file": "notes/note-542.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-45.md",
+                "file": "notes/note-542.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-45.md"
+                "file": "notes/note-542.md"
               }
             }
           },
@@ -195,15 +194,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "14dbb4337d7bb47e",
+  "active": "f0b9e8e9e5db2808",
   "lastOpenFiles": [
-    "notes/note-544.md",
-    "notes/note-45.md",
-    "notes/note-545.md",
-    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "MATÉRIAS/EEAR.md",
+    "notes/note-546.md",
     "notes/note-542.md",
     "notes/note-543.md",
+    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
+    "notes/note-45.md",
+    "notes/note-544.md",
+    "notes/note-545.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-541.md",
     "notes/note-530.md",
@@ -224,7 +224,6 @@
     "notes/note-352.md",
     "images/print_screen_678.png",
     "notes/note-361.md",
-    "notes/note-510.md",
     "series/ghostbusters/s1/e1/ghostbusters_s1e1.mkv",
     "series/ghostbusters/s1/e1",
     "series/ghostbusters/s1",
