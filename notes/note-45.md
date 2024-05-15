@@ -1,7 +1,7 @@
 
 | R.I                   | V.D                       |
 | --------------------- | ------------------------- |
-| p'(+)                 | p'(-)                     |
+| [[note-544\|p'(+)]]   | [[note-545\|p'(-)]]       |
 | i e o com mesmo sinal | i e o com sinal diferente |
 | A(-)                  | A(+)                      |
 
