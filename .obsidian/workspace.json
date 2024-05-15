@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "cd2429adb91af648",
+            "id": "974540c37c87e8ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,19 +32,31 @@
             }
           },
           {
-            "id": "f0b9e8e9e5db2808",
+            "id": "08cd578eeb1d258b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-542.md",
+                "file": "notes/note-546.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9bcab9d8e674731",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-550.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -119,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-542.md",
+                "file": "notes/note-550.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-542.md",
+                "file": "notes/note-550.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-542.md"
+                "file": "notes/note-550.md"
               }
             }
           },
@@ -194,12 +206,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f0b9e8e9e5db2808",
+  "active": "d9bcab9d8e674731",
   "lastOpenFiles": [
+    "notes/note-546.md",
+    "notes/note-550.md",
+    "Pasted image 20240515163519.png",
+    "notes/note-549.md",
+    "notes/note-548.md",
+    "Pasted image 20240515162907.png",
+    "Pasted image 20240515162154.png",
+    "MATÉRIAS/EEAR.md",
+    "notes/FÍSICA/TERMOLOGIA.md",
     "notes/note-543.md",
     "notes/note-542.md",
-    "MATÉRIAS/EEAR.md",
-    "notes/note-546.md",
+    "notes/note-547.md",
+    "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
     "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "notes/note-45.md",
     "notes/note-544.md",
@@ -216,14 +237,7 @@
     "notes/note-536.md",
     "notes/note-535.md",
     "notes/note-534.md",
-    "notes/note-533.md",
-    "notes/note-531.md",
-    "notes/note-532.md",
-    "notes/note-529.md",
-    "notes/note-528.md",
-    "notes/note-352.md",
     "images/print_screen_678.png",
-    "notes/note-361.md",
     "series/ghostbusters/s1/e1/ghostbusters_s1e1.mkv",
     "series/ghostbusters/s1/e1",
     "series/ghostbusters/s1",
@@ -239,9 +253,6 @@
     "Pasted image 20240513100650.png",
     "Pasted image 20240513094318.png",
     "Pasted image 20240512175226.png",
-    "Pasted image 20240512172047.png",
-    "Pasted image 20240512170631.png",
-    "images/Pasted image 20231031151346.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

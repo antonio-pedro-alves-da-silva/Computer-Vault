@@ -1,4 +1,10 @@
-Modelos atômicos e as propriedades dos materiais (térmicas,
+Modelos atômicos
+	[[note-548|John dalton]]
+	[[note-549|J.J Thomson]]
+	[[note-550|Ernest Rutherford]]
+	Niels Bohr
+	Erwin schrödinger
+propriedades dos materiais (térmicas,
 elétricas, magnéticas, etc.) 
 Espectro eletromagnético (das ondas de rádio aos raios y) e suas
 tecnologias (radar, rádio, forno de micro-ondas, tomografia, etc.).
