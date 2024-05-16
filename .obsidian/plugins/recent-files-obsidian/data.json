@@ -5,12 +5,16 @@
       "path": "notes/note-563.md"
     },
     {
-      "basename": "questões erradas de português",
-      "path": "notes/GRAMÁTICA/questões erradas de português.md"
+      "basename": "note-143",
+      "path": "notes/note-143.md"
     },
     {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "questões erradas de português",
+      "path": "notes/GRAMÁTICA/questões erradas de português.md"
     },
     {
       "basename": "note-510",
@@ -195,10 +199,6 @@
     {
       "basename": "note-361",
       "path": "notes/note-361.md"
-    },
-    {
-      "basename": "concordância verbal",
-      "path": "notes/GRAMÁTICA/concordância verbal.md"
     }
   ],
   "omittedPaths": [],
