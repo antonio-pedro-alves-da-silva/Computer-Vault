@@ -11,10 +11,7 @@
 63)determinante de b quando elevado ao quadrado
 64)triângulo isóceles inscrito na circuferência
 65)cilindro de volume 21pi
-66)c-d
-[67](https://www.youtube.com/watch?v=BhlcQ_TwSVE&ab_channel=Matem%C3%A1ticaPraChuchu)
-68)a
-69)d
-[70)](https://www.youtube.com/watch?v=KKSeGXpLfMc&ab_channel=Matem%C3%A1ticaPraChuchu)
-71)a-b
+66)probabilidade de perder dois sorteios
+[70)](https://www.youtube.com/watch?v=KKSeGXpLfMc&ab_channel=Matem%C3%A1ticaPraChuchu)alterações na média
 72)a
+
