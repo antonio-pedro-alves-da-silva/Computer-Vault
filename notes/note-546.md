@@ -4,8 +4,15 @@ Modelos atômicos
 	[[note-550|Ernest Rutherford]]
 	[[note-551|Niels Bohr]]
 	[[note-553|Erwin schrödinger]]
-Radiações e meios materiais
-(fotocélulas, emissão e transmissão de luz, telas de monitores, radiografias). Potências de ondas eletromagnéticas. 
+radiotividade
+	[[note-555|número atômico e número de massa]]
+	tipos
+		[[note-554|raios alfa]]
+		[[note-557|raios beta]]
+		raios gama
+meios materiais
+	(fotocélulas, emissão e transmissão de luz, telas de monitores, radiografias). 
+	Potências de ondas eletromagnéticas. 
 
 Natureza corpuscular das ondas eletromagnéticas. 
 Transformações nucleares e
