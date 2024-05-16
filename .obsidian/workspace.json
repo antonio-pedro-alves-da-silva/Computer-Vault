@@ -20,43 +20,31 @@
             }
           },
           {
-            "id": "da09116f34975227",
+            "id": "6df21653a87c8213",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-143.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2a82a76bb2de1dd9",
+            "id": "2f9aa328fc67af39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3795434c49093345",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-563.md",
+                "file": "notes/note-541.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-563.md",
+                "file": "notes/note-541.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-563.md",
+                "file": "notes/note-541.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-563.md"
+                "file": "notes/note-541.md"
               }
             }
           },
@@ -207,12 +195,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3795434c49093345",
+  "active": "2f9aa328fc67af39",
   "lastOpenFiles": [
-    "notes/note-143.md",
+    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "MATÉRIAS/EEAR.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-563.md",
+    "notes/note-565.md",
+    "notes/note-143.md",
+    "notes/note-564.md",
     "notes/note-510.md",
     "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "notes/note-562.md",
@@ -241,10 +232,7 @@
     "Pasted image 20240515164038.png",
     "Pasted image 20240515163519.png",
     "notes/note-549.md",
-    "notes/note-548.md",
     "Pasted image 20240515162907.png",
-    "notes/FÍSICA/TERMOLOGIA.md",
-    "notes/note-543.md",
     "my-configuration-files/backup/cfs/prova_cfs 2 2022_cod_61.pdf",
     "series/ghostbusters/s1/e1/ghostbusters_s1e1.mkv",
     "series/ghostbusters/s1/e1",
