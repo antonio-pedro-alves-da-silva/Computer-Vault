@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "c947a25ac5b01d4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-566.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "61a3f6f29a00e85e",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "file": "notes/note-566.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "file": "notes/note-566.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md"
+                "file": "notes/note-566.md"
               }
             }
           },
@@ -195,13 +207,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "00402a36ceb37411",
+  "active": "c947a25ac5b01d4a",
   "lastOpenFiles": [
+    "notes/GRAMÁTICA/questões erradas de português.md",
     "my-configuration-files/backup/cfs/gabof_cfs_me_bct2013cod04_gabarito.pdf",
     "my-configuration-files/backup/cfs/gabof_cfs_me_bct2013cod04.pdf",
     "my-configuration-files/backup/cfs/gabof_cfs_me_bct2013cod04-.pdf",
     "notes/note-566.md",
-    "notes/GRAMÁTICA/questões erradas de português.md",
     "MATÉRIAS/EEAR.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-541.md",
@@ -242,7 +254,6 @@
     "series/ghostbusters/ghostbusters_s1e1.mkv",
     "series/ghostbusters",
     "my-configuration-files/brave_shortcuts.txt",
-    "brave_shortcuts.txt",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
