@@ -1,3 +1,4 @@
+
 Modelos atômicos
 	[[note-548|John dalton]]
 	[[note-549|J.J Thomson]]
@@ -9,7 +10,7 @@ radiotividade
 	tipos
 		[[note-554|raios alfa]]
 		[[note-557|raios beta]]
-		raios gama
+		[[note-562|raios gama]]
 meios materiais
 	(fotocélulas, emissão e transmissão de luz, telas de monitores, radiografias). 
 	Potências de ondas eletromagnéticas. 
