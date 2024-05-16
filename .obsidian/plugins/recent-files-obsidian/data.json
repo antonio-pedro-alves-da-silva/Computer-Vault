@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "note-541",
-      "path": "notes/note-541.md"
+      "basename": "questões erradas de português",
+      "path": "notes/GRAMÁTICA/questões erradas de português.md"
+    },
+    {
+      "basename": "note-566",
+      "path": "notes/note-566.md"
     },
     {
       "basename": "EEAR",
@@ -13,8 +17,8 @@
       "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
     },
     {
-      "basename": "questões erradas de português",
-      "path": "notes/GRAMÁTICA/questões erradas de português.md"
+      "basename": "note-541",
+      "path": "notes/note-541.md"
     },
     {
       "basename": "note-563",
@@ -195,10 +199,6 @@
     {
       "basename": "note-528",
       "path": "notes/note-528.md"
-    },
-    {
-      "basename": "note-352",
-      "path": "notes/note-352.md"
     }
   ],
   "omittedPaths": [],
