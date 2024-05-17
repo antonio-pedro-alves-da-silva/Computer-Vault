@@ -20,18 +20,31 @@
             }
           },
           {
-            "id": "cf8b5850f800df2f",
+            "id": "c9eac7b24f9a30ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-546.md",
+                "file": "notes/note-542.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28be8846262a109a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-580.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "notes/note-580.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "notes/note-580.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATÉRIAS/EEAR.md"
+                "file": "notes/note-580.md"
               }
             }
           },
@@ -182,8 +195,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "974540c37c87e8ec",
+  "active": "28be8846262a109a",
   "lastOpenFiles": [
+    "notes/note-542.md",
+    "notes/note-580.md",
+    "notes/note-543.md",
+    "MATÉRIAS/EEAR.md",
     "notes/note-546.md",
     "notes/note-554.md",
     "notes/note-579.md",
@@ -191,14 +208,11 @@
     "notes/note-556.md",
     "notes/note-561.md",
     "notes/note-578.md",
-    "notes/note-542.md",
     "Pasted image 20240517133742.png",
     "Pasted image 20240517133734.png",
-    "MATÉRIAS/EEAR.md",
     "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "notes/note-451.md",
     "Pasted image 20240517133539.png",
-    "notes/note-543.md",
     "notes/note-577.md",
     "notes/note-573.md",
     "notes/note-572.md",
@@ -222,7 +236,6 @@
     "my-configuration-files/backup/cfs/prova_cfs 1 2021(s)_cod_33_05 10 2020 08 32 24_gabarito.pdf",
     "my-configuration-files/backup/cfs/prova_cfs 1 2021(s)_cod_33_05 10 2020 08 32 24_.pdf",
     "notes/note-568.md",
-    "notes/note-567.md",
     "my-configuration-files/backup/cfs/gabof_cfs_me_bct2013cod04_gabarito.pdf",
     "my-configuration-files/backup/cfs/gabof_cfs_me_bct2013cod04.pdf",
     "my-configuration-files/backup/cfs/gabof_cfs_me_bct2013cod04-.pdf",

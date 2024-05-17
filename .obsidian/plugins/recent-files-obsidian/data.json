@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "note-580",
+      "path": "notes/note-580.md"
+    },
+    {
+      "basename": "note-542",
+      "path": "notes/note-542.md"
+    },
+    {
+      "basename": "note-543",
+      "path": "notes/note-543.md"
+    },
+    {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
     },
@@ -33,20 +45,12 @@
       "path": "notes/note-578.md"
     },
     {
-      "basename": "note-542",
-      "path": "notes/note-542.md"
-    },
-    {
       "basename": "ONDULATÓRIA e ÓTICA",
       "path": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md"
     },
     {
       "basename": "note-451",
       "path": "notes/note-451.md"
-    },
-    {
-      "basename": "note-543",
-      "path": "notes/note-543.md"
     },
     {
       "basename": "note-577",
@@ -195,10 +199,6 @@
     {
       "basename": "note-45",
       "path": "notes/note-45.md"
-    },
-    {
-      "basename": "note-544",
-      "path": "notes/note-544.md"
     }
   ],
   "omittedPaths": [],
