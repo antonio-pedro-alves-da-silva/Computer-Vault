@@ -20,31 +20,31 @@
             }
           },
           {
-            "id": "8a1b45e9f34a224f",
+            "id": "63fae9bc609b6905",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "notes/note-546.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "714d0ac4c1545b01",
+            "id": "f379e69dc0262358",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-569.md",
+                "file": "notes/fissão nuclear de um átomo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-569.md",
+                "file": "notes/note-546.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-569.md",
+                "file": "notes/note-546.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-569.md"
+                "file": "notes/note-546.md"
               }
             }
           },
@@ -195,16 +195,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "714d0ac4c1545b01",
+  "active": "63fae9bc609b6905",
   "lastOpenFiles": [
+    "notes/fissão nuclear de um átomo.md",
+    "notes/note-546.md",
+    "notes/note-571.md",
+    "notes/note-570.md",
+    "Pasted image 20240517091731.png",
+    "MATÉRIAS/EEAR.md",
+    "notes/note-543.md",
+    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "notes/note-569.md",
     "my-configuration-files/backup/cfs/prova_cfs 1 2021(s)_cod_33_05 10 2020 08 32 24.pdf",
     "my-configuration-files/backup/cfs/prova_cfs 1 2021(s)_cod_33_05 10 2020 08 32 24_gabarito.pdf",
     "my-configuration-files/backup/cfs/prova_cfs 1 2021(s)_cod_33_05 10 2020 08 32 24_.pdf",
-    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
-    "notes/note-569.md",
     "notes/note-568.md",
     "notes/note-567.md",
-    "MATÉRIAS/EEAR.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-566.md",
     "my-configuration-files/backup/cfs/gabof_cfs_me_bct2013cod04_gabarito.pdf",
@@ -218,7 +224,6 @@
     "notes/note-510.md",
     "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "notes/note-562.md",
-    "notes/note-546.md",
     "notes/note-557.md",
     "notes/note-561.md",
     "Pasted image 20240515221327.png",
@@ -228,21 +233,16 @@
     "notes/note-556.md",
     "notes/note-560.md",
     "Pasted image 20240515211640.png",
-    "notes/note-559.md",
-    "notes/note-558.md",
     "Pasted image 20240515200916.png",
     "Pasted image 20240515195054.png",
-    "notes/note-451.md",
     "Pasted image 20240515180613.png",
     "images/print_screen_690.png",
     "Pasted image 20240515164038.png",
     "Pasted image 20240515163519.png",
-    "Pasted image 20240515162907.png",
     "my-configuration-files/backup/cfs/prova_cfs 2 2022_cod_61.pdf",
     "series/ghostbusters/s1/e1/ghostbusters_s1e1.mkv",
     "series/ghostbusters/s1/e1",
     "series/ghostbusters/s1",
-    "series/ghostbusters/ghostbusters_s1e1.mkv",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
