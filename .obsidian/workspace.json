@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "bbf37322928996ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-542.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5472e34a59c17e66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-543.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "63fae9bc609b6905",
             "type": "leaf",
             "state": {
@@ -30,21 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f379e69dc0262358",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/fissão nuclear de um átomo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -197,13 +209,17 @@
   },
   "active": "63fae9bc609b6905",
   "lastOpenFiles": [
-    "notes/fissão nuclear de um átomo.md",
+    "notes/note-543.md",
     "notes/note-546.md",
+    "notes/note-542.md",
+    "MATÉRIAS/EEAR.md",
+    "notes/fissão nuclear de um átomo.md",
+    "notes/fissão nuclear de urânio.md",
+    "Pasted image 20240517094107.png",
+    "Pasted image 20240517093818.png",
     "notes/note-571.md",
     "notes/note-570.md",
     "Pasted image 20240517091731.png",
-    "MATÉRIAS/EEAR.md",
-    "notes/note-543.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-569.md",
     "my-configuration-files/backup/cfs/prova_cfs 1 2021(s)_cod_33_05 10 2020 08 32 24.pdf",
@@ -230,15 +246,11 @@
     "Pasted image 20240515221256.png",
     "notes/note-555.md",
     "notes/note-554.md",
-    "notes/note-556.md",
-    "notes/note-560.md",
     "Pasted image 20240515211640.png",
     "Pasted image 20240515200916.png",
     "Pasted image 20240515195054.png",
     "Pasted image 20240515180613.png",
     "images/print_screen_690.png",
-    "Pasted image 20240515164038.png",
-    "Pasted image 20240515163519.png",
     "my-configuration-files/backup/cfs/prova_cfs 2 2022_cod_61.pdf",
     "series/ghostbusters/s1/e1/ghostbusters_s1e1.mkv",
     "series/ghostbusters/s1/e1",

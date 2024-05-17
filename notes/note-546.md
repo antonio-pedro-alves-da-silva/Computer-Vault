@@ -11,7 +11,7 @@ radiotividade
 		[[note-554|raios alfa]]
 		[[note-557|raios beta]]
 		[[note-562|raios gama]]
-	[[note-570|fissão nuclear]]
+	fissão nuclear
 		[[note-571|reação em cadeia]]
 		[[fissão nuclear de urânio]]
 meios materiais

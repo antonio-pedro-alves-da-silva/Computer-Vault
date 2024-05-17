@@ -5,8 +5,24 @@
       "path": "notes/note-546.md"
     },
     {
+      "basename": "note-543",
+      "path": "notes/note-543.md"
+    },
+    {
+      "basename": "note-542",
+      "path": "notes/note-542.md"
+    },
+    {
+      "basename": "EEAR",
+      "path": "MATÉRIAS/EEAR.md"
+    },
+    {
       "basename": "fissão nuclear de um átomo",
       "path": "notes/fissão nuclear de um átomo.md"
+    },
+    {
+      "basename": "fissão nuclear de urânio",
+      "path": "notes/fissão nuclear de urânio.md"
     },
     {
       "basename": "note-571",
@@ -15,14 +31,6 @@
     {
       "basename": "note-570",
       "path": "notes/note-570.md"
-    },
-    {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
-    },
-    {
-      "basename": "note-543",
-      "path": "notes/note-543.md"
     },
     {
       "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
@@ -129,10 +137,6 @@
       "path": "notes/note-551.md"
     },
     {
-      "basename": "note-542",
-      "path": "notes/note-542.md"
-    },
-    {
       "basename": "note-550",
       "path": "notes/note-550.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "note-536",
       "path": "notes/note-536.md"
-    },
-    {
-      "basename": "note-535",
-      "path": "notes/note-535.md"
     }
   ],
   "omittedPaths": [],
