@@ -7,6 +7,7 @@ Modelos atômicos
 	[[note-553|Erwin schrödinger]]
 radiotividade
 	[[note-555|número atômico e número de massa]]
+	isotópos , isóbaros , isômeros , isótonos e isotônicos
 	tipos
 		[[note-554|raios alfa]]
 		[[note-557|raios beta]]
@@ -21,11 +22,7 @@ Teoria sobre a natureza da luz
 efeito fotoelétrico
 	[[note-573|fótons]]
 	[[note-572|o que é o efeito fotoelétrico]]
-	
-meios materiais
-	fotocélulas, emissão e transmissão de luz, telas de monitores, radiografias)
-	Potências de ondas eletromagnéticas. 
+[[note-578|potência de ondas eletromagnéticas]]
 
-Natureza corpuscular das ondas eletromagnéticas. 
 Transformações nucleares e
 radioatividades.
