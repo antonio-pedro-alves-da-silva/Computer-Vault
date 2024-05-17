@@ -20,36 +20,24 @@
             }
           },
           {
-            "id": "00402a36ceb37411",
+            "id": "8a1b45e9f34a224f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c947a25ac5b01d4a",
+            "id": "714d0ac4c1545b01",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-566.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61a3f6f29a00e85e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-566.md",
+                "file": "notes/note-569.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-566.md",
+                "file": "notes/note-569.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-566.md",
+                "file": "notes/note-569.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-566.md"
+                "file": "notes/note-569.md"
               }
             }
           },
@@ -207,15 +195,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c947a25ac5b01d4a",
+  "active": "714d0ac4c1545b01",
   "lastOpenFiles": [
+    "my-configuration-files/backup/cfs/prova_cfs 1 2021(s)_cod_33_05 10 2020 08 32 24.pdf",
+    "my-configuration-files/backup/cfs/prova_cfs 1 2021(s)_cod_33_05 10 2020 08 32 24_gabarito.pdf",
+    "my-configuration-files/backup/cfs/prova_cfs 1 2021(s)_cod_33_05 10 2020 08 32 24_.pdf",
+    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "notes/note-569.md",
+    "notes/note-568.md",
+    "notes/note-567.md",
+    "MATÉRIAS/EEAR.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
+    "notes/note-566.md",
     "my-configuration-files/backup/cfs/gabof_cfs_me_bct2013cod04_gabarito.pdf",
     "my-configuration-files/backup/cfs/gabof_cfs_me_bct2013cod04.pdf",
     "my-configuration-files/backup/cfs/gabof_cfs_me_bct2013cod04-.pdf",
-    "notes/note-566.md",
-    "MATÉRIAS/EEAR.md",
-    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-541.md",
     "notes/note-563.md",
     "notes/note-565.md",
@@ -239,10 +233,7 @@
     "Pasted image 20240515200916.png",
     "Pasted image 20240515195054.png",
     "notes/note-451.md",
-    "notes/note-553.md",
     "Pasted image 20240515180613.png",
-    "notes/note-552.md",
-    "notes/note-551.md",
     "images/print_screen_690.png",
     "Pasted image 20240515164038.png",
     "Pasted image 20240515163519.png",
@@ -252,8 +243,6 @@
     "series/ghostbusters/s1/e1",
     "series/ghostbusters/s1",
     "series/ghostbusters/ghostbusters_s1e1.mkv",
-    "series/ghostbusters",
-    "my-configuration-files/brave_shortcuts.txt",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
