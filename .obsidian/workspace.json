@@ -20,24 +20,24 @@
             }
           },
           {
-            "id": "c9eac7b24f9a30ae",
+            "id": "3d9011da9b35a076",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-542.md",
+                "file": "notes/note-476.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "28be8846262a109a",
+            "id": "5986e5fdd7913395",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-580.md",
+                "file": "notes/note-584.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-580.md",
+                "file": "notes/note-584.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-580.md",
+                "file": "notes/note-584.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-580.md"
+                "file": "notes/note-584.md"
               }
             }
           },
@@ -195,12 +195,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "28be8846262a109a",
+  "active": "5986e5fdd7913395",
   "lastOpenFiles": [
+    "notes/note-476.md",
+    "notes/note-584.md",
+    "notes/note-583.md",
+    "notes/note-582.md",
+    "notes/note-581.md",
+    "MATÉRIAS/EEAR.md",
     "notes/note-542.md",
     "notes/note-580.md",
     "notes/note-543.md",
-    "MATÉRIAS/EEAR.md",
     "notes/note-546.md",
     "notes/note-554.md",
     "notes/note-579.md",
@@ -227,15 +232,10 @@
     "notes/fissão nuclear de urânio.md",
     "Pasted image 20240517094107.png",
     "Pasted image 20240517093818.png",
-    "notes/note-571.md",
-    "notes/note-570.md",
     "Pasted image 20240517091731.png",
-    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
-    "notes/note-569.md",
     "my-configuration-files/backup/cfs/prova_cfs 1 2021(s)_cod_33_05 10 2020 08 32 24.pdf",
     "my-configuration-files/backup/cfs/prova_cfs 1 2021(s)_cod_33_05 10 2020 08 32 24_gabarito.pdf",
     "my-configuration-files/backup/cfs/prova_cfs 1 2021(s)_cod_33_05 10 2020 08 32 24_.pdf",
-    "notes/note-568.md",
     "my-configuration-files/backup/cfs/gabof_cfs_me_bct2013cod04_gabarito.pdf",
     "my-configuration-files/backup/cfs/gabof_cfs_me_bct2013cod04.pdf",
     "my-configuration-files/backup/cfs/gabof_cfs_me_bct2013cod04-.pdf",
