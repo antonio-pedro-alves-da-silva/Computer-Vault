@@ -7,7 +7,7 @@ Modelos atômicos
 	[[note-553|Erwin schrödinger]]
 radiotividade
 	[[note-555|número atômico e número de massa]]
-	isotópos , isóbaros , isômeros , isótonos e isotônicos
+	[[note-579|isotópos , isótonos, isóbaros , Núcelos espelhos , isodiáferos , isômeros]]
 	tipos
 		[[note-554|raios alfa]]
 		[[note-557|raios beta]]
@@ -24,5 +24,3 @@ efeito fotoelétrico
 	[[note-572|o que é o efeito fotoelétrico]]
 [[note-578|potência de ondas eletromagnéticas]]
 
-Transformações nucleares e
-radioatividades.
