@@ -54,9 +54,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6e3422729ab7172d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-572.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4177efd738a8aaaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-572.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -132,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-546.md",
+                "file": "notes/note-572.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-546.md",
+                "file": "notes/note-572.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-546.md"
+                "file": "notes/note-572.md"
               }
             }
           },
@@ -207,10 +231,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "63fae9bc609b6905",
+  "active": "6e3422729ab7172d",
   "lastOpenFiles": [
-    "notes/note-543.md",
     "notes/note-546.md",
+    "notes/note-573.md",
+    "Pasted image 20240517111800.png",
+    "notes/note-576.md",
+    "Pasted image 20240517111346.png",
+    "notes/note-575.md",
+    "Pasted image 20240517111128.png",
+    "notes/note-574.md",
+    "notes/note-572.md",
+    "notes/note-543.md",
     "notes/note-542.md",
     "MATÉRIAS/EEAR.md",
     "notes/fissão nuclear de um átomo.md",
@@ -238,19 +270,10 @@
     "notes/note-143.md",
     "notes/note-564.md",
     "notes/note-510.md",
-    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
-    "notes/note-562.md",
-    "notes/note-557.md",
-    "notes/note-561.md",
     "Pasted image 20240515221327.png",
     "Pasted image 20240515221256.png",
-    "notes/note-555.md",
-    "notes/note-554.md",
     "Pasted image 20240515211640.png",
     "Pasted image 20240515200916.png",
-    "Pasted image 20240515195054.png",
-    "Pasted image 20240515180613.png",
-    "images/print_screen_690.png",
     "my-configuration-files/backup/cfs/prova_cfs 2 2022_cod_61.pdf",
     "series/ghostbusters/s1/e1/ghostbusters_s1e1.mkv",
     "series/ghostbusters/s1/e1",

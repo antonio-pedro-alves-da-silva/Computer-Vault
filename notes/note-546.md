@@ -14,8 +14,16 @@ radiotividade
 	fissão nuclear
 		[[note-571|reação em cadeia]]
 		[[fissão nuclear de urânio]]
+Teoria sobre a natureza da luz
+	Modelo corpuscular da luz
+	Modelo ondulatório
+
+efeito fotoelétrico
+	[[note-573|fótons]]
+	[[note-572|o que é o efeito fotoelétrico]]
+	
 meios materiais
-	(fotocélulas, emissão e transmissão de luz, telas de monitores, radiografias). 
+	fotocélulas, emissão e transmissão de luz, telas de monitores, radiografias)
 	Potências de ondas eletromagnéticas. 
 
 Natureza corpuscular das ondas eletromagnéticas. 
