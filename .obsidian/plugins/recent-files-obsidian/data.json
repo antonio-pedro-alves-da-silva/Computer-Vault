@@ -5,6 +5,18 @@
       "path": "notes/note-543.md"
     },
     {
+      "basename": "EEAR",
+      "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "note-546",
+      "path": "notes/note-546.md"
+    },
+    {
+      "basename": "note-550",
+      "path": "notes/note-550.md"
+    },
+    {
       "basename": "note-542",
       "path": "notes/note-542.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "note-585",
       "path": "notes/note-585.md"
-    },
-    {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
     },
     {
       "basename": "note-476",
@@ -47,10 +55,6 @@
     {
       "basename": "note-581",
       "path": "notes/note-581.md"
-    },
-    {
-      "basename": "note-546",
-      "path": "notes/note-546.md"
     },
     {
       "basename": "note-554",
@@ -195,10 +199,6 @@
     {
       "basename": "note-553",
       "path": "notes/note-553.md"
-    },
-    {
-      "basename": "note-552",
-      "path": "notes/note-552.md"
     }
   ],
   "omittedPaths": [],

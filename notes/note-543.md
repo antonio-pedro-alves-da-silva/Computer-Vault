@@ -1,6 +1,6 @@
-73)
-77)
-79)fissão nuclear de urânio
+73)d
+77)d
+79)b
 80)
 81)
 86)
