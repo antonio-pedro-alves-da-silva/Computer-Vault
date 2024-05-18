@@ -20,24 +20,24 @@
             }
           },
           {
-            "id": "ef5c75bb2c6e5eba",
+            "id": "244bcff0c036754f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "notes/GRAMÁTICA/questões erradas de português.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6d1fd4c2c78112bb",
+            "id": "36d33a9b0bd7e202",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-590.md",
+                "file": "notes/note-586.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-590.md",
+                "file": "notes/note-586.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-590.md",
+                "file": "notes/note-586.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-590.md"
+                "file": "notes/note-586.md"
               }
             }
           },
@@ -195,12 +195,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6d1fd4c2c78112bb",
+  "active": "36d33a9b0bd7e202",
   "lastOpenFiles": [
+    "my-configuration-files/backup/cfs/gab_of_cfsb2012_anv_nanv_cod10.pdf",
+    "my-configuration-files/backup/cfs/gab_of_cfsb2012_anv_nanv_cod10_gabarito.pdf",
+    "notes/GRAMÁTICA/questões erradas de português.md",
+    "notes/note-586.md",
+    "notes/note-566.md",
+    "MATÉRIAS/EEAR.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-590.md",
-    "MATÉRIAS/EEAR.md",
-    "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-27.md",
     "notes/note-587.md",
     "notes/note-589.md",
@@ -208,9 +212,6 @@
     "notes/note-502.md",
     "my-configuration-files/backup/cfs/gab_of_cfs_2020_cod_16_red.pdf",
     "my-configuration-files/backup/cfs/gab_of_cfs_2020_cod_16_red_gabarito.pdf",
-    "notes/note-586.md",
-    "my-configuration-files/backup/cfs/gab_of_cfsb2012_anv_nanv_cod10_gabarito.pdf",
-    "notes/note-566.md",
     "notes/note-542.md",
     "notes/note-543.md",
     "notes/note-546.md",
@@ -225,7 +226,6 @@
     "notes/note-582.md",
     "notes/note-581.md",
     "notes/note-554.md",
-    "notes/note-579.md",
     "Pasted image 20240517133742.png",
     "Pasted image 20240517133734.png",
     "Pasted image 20240517133539.png",
