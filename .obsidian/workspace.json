@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "244bcff0c036754f",
+            "id": "d3a74e852bb71af7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,24 +32,48 @@
             }
           },
           {
-            "id": "7f32c1f68b1e301d",
+            "id": "7a11520f8e10e108",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-586.md",
+                "file": "notes/note-143.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3f048bbe36b7ed5a",
+            "id": "a23ea1d9ee9a369f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/GRAMÁTICA/regência verbal.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7035fdd0d48f2b03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-596.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d8b69665ee26001",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-596.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/GRAMÁTICA/regência verbal.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/GRAMÁTICA/regência verbal.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/GRAMÁTICA/regência verbal.md"
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
               }
             }
           },
@@ -207,19 +231,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3f048bbe36b7ed5a",
+  "active": "a23ea1d9ee9a369f",
   "lastOpenFiles": [
-    "notes/note-586.md",
+    "notes/note-596.md",
+    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "notes/note-143.md",
+    "notes/GRAMÁTICA/questões erradas de português.md",
+    "MATÉRIAS/EEAR.md",
     "notes/GRAMÁTICA/regência verbal.md",
+    "notes/note-586.md",
+    "notes/note-595.md",
+    "notes/note-594.md",
+    "notes/note-593.md",
+    "notes/note-592.md",
     "notes/note-591.md",
     "notes/crase.md",
     "Pasted image 20240518191509.png",
-    "notes/GRAMÁTICA/questões erradas de português.md",
     "my-configuration-files/backup/cfs/gab_of_cfsb2012_anv_nanv_cod10.pdf",
     "my-configuration-files/backup/cfs/gab_of_cfsb2012_anv_nanv_cod10_gabarito.pdf",
     "notes/note-566.md",
-    "MATÉRIAS/EEAR.md",
-    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-590.md",
     "notes/note-27.md",
     "notes/note-587.md",
@@ -234,12 +264,6 @@
     "notes/note-550.md",
     "notes/note-580.md",
     "notes/note-585.md",
-    "notes/note-476.md",
-    "notes/note-488.md",
-    "notes/note-496.md",
-    "notes/note-584.md",
-    "notes/note-583.md",
-    "notes/note-582.md",
     "Pasted image 20240517133742.png",
     "Pasted image 20240517133734.png",
     "Pasted image 20240517133539.png",

@@ -5,7 +5,7 @@
 13)
 14)[[regência verbal]]
 15)
-19)
+19)objeto indireto e complemento nominal
 20)
 21)
 22)[[Pasted image 20240518191509.png|homônimos e parônimos]]
