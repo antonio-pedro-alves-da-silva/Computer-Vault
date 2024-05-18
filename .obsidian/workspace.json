@@ -20,24 +20,24 @@
             }
           },
           {
-            "id": "3d9011da9b35a076",
+            "id": "772426d2fb39889a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-476.md",
+                "file": "notes/note-542.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b8f33454972d11d0",
+            "id": "e08f2cfde8bde1d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-488.md",
+                "file": "notes/note-543.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-488.md",
+                "file": "notes/note-543.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-488.md",
+                "file": "notes/note-543.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-488.md"
+                "file": "notes/note-543.md"
               }
             }
           },
@@ -195,19 +195,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b8f33454972d11d0",
+  "active": "e08f2cfde8bde1d7",
   "lastOpenFiles": [
-    "notes/note-496.md",
-    "notes/note-488.md",
-    "notes/note-476.md",
-    "notes/note-584.md",
-    "MATÉRIAS/EEAR.md",
-    "notes/note-583.md",
-    "notes/note-582.md",
-    "notes/note-581.md",
     "notes/note-542.md",
     "notes/note-580.md",
     "notes/note-543.md",
+    "notes/note-585.md",
+    "MATÉRIAS/EEAR.md",
+    "notes/note-476.md",
+    "notes/note-488.md",
+    "notes/note-496.md",
+    "notes/note-584.md",
+    "notes/note-583.md",
+    "notes/note-582.md",
+    "notes/note-581.md",
     "notes/note-546.md",
     "notes/note-554.md",
     "notes/note-579.md",
@@ -227,7 +228,6 @@
     "notes/note-575.md",
     "Pasted image 20240517122154.png",
     "Pasted image 20240517111800.png",
-    "notes/note-576.md",
     "Pasted image 20240517111346.png",
     "Pasted image 20240517111128.png",
     "Pasted image 20240517094107.png",
