@@ -20,24 +20,24 @@
             }
           },
           {
-            "id": "773cf1bedb9aebf8",
+            "id": "ef5c75bb2c6e5eba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-27.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "840332cceb55d3f2",
+            "id": "8bdb8eb7140be564",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-587.md",
+                "file": "notes/note-590.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-587.md",
+                "file": "notes/note-590.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-587.md",
+                "file": "notes/note-590.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-587.md"
+                "file": "notes/note-590.md"
               }
             }
           },
@@ -195,14 +195,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "840332cceb55d3f2",
+  "active": "8bdb8eb7140be564",
   "lastOpenFiles": [
-    "notes/note-589.md",
-    "notes/note-587.md",
+    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "notes/note-590.md",
     "MATÉRIAS/EEAR.md",
-    "notes/note-27.md",
-    "notes/note-588.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
+    "notes/note-27.md",
+    "notes/note-587.md",
+    "notes/note-589.md",
+    "notes/note-588.md",
     "notes/note-502.md",
     "my-configuration-files/backup/cfs/gab_of_cfs_2020_cod_16_red.pdf",
     "my-configuration-files/backup/cfs/gab_of_cfs_2020_cod_16_red_gabarito.pdf",
@@ -224,8 +226,6 @@
     "notes/note-581.md",
     "notes/note-554.md",
     "notes/note-579.md",
-    "notes/note-555.md",
-    "notes/note-556.md",
     "Pasted image 20240517133742.png",
     "Pasted image 20240517133734.png",
     "Pasted image 20240517133539.png",
