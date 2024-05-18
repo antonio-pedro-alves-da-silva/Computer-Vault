@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "0b0cafb6329a493b",
+            "id": "d48b5a112d90d65c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-586.md",
+                "file": "notes/note-587.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-586.md",
+                "file": "notes/note-587.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-586.md",
+                "file": "notes/note-587.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-586.md"
+                "file": "notes/note-587.md"
               }
             }
           },
@@ -195,11 +195,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0b0cafb6329a493b",
+  "active": "d48b5a112d90d65c",
   "lastOpenFiles": [
-    "my-configuration-files/backup/cfs/gab_of_cfsb2012_anv_nanv_cod10_gabarito.pdf",
     "notes/GRAMÁTICA/questões erradas de português.md",
+    "notes/note-587.md",
+    "my-configuration-files/backup/cfs/gab_of_cfs_2020_cod_16_red.pdf",
+    "my-configuration-files/backup/cfs/gab_of_cfs_2020_cod_16_red_gabarito.pdf",
     "notes/note-586.md",
+    "my-configuration-files/backup/cfs/gab_of_cfsb2012_anv_nanv_cod10_gabarito.pdf",
     "notes/note-566.md",
     "MATÉRIAS/EEAR.md",
     "notes/note-542.md",
@@ -224,7 +227,6 @@
     "Pasted image 20240517133742.png",
     "Pasted image 20240517133734.png",
     "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
-    "notes/note-451.md",
     "Pasted image 20240517133539.png",
     "Pasted image 20240517122154.png",
     "Pasted image 20240517111800.png",
@@ -240,9 +242,6 @@
     "my-configuration-files/backup/cfs/gabof_cfs_me_bct2013cod04.pdf",
     "my-configuration-files/backup/cfs/gabof_cfs_me_bct2013cod04-.pdf",
     "my-configuration-files/backup/cfs/prova_cfs 2 2022_cod_61.pdf",
-    "series/ghostbusters/s1/e1/ghostbusters_s1e1.mkv",
-    "series/ghostbusters/s1/e1",
-    "series/ghostbusters/s1",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
