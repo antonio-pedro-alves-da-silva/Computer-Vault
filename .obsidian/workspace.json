@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "8bdb8eb7140be564",
+            "id": "6d1fd4c2c78112bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tetraedro regular",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,7 +195,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8bdb8eb7140be564",
+  "active": "6d1fd4c2c78112bb",
   "lastOpenFiles": [
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-590.md",
