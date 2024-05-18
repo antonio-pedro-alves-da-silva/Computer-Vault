@@ -19,4 +19,8 @@ lembrar
 	também pode servir como pronominal
 [[note-461|precisar]]
 [[note-462|preferir]]
-
+simpatizar
+	[[note-591|sentir afeição ou tendência]] -> preposição com
+assitir
+	ver , presenciar -> transitivo indireto -> ao
+	

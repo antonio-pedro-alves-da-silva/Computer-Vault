@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "36d33a9b0bd7e202",
+            "id": "7f32c1f68b1e301d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3f048bbe36b7ed5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/GRAMÁTICA/regência verbal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-586.md",
+                "file": "notes/GRAMÁTICA/regência verbal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-586.md",
+                "file": "notes/GRAMÁTICA/regência verbal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-586.md"
+                "file": "notes/GRAMÁTICA/regência verbal.md"
               }
             }
           },
@@ -195,12 +207,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "36d33a9b0bd7e202",
+  "active": "3f048bbe36b7ed5a",
   "lastOpenFiles": [
+    "notes/note-586.md",
+    "notes/GRAMÁTICA/regência verbal.md",
+    "notes/note-591.md",
+    "notes/crase.md",
+    "Pasted image 20240518191509.png",
+    "notes/GRAMÁTICA/questões erradas de português.md",
     "my-configuration-files/backup/cfs/gab_of_cfsb2012_anv_nanv_cod10.pdf",
     "my-configuration-files/backup/cfs/gab_of_cfsb2012_anv_nanv_cod10_gabarito.pdf",
-    "notes/GRAMÁTICA/questões erradas de português.md",
-    "notes/note-586.md",
     "notes/note-566.md",
     "MATÉRIAS/EEAR.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
@@ -224,8 +240,6 @@
     "notes/note-584.md",
     "notes/note-583.md",
     "notes/note-582.md",
-    "notes/note-581.md",
-    "notes/note-554.md",
     "Pasted image 20240517133742.png",
     "Pasted image 20240517133734.png",
     "Pasted image 20240517133539.png",
@@ -235,14 +249,12 @@
     "Pasted image 20240517111128.png",
     "Pasted image 20240517094107.png",
     "Pasted image 20240517093818.png",
-    "Pasted image 20240517091731.png",
     "my-configuration-files/backup/cfs/prova_cfs 1 2021(s)_cod_33_05 10 2020 08 32 24.pdf",
     "my-configuration-files/backup/cfs/prova_cfs 1 2021(s)_cod_33_05 10 2020 08 32 24_gabarito.pdf",
     "my-configuration-files/backup/cfs/prova_cfs 1 2021(s)_cod_33_05 10 2020 08 32 24_.pdf",
     "my-configuration-files/backup/cfs/gabof_cfs_me_bct2013cod04_gabarito.pdf",
     "my-configuration-files/backup/cfs/gabof_cfs_me_bct2013cod04.pdf",
     "my-configuration-files/backup/cfs/gabof_cfs_me_bct2013cod04-.pdf",
-    "my-configuration-files/backup/cfs/prova_cfs 2 2022_cod_61.pdf",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
