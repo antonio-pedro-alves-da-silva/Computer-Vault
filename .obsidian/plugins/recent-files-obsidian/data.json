@@ -5,8 +5,28 @@
       "path": "notes/note-587.md"
     },
     {
+      "basename": "note-589",
+      "path": "notes/note-589.md"
+    },
+    {
+      "basename": "EEAR",
+      "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "note-27",
+      "path": "notes/note-27.md"
+    },
+    {
+      "basename": "note-588",
+      "path": "notes/note-588.md"
+    },
+    {
       "basename": "questões erradas de português",
       "path": "notes/GRAMÁTICA/questões erradas de português.md"
+    },
+    {
+      "basename": "note-502",
+      "path": "notes/note-502.md"
     },
     {
       "basename": "note-586",
@@ -15,10 +35,6 @@
     {
       "basename": "note-566",
       "path": "notes/note-566.md"
-    },
-    {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
     },
     {
       "basename": "note-542",
@@ -183,22 +199,6 @@
     {
       "basename": "note-510",
       "path": "notes/note-510.md"
-    },
-    {
-      "basename": "note-562",
-      "path": "notes/note-562.md"
-    },
-    {
-      "basename": "note-557",
-      "path": "notes/note-557.md"
-    },
-    {
-      "basename": "note-560",
-      "path": "notes/note-560.md"
-    },
-    {
-      "basename": "note-559",
-      "path": "notes/note-559.md"
     }
   ],
   "omittedPaths": [],
