@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "fb04722c57a2b744",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-546.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "960392d26ef8c0a7",
             "type": "leaf",
             "state": {
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md",
+                "file": "notes/note-546.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md",
+                "file": "notes/note-546.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md"
+                "file": "notes/note-546.md"
               }
             }
           },
@@ -183,9 +195,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "960392d26ef8c0a7",
+  "active": "fb04722c57a2b744",
   "lastOpenFiles": [
     "MATÉRIAS/EEAR.md",
+    "notes/FÍSICA/ELETRICIDADE.md",
     "notes/FÍSICA/DINÂMICA.md",
     "notes/note-542.md",
     "notes/note-585.md",
@@ -215,7 +228,6 @@
     "notes/note-502.md",
     "my-configuration-files/backup/cfs/gab_of_cfs_2020_cod_16_red.pdf",
     "my-configuration-files/backup/cfs/gab_of_cfs_2020_cod_16_red_gabarito.pdf",
-    "notes/note-543.md",
     "Pasted image 20240517133742.png",
     "Pasted image 20240517133734.png",
     "Pasted image 20240517133539.png",
