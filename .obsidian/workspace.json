@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "688afbb3626740ff",
+            "id": "236aca918dc1b2f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,19 +32,31 @@
             }
           },
           {
-            "id": "d78c13eaebbf2efb",
+            "id": "6e7890579ac08a8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-602.md",
+                "file": "notes/note-542.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93c9ecc50be80eac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-599.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-602.md",
+                "file": "notes/note-599.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-602.md",
+                "file": "notes/note-599.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-602.md"
+                "file": "notes/note-599.md"
               }
             }
           },
@@ -195,11 +207,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d78c13eaebbf2efb",
+  "active": "93c9ecc50be80eac",
   "lastOpenFiles": [
+    "notes/note-451.md",
+    "Excalidraw/note-451 2024-05-19 18.35.33.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-19 18.36.05.excalidraw.md",
+    "notes/note-599.md",
     "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
-    "notes/note-602.md",
     "MATÉRIAS/EEAR.md",
+    "notes/note-542.md",
+    "notes/note-602.md",
     "notes/note-600.md",
     "notes/note-601.md",
     "Pasted image 20240519163843.png",
@@ -208,8 +225,6 @@
     "Pasted image 20240519163727.png",
     "Pasted image 20240519163722.png",
     "Pasted image 20240519163609.png",
-    "notes/note-542.md",
-    "notes/note-599.md",
     "notes/note-40.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
@@ -226,9 +241,6 @@
     "notes/GRAMÁTICA/regência verbal.md",
     "notes/note-586.md",
     "notes/note-595.md",
-    "notes/note-594.md",
-    "notes/note-593.md",
-    "notes/note-592.md",
     "Pasted image 20240518191509.png",
     "my-configuration-files/backup/cfs/gab_of_cfsb2012_anv_nanv_cod10.pdf",
     "my-configuration-files/backup/cfs/gab_of_cfsb2012_anv_nanv_cod10_gabarito.pdf",

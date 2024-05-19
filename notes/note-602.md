@@ -5,4 +5,7 @@ $\Large dl=2 \cdot p2'$
 
 ou por :
 
-$\Large dl=p2'+\left(p1'-\left(p2'-f2\right)\right)$
+$\Large p2$=distância entre a lente ocular e a imagem 2
+
+$\Large dl=p2'+\left(p1'-\left(p2'-p2\right)\right)$
+
