@@ -144,6 +144,9 @@ ondulatória
 	    [[note-48|rotação de um espelho plano]]
 		[[note-66|número de imagens gerada de um objeto entre dois espelhos]]
 	instrumentos ópticos
+		micróscopio composto
+			[[note-600|construção geométrica]]
+			[[note-601|aumento linear]]
 		[[print_screen_620.png|lupa]]
 		[[Pasted image 20240127100642.png|telescópio refrator(luneta astronômica) ou microscópio composto]]
 		[[print_screen_621.png|ampliação da imagem]]
