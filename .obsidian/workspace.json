@@ -20,24 +20,36 @@
             }
           },
           {
-            "id": "54b3718b1a0b0a6d",
+            "id": "23c649ee97d6f649",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "notes/FÍSICA/DINÂMICA.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4eb57885336141c9",
+            "id": "ef32746f9ff5bdcc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-596.md",
+                "file": "notes/note-542.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27a46ac948c475f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-585.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tetraedro regular",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "notes/FÍSICA/DINÂMICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "notes/FÍSICA/DINÂMICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+                "file": "notes/FÍSICA/DINÂMICA.md"
               }
             }
           },
@@ -195,9 +207,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "54b3718b1a0b0a6d",
+  "active": "23c649ee97d6f649",
   "lastOpenFiles": [
     "MATÉRIAS/EEAR.md",
+    "notes/note-542.md",
+    "notes/note-585.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-596.md",
     "notes/note-143.md",
@@ -224,10 +238,8 @@
     "notes/note-502.md",
     "my-configuration-files/backup/cfs/gab_of_cfs_2020_cod_16_red.pdf",
     "my-configuration-files/backup/cfs/gab_of_cfs_2020_cod_16_red_gabarito.pdf",
-    "notes/note-542.md",
     "notes/note-543.md",
     "notes/note-546.md",
-    "notes/note-550.md",
     "Pasted image 20240517133742.png",
     "Pasted image 20240517133734.png",
     "Pasted image 20240517133539.png",

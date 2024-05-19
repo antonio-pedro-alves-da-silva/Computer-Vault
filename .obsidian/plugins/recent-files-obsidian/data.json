@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
-      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+      "basename": "DINÂMICA",
+      "path": "notes/FÍSICA/DINÂMICA.md"
     },
     {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "note-542",
+      "path": "notes/note-542.md"
+    },
+    {
+      "basename": "note-585",
+      "path": "notes/note-585.md"
+    },
+    {
+      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
+      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
     },
     {
       "basename": "note-596",
@@ -89,10 +101,6 @@
       "path": "notes/note-502.md"
     },
     {
-      "basename": "note-542",
-      "path": "notes/note-542.md"
-    },
-    {
       "basename": "note-543",
       "path": "notes/note-543.md"
     },
@@ -107,10 +115,6 @@
     {
       "basename": "note-580",
       "path": "notes/note-580.md"
-    },
-    {
-      "basename": "note-585",
-      "path": "notes/note-585.md"
     },
     {
       "basename": "note-476",
@@ -195,10 +199,6 @@
     {
       "basename": "note-576",
       "path": "notes/note-576.md"
-    },
-    {
-      "basename": "fissão nuclear de um átomo",
-      "path": "notes/fissão nuclear de um átomo.md"
     }
   ],
   "omittedPaths": [],
