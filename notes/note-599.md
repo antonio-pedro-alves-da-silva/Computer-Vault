@@ -1,0 +1,1 @@
+88)[[note-40|formula do efeito doppler]]
