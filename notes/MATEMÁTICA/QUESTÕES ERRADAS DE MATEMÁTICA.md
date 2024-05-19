@@ -10,23 +10,23 @@
 62 - [[note-415|ponto médio entre dois pontos]]
 66 - briot ruffini
 
-[[note-536|prova de 2023]]
-[[note-541|prova de 2022]]novo
-[[note-569|prova de 2021]]
-[[note-590|prova de 2020]]
-[[note-528|prova de 2019]]
-[[note-529|prova de 2018]]
-[[note-530|prova de 2017]]
-[[note-531|prova de 2016]]
-[[note-532|prova de 2015]]
-[[note-568|prova de 2014]]
-[[note-533|prova de 2014]](contróle de tráfego)
-[[note-567|prova de 2013]]
-[[note-596|prova de 2012]]novo
-[[note-534|prova de 2011]]
-[[note-535|prova de 2009]]
-[[note-537|prova de 2010]]
-[[note-538|prova de 2009]]
-[[note-539|prova de 2008]]
-[[note-540|prova de 2006]]
+[[note-536|prova de 2023]] cfs_1_2023
+[[note-541|prova de 2022]] cfs_2_2023
+[[note-569|prova de 2021]] cfs_1_2021
+[[note-590|prova de 2020]] cfs_2_2019
+[[note-528|prova de 2019]] cfs_1_2019
+[[note-529|prova de 2018]] cfs_1_2018
+[[note-530|prova de 2017]] cfs_b_2017
+[[note-531|prova de 2016]] cfs_b_2016
+[[note-532|prova de 2015]] cfs_b_1-2_2015
+[[note-568|prova de 2014]] cfs_b_1-2_2015
+[[note-567|prova de 2013]] bct_2014
+[[note-596|prova de 2012]] cfs_b_1-2_2013
+[[note-534|prova de 2011]] cfs_b_2_201
+[[note-535|prova de 2009]] cfs_b1_2009
+[[note-537|prova de 2010]] cfs_b_2_2010
+[[note-538|prova de 2009]] cfs_b1_2009
+[[note-539|prova de 2008]] cfs_1_2008
+[[note-540|prova de 2006]] cfs_1_2006
+
 

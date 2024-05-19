@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "questões erradas de português",
-      "path": "notes/GRAMÁTICA/questões erradas de português.md"
+      "basename": "note-599",
+      "path": "notes/note-599.md"
+    },
+    {
+      "basename": "note-542",
+      "path": "notes/note-542.md"
     },
     {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
     },
     {
-      "basename": "note-542",
-      "path": "notes/note-542.md"
+      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
+      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+    },
+    {
+      "basename": "questões erradas de português",
+      "path": "notes/GRAMÁTICA/questões erradas de português.md"
+    },
+    {
+      "basename": "note-476",
+      "path": "notes/note-476.md"
     },
     {
       "basename": "note-598",
@@ -31,10 +43,6 @@
     {
       "basename": "DINÂMICA",
       "path": "notes/FÍSICA/DINÂMICA.md"
-    },
-    {
-      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
-      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
     },
     {
       "basename": "note-596",
@@ -125,10 +133,6 @@
       "path": "notes/note-580.md"
     },
     {
-      "basename": "note-476",
-      "path": "notes/note-476.md"
-    },
-    {
       "basename": "note-488",
       "path": "notes/note-488.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "note-572",
       "path": "notes/note-572.md"
-    },
-    {
-      "basename": "note-574",
-      "path": "notes/note-574.md"
     }
   ],
   "omittedPaths": [],
