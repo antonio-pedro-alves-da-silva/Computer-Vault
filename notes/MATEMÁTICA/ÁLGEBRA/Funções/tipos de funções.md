@@ -3,6 +3,7 @@
 [[note-427|função bijetora]]
 [[Pasted image 20231015183203.png|função composta]]
 função inversa
+	[[note-597|o que é precisso para que uma função seje inversa ]]
 função afim ou função do 1 grau
 função quadrática ou função do 2 grau
 	[[print_screen_007.png|quantidade de raízes]]
