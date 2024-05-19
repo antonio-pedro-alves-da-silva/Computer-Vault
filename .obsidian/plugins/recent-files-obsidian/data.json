@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "DINÂMICA",
-      "path": "notes/FÍSICA/DINÂMICA.md"
+      "basename": "ELETRICIDADE",
+      "path": "notes/FÍSICA/ELETRICIDADE.md"
     },
     {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "DINÂMICA",
+      "path": "notes/FÍSICA/DINÂMICA.md"
     },
     {
       "basename": "note-542",
@@ -195,10 +199,6 @@
     {
       "basename": "note-575",
       "path": "notes/note-575.md"
-    },
-    {
-      "basename": "note-576",
-      "path": "notes/note-576.md"
     }
   ],
   "omittedPaths": [],

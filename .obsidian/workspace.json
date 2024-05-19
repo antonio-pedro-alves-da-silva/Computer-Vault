@@ -20,36 +20,12 @@
             }
           },
           {
-            "id": "23c649ee97d6f649",
+            "id": "960392d26ef8c0a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/DINÂMICA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef32746f9ff5bdcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-542.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "27a46ac948c475f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-585.md",
+                "file": "notes/FÍSICA/ELETRICIDADE.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/DINÂMICA.md",
+                "file": "notes/FÍSICA/ELETRICIDADE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/DINÂMICA.md",
+                "file": "notes/FÍSICA/ELETRICIDADE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/DINÂMICA.md"
+                "file": "notes/FÍSICA/ELETRICIDADE.md"
               }
             }
           },
@@ -207,9 +183,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "23c649ee97d6f649",
+  "active": "960392d26ef8c0a7",
   "lastOpenFiles": [
     "MATÉRIAS/EEAR.md",
+    "notes/FÍSICA/DINÂMICA.md",
     "notes/note-542.md",
     "notes/note-585.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
@@ -239,7 +216,6 @@
     "my-configuration-files/backup/cfs/gab_of_cfs_2020_cod_16_red.pdf",
     "my-configuration-files/backup/cfs/gab_of_cfs_2020_cod_16_red_gabarito.pdf",
     "notes/note-543.md",
-    "notes/note-546.md",
     "Pasted image 20240517133742.png",
     "Pasted image 20240517133734.png",
     "Pasted image 20240517133539.png",
