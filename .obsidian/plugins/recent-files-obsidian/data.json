@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "note-585",
-      "path": "notes/note-585.md"
+      "basename": "questões erradas de português",
+      "path": "notes/GRAMÁTICA/questões erradas de português.md"
     },
     {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "note-542",
+      "path": "notes/note-542.md"
+    },
+    {
+      "basename": "note-598",
+      "path": "notes/note-598.md"
+    },
+    {
+      "basename": "note-585",
+      "path": "notes/note-585.md"
     },
     {
       "basename": "note-546",
@@ -21,10 +33,6 @@
       "path": "notes/FÍSICA/DINÂMICA.md"
     },
     {
-      "basename": "note-542",
-      "path": "notes/note-542.md"
-    },
-    {
       "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
       "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
     },
@@ -35,10 +43,6 @@
     {
       "basename": "note-143",
       "path": "notes/note-143.md"
-    },
-    {
-      "basename": "questões erradas de português",
-      "path": "notes/GRAMÁTICA/questões erradas de português.md"
     },
     {
       "basename": "tipos de funções",
@@ -195,10 +199,6 @@
     {
       "basename": "note-574",
       "path": "notes/note-574.md"
-    },
-    {
-      "basename": "note-575",
-      "path": "notes/note-575.md"
     }
   ],
   "omittedPaths": [],
