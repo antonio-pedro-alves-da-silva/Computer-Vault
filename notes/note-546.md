@@ -1,4 +1,4 @@
-
+dtrbs
 Modelos atômicos
 	[[note-548|John dalton]]
 	[[note-549|J.J Thomson]]
