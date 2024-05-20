@@ -32,7 +32,7 @@ fire away+
 you take your aim == você fez o seu alvo*
 my share of sand
 but i've come through
-i've taken my bows == eu tenho minhas reverências*
+i've taken my bows == eu tenho minhas reverências
 curtain
 curtain call
 no pleasure cruise
@@ -42,5 +42,29 @@ airfields = aeródromos*
 servicemen = militares*
 petty = pequeno
 egotistical = egoísta
-backstabbing= pessoa que diz coisas desagradáveis sobre pessoas que não estão presentes
+backstabbing = pessoa que diz coisas desagradáveis sobre pessoas que não estão presentes
 wimpy = fracote
+
+longest-running
+highest grossing
+current turnover stands at over $6 billion
+still fall $750 million short of Bond at
+the box office
+not including merchandising
+he’s a bestselling brand
+Fleming novels on which
+to base the films, the series goes on and on.
+“shaken not stirred”.
+With so much money at stake
+Sean Connery
+he cut me dead
+
+cupboards and drawers
+rubbish bags
+The farther “off the beaten path" your travel
+eyewar
+toothache
+Have a dental check-up before
+our upbringing
+genetic set point
+remnants of hurricane
