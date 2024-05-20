@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "4728746beb960d97",
+            "id": "ff077d0bb33dac91",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,33 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "14e781e9fd298787",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-607.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a47a7addcabb96d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-536.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-607.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-607.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-607.md"
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
               }
             }
           },
@@ -207,17 +183,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "14e781e9fd298787",
+  "active": "ff077d0bb33dac91",
   "lastOpenFiles": [
+    "notes/note-608.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
-    "notes/note-607.md",
-    "notes/note-536.md",
     "MATÉRIAS/EEAR.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
+    "notes/note-143.md",
+    "notes/note-476.md",
+    "notes/note-607.md",
+    "notes/note-536.md",
     "notes/note-606.md",
     "notes/GRAMÁTICA/pronome relativo.md",
     "notes/note-175.md",
-    "notes/note-476.md",
     "notes/note-605.md",
     "notes/FÍSICA/DINÂMICA.md",
     "notes/note-584.md",
@@ -240,8 +218,6 @@
     "Pasted image 20240519163722.png",
     "Pasted image 20240519163609.png",
     "notes/note-40.md",
-    "notes/note-598.md",
-    "notes/note-585.md",
     "Pasted image 20240518191509.png",
     "my-configuration-files/backup/cfs/gab_of_cfsb2012_anv_nanv_cod10.pdf",
     "my-configuration-files/backup/cfs/gab_of_cfsb2012_anv_nanv_cod10_gabarito.pdf",
