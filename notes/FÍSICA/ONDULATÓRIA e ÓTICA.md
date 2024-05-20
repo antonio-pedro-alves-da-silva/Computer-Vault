@@ -6,6 +6,7 @@ ondulatória
 	ondas sonoroas
 		de que tipo são as ondas sonoras ?
 			mecânicas, longitudinais e tridimensionais que propagam-se com maior velocidade em meios sólidos.
+		[[note-603|como calcular a velocidade do som na água]]
 	ondas eletromagnéticas
 		tipo de vibração da onda
 			- ondas eletromagnéticas são ondas transversais

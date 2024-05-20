@@ -25,6 +25,8 @@ energia , trabalho e potência
 	 [[print_screen_270.png|Teorema da energia cinética]]
 	 [[note-177|Potência Média]]
 	 [[print_screen_267.png|Rendimento da potência]]
+	 pêndulo simples
+		 [[note-604|energia cinética do pêndulo simples]]
 energia mecânica e sua conservação
 	[[print_screen_292.png|Sistema Conservativos]]
 	[[print_screen_522.png|Dinâmica do Movimento Circular e Altura Mínima para completar o movimento]]

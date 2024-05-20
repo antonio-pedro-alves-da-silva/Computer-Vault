@@ -20,43 +20,31 @@
             }
           },
           {
-            "id": "236aca918dc1b2f2",
+            "id": "6276a220daa6cc37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
+                "file": "notes/note-476.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6e7890579ac08a8c",
+            "id": "a92db991363ab7e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-542.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93c9ecc50be80eac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-599.md",
+                "file": "notes/FÍSICA/DINÂMICA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-599.md",
+                "file": "notes/note-476.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-599.md",
+                "file": "notes/note-476.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-599.md"
+                "file": "notes/note-476.md"
               }
             }
           },
@@ -207,15 +195,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "93c9ecc50be80eac",
+  "active": "6276a220daa6cc37",
   "lastOpenFiles": [
+    "notes/note-605.md",
+    "notes/note-476.md",
+    "notes/note-584.md",
+    "my-configuration-files/backup/cfs/cfs_1_2024.pdf",
+    "MATÉRIAS/EEAR.md",
+    "notes/FÍSICA/DINÂMICA.md",
+    "notes/note-599.md",
+    "notes/note-604.md",
+    "notes/note-542.md",
+    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
+    "notes/note-603.md",
     "notes/note-451.md",
     "Excalidraw/note-451 2024-05-19 18.35.33.excalidraw.md",
     "Excalidraw/Drawing 2024-05-19 18.36.05.excalidraw.md",
-    "notes/note-599.md",
-    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
-    "MATÉRIAS/EEAR.md",
-    "notes/note-542.md",
     "notes/note-602.md",
     "notes/note-600.md",
     "notes/note-601.md",
@@ -228,19 +223,13 @@
     "notes/note-40.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
-    "notes/note-476.md",
     "notes/note-598.md",
     "notes/note-585.md",
     "notes/note-546.md",
     "notes/FÍSICA/ELETRICIDADE.md",
-    "notes/FÍSICA/DINÂMICA.md",
     "notes/note-596.md",
     "notes/note-143.md",
     "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md",
-    "notes/note-597.md",
-    "notes/GRAMÁTICA/regência verbal.md",
-    "notes/note-586.md",
-    "notes/note-595.md",
     "Pasted image 20240518191509.png",
     "my-configuration-files/backup/cfs/gab_of_cfsb2012_anv_nanv_cod10.pdf",
     "my-configuration-files/backup/cfs/gab_of_cfsb2012_anv_nanv_cod10_gabarito.pdf",
@@ -254,7 +243,6 @@
     "my-configuration-files/backup/cfs/prova_cfs 1 2021(s)_cod_33_05 10 2020 08 32 24_.pdf",
     "my-configuration-files/backup/cfs/gabof_cfs_me_bct2013cod04_gabarito.pdf",
     "my-configuration-files/backup/cfs/gabof_cfs_me_bct2013cod04.pdf",
-    "my-configuration-files/backup/cfs/gabof_cfs_me_bct2013cod04-.pdf",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
