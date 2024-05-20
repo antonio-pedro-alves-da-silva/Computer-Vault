@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "2bdd56dfa628c3fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-175.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6276a220daa6cc37",
             "type": "leaf",
             "state": {
@@ -44,19 +32,19 @@
             }
           },
           {
-            "id": "a92db991363ab7e8",
+            "id": "33c5a10cfcfee49c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/DINÂMICA.md",
+                "file": "notes/note-605.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-175.md",
+                "file": "notes/note-605.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-175.md",
+                "file": "notes/note-605.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-175.md"
+                "file": "notes/note-605.md"
               }
             }
           },
@@ -207,14 +195,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2bdd56dfa628c3fb",
+  "active": "33c5a10cfcfee49c",
   "lastOpenFiles": [
-    "MATÉRIAS/EEAR.md",
     "notes/note-476.md",
+    "MATÉRIAS/EEAR.md",
+    "notes/note-175.md",
+    "notes/FÍSICA/DINÂMICA.md",
     "notes/note-605.md",
     "notes/note-584.md",
     "my-configuration-files/backup/cfs/cfs_1_2024.pdf",
-    "notes/FÍSICA/DINÂMICA.md",
     "notes/note-599.md",
     "notes/note-604.md",
     "notes/note-542.md",
@@ -241,7 +230,6 @@
     "notes/FÍSICA/ELETRICIDADE.md",
     "notes/note-596.md",
     "notes/note-143.md",
-    "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md",
     "Pasted image 20240518191509.png",
     "my-configuration-files/backup/cfs/gab_of_cfsb2012_anv_nanv_cod10.pdf",
     "my-configuration-files/backup/cfs/gab_of_cfsb2012_anv_nanv_cod10_gabarito.pdf",
