@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
-      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+      "basename": "EEAR",
+      "path": "MATÉRIAS/EEAR.md"
     },
     {
       "basename": "note-610",
       "path": "notes/note-610.md"
+    },
+    {
+      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
+      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+    },
+    {
+      "basename": "raiz quadrada de 11 até 40",
+      "path": "notes/raiz quadrada de 11 até 40.md"
     },
     {
       "basename": "questões erradas de português",
@@ -15,10 +23,6 @@
     {
       "basename": "note-609",
       "path": "notes/note-609.md"
-    },
-    {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
     },
     {
       "basename": "note-608",
@@ -195,10 +199,6 @@
     {
       "basename": "note-588",
       "path": "notes/note-588.md"
-    },
-    {
-      "basename": "note-502",
-      "path": "notes/note-502.md"
     }
   ],
   "omittedPaths": [],

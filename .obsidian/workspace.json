@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "MATÉRIAS/EEAR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "MATÉRIAS/EEAR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+                "file": "MATÉRIAS/EEAR.md"
               }
             }
           },
@@ -195,13 +194,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "18d89bc32ebdbd19",
+  "active": "974540c37c87e8ec",
   "lastOpenFiles": [
     "notes/note-610.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "MATÉRIAS/EEAR.md",
+    "notes/raiz quadrada de 11 até 40.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-609.md",
-    "MATÉRIAS/EEAR.md",
     "notes/note-608.md",
     "notes/note-143.md",
     "notes/note-476.md",
@@ -223,7 +223,6 @@
     "Excalidraw/note-451 2024-05-19 18.35.33.excalidraw.md",
     "Excalidraw/Drawing 2024-05-19 18.36.05.excalidraw.md",
     "notes/note-602.md",
-    "notes/note-600.md",
     "Pasted image 20240519163843.png",
     "Pasted image 20240519163839.png",
     "Pasted image 20240519163834.png",
