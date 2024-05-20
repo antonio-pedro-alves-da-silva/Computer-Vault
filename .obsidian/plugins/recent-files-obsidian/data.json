@@ -13,6 +13,10 @@
       "path": "MATÉRIAS/EEAR.md"
     },
     {
+      "basename": "pronome relativo",
+      "path": "notes/GRAMÁTICA/pronome relativo.md"
+    },
+    {
       "basename": "note-175",
       "path": "notes/note-175.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "note-496",
       "path": "notes/note-496.md"
-    },
-    {
-      "basename": "note-583",
-      "path": "notes/note-583.md"
     }
   ],
   "omittedPaths": [],
