@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "0c43c8b9d52db45f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-488.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "58efadd21a8e2b61",
             "type": "leaf",
             "state": {
@@ -38,6 +50,18 @@
               "type": "markdown",
               "state": {
                 "file": "notes/note-476.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29f36ddccce941ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-616.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-175.md",
+                "file": "notes/note-488.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-175.md",
+                "file": "notes/note-488.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-175.md"
+                "file": "notes/note-488.md"
               }
             }
           },
@@ -195,11 +219,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "58efadd21a8e2b61",
+  "active": "0c43c8b9d52db45f",
   "lastOpenFiles": [
     "MATÉRIAS/EEAR.md",
     "notes/note-476.md",
+    "my-configuration-files/backup/cfs/cfs_1_42_2022.pdf",
+    "notes/note-616.md",
     "notes/note-615.md",
+    "notes/note-175.md",
     "notes/note-614.md",
     "notes/note-542.md",
     "notes/note-613.md",
@@ -218,12 +245,9 @@
     "notes/note-536.md",
     "notes/note-606.md",
     "notes/GRAMÁTICA/pronome relativo.md",
-    "notes/note-175.md",
     "notes/note-605.md",
     "notes/FÍSICA/DINÂMICA.md",
-    "notes/note-584.md",
     "my-configuration-files/backup/cfs/cfs_1_2024.pdf",
-    "notes/note-599.md",
     "Pasted image 20240519163843.png",
     "Pasted image 20240519163839.png",
     "Pasted image 20240519163834.png",
@@ -242,7 +266,6 @@
     "my-configuration-files/backup/cfs/prova_cfs 1 2021(s)_cod_33_05 10 2020 08 32 24_gabarito.pdf",
     "my-configuration-files/backup/cfs/prova_cfs 1 2021(s)_cod_33_05 10 2020 08 32 24_.pdf",
     "my-configuration-files/backup/cfs/gabof_cfs_me_bct2013cod04_gabarito.pdf",
-    "my-configuration-files/backup/cfs/gabof_cfs_me_bct2013cod04.pdf",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
