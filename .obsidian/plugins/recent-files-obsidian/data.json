@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "questões erradas de português",
-      "path": "notes/GRAMÁTICA/questões erradas de português.md"
+      "basename": "note-542",
+      "path": "notes/note-542.md"
+    },
+    {
+      "basename": "note-611",
+      "path": "notes/note-611.md"
+    },
+    {
+      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
+      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
     },
     {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
     },
     {
-      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
-      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+      "basename": "questões erradas de português",
+      "path": "notes/GRAMÁTICA/questões erradas de português.md"
     },
     {
       "basename": "note-610",
@@ -75,10 +83,6 @@
     {
       "basename": "note-604",
       "path": "notes/note-604.md"
-    },
-    {
-      "basename": "note-542",
-      "path": "notes/note-542.md"
     },
     {
       "basename": "ONDULATÓRIA e ÓTICA",
@@ -195,10 +199,6 @@
     {
       "basename": "note-589",
       "path": "notes/note-589.md"
-    },
-    {
-      "basename": "note-588",
-      "path": "notes/note-588.md"
     }
   ],
   "omittedPaths": [],
