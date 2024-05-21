@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "3b23b1c6d5bd1e5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-546.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5b8162c4ee72eb1a",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-542.md",
+                "file": "notes/note-546.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-542.md",
+                "file": "notes/note-546.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-542.md"
+                "file": "notes/note-546.md"
               }
             }
           },
@@ -207,12 +219,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b0d3194f52874e47",
+  "active": "3b23b1c6d5bd1e5b",
   "lastOpenFiles": [
-    "notes/note-611.md",
-    "notes/note-542.md",
-    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "MATÉRIAS/EEAR.md",
+    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "notes/note-542.md",
+    "notes/note-611.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-610.md",
     "notes/raiz quadrada de 11 até 40.md",
