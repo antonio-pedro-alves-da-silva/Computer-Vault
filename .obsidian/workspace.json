@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "notes/note-610.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "notes/note-610.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATÉRIAS/EEAR.md"
+                "file": "notes/note-610.md"
               }
             }
           },
@@ -194,11 +195,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "974540c37c87e8ec",
+  "active": "51f6c0d31b6fc798",
   "lastOpenFiles": [
+    "MATÉRIAS/EEAR.md",
     "notes/note-610.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
-    "MATÉRIAS/EEAR.md",
     "notes/raiz quadrada de 11 até 40.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-609.md",
