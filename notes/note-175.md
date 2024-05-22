@@ -78,6 +78,7 @@ Jenny really takes after her mother.
 
 
 
-
+discovered she had
+tapeworm larvae
 
 
