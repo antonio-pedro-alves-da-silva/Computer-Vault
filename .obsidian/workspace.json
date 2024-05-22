@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ee1167778325f3a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-621.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "file": "notes/note-621.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "file": "notes/note-621.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md"
+                "file": "notes/note-621.md"
               }
             }
           },
@@ -183,10 +195,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d9e377d8f0cf679d",
+  "active": "ee1167778325f3a8",
   "lastOpenFiles": [
-    "notes/note-620.md",
+    "notes/note-622.md",
+    "notes/note-621.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
+    "notes/note-620.md",
     "MATÉRIAS/EEAR.md",
     "notes/note-476.md",
     "notes/note-619.md",
@@ -213,8 +227,6 @@
     "notes/note-609.md",
     "notes/note-608.md",
     "notes/note-143.md",
-    "notes/note-607.md",
-    "notes/note-536.md",
     "my-configuration-files/backup/cfs/cfs_1_2024.pdf",
     "Pasted image 20240519163843.png",
     "Pasted image 20240519163839.png",

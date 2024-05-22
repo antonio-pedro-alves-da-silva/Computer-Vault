@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "note-621",
+      "path": "notes/note-621.md"
+    },
+    {
+      "basename": "note-622",
+      "path": "notes/note-622.md"
+    },
+    {
       "basename": "questões erradas de português",
       "path": "notes/GRAMÁTICA/questões erradas de português.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "regência verbal",
       "path": "notes/GRAMÁTICA/regência verbal.md"
-    },
-    {
-      "basename": "note-586",
-      "path": "notes/note-586.md"
-    },
-    {
-      "basename": "note-595",
-      "path": "notes/note-595.md"
     }
   ],
   "omittedPaths": [],
