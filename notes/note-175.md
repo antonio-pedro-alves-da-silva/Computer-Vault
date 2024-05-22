@@ -92,3 +92,8 @@ The history
 of humankind 
 
 experience misgivings
+
+Grounding is a common form of punishment for young
+people who disobey their parents.
+
+arrested and handcuffed
