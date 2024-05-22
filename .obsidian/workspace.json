@@ -20,24 +20,24 @@
             }
           },
           {
-            "id": "0c2f412868d2c3cb",
+            "id": "ffe26a228aebf072",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-476.md",
+                "file": "notes/note-175.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "58efadd21a8e2b61",
+            "id": "0c2f412868d2c3cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-175.md",
+                "file": "notes/note-476.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-476.md",
+                "file": "notes/note-175.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-476.md",
+                "file": "notes/note-175.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-476.md"
+                "file": "notes/note-175.md"
               }
             }
           },
@@ -195,16 +195,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0c2f412868d2c3cb",
+  "active": "ffe26a228aebf072",
   "lastOpenFiles": [
-    "notes/note-175.md",
+    "MATÉRIAS/EEAR.md",
     "notes/note-476.md",
+    "my-configuration-files/backup/cfs/cfs_1_12_2020.pdf",
+    "notes/note-175.md",
+    "notes/note-618.md",
     "notes/note-617.md",
     "my-configuration-files/backup/cfs/cfs_1_6_2024.pdf",
     "my-configuration-files/backup/cfs/cfs_1_33_2022.pdf",
     "notes/note-488.md",
     "notes/note-616.md",
-    "MATÉRIAS/EEAR.md",
     "my-configuration-files/backup/cfs/cfs_1_42_2022.pdf",
     "notes/note-615.md",
     "notes/note-614.md",
@@ -224,7 +226,6 @@
     "notes/note-607.md",
     "notes/note-536.md",
     "notes/note-606.md",
-    "notes/GRAMÁTICA/pronome relativo.md",
     "my-configuration-files/backup/cfs/cfs_1_2024.pdf",
     "Pasted image 20240519163843.png",
     "Pasted image 20240519163839.png",
@@ -241,7 +242,6 @@
     "Pasted image 20240517133734.png",
     "Pasted image 20240517133539.png",
     "my-configuration-files/backup/cfs/prova_cfs 1 2021(s)_cod_33_05 10 2020 08 32 24.pdf",
-    "my-configuration-files/backup/cfs/prova_cfs 1 2021(s)_cod_33_05 10 2020 08 32 24_gabarito.pdf",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
