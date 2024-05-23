@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-542.md",
+                "file": "notes/FÍSICA/ELETRICIDADE.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "fluxo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-542.md",
+                "file": "notes/FÍSICA/ELETRICIDADE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-542.md",
+                "file": "notes/FÍSICA/ELETRICIDADE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-542.md"
+                "file": "notes/FÍSICA/ELETRICIDADE.md"
               }
             }
           },
@@ -184,10 +184,10 @@
   },
   "active": "974540c37c87e8ec",
   "lastOpenFiles": [
+    "notes/note-542.md",
     "my-configuration-files/backup/cfs/cfs_1_12_2018.pdf",
     "my-configuration-files/backup/cfs/cfs_1_12_2018.pdf.crdownload",
     "notes/note-624.md",
-    "notes/note-542.md",
     "MATÉRIAS/EEAR.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-623.md",
@@ -226,7 +226,6 @@
     "my-configuration-files/backup/cfs/gab_of_cfsb2012_anv_nanv_cod10.pdf",
     "my-configuration-files/backup/cfs/gab_of_cfsb2012_anv_nanv_cod10_gabarito.pdf",
     "my-configuration-files/backup/cfs/gab_of_cfs_2020_cod_16_red.pdf",
-    "my-configuration-files/backup/cfs/gab_of_cfs_2020_cod_16_red_gabarito.pdf",
     "Pasted image 20240517133742.png",
     "Pasted image 20240517133734.png",
     "Pasted image 20240517133539.png",
