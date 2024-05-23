@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "note-612",
-      "path": "notes/note-612.md"
+      "basename": "note-623",
+      "path": "notes/note-623.md"
     },
     {
       "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
       "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
     },
     {
+      "basename": "note-612",
+      "path": "notes/note-612.md"
+    },
+    {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "Polígonos",
+      "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md"
     },
     {
       "basename": "questões erradas de português",
@@ -191,14 +199,6 @@
     {
       "basename": "tipos de funções",
       "path": "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md"
-    },
-    {
-      "basename": "note-597",
-      "path": "notes/note-597.md"
-    },
-    {
-      "basename": "regência verbal",
-      "path": "notes/GRAMÁTICA/regência verbal.md"
     }
   ],
   "omittedPaths": [],
