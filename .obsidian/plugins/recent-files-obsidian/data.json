@@ -5,6 +5,10 @@
       "path": "notes/note-542.md"
     },
     {
+      "basename": "note-624",
+      "path": "notes/note-624.md"
+    },
+    {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "note-596",
       "path": "notes/note-596.md"
-    },
-    {
-      "basename": "tipos de funções",
-      "path": "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md"
     }
   ],
   "omittedPaths": [],
