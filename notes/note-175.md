@@ -113,3 +113,13 @@ Dogs and wolves present features that make many scientists think that dogs came 
 A watchdog can stop a creature that is five to six times bigger
 
 Well-educated dogs when in danger are always tame
+
+powerhouse of the lower abs,
+
+I was jogging
+
+is a number cruncher by day, while involving himself in seedier activities at night.
+
+tidy handwriting.
+
+call on some friends
