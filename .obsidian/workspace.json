@@ -42,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "14ee9d0602c72063",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-630.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -131,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-630.md",
+                "file": "notes/note-628.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-630.md",
+                "file": "notes/note-628.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-630.md"
+                "file": "notes/note-628.md"
               }
             }
           },
@@ -206,10 +194,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "14ee9d0602c72063",
+  "active": "6e840f2cd7fdc750",
   "lastOpenFiles": [
-    "notes/note-628.md",
     "notes/note-630.md",
+    "notes/note-628.md",
     "notes/GRAMÁTICA/concordância verbal.md",
     "notes/note-629.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
