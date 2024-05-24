@@ -8,3 +8,5 @@
 
 quando usar o(s) qual(s) e a(s) qual(s)
 
+O pronome relativo que é o mais utilizado, sendo considerado um pronome relativo universal. Refere-se a coisas ou a pessoas e pode ser substituído por: o qual, a qual, os quais e as quais.
+
