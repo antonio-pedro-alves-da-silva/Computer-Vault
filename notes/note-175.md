@@ -97,3 +97,19 @@ Grounding is a common form of punishment for young
 people who disobey their parents.
 
 arrested and handcuffed
+
+While pilot fatigue can be common and overlooked,
+
+it's probably on a par with the average
+
+affecting only charter pilots.
+
+There are accounts that pilots have falled asleep at the controls due to very long commute.
+
+Both wag their tails
+
+Dogs and wolves present features that make many scientists think that dogs came from wolves.
+
+A watchdog can stop a creature that is five to six times bigger
+
+Well-educated dogs when in danger are always tame

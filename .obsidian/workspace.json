@@ -20,43 +20,31 @@
             }
           },
           {
-            "id": "a39e72975efd2b96",
+            "id": "b996d4cbe67280ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md",
+                "file": "notes/note-175.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "684939dfa4886df1",
+            "id": "4b2e89ded9a3992d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-542.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f4aedffda831e63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-625.md",
+                "file": "notes/note-476.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -131,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-625.md",
+                "file": "notes/note-476.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-625.md",
+                "file": "notes/note-476.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-625.md"
+                "file": "notes/note-476.md"
               }
             }
           },
@@ -206,18 +194,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6f4aedffda831e63",
+  "active": "4b2e89ded9a3992d",
   "lastOpenFiles": [
+    "notes/note-175.md",
+    "MATÉRIAS/EEAR.md",
+    "notes/note-476.md",
+    "notes/note-626.md",
+    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-542.md",
     "notes/note-625.md",
     "notes/FÍSICA/ELETRICIDADE.md",
-    "MATÉRIAS/EEAR.md",
     "my-configuration-files/backup/cfs/cfs-b_13_2017.pdf",
     "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "notes/note-624.md",
     "my-configuration-files/backup/cfs/cfs_1_12_2018.pdf",
     "my-configuration-files/backup/cfs/cfs_1_12_2018.pdf.crdownload",
-    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-623.md",
     "notes/note-612.md",
     "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
@@ -225,9 +216,7 @@
     "notes/note-621.md",
     "notes/note-622.md",
     "notes/note-620.md",
-    "notes/note-476.md",
     "notes/note-619.md",
-    "notes/note-175.md",
     "my-configuration-files/backup/cfs/cfs_1_12_2020.pdf",
     "notes/note-618.md",
     "notes/note-617.md",
