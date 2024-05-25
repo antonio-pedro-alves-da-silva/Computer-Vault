@@ -127,3 +127,13 @@ call on some friends
 “on a par with” at the same level.
 
 he was fired on the spot for
+
+easygoing blithe
+
+winter wools
+
+appealing
+
+untaxing
+
+enervating
