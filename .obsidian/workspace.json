@@ -20,18 +20,19 @@
             }
           },
           {
-            "id": "e1306c8da6434026",
+            "id": "ea0238fa09c076df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-143.md",
+                "file": "notes/note-542.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "notes/note-542.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "notes/note-542.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATÉRIAS/EEAR.md"
+                "file": "notes/note-542.md"
               }
             }
           },
@@ -182,12 +183,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f792a1964736fe35",
+  "active": "ea0238fa09c076df",
   "lastOpenFiles": [
+    "notes/note-634.md",
+    "notes/note-542.md",
+    "my-configuration-files/backup/cfs/cfs-b_1_07_2016.pdf",
+    "my-configuration-files/backup/cfs/cfs-b_1_07_2016.pdf.crdownload",
+    "MATÉRIAS/EEAR.md",
     "notes/note-143.md",
     "notes/note-628.md",
     "notes/note-303.md",
-    "MATÉRIAS/EEAR.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-631.md",
     "notes/note-633.md",
@@ -201,7 +206,6 @@
     "notes/note-476.md",
     "notes/note-626.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
-    "notes/note-542.md",
     "notes/note-625.md",
     "notes/FÍSICA/ELETRICIDADE.md",
     "my-configuration-files/backup/cfs/cfs-b_13_2017.pdf",
@@ -212,13 +216,10 @@
     "notes/note-623.md",
     "notes/note-612.md",
     "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
-    "notes/note-621.md",
-    "notes/note-622.md",
     "my-configuration-files/backup/cfs/cfs_1_12_2020.pdf",
     "my-configuration-files/backup/cfs/cfs_1_6_2024.pdf",
     "my-configuration-files/backup/cfs/cfs_1_33_2022.pdf",
     "my-configuration-files/backup/cfs/cfs_1_42_2022.pdf",
-    "my-configuration-files/backup/cfs/cfs_1_2024.pdf",
     "Pasted image 20240519163843.png",
     "Pasted image 20240519163839.png",
     "Pasted image 20240519163834.png",
@@ -226,7 +227,6 @@
     "Pasted image 20240519163722.png",
     "Pasted image 20240519163609.png",
     "Pasted image 20240518191509.png",
-    "my-configuration-files/backup/cfs/gab_of_cfsb2012_anv_nanv_cod10.pdf",
     "Pasted image 20240517133742.png",
     "Pasted image 20240517133734.png",
     "Pasted image 20240517133539.png",

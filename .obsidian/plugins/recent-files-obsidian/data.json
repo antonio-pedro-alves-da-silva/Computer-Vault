@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "note-542",
+      "path": "notes/note-542.md"
+    },
+    {
+      "basename": "note-634",
+      "path": "notes/note-634.md"
+    },
+    {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
     },
@@ -63,10 +71,6 @@
     {
       "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
       "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
-    },
-    {
-      "basename": "note-542",
-      "path": "notes/note-542.md"
     },
     {
       "basename": "note-625",
@@ -195,10 +199,6 @@
     {
       "basename": "note-599",
       "path": "notes/note-599.md"
-    },
-    {
-      "basename": "note-604",
-      "path": "notes/note-604.md"
     }
   ],
   "omittedPaths": [],
