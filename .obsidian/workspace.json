@@ -32,12 +32,24 @@
             }
           },
           {
-            "id": "d901f32e4742dfee",
+            "id": "c816a6f875d8c71e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-626.md",
+                "file": "notes/note-636.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ecfd6e85659836f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-636.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-626.md",
+                "file": "notes/note-636.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-626.md",
+                "file": "notes/note-636.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-626.md"
+                "file": "notes/note-636.md"
               }
             }
           },
@@ -195,11 +207,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d901f32e4742dfee",
+  "active": "c816a6f875d8c71e",
   "lastOpenFiles": [
     "notes/note-476.md",
-    "MATÉRIAS/EEAR.md",
+    "notes/note-636.md",
     "notes/note-626.md",
+    "MATÉRIAS/EEAR.md",
     "notes/note-175.md",
     "notes/note-542.md",
     "notes/note-625.md",
@@ -230,7 +243,6 @@
     "my-configuration-files/backup/cfs/cfs_1_12_2018.pdf.crdownload",
     "notes/note-623.md",
     "notes/note-612.md",
-    "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
     "my-configuration-files/backup/cfs/cfs_1_12_2020.pdf",
     "my-configuration-files/backup/cfs/cfs_1_6_2024.pdf",
     "Pasted image 20240519163843.png",
