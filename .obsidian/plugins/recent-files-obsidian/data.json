@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "note-476",
+      "path": "notes/note-476.md"
+    },
+    {
+      "basename": "note-637",
+      "path": "notes/note-637.md"
+    },
+    {
+      "basename": "note-636",
+      "path": "notes/note-636.md"
+    },
+    {
       "basename": "note-175",
       "path": "notes/note-175.md"
     },
     {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
-    },
-    {
-      "basename": "note-476",
-      "path": "notes/note-476.md"
-    },
-    {
-      "basename": "note-636",
-      "path": "notes/note-636.md"
     },
     {
       "basename": "note-626",
@@ -195,10 +199,6 @@
     {
       "basename": "note-605",
       "path": "notes/note-605.md"
-    },
-    {
-      "basename": "DINÂMICA",
-      "path": "notes/FÍSICA/DINÂMICA.md"
     }
   ],
   "omittedPaths": [],
