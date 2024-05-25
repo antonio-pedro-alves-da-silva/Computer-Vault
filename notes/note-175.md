@@ -138,4 +138,9 @@ untaxing
 
 enervating
 
-to elope!
+to elope
+
+conveyed – transmitiu 
+sought – procurou 
+monthslong – com duração de meses 
+prosecutors - promotores

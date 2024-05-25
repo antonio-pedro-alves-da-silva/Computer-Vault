@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-476.md",
+                "file": "notes/note-175.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-476.md",
+                "file": "notes/note-175.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-476.md"
+                "file": "notes/note-175.md"
               }
             }
           },
@@ -207,13 +207,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3d810e178795c58f",
+  "active": "b3cfefb03d00b6e7",
   "lastOpenFiles": [
-    "notes/note-637.md",
     "notes/note-476.md",
-    "notes/note-636.md",
-    "notes/note-175.md",
     "MATÉRIAS/EEAR.md",
+    "notes/note-488.md",
+    "notes/note-175.md",
+    "notes/note-637.md",
+    "notes/note-636.md",
     "notes/note-626.md",
     "notes/note-542.md",
     "notes/note-625.md",
@@ -242,7 +243,6 @@
     "my-configuration-files/backup/cfs/cfs-b_13_2017.pdf",
     "my-configuration-files/backup/cfs/cfs_1_12_2018.pdf",
     "my-configuration-files/backup/cfs/cfs_1_12_2018.pdf.crdownload",
-    "notes/note-623.md",
     "my-configuration-files/backup/cfs/cfs_1_12_2020.pdf",
     "my-configuration-files/backup/cfs/cfs_1_6_2024.pdf",
     "Pasted image 20240519163843.png",
