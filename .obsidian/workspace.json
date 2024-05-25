@@ -18,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f85e99bad8b0a44e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea0238fa09c076df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-542.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-542.md",
+                "file": "MATÉRIAS/EEAR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-542.md",
+                "file": "MATÉRIAS/EEAR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-542.md"
+                "file": "MATÉRIAS/EEAR.md"
               }
             }
           },
@@ -195,15 +170,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ea0238fa09c076df",
+  "active": "f792a1964736fe35",
   "lastOpenFiles": [
+    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "notes/note-635.md",
     "notes/note-542.md",
+    "MATÉRIAS/EEAR.md",
+    "notes/note-634.md",
     "my-configuration-files/backup/cfs/cfs-b_1-2_2015.pdf",
     "my-configuration-files/backup/cfs/cfs-b_1-2_2015.pdf.crdownload",
-    "notes/note-634.md",
-    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
-    "MATÉRIAS/EEAR.md",
     "my-configuration-files/backup/cfs/cfs-b_1_07_2016.pdf",
     "my-configuration-files/backup/cfs/cfs-b_1_07_2016.pdf.crdownload",
     "notes/note-143.md",
