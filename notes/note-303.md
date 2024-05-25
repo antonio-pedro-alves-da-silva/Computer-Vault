@@ -1,3 +1,4 @@
+
 na derivação parassintética há perda de sentido se tirar um dos afixos
 
 - Amaciar → a + macio + ar.
@@ -9,8 +10,10 @@ na derivação parassintética há perda de sentido se tirar um dos afixos
 - Enfileirar → en + fileira + ar.
 - Submarino → sub + mar + ino.
 
-
 na derivação prefixal com sufixal não há perda de sentido se remover um dos afixos
 
-- infelizmente -> in + feliz + mente
-- Inconstitucional -> in + constituir + cional
+- infelizmente -> infeliz ou felizmente
+- Inconstitucional -> inconstituição ou constitucional
+- indeterminadamente -> indeterminado ou determinadamente
+
+
