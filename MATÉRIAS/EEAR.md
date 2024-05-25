@@ -1081,33 +1081,3 @@ FÍSICA
 	[[TERMOLOGIA]]
 	[[note-546|MATÉRIA E RADIAÇÃO]]
 	[[note-542|provas anteriores de física]]
-AS MATÉRIAS QUE MAIS CAEM DE FÍSICA
-	Cinemática: M.U , M.U.V , equações, gráficos, torricelli, lançamentos e queda livre
-	Vetores: Lei dos cossenos, Pitágoras, Decomposição de vetores
-	Leis de Newton: conceitos, blocos, polias e roldanas, plano inclinado
-	Energia: Cinética, Potencial Gravitacional, Potencial Elástica
-	Ondas: equação fundamental, qualidades fisiológicas do som
-	- Óptica: princípios da óptica geométrica, espelhos, lentes
-	- Calorimetria: calor sensível, calor latente, capacidade térmica, trocas de calor
-	- Hidrostática: Stevin e Pascal
-	- Eletrostática: Força e campo elétrico, potêncial elétrico
-	- Resistores: Associação em série, paralelo e mista
-	- Potência e Energia Elétrica: Potência elétrica e energia elétrica.
-	- Eletromagnetismo: Ímas, campo magnético, força magnética, Lei de Faraday e Lenz
-
-AS MATÉRIAS QUE MAIS CAEM DE MATMÁTICA
-	MATEMÁTICA
-		Funções: 1° e 2° grau, logarítmica, exponencial, modular
-		Polinômios
-		Trigonometria
-		Geometria Analítica
-		Geometria Plana
-		Geometria Espacial: Cilindro, cone, esfera e prismas
-		Logaritmo
-		Estatística
-		Progressão Aritmética e Geométrica
-		Análise Combinatória
-		Números Complexos
-		Matriz e determinantes
-		Probabilidade
-
