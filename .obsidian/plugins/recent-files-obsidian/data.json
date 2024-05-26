@@ -5,6 +5,10 @@
       "path": "notes/GRAMÁTICA/questões erradas de português.md"
     },
     {
+      "basename": "note-638",
+      "path": "notes/note-638.md"
+    },
+    {
       "basename": "note-476",
       "path": "notes/note-476.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "note-606",
       "path": "notes/note-606.md"
-    },
-    {
-      "basename": "pronome relativo",
-      "path": "notes/GRAMÁTICA/pronome relativo.md"
     }
   ],
   "omittedPaths": [],
