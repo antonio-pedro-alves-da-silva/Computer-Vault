@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "3d810e178795c58f",
+            "id": "72deea840f6a7a93",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "6533eb6c1c6cd3df",
+            "id": "8504c2861e046cf6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-637.md",
+                "file": "notes/GRAMÁTICA/questões erradas de português.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-637.md",
+                "file": "notes/GRAMÁTICA/questões erradas de português.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-637.md",
+                "file": "notes/GRAMÁTICA/questões erradas de português.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-637.md"
+                "file": "notes/GRAMÁTICA/questões erradas de português.md"
               }
             }
           },
@@ -195,13 +195,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6533eb6c1c6cd3df",
+  "active": "8504c2861e046cf6",
   "lastOpenFiles": [
     "notes/note-476.md",
-    "notes/note-637.md",
     "MATÉRIAS/EEAR.md",
+    "notes/GRAMÁTICA/questões erradas de português.md",
+    "notes/note-143.md",
+    "notes/note-637.md",
     "notes/note-175.md",
     "notes/note-488.md",
+    "notes/note-496.md",
     "notes/note-636.md",
     "notes/note-626.md",
     "notes/note-542.md",
@@ -214,10 +217,8 @@
     "my-configuration-files/backup/cfs/cfs-b_1-2_2015.pdf.crdownload",
     "my-configuration-files/backup/cfs/cfs-b_1_07_2016.pdf",
     "my-configuration-files/backup/cfs/cfs-b_1_07_2016.pdf.crdownload",
-    "notes/note-143.md",
     "notes/note-628.md",
     "notes/note-303.md",
-    "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-631.md",
     "notes/note-633.md",
     "notes/note-632.md",
@@ -227,7 +228,6 @@
     "notes/note-627.md",
     "my-configuration-files/backup/cfs/cfs_1_33_2021.pdf",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
-    "notes/FÍSICA/ELETRICIDADE.md",
     "my-configuration-files/backup/cfs/cfs-b_13_2017.pdf",
     "my-configuration-files/backup/cfs/cfs_1_12_2018.pdf",
     "my-configuration-files/backup/cfs/cfs_1_12_2018.pdf.crdownload",

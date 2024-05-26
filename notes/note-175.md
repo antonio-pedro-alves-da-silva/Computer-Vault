@@ -149,3 +149,8 @@ tip into - arrastar para
 bribed - subornou
 halted - interrompeu
 shave off - reduzir
+
+Corruption Scandal
+had bribed executives
+has halted payments on many projects.
+will probably shave 0.75 percent off growth of the nation’s economy
