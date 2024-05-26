@@ -144,3 +144,8 @@ conveyed – transmitiu
 sought – procurou 
 monthslong – com duração de meses 
 prosecutors - promotores
+
+tip into - arrastar para
+bribed - subornou
+halted - interrompeu
+shave off - reduzir
