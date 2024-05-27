@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "fc00f0db0e147a97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "33a7e381e7cee6ca",
             "type": "leaf",
             "state": {
@@ -30,33 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "625b921e586ce0fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-542.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e450da499d30e22b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-639.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,9 +197,11 @@
   },
   "active": "33a7e381e7cee6ca",
   "lastOpenFiles": [
-    "MATÉRIAS/EEAR.md",
-    "notes/note-639.md",
     "notes/note-542.md",
+    "notes/note-639.md",
+    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
+    "MATÉRIAS/EEAR.md",
+    "notes/FÍSICA/TERMOLOGIA.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-623.md",
     "notes/note-476.md",
@@ -226,7 +216,6 @@
     "notes/note-626.md",
     "notes/note-625.md",
     "notes/note-624.md",
-    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "notes/note-635.md",
     "notes/note-634.md",
     "my-configuration-files/backup/cfs/cfs-b_1-2_2015.pdf",
@@ -238,7 +227,6 @@
     "notes/note-631.md",
     "notes/note-633.md",
     "notes/note-632.md",
-    "notes/note-630.md",
     "my-configuration-files/backup/cfs/cfs_1_33_2021.pdf",
     "my-configuration-files/backup/cfs/cfs-b_13_2017.pdf",
     "my-configuration-files/backup/cfs/cfs_1_12_2018.pdf",
