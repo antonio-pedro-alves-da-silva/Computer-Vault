@@ -20,48 +20,24 @@
             }
           },
           {
-            "id": "c1210d023ab1eb86",
+            "id": "576799a244ae4509",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6902c3ddc4f8e79d",
+            "id": "9e79478140cf2f24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-542.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bee438623c868366",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-639.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc00f0db0e147a97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
+                "file": "notes/note-623.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md"
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
               }
             }
           },
@@ -219,15 +195,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c1210d023ab1eb86",
+  "active": "576799a244ae4509",
   "lastOpenFiles": [
-    "MATÉRIAS/EEAR.md",
-    "notes/note-542.md",
-    "notes/note-639.md",
-    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
-    "notes/FÍSICA/TERMOLOGIA.md",
-    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-623.md",
+    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "MATÉRIAS/EEAR.md",
+    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
+    "notes/note-639.md",
+    "notes/note-542.md",
+    "notes/FÍSICA/ELETRICIDADE.md",
+    "notes/FÍSICA/TERMOLOGIA.md",
     "notes/note-476.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-638.md",
@@ -250,7 +227,6 @@
     "notes/note-303.md",
     "notes/note-631.md",
     "notes/note-633.md",
-    "notes/note-632.md",
     "my-configuration-files/backup/cfs/cfs_1_33_2021.pdf",
     "my-configuration-files/backup/cfs/cfs-b_13_2017.pdf",
     "my-configuration-files/backup/cfs/cfs_1_12_2018.pdf",

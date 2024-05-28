@@ -154,7 +154,6 @@ eletricidade
 			transformadores	
 				[1](https://www.qconcursos.com/questoes-militares/questoes/d733cbaf-4b)-aprendi()
 				[2](https://www.qconcursos.com/questoes-militares/questoes/9d5467c1-50)
-		
 	eletromagnetismo
 		[[print_screen_308.png|atração e repulsão e princípio da inseparabilidade]]
 		[[print_screen_309.png|o campo magnético de um imã]]
