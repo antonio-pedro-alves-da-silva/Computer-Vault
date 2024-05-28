@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "notes/note-623.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "notes/note-623.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATÉRIAS/EEAR.md"
+                "file": "notes/note-623.md"
               }
             }
           },
@@ -194,11 +195,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f792a1964736fe35",
+  "active": "9e79478140cf2f24",
   "lastOpenFiles": [
+    "Pasted image 20240528153058.png",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
-    "notes/note-623.md",
     "MATÉRIAS/EEAR.md",
+    "notes/note-623.md",
     "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "notes/note-639.md",
     "notes/note-542.md",
@@ -225,7 +227,6 @@
     "notes/note-628.md",
     "notes/note-303.md",
     "notes/note-631.md",
-    "notes/note-633.md",
     "my-configuration-files/backup/cfs/cfs_1_33_2021.pdf",
     "my-configuration-files/backup/cfs/cfs-b_13_2017.pdf",
     "my-configuration-files/backup/cfs/cfs_1_12_2018.pdf",
