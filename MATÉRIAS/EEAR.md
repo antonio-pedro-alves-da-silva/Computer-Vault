@@ -1081,3 +1081,4 @@ FÍSICA
 	[[TERMOLOGIA]]
 	[[note-546|MATÉRIA E RADIAÇÃO]]
 	[[note-542|provas anteriores de física]]
+
