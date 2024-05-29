@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "CINEMÁTICA",
-      "path": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
-    },
-    {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
+      "basename": "note-639",
+      "path": "notes/note-639.md"
     },
     {
       "basename": "note-542",
       "path": "notes/note-542.md"
     },
     {
-      "basename": "note-639",
-      "path": "notes/note-639.md"
+      "basename": "EEAR",
+      "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "CINEMÁTICA",
+      "path": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
+    },
+    {
+      "basename": "DINÂMICA",
+      "path": "notes/FÍSICA/DINÂMICA.md"
+    },
+    {
+      "basename": "ONDULATÓRIA e ÓTICA",
+      "path": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md"
+    },
+    {
+      "basename": "ESTÁTICA",
+      "path": "notes/FÍSICA/ESTÁTICA.md"
     },
     {
       "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
@@ -43,10 +55,6 @@
     {
       "basename": "note-623",
       "path": "notes/note-623.md"
-    },
-    {
-      "basename": "ONDULATÓRIA e ÓTICA",
-      "path": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md"
     },
     {
       "basename": "ELETRICIDADE",
@@ -191,14 +199,6 @@
     {
       "basename": "note-611",
       "path": "notes/note-611.md"
-    },
-    {
-      "basename": "note-546",
-      "path": "notes/note-546.md"
-    },
-    {
-      "basename": "note-610",
-      "path": "notes/note-610.md"
     }
   ],
   "omittedPaths": [],

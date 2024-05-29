@@ -20,24 +20,12 @@
             }
           },
           {
-            "id": "36527c5fa4ebf1cf",
+            "id": "df60fcb810f1fd5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c5e94fcb14f6024",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-542.md",
+                "file": "MATÉRIAS/EEAR.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "derivação",
+                "query": "HARMÔNICO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
+                "file": "notes/note-639.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
+                "file": "notes/note-639.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
+                "file": "notes/note-639.md"
               }
             }
           },
@@ -207,10 +195,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "36527c5fa4ebf1cf",
+  "active": "3c388a5a5a5f7e43",
   "lastOpenFiles": [
-    "MATÉRIAS/EEAR.md",
     "notes/note-542.md",
+    "MATÉRIAS/EEAR.md",
+    "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
+    "notes/FÍSICA/DINÂMICA.md",
+    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
+    "notes/FÍSICA/ESTÁTICA.md",
     "notes/note-639.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-641.md",
@@ -220,7 +212,6 @@
     "notes/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md",
     "notes/note-623.md",
     "Pasted image 20240528153058.png",
-    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "notes/FÍSICA/ELETRICIDADE.md",
     "notes/FÍSICA/TERMOLOGIA.md",
     "notes/note-476.md",
@@ -233,13 +224,10 @@
     "notes/note-626.md",
     "notes/note-625.md",
     "notes/note-624.md",
-    "notes/note-635.md",
-    "notes/note-634.md",
     "my-configuration-files/backup/cfs/cfs-b_1-2_2015.pdf",
     "my-configuration-files/backup/cfs/cfs-b_1-2_2015.pdf.crdownload",
     "my-configuration-files/backup/cfs/cfs-b_1_07_2016.pdf",
     "my-configuration-files/backup/cfs/cfs-b_1_07_2016.pdf.crdownload",
-    "notes/note-628.md",
     "my-configuration-files/backup/cfs/cfs_1_33_2021.pdf",
     "my-configuration-files/backup/cfs/cfs-b_13_2017.pdf",
     "my-configuration-files/backup/cfs/cfs_1_12_2018.pdf",
