@@ -20,24 +20,24 @@
             }
           },
           {
-            "id": "2e3d2d28e9af9a83",
+            "id": "8c5e94fcb14f6024",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "notes/note-542.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "64a2f13f5c4ea6d4",
+            "id": "3c388a5a5a5f7e43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-641.md",
+                "file": "notes/note-639.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-641.md",
+                "file": "notes/note-639.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-641.md",
+                "file": "notes/note-639.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-641.md"
+                "file": "notes/note-639.md"
               }
             }
           },
@@ -195,11 +195,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "64a2f13f5c4ea6d4",
+  "active": "3c388a5a5a5f7e43",
   "lastOpenFiles": [
+    "notes/note-542.md",
+    "MATÉRIAS/EEAR.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-641.md",
-    "MATÉRIAS/EEAR.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-640.md",
     "notes/note-143.md",
@@ -208,7 +209,6 @@
     "Pasted image 20240528153058.png",
     "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "notes/note-639.md",
-    "notes/note-542.md",
     "notes/FÍSICA/ELETRICIDADE.md",
     "notes/FÍSICA/TERMOLOGIA.md",
     "notes/note-476.md",
