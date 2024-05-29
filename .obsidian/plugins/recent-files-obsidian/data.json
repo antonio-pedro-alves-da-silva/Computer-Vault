@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "note-476",
+      "path": "notes/note-476.md"
+    },
+    {
+      "basename": "note-642",
+      "path": "notes/note-642.md"
+    },
+    {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
     },
@@ -83,10 +91,6 @@
     {
       "basename": "TERMOLOGIA",
       "path": "notes/FÍSICA/TERMOLOGIA.md"
-    },
-    {
-      "basename": "note-476",
-      "path": "notes/note-476.md"
     },
     {
       "basename": "note-638",
@@ -195,10 +199,6 @@
     {
       "basename": "note-618",
       "path": "notes/note-618.md"
-    },
-    {
-      "basename": "note-617",
-      "path": "notes/note-617.md"
     }
   ],
   "omittedPaths": [],
