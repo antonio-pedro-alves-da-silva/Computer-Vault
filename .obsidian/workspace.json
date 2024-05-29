@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "36527c5fa4ebf1cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8c5e94fcb14f6024",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-639.md",
+                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-639.md",
+                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-639.md"
+                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
               }
             }
           },
@@ -195,10 +207,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3c388a5a5a5f7e43",
+  "active": "36527c5fa4ebf1cf",
   "lastOpenFiles": [
-    "notes/note-542.md",
     "MATÉRIAS/EEAR.md",
+    "notes/note-542.md",
+    "notes/note-639.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-641.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
@@ -208,7 +221,6 @@
     "notes/note-623.md",
     "Pasted image 20240528153058.png",
     "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
-    "notes/note-639.md",
     "notes/FÍSICA/ELETRICIDADE.md",
     "notes/FÍSICA/TERMOLOGIA.md",
     "notes/note-476.md",
