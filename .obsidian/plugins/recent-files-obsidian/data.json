@@ -5,6 +5,14 @@
       "path": "notes/GRAMÁTICA/questões erradas de português.md"
     },
     {
+      "basename": "note-143",
+      "path": "notes/note-143.md"
+    },
+    {
+      "basename": "diferença entre adjunto adnominal e complemento nominal",
+      "path": "notes/GRAMÁTICA/diferença entre adjunto adnominal e complemento nominal.md"
+    },
+    {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
     },
@@ -87,10 +95,6 @@
     {
       "basename": "note-640",
       "path": "notes/note-640.md"
-    },
-    {
-      "basename": "note-143",
-      "path": "notes/note-143.md"
     },
     {
       "basename": "TRIGONOMETRIA",
@@ -195,10 +199,6 @@
     {
       "basename": "note-621",
       "path": "notes/note-621.md"
-    },
-    {
-      "basename": "note-622",
-      "path": "notes/note-622.md"
     }
   ],
   "omittedPaths": [],
