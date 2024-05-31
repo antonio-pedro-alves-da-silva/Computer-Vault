@@ -42,18 +42,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8d11e1403caee92e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-542.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 2
@@ -209,10 +197,11 @@
   },
   "active": "0486333b74959391",
   "lastOpenFiles": [
-    "notes/note-546.md",
-    "notes/note-647.md",
-    "MATÉRIAS/EEAR.md",
     "notes/note-542.md",
+    "notes/note-647.md",
+    "notes/note-546.md",
+    "cf5c9c4bae9e811fd33cdcc49fc06a464d47f4d8.svg",
+    "MATÉRIAS/EEAR.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-646.md",
     "notes/note-143.md",
@@ -234,7 +223,6 @@
     "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
     "notes/FÍSICA/DINÂMICA.md",
     "notes/FÍSICA/ESTÁTICA.md",
-    "notes/note-640.md",
     "Pasted image 20240528153058.png",
     "my-configuration-files/backup/cfs/cfs-b_1-2_2015.pdf",
     "my-configuration-files/backup/cfs/cfs-b_1-2_2015.pdf.crdownload",
@@ -254,7 +242,6 @@
     "Pasted image 20240519163609.png",
     "Pasted image 20240518191509.png",
     "Pasted image 20240517133742.png",
-    "Pasted image 20240517133734.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
