@@ -13,6 +13,7 @@ hidroestática
 	[[note-369|empuxo]]
 	[como calcular a fração do bloco que está fora e dentro](https://www.qconcursos.com/questoes-militares/questoes/4dea7d58-58)([[note-368|resolução]])
 	[[print_screen_552.png|barômetro de torriceli]]
+		[exercício de aplicação](https://www.qconcursos.com/questoes-militares/questoes/461aa6c5-49)
 	[[print_screen_555.png|dois liquidos imiscíveis]]
 	
 exercícios de hidroestática errados
