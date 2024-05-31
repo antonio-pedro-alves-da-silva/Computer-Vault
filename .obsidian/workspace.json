@@ -20,19 +20,43 @@
             }
           },
           {
-            "id": "934f17b1876d982f",
+            "id": "8ddbc27ddda29f9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "notes/note-546.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0486333b74959391",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-647.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d11e1403caee92e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-542.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "notes/note-647.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "notes/note-647.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+                "file": "notes/note-647.md"
               }
             }
           },
@@ -183,13 +207,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "934f17b1876d982f",
+  "active": "0486333b74959391",
   "lastOpenFiles": [
-    "notes/note-646.md",
-    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "notes/note-546.md",
+    "notes/note-647.md",
     "MATÉRIAS/EEAR.md",
-    "notes/note-143.md",
     "notes/note-542.md",
+    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "notes/note-646.md",
+    "notes/note-143.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-644.md",
     "notes/GRAMÁTICA/diferença entre adjunto adnominal e complemento nominal.md",
@@ -205,12 +231,10 @@
     "notes/note-639.md",
     "notes/note-577.md",
     "notes/note-573.md",
-    "notes/note-546.md",
     "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
     "notes/FÍSICA/DINÂMICA.md",
     "notes/FÍSICA/ESTÁTICA.md",
     "notes/note-640.md",
-    "notes/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md",
     "Pasted image 20240528153058.png",
     "my-configuration-files/backup/cfs/cfs-b_1-2_2015.pdf",
     "my-configuration-files/backup/cfs/cfs-b_1-2_2015.pdf.crdownload",

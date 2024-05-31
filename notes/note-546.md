@@ -23,4 +23,4 @@ efeito fotoelétrico
 	[[note-573|fótons]]
 	[[note-572|o que é o efeito fotoelétrico]]
 [[note-578|potência de ondas eletromagnéticas]]
-
+[[note-647|lei de wien]]
