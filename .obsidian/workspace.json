@@ -20,31 +20,19 @@
             }
           },
           {
-            "id": "1c62b87f883cbf55",
+            "id": "d34fae0ebbfa6f03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-542.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ddbc27ddda29f9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/FÍSICA/HIDROESTÁTICA.md",
+                "file": "notes/FÍSICA/ELETRICIDADE.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/HIDROESTÁTICA.md",
+                "file": "notes/FÍSICA/ELETRICIDADE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/HIDROESTÁTICA.md",
+                "file": "notes/FÍSICA/ELETRICIDADE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/HIDROESTÁTICA.md"
+                "file": "notes/FÍSICA/ELETRICIDADE.md"
               }
             }
           },
@@ -195,11 +183,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8ddbc27ddda29f9c",
+  "active": "d34fae0ebbfa6f03",
   "lastOpenFiles": [
-    "notes/note-542.md",
-    "MATÉRIAS/EEAR.md",
     "notes/FÍSICA/HIDROESTÁTICA.md",
+    "notes/FÍSICA/ELETRICIDADE.md",
+    "MATÉRIAS/EEAR.md",
+    "notes/note-542.md",
     "images/print_screen_691.png",
     "notes/note-546.md",
     "notes/note-648.md",
@@ -224,7 +213,6 @@
     "notes/note-577.md",
     "notes/note-573.md",
     "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
-    "notes/FÍSICA/DINÂMICA.md",
     "Pasted image 20240528153058.png",
     "my-configuration-files/backup/cfs/cfs-b_1-2_2015.pdf",
     "my-configuration-files/backup/cfs/cfs-b_1-2_2015.pdf.crdownload",
