@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-476.md",
+                "file": "notes/note-175.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-476.md",
+                "file": "notes/note-175.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-476.md"
+                "file": "notes/note-175.md"
               }
             }
           },
@@ -195,11 +195,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7d578ad1ecfe161b",
+  "active": "8752f10eaec0b1f9",
   "lastOpenFiles": [
-    "notes/note-175.md",
-    "MATÉRIAS/EEAR.md",
     "notes/note-476.md",
+    "notes/note-649.md",
+    "notes/note-175.md",
+    "notes/note-643.md",
+    "MATÉRIAS/EEAR.md",
     "my-configuration-files/backup/cfs/cfs-b_1-2_12_2014.pdf",
     "my-configuration-files/backup/cfs/cfs-b_1-2_12_2014.pdf.crdownload",
     "notes/note-645.md",
@@ -219,14 +221,12 @@
     "notes/GRAMÁTICA/diferença entre adjunto adnominal e complemento nominal.md",
     "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
     "notes/note-641.md",
-    "notes/note-643.md",
     "notes/note-642.md",
     "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "notes/note-40.md",
     "notes/note-32.md",
     "notes/note-639.md",
     "notes/note-577.md",
-    "notes/note-573.md",
     "Pasted image 20240528153058.png",
     "my-configuration-files/backup/cfs/cfs-b_1-2_2015.pdf",
     "my-configuration-files/backup/cfs/cfs-b_1-2_2015.pdf.crdownload",
