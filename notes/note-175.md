@@ -194,7 +194,7 @@ the first space shuttle.
 | But I've come through                                                                       | Mas eu superei                                                                                          |
 | I've taken my bows                                                                          | Eu tenho minhas reverências                                                                             |
 | Curtain                                                                                     | Cortina                                                                                                 |
-| Curtain call                                                                                | Chamada de cortina                                                                                      |
+| Curtain call                                                                                | Chamada de emergência                                                                                   |
 | No pleasure cruise                                                                          | Nenhuma viagem prazerosa                                                                                |
 | Pearl                                                                                       | Pérola                                                                                                  |
 | Harbor or Harbour                                                                           | Porto                                                                                                   |
@@ -215,18 +215,18 @@ the first space shuttle.
 | With so much money at stake                                                                 | Com tanto dinheiro em jogo                                                                              |
 | Sean Connery                                                                                | Sean Connery                                                                                            |
 | He cut me dead                                                                              | Ele me ignorou                                                                                          |
-| Cupboards and drawers                                                                       | Armários e gavetas                                                                                      |
+| **Cupboards** and drawers                                                                   | **Armários** e gavetas                                                                                  |
 | Rubbish bags                                                                                | Sacos de lixo                                                                                           |
 | The farther "off the beaten path" your travel                                               | Quanto mais "fora do caminho comum" você viaja                                                          |
 | Eyewear                                                                                     | Óculos                                                                                                  |
 | Toothache                                                                                   | Dor de dente                                                                                            |
 | Have a **dental check-up** before                                                           | Faça um **check-up dentário** antes                                                                     |
-| Our upbringing                                                                              | Nossa criação                                                                                           |
+| Our **upbringing**                                                                          | Nossa **criação**                                                                                       |
 | Genetic set point                                                                           | Ponto de ajuste genético                                                                                |
 | Remnants of hurricane                                                                       | Remanescentes de furacão                                                                                |
 | Cape Town                                                                                   | Cidade do Cabo                                                                                          |
 | Facelift                                                                                    | Lifting facial                                                                                          |
-| Jenny really takes after her mother                                                         | Jenny realmente leva após sua mãe                                                                       |
+| Jenny really [[note-649\|takes after]] her mother                                           | Jenny realmente leva após sua mãe                                                                       |
 | Has also been streamed 57                                                                   | Também foi transmitido 57                                                                               |
 | To reduce stigma surrounding                                                                | Para reduzir o estigma em torno de                                                                      |
 | In their survey of 642 college freshmen                                                     | Em sua pesquisa com 642 calouros universitários                                                         |
@@ -234,11 +234,11 @@ the first space shuttle.
 | 47 days adrift in a raft                                                                    | 47 dias à deriva em uma jangada                                                                         |
 | Discovered she had                                                                          | Descobriu que tinha                                                                                     |
 | Tapeworm larvae                                                                             | Larvas de tênias                                                                                        |
-| Prescribed migraine medication                                                              | Medicamento prescrito para enxaqueca                                                                    |
-| Unearthed in Egypt                                                                          | Desenterrado no Egito                                                                                   |
-| Were entombed                                                                               | Foram enterrados                                                                                        |
-| The history of humankind                                                                    | A história da humanidade                                                                                |
-| Experience misgivings                                                                       | Experimentar apreensões                                                                                 |
+| Prescribed *migraine* medication                                                            | Medicamento prescrito para **enxaqueca**                                                                |
+| **Unearthed** in Egypt                                                                      | **Desenterrado** no Egito                                                                               |
+| Were **entombed**                                                                           | Foram **enterrados**                                                                                    |
+| The history of **humankind**                                                                | A história da **humanidade**                                                                            |
+| Experience **misgivings**                                                                   | Experimentar **apreensões**                                                                             |
 | Grounding is a common form of punishment for young people who disobey their parents         | O castigo é uma forma comum de punição para jovens que desobedecem seus pais                            |
 | Arrested and handcuffed                                                                     | Preso e algemado                                                                                        |
 | While pilot fatigue can be common and overlooked                                            | Embora a fadiga do piloto possa ser comum e negligenciada                                               |
