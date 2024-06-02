@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "49c1802e1c7ed143",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-658.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-653.md",
+                "file": "notes/note-658.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-653.md",
+                "file": "notes/note-658.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-653.md"
+                "file": "notes/note-658.md"
               }
             }
           },
@@ -183,11 +195,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "42d6731a8781fb8a",
+  "active": "49c1802e1c7ed143",
   "lastOpenFiles": [
+    "notes/note-663.md",
+    "notes/note-658.md",
+    "notes/note-662.md",
+    "notes/note-661.md",
+    "notes/note-660.md",
+    "notes/note-659.md",
+    "notes/note-653.md",
     "notes/note-654.md",
     "notes/note-655.md",
-    "notes/note-653.md",
     "notes/note-657.md",
     "notes/note-656.md",
     "notes/note-476.md",
@@ -213,14 +231,8 @@
     "my-configuration-files/backup/cfs/cfs-b_1-2_12_2014.pdf",
     "my-configuration-files/backup/cfs/cfs-b_1-2_12_2014.pdf.crdownload",
     "notes/note-645.md",
-    "notes/FÍSICA/HIDROESTÁTICA.md",
     "images/print_screen_691.png",
-    "notes/note-648.md",
-    "notes/note-647.md",
     "cf5c9c4bae9e811fd33cdcc49fc06a464d47f4d8.svg",
-    "notes/note-646.md",
-    "notes/note-143.md",
-    "notes/GRAMÁTICA/questões erradas de português.md",
     "Pasted image 20240528153058.png",
     "my-configuration-files/backup/cfs/cfs-b_1-2_2015.pdf",
     "my-configuration-files/backup/cfs/cfs-b_1-2_2015.pdf.crdownload",
