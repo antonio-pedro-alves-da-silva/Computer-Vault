@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-476.md",
+                "file": "notes/note-653.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-476.md",
+                "file": "notes/note-653.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-476.md",
+                "file": "notes/note-653.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-476.md"
+                "file": "notes/note-653.md"
               }
             }
           },
@@ -185,10 +185,15 @@
   },
   "active": "42d6731a8781fb8a",
   "lastOpenFiles": [
+    "notes/note-654.md",
+    "notes/note-655.md",
+    "notes/note-653.md",
+    "notes/note-657.md",
+    "notes/note-656.md",
+    "notes/note-476.md",
+    "my-configuration-files/backup/cfs/cfs-b_1-2_10_2013.pdf",
     "my-configuration-files/backup/cfs/cfs-b_1-2_2013.pdf",
     "my-configuration-files/backup/cfs/cfs-b_1-2_2013.pdf.crdownload",
-    "notes/note-653.md",
-    "notes/note-476.md",
     "MATÉRIAS/EEAR.md",
     "notes/note-651.md",
     "notes/note-542.md",
@@ -216,15 +221,10 @@
     "notes/note-646.md",
     "notes/note-143.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
-    "notes/note-644.md",
-    "notes/GRAMÁTICA/diferença entre adjunto adnominal e complemento nominal.md",
-    "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
     "Pasted image 20240528153058.png",
     "my-configuration-files/backup/cfs/cfs-b_1-2_2015.pdf",
     "my-configuration-files/backup/cfs/cfs-b_1-2_2015.pdf.crdownload",
     "my-configuration-files/backup/cfs/cfs-b_1_07_2016.pdf",
-    "my-configuration-files/backup/cfs/cfs-b_1_07_2016.pdf.crdownload",
-    "my-configuration-files/backup/cfs/cfs_1_33_2021.pdf",
     "Pasted image 20240519163843.png",
     "Pasted image 20240519163839.png",
     "Pasted image 20240519163834.png",
