@@ -20,31 +20,31 @@
             }
           },
           {
-            "id": "27b1bff583bc015e",
+            "id": "d1f744e6aa312eec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "notes/note-542.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ca50910019fb5d7a",
+            "id": "c340d8c4f46890a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-650.md",
+                "file": "notes/note-651.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "notes/note-651.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "notes/note-651.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+                "file": "notes/note-651.md"
               }
             }
           },
@@ -195,11 +195,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "27b1bff583bc015e",
+  "active": "c340d8c4f46890a6",
   "lastOpenFiles": [
-    "notes/note-650.md",
-    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "notes/note-542.md",
+    "notes/note-651.md",
     "MATÉRIAS/EEAR.md",
+    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "notes/note-650.md",
+    "images/print_screen_212.png",
     "notes/note-175.md",
     "notes/note-476.md",
     "notes/note-649.md",
@@ -209,7 +212,6 @@
     "notes/note-645.md",
     "notes/FÍSICA/ELETRICIDADE.md",
     "notes/FÍSICA/HIDROESTÁTICA.md",
-    "notes/note-542.md",
     "images/print_screen_691.png",
     "notes/note-546.md",
     "notes/note-648.md",
@@ -226,7 +228,6 @@
     "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "notes/note-40.md",
     "notes/note-32.md",
-    "notes/note-639.md",
     "Pasted image 20240528153058.png",
     "my-configuration-files/backup/cfs/cfs-b_1-2_2015.pdf",
     "my-configuration-files/backup/cfs/cfs-b_1-2_2015.pdf.crdownload",
@@ -242,7 +243,6 @@
     "Pasted image 20240519163727.png",
     "Pasted image 20240519163722.png",
     "Pasted image 20240519163609.png",
-    "Pasted image 20240518191509.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
