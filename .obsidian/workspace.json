@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "756fa2b38c8cd82a",
+            "id": "42d6731a8781fb8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md",
+                "file": "notes/note-476.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md",
+                "file": "notes/note-476.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md",
+                "file": "notes/note-476.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md"
+                "file": "notes/note-476.md"
               }
             }
           },
@@ -183,28 +183,31 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "756fa2b38c8cd82a",
+  "active": "42d6731a8781fb8a",
   "lastOpenFiles": [
+    "my-configuration-files/backup/cfs/cfs-b_1-2_2013.pdf",
+    "my-configuration-files/backup/cfs/cfs-b_1-2_2013.pdf.crdownload",
+    "notes/note-653.md",
+    "notes/note-476.md",
     "MATÉRIAS/EEAR.md",
+    "notes/note-651.md",
+    "notes/note-542.md",
+    "notes/note-650.md",
+    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "notes/FÍSICA/ELETRICIDADE.md",
     "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "notes/note-641.md",
     "notes/note-652.md",
-    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-546.md",
-    "notes/note-542.md",
     "my-configuration-files/backup/cfs/cfs_2_41_2021.pdf",
     "my-configuration-files/backup/cfs/cfs_2_41_2021.pdf.crdownload",
-    "notes/note-651.md",
-    "notes/note-650.md",
     "images/print_screen_212.png",
     "notes/note-175.md",
-    "notes/note-476.md",
     "notes/note-649.md",
     "notes/note-643.md",
     "my-configuration-files/backup/cfs/cfs-b_1-2_12_2014.pdf",
     "my-configuration-files/backup/cfs/cfs-b_1-2_12_2014.pdf.crdownload",
     "notes/note-645.md",
-    "notes/FÍSICA/ELETRICIDADE.md",
     "notes/FÍSICA/HIDROESTÁTICA.md",
     "images/print_screen_691.png",
     "notes/note-648.md",
@@ -216,15 +219,12 @@
     "notes/note-644.md",
     "notes/GRAMÁTICA/diferença entre adjunto adnominal e complemento nominal.md",
     "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
-    "notes/note-642.md",
-    "notes/note-40.md",
     "Pasted image 20240528153058.png",
     "my-configuration-files/backup/cfs/cfs-b_1-2_2015.pdf",
     "my-configuration-files/backup/cfs/cfs-b_1-2_2015.pdf.crdownload",
     "my-configuration-files/backup/cfs/cfs-b_1_07_2016.pdf",
     "my-configuration-files/backup/cfs/cfs-b_1_07_2016.pdf.crdownload",
     "my-configuration-files/backup/cfs/cfs_1_33_2021.pdf",
-    "my-configuration-files/backup/cfs/cfs-b_13_2017.pdf",
     "Pasted image 20240519163843.png",
     "Pasted image 20240519163839.png",
     "Pasted image 20240519163834.png",
