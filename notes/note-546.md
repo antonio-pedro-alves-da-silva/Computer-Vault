@@ -1,8 +1,9 @@
-dtrbs
+
 Modelos atômicos
 	[[note-548|John dalton]]
 	[[note-549|J.J Thomson]]
 	[[note-550|Ernest Rutherford]]
+		[[note-652|experimento de rutherford]]
 	[[note-551|Niels Bohr]]
 	[[note-553|Erwin schrödinger]]
 radiotividade

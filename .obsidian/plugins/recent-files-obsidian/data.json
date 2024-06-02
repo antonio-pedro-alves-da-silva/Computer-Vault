@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "note-652",
+      "path": "notes/note-652.md"
+    },
+    {
+      "basename": "note-546",
+      "path": "notes/note-546.md"
+    },
+    {
+      "basename": "EEAR",
+      "path": "MATÉRIAS/EEAR.md"
+    },
+    {
       "basename": "note-542",
       "path": "notes/note-542.md"
     },
     {
       "basename": "note-651",
       "path": "notes/note-651.md"
-    },
-    {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
     },
     {
       "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
@@ -51,10 +59,6 @@
     {
       "basename": "HIDROESTÁTICA",
       "path": "notes/FÍSICA/HIDROESTÁTICA.md"
-    },
-    {
-      "basename": "note-546",
-      "path": "notes/note-546.md"
     },
     {
       "basename": "note-648",
@@ -195,10 +199,6 @@
     {
       "basename": "note-303",
       "path": "notes/note-303.md"
-    },
-    {
-      "basename": "note-631",
-      "path": "notes/note-631.md"
     }
   ],
   "omittedPaths": [],
