@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "0f21b1a8c9456de5",
+            "id": "2a18f1c0a92df9de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md"
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
               }
             }
           },
@@ -183,11 +183,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0f21b1a8c9456de5",
+  "active": "2a18f1c0a92df9de",
   "lastOpenFiles": [
-    "notes/note-665.md",
-    "notes/GRAMÁTICA/questões erradas de português.md",
     "MATÉRIAS/EEAR.md",
+    "notes/GRAMÁTICA/questões erradas de português.md",
+    "notes/note-665.md",
+    "notes/note-143.md",
+    "notes/TEXTO/uso da virgula correto.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "my-configuration-files/backup/cfs/cfs-b_1-2_10_2015.pdf",
     "notes/note-664.md",
@@ -213,7 +215,6 @@
     "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "notes/note-641.md",
     "notes/note-652.md",
-    "notes/note-546.md",
     "my-configuration-files/backup/cfs/cfs_2_41_2021.pdf",
     "my-configuration-files/backup/cfs/cfs_2_41_2021.pdf.crdownload",
     "images/print_screen_212.png",

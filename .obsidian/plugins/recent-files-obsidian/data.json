@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
+      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+    },
+    {
+      "basename": "EEAR",
+      "path": "MATÉRIAS/EEAR.md"
+    },
+    {
       "basename": "questões erradas de português",
       "path": "notes/GRAMÁTICA/questões erradas de português.md"
     },
@@ -9,12 +17,12 @@
       "path": "notes/note-665.md"
     },
     {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
+      "basename": "note-143",
+      "path": "notes/note-143.md"
     },
     {
-      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
-      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+      "basename": "uso da virgula correto",
+      "path": "notes/TEXTO/uso da virgula correto.md"
     },
     {
       "basename": "note-664",
@@ -137,10 +145,6 @@
       "path": "notes/note-646.md"
     },
     {
-      "basename": "note-143",
-      "path": "notes/note-143.md"
-    },
-    {
       "basename": "note-644",
       "path": "notes/note-644.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "TRIGONOMETRIA",
       "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md"
-    },
-    {
-      "basename": "note-623",
-      "path": "notes/note-623.md"
     }
   ],
   "omittedPaths": [],
