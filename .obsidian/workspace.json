@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "file": "notes/note-586.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e9e88c0b1daf027",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-667.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "barômetro",
+                "query": "homôni",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "file": "notes/note-667.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "file": "notes/note-667.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md"
+                "file": "notes/note-667.md"
               }
             }
           },
@@ -183,8 +195,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e37e21b918f2f3e4",
+  "active": "4e9e88c0b1daf027",
   "lastOpenFiles": [
+    "notes/note-586.md",
+    "notes/note-671.md",
+    "notes/note-667.md",
+    "notes/note-670.md",
+    "notes/note-669.md",
+    "notes/note-668.md",
+    "Pasted image 20240518191509.png",
     "MATÉRIAS/EEAR.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-666.md",
@@ -206,15 +225,9 @@
     "notes/note-654.md",
     "notes/note-655.md",
     "notes/note-657.md",
-    "notes/note-656.md",
     "my-configuration-files/backup/cfs/cfs-b_1-2_10_2013.pdf",
     "my-configuration-files/backup/cfs/cfs-b_1-2_2013.pdf",
     "my-configuration-files/backup/cfs/cfs-b_1-2_2013.pdf.crdownload",
-    "notes/note-651.md",
-    "notes/note-542.md",
-    "notes/FÍSICA/ELETRICIDADE.md",
-    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
-    "notes/note-641.md",
     "my-configuration-files/backup/cfs/cfs_2_41_2021.pdf",
     "my-configuration-files/backup/cfs/cfs_2_41_2021.pdf.crdownload",
     "images/print_screen_212.png",
@@ -230,7 +243,6 @@
     "Pasted image 20240519163834.png",
     "Pasted image 20240519163727.png",
     "Pasted image 20240519163722.png",
-    "Pasted image 20240519163609.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
