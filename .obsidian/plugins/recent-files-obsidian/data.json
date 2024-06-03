@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "note-665",
+      "path": "notes/note-665.md"
+    },
+    {
+      "basename": "questões erradas de português",
+      "path": "notes/GRAMÁTICA/questões erradas de português.md"
+    },
+    {
+      "basename": "EEAR",
+      "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
+      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+    },
+    {
+      "basename": "note-664",
+      "path": "notes/note-664.md"
+    },
+    {
+      "basename": "note-650",
+      "path": "notes/note-650.md"
+    },
+    {
       "basename": "note-476",
       "path": "notes/note-476.md"
     },
     {
       "basename": "note-653",
       "path": "notes/note-653.md"
-    },
-    {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
     },
     {
       "basename": "note-658",
@@ -59,14 +79,6 @@
     {
       "basename": "note-542",
       "path": "notes/note-542.md"
-    },
-    {
-      "basename": "note-650",
-      "path": "notes/note-650.md"
-    },
-    {
-      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
-      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
     },
     {
       "basename": "ELETRICIDADE",
@@ -129,10 +141,6 @@
       "path": "notes/note-143.md"
     },
     {
-      "basename": "questões erradas de português",
-      "path": "notes/GRAMÁTICA/questões erradas de português.md"
-    },
-    {
       "basename": "note-644",
       "path": "notes/note-644.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "note-623",
       "path": "notes/note-623.md"
-    },
-    {
-      "basename": "TERMOLOGIA",
-      "path": "notes/FÍSICA/TERMOLOGIA.md"
-    },
-    {
-      "basename": "note-638",
-      "path": "notes/note-638.md"
     }
   ],
   "omittedPaths": [],
