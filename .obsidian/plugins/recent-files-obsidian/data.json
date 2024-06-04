@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "note-542",
+      "path": "notes/note-542.md"
+    },
+    {
+      "basename": "note-674",
+      "path": "notes/note-674.md"
+    },
+    {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
     },
@@ -125,10 +133,6 @@
       "path": "notes/note-651.md"
     },
     {
-      "basename": "note-542",
-      "path": "notes/note-542.md"
-    },
-    {
       "basename": "ELETRICIDADE",
       "path": "notes/FÍSICA/ELETRICIDADE.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Polígonos",
       "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md"
-    },
-    {
-      "basename": "note-642",
-      "path": "notes/note-642.md"
     }
   ],
   "omittedPaths": [],
