@@ -20,31 +20,31 @@
             }
           },
           {
-            "id": "1a639dedc0146dcf",
+            "id": "cb06f5c10546cd60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "edcad9943ab6a509",
+            "id": "4a116df428c23516",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-666.md",
+                "file": "notes/note-672.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-666.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-666.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-666.md"
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
               }
             }
           },
@@ -195,10 +195,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "edcad9943ab6a509",
+  "active": "cb06f5c10546cd60",
   "lastOpenFiles": [
-    "notes/GRAMÁTICA/questões erradas de português.md",
+    "notes/note-672.md",
+    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "notes/note-664.md",
     "MATÉRIAS/EEAR.md",
+    "notes/GRAMÁTICA/questões erradas de português.md",
+    "notes/note-143.md",
+    "notes/note-666.md",
     "notes/note-586.md",
     "notes/note-667.md",
     "notes/note-671.md",
@@ -206,13 +211,9 @@
     "notes/note-669.md",
     "notes/note-668.md",
     "Pasted image 20240518191509.png",
-    "notes/note-666.md",
-    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-665.md",
-    "notes/note-143.md",
     "notes/TEXTO/uso da virgula correto.md",
     "my-configuration-files/backup/cfs/cfs-b_1-2_10_2015.pdf",
-    "notes/note-664.md",
     "notes/note-650.md",
     "notes/note-476.md",
     "notes/note-653.md",
@@ -224,7 +225,6 @@
     "notes/note-659.md",
     "notes/note-654.md",
     "notes/note-655.md",
-    "notes/note-657.md",
     "my-configuration-files/backup/cfs/cfs-b_1-2_10_2013.pdf",
     "my-configuration-files/backup/cfs/cfs-b_1-2_2013.pdf",
     "my-configuration-files/backup/cfs/cfs-b_1-2_2013.pdf.crdownload",
