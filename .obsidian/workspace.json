@@ -20,24 +20,24 @@
             }
           },
           {
-            "id": "e37e21b918f2f3e4",
+            "id": "1a639dedc0146dcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-586.md",
+                "file": "notes/GRAMÁTICA/questões erradas de português.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4e9e88c0b1daf027",
+            "id": "edcad9943ab6a509",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-667.md",
+                "file": "notes/note-666.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-667.md",
+                "file": "notes/note-666.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-667.md",
+                "file": "notes/note-666.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-667.md"
+                "file": "notes/note-666.md"
               }
             }
           },
@@ -195,17 +195,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4e9e88c0b1daf027",
+  "active": "edcad9943ab6a509",
   "lastOpenFiles": [
+    "notes/GRAMÁTICA/questões erradas de português.md",
+    "MATÉRIAS/EEAR.md",
     "notes/note-586.md",
-    "notes/note-671.md",
     "notes/note-667.md",
+    "notes/note-671.md",
     "notes/note-670.md",
     "notes/note-669.md",
     "notes/note-668.md",
     "Pasted image 20240518191509.png",
-    "MATÉRIAS/EEAR.md",
-    "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-666.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-665.md",
