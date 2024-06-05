@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "note-678",
+      "path": "notes/note-678.md"
+    },
+    {
+      "basename": "questões erradas de português",
+      "path": "notes/GRAMÁTICA/questões erradas de português.md"
+    },
+    {
+      "basename": "EEAR",
+      "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "note-143",
+      "path": "notes/note-143.md"
+    },
+    {
       "basename": "note-175",
       "path": "notes/note-175.md"
     },
@@ -11,10 +27,6 @@
     {
       "basename": "note-676",
       "path": "notes/note-676.md"
-    },
-    {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
     },
     {
       "basename": "note-476",
@@ -57,10 +69,6 @@
       "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
     },
     {
-      "basename": "questões erradas de português",
-      "path": "notes/GRAMÁTICA/questões erradas de português.md"
-    },
-    {
       "basename": "note-673",
       "path": "notes/note-673.md"
     },
@@ -71,10 +79,6 @@
     {
       "basename": "note-664",
       "path": "notes/note-664.md"
-    },
-    {
-      "basename": "note-143",
-      "path": "notes/note-143.md"
     },
     {
       "basename": "note-666",
@@ -195,10 +199,6 @@
     {
       "basename": "HIDROESTÁTICA",
       "path": "notes/FÍSICA/HIDROESTÁTICA.md"
-    },
-    {
-      "basename": "note-648",
-      "path": "notes/note-648.md"
     }
   ],
   "omittedPaths": [],
