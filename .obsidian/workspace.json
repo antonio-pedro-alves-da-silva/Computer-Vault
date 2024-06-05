@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c24820449aa00ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-674.md",
+                "file": "notes/note-175.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-674.md",
+                "file": "notes/note-175.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-674.md",
+                "file": "notes/note-175.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-674.md"
+                "file": "notes/note-175.md"
               }
             }
           },
@@ -182,18 +169,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5c24820449aa00ac",
+  "active": "f792a1964736fe35",
   "lastOpenFiles": [
+    "notes/note-676.md",
+    "Pasted image 20240604221822.png",
+    "notes/note-175.md",
     "MATÉRIAS/EEAR.md",
+    "notes/note-476.md",
+    "notes/note-675.md",
+    "notes/note-542.md",
+    "notes/note-674.md",
     "notes/FÍSICA/ELETRICIDADE.md",
     "notes/note-21.md",
     "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "notes/FÍSICA/GRAVITAÇÃO.md",
     "notes/note-546.md",
-    "notes/note-542.md",
     "images/print_screen_692.png",
     "images/print_screen_692.png.crdownload",
-    "notes/note-674.md",
     "my-configuration-files/backup/cfs/cfs_2_21_2020.pdf",
     "my-configuration-files/backup/cfs/cfs_2_21_2020.pdf.crdownload",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
@@ -210,12 +202,7 @@
     "notes/note-669.md",
     "notes/note-668.md",
     "Pasted image 20240518191509.png",
-    "notes/note-665.md",
-    "notes/TEXTO/uso da virgula correto.md",
     "my-configuration-files/backup/cfs/cfs-b_1-2_10_2015.pdf",
-    "notes/note-650.md",
-    "notes/note-476.md",
-    "notes/note-653.md",
     "my-configuration-files/backup/cfs/cfs-b_1-2_10_2013.pdf",
     "my-configuration-files/backup/cfs/cfs-b_1-2_2013.pdf",
     "my-configuration-files/backup/cfs/cfs-b_1-2_2013.pdf.crdownload",
@@ -229,7 +216,6 @@
     "Pasted image 20240519163843.png",
     "Pasted image 20240519163839.png",
     "Pasted image 20240519163834.png",
-    "Pasted image 20240519163727.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
