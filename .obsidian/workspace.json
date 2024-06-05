@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "992e2e5bda124e22",
+            "id": "5c24820449aa00ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-542.md",
+                "file": "notes/note-674.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-542.md",
+                "file": "notes/note-674.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-542.md",
+                "file": "notes/note-674.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-542.md"
+                "file": "notes/note-674.md"
               }
             }
           },
@@ -182,15 +182,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "992e2e5bda124e22",
+  "active": "5c24820449aa00ac",
   "lastOpenFiles": [
+    "MATÉRIAS/EEAR.md",
+    "notes/FÍSICA/ELETRICIDADE.md",
+    "notes/note-21.md",
+    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
+    "notes/FÍSICA/GRAVITAÇÃO.md",
+    "notes/note-546.md",
+    "notes/note-542.md",
     "images/print_screen_692.png",
     "images/print_screen_692.png.crdownload",
     "notes/note-674.md",
-    "notes/note-542.md",
     "my-configuration-files/backup/cfs/cfs_2_21_2020.pdf",
     "my-configuration-files/backup/cfs/cfs_2_21_2020.pdf.crdownload",
-    "MATÉRIAS/EEAR.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-673.md",
@@ -211,10 +216,6 @@
     "notes/note-650.md",
     "notes/note-476.md",
     "notes/note-653.md",
-    "notes/note-658.md",
-    "notes/note-663.md",
-    "notes/note-662.md",
-    "notes/note-661.md",
     "my-configuration-files/backup/cfs/cfs-b_1-2_10_2013.pdf",
     "my-configuration-files/backup/cfs/cfs-b_1-2_2013.pdf",
     "my-configuration-files/backup/cfs/cfs-b_1-2_2013.pdf.crdownload",
@@ -229,7 +230,6 @@
     "Pasted image 20240519163839.png",
     "Pasted image 20240519163834.png",
     "Pasted image 20240519163727.png",
-    "Pasted image 20240519163722.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
