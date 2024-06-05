@@ -1,0 +1,3 @@
+to [travel](https://dictionary.cambridge.org/dictionary/english/travel "travel") [regularly](https://dictionary.cambridge.org/dictionary/english/regularly "regularly") a [distance](https://dictionary.cambridge.org/dictionary/english/distance "distance") between [work](https://dictionary.cambridge.org/dictionary/english/work "work") and [home](https://dictionary.cambridge.org/dictionary/english/home "home")
+
+to travel regularly a distance between work and home
