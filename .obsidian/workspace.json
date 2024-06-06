@@ -20,19 +20,31 @@
             }
           },
           {
-            "id": "191e469efd143f96",
+            "id": "5f465c2138087095",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-542.md",
+                "file": "notes/note-476.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2963b05c12900281",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-681.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-542.md",
+                "file": "notes/note-681.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-542.md",
+                "file": "notes/note-681.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-542.md"
+                "file": "notes/note-681.md"
               }
             }
           },
@@ -182,12 +194,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "191e469efd143f96",
+  "active": "2963b05c12900281",
   "lastOpenFiles": [
-    "notes/note-680.md",
-    "notes/note-542.md",
-    "MATÉRIAS/EEAR.md",
     "notes/note-476.md",
+    "notes/note-681.md",
+    "MATÉRIAS/EEAR.md",
+    "notes/note-542.md",
+    "notes/note-680.md",
     "my-configuration-files/backup/cfs/cfs_2_11_2018.pdf",
     "my-configuration-files/backup/cfs/cfs_2_11_2018.pdf.crdownload",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
