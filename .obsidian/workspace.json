@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "85716557dd0dc016",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-682.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "file": "notes/note-682.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "file": "notes/note-682.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md"
+                "file": "notes/note-682.md"
               }
             }
           },
@@ -182,13 +194,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d993b7726c756b72",
+  "active": "85716557dd0dc016",
   "lastOpenFiles": [
+    "notes/GRAMÁTICA/questões erradas de português.md",
     "MATÉRIAS/EEAR.md",
     "notes/note-682.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-684.md",
-    "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-476.md",
     "notes/note-681.md",
     "notes/note-175.md",
