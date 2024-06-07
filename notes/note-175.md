@@ -123,3 +123,10 @@ the first space shuttle.
 a rich landowner
 my homestay family
 up side down/overturned
+seldom
+
+so.
+but
+thus
+therefore
+
