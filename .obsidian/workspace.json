@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d993b7726c756b72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "notes/GRAMÁTICA/questões erradas de português.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "notes/GRAMÁTICA/questões erradas de português.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATÉRIAS/EEAR.md"
+                "file": "notes/GRAMÁTICA/questões erradas de português.md"
               }
             }
           },
@@ -169,13 +182,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "722e1b3f13896288",
+  "active": "d993b7726c756b72",
   "lastOpenFiles": [
+    "MATÉRIAS/EEAR.md",
+    "notes/note-682.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-684.md",
-    "MATÉRIAS/EEAR.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
-    "notes/note-682.md",
     "notes/note-476.md",
     "notes/note-681.md",
     "notes/note-175.md",
