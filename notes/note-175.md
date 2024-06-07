@@ -1,13 +1,5 @@
 
 
-Corruption Scandal
-had bribed executives
-has halted payments on many projects.
-will probably shave 0.75 percent off growth of the nation’s economy
-
-the first space shuttle.
-
-
 | English                                                                                                  | Portuguese                                                                                              |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
 | Mattress                                                                                                 | Colchão                                                                                                 |
@@ -120,3 +112,13 @@ the first space shuttle.
 | Bribed      | Subornou             |
 | Halted      | Interrompeu          |
 | Shave off   | Reduzir              |
+
+Corruption Scandal
+had bribed executives
+has halted payments on many projects.
+will probably shave 0.75 percent off growth of the nation’s economy
+
+the first space shuttle.
+
+a rich landowner
+my homestay family
