@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-175.md",
+                "file": "notes/note-476.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-175.md",
+                "file": "notes/note-476.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-175.md"
+                "file": "notes/note-476.md"
               }
             }
           },
@@ -195,8 +195,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1c59584e1811e8fa",
+  "active": "5a2708f89ecde22b",
   "lastOpenFiles": [
+    "notes/note-175.md",
     "MATÉRIAS/EEAR.md",
     "notes/note-476.md",
     "notes/note-686.md",
@@ -210,7 +211,6 @@
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-684.md",
     "notes/note-681.md",
-    "notes/note-175.md",
     "notes/note-680.md",
     "my-configuration-files/backup/cfs/cfs_2_11_2018.pdf",
     "my-configuration-files/backup/cfs/cfs_2_11_2018.pdf.crdownload",
