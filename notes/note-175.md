@@ -129,8 +129,8 @@
 | thus                                                                | assim                                                             |
 | therefore                                                           | portanto                                                          |
 | Climate breakdown                                                   | Colapso climático                                                 |
-| affect elderly                                                      | afeta os idosos                                                   |
-| underlying                                                          | subjacente                                                        |
+| affect **elderly**                                                  | afeta os **idosos**                                               |
+| **underlying**                                                      | **subjacente**                                                    |
 | ongoing issues                                                      | questões em andamento                                             |
 | arisen                                                              | surgido                                                           |
 | vehicle--yanked                                                     | veículo--arrancado                                                |
@@ -146,4 +146,3 @@
 | booked my ticket                                                    | reservei meu bilhete                                              |
 | They were crying to break out of the jar...                         | Eles estavam chorando para sair do pote...                        |
 
-4o
