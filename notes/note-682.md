@@ -8,5 +8,5 @@
 18)b
 19)d
 21)c
-23)a
+23)[[regência verbal|regência verbal]]
 24)b
