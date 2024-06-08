@@ -20,31 +20,31 @@
             }
           },
           {
-            "id": "d993b7726c756b72",
+            "id": "5a2708f89ecde22b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "notes/note-476.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c758d60e8f83aa3b",
+            "id": "26d7d62a9b5efe04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-542.md",
+                "file": "notes/note-686.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "notes/note-686.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "notes/note-686.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATÉRIAS/EEAR.md"
+                "file": "notes/note-686.md"
               }
             }
           },
@@ -195,19 +195,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d993b7726c756b72",
+  "active": "26d7d62a9b5efe04",
   "lastOpenFiles": [
+    "notes/note-476.md",
+    "notes/note-686.md",
+    "MATÉRIAS/EEAR.md",
     "notes/note-542.md",
     "notes/note-685.md",
     "my-configuration-files/backup/cfs/cfs_2_65_2017.pdf",
     "my-configuration-files/backup/cfs/cfs_2_65_2017.pdf.crdownload",
-    "MATÉRIAS/EEAR.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-682.md",
     "notes/GRAMÁTICA/regência verbal.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-684.md",
-    "notes/note-476.md",
     "notes/note-681.md",
     "notes/note-175.md",
     "notes/note-680.md",
