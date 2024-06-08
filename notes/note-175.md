@@ -75,7 +75,7 @@
 | Self-worth against objective standards                                                                   | Autoestima contra padrões objetivos                                                                     |
 | 47 days adrift in a raft                                                                                 | 47 dias à deriva em uma jangada                                                                         |
 | Discovered she had                                                                                       | Descobriu que tinha                                                                                     |
-| Tapeworm larvae                                                                                          | Larvas de tênias                                                                                        |
+| Tapeworm and larvae                                                                                      | tênias e larvas                                                                                         |
 | Prescribed *migraine* medication                                                                         | Medicamento prescrito para **enxaqueca**                                                                |
 | **Unearthed** in Egypt                                                                                   | **Desenterrado** no Egito                                                                               |
 | Were **entombed**                                                                                        | Foram **enterrados**                                                                                    |
@@ -90,7 +90,7 @@
 | Dogs and wolves present features that make many scientists think that dogs came from wolves              | Cães e lobos apresentam características que fazem muitos cientistas pensar que os cães vieram dos lobos |
 | A watchdog can stop a creature that is five to six times bigger                                          | Um cão de guarda pode parar uma criatura que é cinco a seis vezes maior                                 |
 | Well-educated dogs when in danger are always tame                                                        | Cães bem-educados quando em perigo estão sempre dóceis                                                  |
-| Powerhouse of the lower abs                                                                              | Potência dos músculos abdominais inferiores                                                             |
+| Powerhouse                                                                                               | Potência                                                                                                |
 | I was **jogging**                                                                                        | Eu estava **correndo**                                                                                  |
 | Is a number cruncher by day, while involving himself in seedier activities at night                      | É um calculador durante o dia, enquanto se envolve em atividades mais sórdidas à noite                  |
 | Tidy handwriting                                                                                         | Letra legível                                                                                           |
@@ -113,32 +113,37 @@
 | Halted      | Interrompeu          |
 | Shave off   | Reduzir              |
 
-Corruption Scandal
-had bribed executives
-has halted payments on many projects.
-will probably shave 0.75 percent off growth of the nation’s economy
+| Inglês                                                              | Português                                                         |
+| ------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| Corruption Scandal                                                  | Escândalo de Corrupção                                            |
+| had **bribed** executives                                           | havia **subornado** executivos                                    |
+| has **halted** payments on many projects                            | **suspendeu** os pagamentos em muitos projetos                    |
+| will probably shave 0.75 percent off growth of the nation’s economy | provavelmente reduzirá em 0,75% o crescimento da economia do país |
+| **space shuttle**                                                   | o primeiro **ônibus espacial**                                    |
+| **landowner**                                                       | um rico **proprietário de terras**                                |
+| my **homestay** family                                              | minha família **anfitriã**                                        |
+| up side down/overturned                                             | de cabeça para baixo/virado                                       |
+| seldom                                                              | raramente                                                         |
+| so.                                                                 | então.                                                            |
+| but                                                                 | mas                                                               |
+| thus                                                                | assim                                                             |
+| therefore                                                           | portanto                                                          |
+| Climate breakdown                                                   | Colapso climático                                                 |
+| affect elderly                                                      | afeta os idosos                                                   |
+| underlying                                                          | subjacente                                                        |
+| ongoing issues                                                      | questões em andamento                                             |
+| arisen                                                              | surgido                                                           |
+| vehicle--yanked                                                     | veículo--arrancado                                                |
+| roster                                                              | lista/plantel                                                     |
+| rotated out to make way for new ones                                | rotacionados para abrir espaço para novos                         |
+| thereby                                                             | assim/com isso                                                    |
+| steadily                                                            | constantemente                                                    |
+| rolled out new content                                              | lançado novo conteúdo                                             |
+| throughout                                                          | ao longo de                                                       |
+| “ever-growing” vocabulary.                                          | vocabulário “em constante crescimento”.                           |
+| whilst at the same time                                             | ao mesmo tempo                                                    |
+| seeping into foreign languages.                                     | infiltrando-se em línguas estrangeiras.                           |
+| booked my ticket                                                    | reservei meu bilhete                                              |
+| They were crying to break out of the jar...                         | Eles estavam chorando para sair do pote...                        |
 
-the first space shuttle.
-
-a rich landowner
-my homestay family
-up side down/overturned
-seldom
-
-so.
-but
-thus
-therefore
-
-Climate breakdown
-affect elderly
-underlying
-ongoing issues
-arisen
-vehicle--yanked
-roster
-rotated out to make way for new ones
-thereby
-steadily
-rolled out new content
-throughout
+4o
