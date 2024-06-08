@@ -130,3 +130,14 @@ but
 thus
 therefore
 
+Climate breakdown
+affect elderly
+underlying
+ongoing issues
+arisen
+vehicle--yanked
+roster
+rotated out to make way for new ones
+thereby
+steadily
+rolled out new content

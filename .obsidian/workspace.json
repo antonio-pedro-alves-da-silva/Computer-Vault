@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "1c59584e1811e8fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-175.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5a2708f89ecde22b",
             "type": "leaf",
             "state": {
@@ -30,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "26d7d62a9b5efe04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-686.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-686.md",
+                "file": "notes/note-175.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-686.md",
+                "file": "notes/note-175.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-686.md"
+                "file": "notes/note-175.md"
               }
             }
           },
@@ -195,11 +195,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "26d7d62a9b5efe04",
+  "active": "1c59584e1811e8fa",
   "lastOpenFiles": [
+    "MATÉRIAS/EEAR.md",
     "notes/note-476.md",
     "notes/note-686.md",
-    "MATÉRIAS/EEAR.md",
     "notes/note-542.md",
     "notes/note-685.md",
     "my-configuration-files/backup/cfs/cfs_2_65_2017.pdf",
