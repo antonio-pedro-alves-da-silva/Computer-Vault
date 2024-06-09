@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "notes/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,9 +30,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a92469d1205b793c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-688.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "notes/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "notes/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+                "file": "notes/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md"
               }
             }
           },
@@ -183,9 +194,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d6517a80a7fd8017",
+  "active": "722e1b3f13896288",
   "lastOpenFiles": [
+    "images/print_screen_220.png",
+    "notes/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
     "MATÉRIAS/EEAR.md",
+    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "notes/note-688.md",
     "notes/note-542.md",
     "notes/note-687.md",
     "my-configuration-files/backup/cfs/cfs-b_2_2016.pdf",
@@ -199,7 +214,6 @@
     "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-682.md",
     "notes/GRAMÁTICA/regência verbal.md",
-    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-684.md",
     "notes/note-681.md",
     "notes/note-680.md",
@@ -215,8 +229,6 @@
     "notes/note-674.md",
     "notes/FÍSICA/ELETRICIDADE.md",
     "notes/note-21.md",
-    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
-    "notes/FÍSICA/GRAVITAÇÃO.md",
     "images/print_screen_692.png",
     "images/print_screen_692.png.crdownload",
     "my-configuration-files/backup/cfs/cfs_2_21_2020.pdf",
