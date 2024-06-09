@@ -20,36 +20,24 @@
             }
           },
           {
-            "id": "d90f008da64a968d",
+            "id": "d84a76339033b177",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/MATEMÁTICA/ÁLGEBRA III/Polinômios/Polinômios.md",
+                "file": "notes/note-476.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d6517a80a7fd8017",
+            "id": "9e1e9dd22e07d479",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a92469d1205b793c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-688.md",
+                "file": "notes/note-689.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/MATEMÁTICA/ÁLGEBRA III/Polinômios/Polinômios.md",
+                "file": "notes/note-476.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/MATEMÁTICA/ÁLGEBRA III/Polinômios/Polinômios.md",
+                "file": "notes/note-476.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/MATEMÁTICA/ÁLGEBRA III/Polinômios/Polinômios.md"
+                "file": "notes/note-476.md"
               }
             }
           },
@@ -207,22 +195,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d90f008da64a968d",
+  "active": "d84a76339033b177",
   "lastOpenFiles": [
-    "MATÉRIAS/EEAR.md",
-    "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md",
-    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-689.md",
+    "notes/note-476.md",
+    "MATÉRIAS/EEAR.md",
+    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "notes/note-688.md",
+    "notes/note-542.md",
+    "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
+    "notes/MATEMÁTICA/ÁLGEBRA III/Polinômios/Polinômios.md",
+    "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md",
     "images/print_screen_693.png",
     "notes/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
-    "notes/note-688.md",
     "images/print_screen_220.png",
-    "notes/note-542.md",
     "notes/note-687.md",
     "my-configuration-files/backup/cfs/cfs-b_2_2016.pdf",
     "my-configuration-files/backup/cfs/cfs-b_2_2016.pdf.crdownload",
     "notes/note-175.md",
-    "notes/note-476.md",
     "notes/note-686.md",
     "notes/note-685.md",
     "my-configuration-files/backup/cfs/cfs_2_65_2017.pdf",
@@ -242,7 +232,6 @@
     "notes/note-676.md",
     "Pasted image 20240604221822.png",
     "notes/note-675.md",
-    "notes/note-674.md",
     "images/print_screen_692.png",
     "images/print_screen_692.png.crdownload",
     "my-configuration-files/backup/cfs/cfs_2_21_2020.pdf",
