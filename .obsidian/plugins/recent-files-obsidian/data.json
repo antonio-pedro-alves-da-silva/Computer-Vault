@@ -1,24 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "GEOMETRIA ESPACIAL",
-      "path": "notes/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md"
-    },
-    {
-      "basename": "print_screen_220",
-      "path": "images/print_screen_220.png"
+      "basename": "Matrizes",
+      "path": "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md"
     },
     {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
     },
     {
-      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
-      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+      "basename": "GEOMETRIA ESPACIAL",
+      "path": "notes/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md"
     },
     {
       "basename": "note-688",
       "path": "notes/note-688.md"
+    },
+    {
+      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
+      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+    },
+    {
+      "basename": "print_screen_220",
+      "path": "images/print_screen_220.png"
     },
     {
       "basename": "note-542",
@@ -191,14 +195,6 @@
     {
       "basename": "note-661",
       "path": "notes/note-661.md"
-    },
-    {
-      "basename": "note-660",
-      "path": "notes/note-660.md"
-    },
-    {
-      "basename": "note-659",
-      "path": "notes/note-659.md"
     }
   ],
   "omittedPaths": [],
