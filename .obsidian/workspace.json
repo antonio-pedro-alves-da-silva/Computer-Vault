@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "d84a76339033b177",
+            "id": "f41c3fb6fb0c5fb5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-476.md",
+                "file": "notes/note-542.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-476.md",
+                "file": "notes/note-542.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-476.md",
+                "file": "notes/note-542.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-476.md"
+                "file": "notes/note-542.md"
               }
             }
           },
@@ -183,11 +183,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d84a76339033b177",
+  "active": "f41c3fb6fb0c5fb5",
   "lastOpenFiles": [
-    "notes/note-689.md",
-    "notes/note-476.md",
     "MATÉRIAS/EEAR.md",
+    "notes/note-476.md",
+    "notes/note-689.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-688.md",
     "notes/note-542.md",
