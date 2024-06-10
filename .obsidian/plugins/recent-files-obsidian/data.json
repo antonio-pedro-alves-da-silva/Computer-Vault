@@ -5,8 +5,16 @@
       "path": "notes/note-690.md"
     },
     {
+      "basename": "note-691",
+      "path": "notes/note-691.md"
+    },
+    {
       "basename": "note-542",
       "path": "notes/note-542.md"
+    },
+    {
+      "basename": "TERMOLOGIA",
+      "path": "notes/FÍSICA/TERMOLOGIA.md"
     },
     {
       "basename": "EEAR",
@@ -191,14 +199,6 @@
     {
       "basename": "uso da virgula correto",
       "path": "notes/TEXTO/uso da virgula correto.md"
-    },
-    {
-      "basename": "note-650",
-      "path": "notes/note-650.md"
-    },
-    {
-      "basename": "note-653",
-      "path": "notes/note-653.md"
     }
   ],
   "omittedPaths": [],

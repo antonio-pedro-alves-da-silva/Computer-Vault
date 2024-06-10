@@ -38,6 +38,7 @@ termologia
 			**ADIABÁTICA** - Transformação adiabática é uma transformação termodinâmica em que não há troca de calor com o ambiente , onde nada é constante
 		[[note-99|equação geral dos gases]]
 			[[note-385|o que é necessário para usar essa equação ?]]
+			[exemplo de aplicação](https://www.qconcursos.com/questoes-militares/questoes/4da53045-42?from_omniauth=true&provider=google_oauth2)
 		[[Pasted image 20231216091346.png|equação de clapeyron]]
 		trabalho de um gás nas transformações gasosas
 			[[print_screen_472.png|variação de volume]]

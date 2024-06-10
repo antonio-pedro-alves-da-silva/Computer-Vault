@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "28c9a697aaf406bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/FÍSICA/TERMOLOGIA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e372925d918cf663",
             "type": "leaf",
             "state": {
@@ -32,7 +44,7 @@
             }
           },
           {
-            "id": "7ef42af6d2782e75",
+            "id": "80d5f7f0056ef298",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8d8c44c3795a9997",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-691.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -195,12 +219,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7ef42af6d2782e75",
+  "active": "80d5f7f0056ef298",
   "lastOpenFiles": [
+    "notes/note-691.md",
+    "notes/note-690.md",
     "notes/note-542.md",
+    "notes/FÍSICA/TERMOLOGIA.md",
     "MATÉRIAS/EEAR.md",
     "notes/FÍSICA/HIDROESTÁTICA.md",
-    "notes/note-690.md",
     "notes/note-687.md",
     "notes/note-476.md",
     "notes/note-689.md",
@@ -229,8 +255,6 @@
     "my-configuration-files/backup/cfs/cfs_2_11_2018.pdf.crdownload",
     "notes/note-679.md",
     "notes/note-678.md",
-    "notes/note-143.md",
-    "notes/note-677.md",
     "Pasted image 20240604221822.png",
     "images/print_screen_692.png",
     "images/print_screen_692.png.crdownload",
