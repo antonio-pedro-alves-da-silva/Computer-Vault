@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "note-692",
+      "path": "notes/note-692.md"
+    },
+    {
+      "basename": "note-476",
+      "path": "notes/note-476.md"
+    },
+    {
+      "basename": "EEAR",
+      "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "TERMOLOGIA",
+      "path": "notes/FÍSICA/TERMOLOGIA.md"
+    },
+    {
+      "basename": "note-542",
+      "path": "notes/note-542.md"
+    },
+    {
       "basename": "note-690",
       "path": "notes/note-690.md"
     },
@@ -9,28 +29,12 @@
       "path": "notes/note-691.md"
     },
     {
-      "basename": "note-542",
-      "path": "notes/note-542.md"
-    },
-    {
-      "basename": "TERMOLOGIA",
-      "path": "notes/FÍSICA/TERMOLOGIA.md"
-    },
-    {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
-    },
-    {
       "basename": "HIDROESTÁTICA",
       "path": "notes/FÍSICA/HIDROESTÁTICA.md"
     },
     {
       "basename": "note-687",
       "path": "notes/note-687.md"
-    },
-    {
-      "basename": "note-476",
-      "path": "notes/note-476.md"
     },
     {
       "basename": "note-689",
@@ -195,10 +199,6 @@
     {
       "basename": "note-665",
       "path": "notes/note-665.md"
-    },
-    {
-      "basename": "uso da virgula correto",
-      "path": "notes/TEXTO/uso da virgula correto.md"
     }
   ],
   "omittedPaths": [],
