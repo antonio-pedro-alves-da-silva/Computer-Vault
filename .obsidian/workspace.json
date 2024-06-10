@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bd68fdff503f4335",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-690.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-542.md",
+                "file": "notes/note-690.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-542.md",
+                "file": "notes/note-690.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-542.md"
+                "file": "notes/note-690.md"
               }
             }
           },
@@ -183,21 +195,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f41c3fb6fb0c5fb5",
+  "active": "bd68fdff503f4335",
   "lastOpenFiles": [
+    "notes/note-542.md",
+    "notes/note-690.md",
+    "notes/note-687.md",
     "MATÉRIAS/EEAR.md",
     "notes/note-476.md",
     "notes/note-689.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-688.md",
-    "notes/note-542.md",
     "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
     "notes/MATEMÁTICA/ÁLGEBRA III/Polinômios/Polinômios.md",
     "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md",
     "images/print_screen_693.png",
     "notes/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
     "images/print_screen_220.png",
-    "notes/note-687.md",
     "my-configuration-files/backup/cfs/cfs-b_2_2016.pdf",
     "my-configuration-files/backup/cfs/cfs-b_2_2016.pdf.crdownload",
     "notes/note-175.md",
@@ -219,7 +232,6 @@
     "notes/note-677.md",
     "notes/note-676.md",
     "Pasted image 20240604221822.png",
-    "notes/note-675.md",
     "images/print_screen_692.png",
     "images/print_screen_692.png.crdownload",
     "my-configuration-files/backup/cfs/cfs_2_21_2020.pdf",

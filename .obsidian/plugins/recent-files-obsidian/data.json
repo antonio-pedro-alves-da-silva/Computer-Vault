@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "note-690",
+      "path": "notes/note-690.md"
+    },
+    {
       "basename": "note-542",
       "path": "notes/note-542.md"
+    },
+    {
+      "basename": "note-687",
+      "path": "notes/note-687.md"
     },
     {
       "basename": "EEAR",
@@ -43,10 +51,6 @@
     {
       "basename": "print_screen_220",
       "path": "images/print_screen_220.png"
-    },
-    {
-      "basename": "note-687",
-      "path": "notes/note-687.md"
     },
     {
       "basename": "note-175",
@@ -195,10 +199,6 @@
     {
       "basename": "note-658",
       "path": "notes/note-658.md"
-    },
-    {
-      "basename": "note-663",
-      "path": "notes/note-663.md"
     }
   ],
   "omittedPaths": [],
