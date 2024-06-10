@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "HIDROESTÁTICA",
+      "path": "notes/FÍSICA/HIDROESTÁTICA.md"
+    },
+    {
+      "basename": "EEAR",
+      "path": "MATÉRIAS/EEAR.md"
+    },
+    {
       "basename": "note-542",
       "path": "notes/note-542.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "note-687",
       "path": "notes/note-687.md"
-    },
-    {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
     },
     {
       "basename": "note-476",
@@ -195,10 +199,6 @@
     {
       "basename": "note-653",
       "path": "notes/note-653.md"
-    },
-    {
-      "basename": "note-658",
-      "path": "notes/note-658.md"
     }
   ],
   "omittedPaths": [],
