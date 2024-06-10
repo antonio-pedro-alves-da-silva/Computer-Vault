@@ -20,19 +20,31 @@
             }
           },
           {
-            "id": "5f6e43b797f22595",
+            "id": "e372925d918cf663",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/HIDROESTÁTICA.md",
+                "file": "notes/note-542.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ef42af6d2782e75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-690.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/HIDROESTÁTICA.md",
+                "file": "notes/note-690.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/HIDROESTÁTICA.md",
+                "file": "notes/note-690.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/HIDROESTÁTICA.md"
+                "file": "notes/note-690.md"
               }
             }
           },
@@ -183,10 +195,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5f6e43b797f22595",
+  "active": "7ef42af6d2782e75",
   "lastOpenFiles": [
-    "MATÉRIAS/EEAR.md",
     "notes/note-542.md",
+    "MATÉRIAS/EEAR.md",
+    "notes/FÍSICA/HIDROESTÁTICA.md",
     "notes/note-690.md",
     "notes/note-687.md",
     "notes/note-476.md",
@@ -218,7 +231,6 @@
     "notes/note-678.md",
     "notes/note-143.md",
     "notes/note-677.md",
-    "notes/note-676.md",
     "Pasted image 20240604221822.png",
     "images/print_screen_692.png",
     "images/print_screen_692.png.crdownload",
