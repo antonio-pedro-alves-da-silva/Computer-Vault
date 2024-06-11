@@ -20,31 +20,31 @@
             }
           },
           {
-            "id": "948900c4ced459bd",
+            "id": "6c48134295dc45a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-476.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "71ba670aa1f6660f",
+            "id": "43e30506be10a5db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-692.md",
+                "file": "notes/note-693.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-692.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-692.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-692.md"
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
               }
             }
           },
@@ -195,11 +195,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "71ba670aa1f6660f",
+  "active": "6c48134295dc45a2",
   "lastOpenFiles": [
+    "notes/note-693.md",
+    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "MATÉRIAS/EEAR.md",
     "notes/note-476.md",
     "notes/note-692.md",
-    "MATÉRIAS/EEAR.md",
     "notes/FÍSICA/TERMOLOGIA.md",
     "notes/note-542.md",
     "notes/note-690.md",
@@ -207,7 +209,6 @@
     "notes/FÍSICA/HIDROESTÁTICA.md",
     "notes/note-687.md",
     "notes/note-689.md",
-    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-688.md",
     "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
     "notes/MATEMÁTICA/ÁLGEBRA III/Polinômios/Polinômios.md",
@@ -230,7 +231,6 @@
     "notes/note-680.md",
     "my-configuration-files/backup/cfs/cfs_2_11_2018.pdf",
     "my-configuration-files/backup/cfs/cfs_2_11_2018.pdf.crdownload",
-    "notes/note-679.md",
     "Pasted image 20240604221822.png",
     "images/print_screen_692.png",
     "images/print_screen_692.png.crdownload",
