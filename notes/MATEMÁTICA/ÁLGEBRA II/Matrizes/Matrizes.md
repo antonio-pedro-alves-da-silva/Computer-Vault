@@ -4,3 +4,4 @@
 [[note-456|regra da multiplicação de matrizes]]
 [[print_screen_243.png|discussão e classificação de um sistema 2x2]] e [[print_screen_244.png|disscussão e classificação de um 3x3]]
 [[print_screen_693.png|Determinante de 2a]]
+
