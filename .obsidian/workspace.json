@@ -20,31 +20,31 @@
             }
           },
           {
-            "id": "6c48134295dc45a2",
+            "id": "06e1ef930debeb31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "notes/GRAMÁTICA/questões erradas de português.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "965c7f197db0708c",
+            "id": "cf663971cf5fa048",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-693.md",
+                "file": "notes/note-694.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-693.md",
+                "file": "notes/GRAMÁTICA/questões erradas de português.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-693.md",
+                "file": "notes/GRAMÁTICA/questões erradas de português.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-693.md"
+                "file": "notes/GRAMÁTICA/questões erradas de português.md"
               }
             }
           },
@@ -195,12 +195,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "965c7f197db0708c",
+  "active": "06e1ef930debeb31",
   "lastOpenFiles": [
+    "notes/note-694.md",
+    "notes/GRAMÁTICA/questões erradas de português.md",
+    "MATÉRIAS/EEAR.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-693.md",
     "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md",
-    "MATÉRIAS/EEAR.md",
     "notes/note-476.md",
     "notes/note-692.md",
     "notes/FÍSICA/TERMOLOGIA.md",
@@ -223,12 +225,10 @@
     "notes/note-685.md",
     "my-configuration-files/backup/cfs/cfs_2_65_2017.pdf",
     "my-configuration-files/backup/cfs/cfs_2_65_2017.pdf.crdownload",
-    "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-682.md",
     "notes/GRAMÁTICA/regência verbal.md",
     "notes/note-684.md",
     "notes/note-681.md",
-    "notes/note-680.md",
     "my-configuration-files/backup/cfs/cfs_2_11_2018.pdf",
     "my-configuration-files/backup/cfs/cfs_2_11_2018.pdf.crdownload",
     "Pasted image 20240604221822.png",
