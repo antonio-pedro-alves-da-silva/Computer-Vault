@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md",
+                "file": "MATÉRIAS/EEAR.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "965c7f197db0708c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-693.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md",
+                "file": "notes/note-693.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md",
+                "file": "notes/note-693.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md"
+                "file": "notes/note-693.md"
               }
             }
           },
@@ -182,11 +195,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "722e1b3f13896288",
+  "active": "965c7f197db0708c",
   "lastOpenFiles": [
-    "MATÉRIAS/EEAR.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-693.md",
+    "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md",
+    "MATÉRIAS/EEAR.md",
     "notes/note-476.md",
     "notes/note-692.md",
     "notes/FÍSICA/TERMOLOGIA.md",
@@ -199,7 +213,6 @@
     "notes/note-688.md",
     "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
     "notes/MATEMÁTICA/ÁLGEBRA III/Polinômios/Polinômios.md",
-    "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md",
     "images/print_screen_693.png",
     "notes/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
     "images/print_screen_220.png",
