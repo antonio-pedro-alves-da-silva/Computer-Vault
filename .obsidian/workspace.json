@@ -20,6 +20,42 @@
             }
           },
           {
+            "id": "e3e91cea1e86409f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23104589dcbe560a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-542.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad3f3fbb0c36bb7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-645.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c7c53be2eda7323b",
             "type": "leaf",
             "state": {
@@ -108,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
+                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
+                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md"
+                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
               }
             }
           },
@@ -183,13 +219,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c7c53be2eda7323b",
+  "active": "e3e91cea1e86409f",
   "lastOpenFiles": [
-    "notes/note-45.md",
-    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
-    "notes/note-542.md",
-    "notes/note-645.md",
     "MATÉRIAS/EEAR.md",
+    "notes/note-645.md",
+    "notes/note-542.md",
+    "notes/note-613.md",
+    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
+    "notes/note-45.md",
     "notes/note-651.md",
     "notes/note-674.md",
     "notes/note-680.md",
@@ -211,7 +248,6 @@
     "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
     "notes/MATEMÁTICA/ÁLGEBRA III/Polinômios/Polinômios.md",
     "images/print_screen_693.png",
-    "notes/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
     "images/print_screen_220.png",
     "my-configuration-files/backup/cfs/cfs-b_2_2016.pdf",
     "my-configuration-files/backup/cfs/cfs-b_2_2016.pdf.crdownload",
