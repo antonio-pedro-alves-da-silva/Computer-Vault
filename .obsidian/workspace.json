@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "78a820d6e6afb757",
+            "id": "1d80f7ba77a24c81",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "4c7d48bfdb2c110a",
+            "id": "46283df4f768f6fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-685.md",
+                "file": "notes/note-680.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-685.md",
+                "file": "notes/note-680.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-685.md",
+                "file": "notes/note-680.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-685.md"
+                "file": "notes/note-680.md"
               }
             }
           },
@@ -195,12 +195,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4c7d48bfdb2c110a",
+  "active": "46283df4f768f6fd",
   "lastOpenFiles": [
     "notes/note-542.md",
-    "notes/note-685.md",
-    "notes/note-687.md",
     "MATÉRIAS/EEAR.md",
+    "notes/note-685.md",
+    "notes/note-680.md",
+    "notes/note-687.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-694.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
@@ -228,7 +229,6 @@
     "notes/note-682.md",
     "notes/GRAMÁTICA/regência verbal.md",
     "notes/note-684.md",
-    "notes/note-681.md",
     "my-configuration-files/backup/cfs/cfs_2_11_2018.pdf",
     "my-configuration-files/backup/cfs/cfs_2_11_2018.pdf.crdownload",
     "Pasted image 20240604221822.png",
