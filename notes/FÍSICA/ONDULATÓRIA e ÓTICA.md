@@ -110,7 +110,7 @@ ondulatória
 		[[print_screen_420.png|ordenadas e abscissas]]
 		[[Pasted image 20240122181909.png|equação dos pontos conjugados]]
 		[[note-334|aumento linear transversal]]
-		[[note-45|convenções de sinais das ordenadas e abscissas]]
+		[[note-45|convenções de sinais das ordenadas e abscissas em espelhos esféricos]]
 	lentes esféricas
 		[[Pasted image 20240123101808.png|tipos de lentes esféricas]]
 		[[Pasted image 20240123102359.png|lentes convergentes e lentes divergentes]]
