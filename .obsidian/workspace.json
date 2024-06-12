@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "46283df4f768f6fd",
+            "id": "ef8c7f39a46bf92c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-680.md",
+                "file": "notes/note-674.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-680.md",
+                "file": "notes/note-674.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-680.md",
+                "file": "notes/note-674.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-680.md"
+                "file": "notes/note-674.md"
               }
             }
           },
@@ -195,12 +195,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "46283df4f768f6fd",
+  "active": "ef8c7f39a46bf92c",
   "lastOpenFiles": [
     "notes/note-542.md",
+    "notes/note-674.md",
+    "notes/note-680.md",
     "MATÉRIAS/EEAR.md",
     "notes/note-685.md",
-    "notes/note-680.md",
     "notes/note-687.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-694.md",
@@ -228,7 +229,6 @@
     "my-configuration-files/backup/cfs/cfs_2_65_2017.pdf.crdownload",
     "notes/note-682.md",
     "notes/GRAMÁTICA/regência verbal.md",
-    "notes/note-684.md",
     "my-configuration-files/backup/cfs/cfs_2_11_2018.pdf",
     "my-configuration-files/backup/cfs/cfs_2_11_2018.pdf.crdownload",
     "Pasted image 20240604221822.png",
