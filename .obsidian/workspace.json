@@ -20,31 +20,31 @@
             }
           },
           {
-            "id": "06e1ef930debeb31",
+            "id": "78a820d6e6afb757",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "file": "notes/note-542.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cf663971cf5fa048",
+            "id": "d580f84fe8f6f278",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-694.md",
+                "file": "notes/note-687.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "file": "notes/note-687.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "file": "notes/note-687.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md"
+                "file": "notes/note-687.md"
               }
             }
           },
@@ -195,22 +195,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "06e1ef930debeb31",
+  "active": "d580f84fe8f6f278",
   "lastOpenFiles": [
-    "notes/note-694.md",
-    "notes/GRAMÁTICA/questões erradas de português.md",
+    "notes/note-542.md",
+    "notes/note-687.md",
     "MATÉRIAS/EEAR.md",
+    "notes/GRAMÁTICA/questões erradas de português.md",
+    "notes/note-694.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-693.md",
     "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md",
     "notes/note-476.md",
     "notes/note-692.md",
     "notes/FÍSICA/TERMOLOGIA.md",
-    "notes/note-542.md",
     "notes/note-690.md",
     "notes/note-691.md",
     "notes/FÍSICA/HIDROESTÁTICA.md",
-    "notes/note-687.md",
     "notes/note-689.md",
     "notes/note-688.md",
     "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
