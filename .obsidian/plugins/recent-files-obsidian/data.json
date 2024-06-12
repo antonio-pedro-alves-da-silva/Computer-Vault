@@ -9,16 +9,20 @@
       "path": "notes/note-542.md"
     },
     {
+      "basename": "EEAR",
+      "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "ELETRICIDADE",
+      "path": "notes/FÍSICA/ELETRICIDADE.md"
+    },
+    {
       "basename": "note-645",
       "path": "notes/note-645.md"
     },
     {
       "basename": "ONDULATÓRIA e ÓTICA",
       "path": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md"
-    },
-    {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
     },
     {
       "basename": "CINEMÁTICA",
@@ -167,10 +171,6 @@
     {
       "basename": "note-675",
       "path": "notes/note-675.md"
-    },
-    {
-      "basename": "ELETRICIDADE",
-      "path": "notes/FÍSICA/ELETRICIDADE.md"
     },
     {
       "basename": "note-21",
