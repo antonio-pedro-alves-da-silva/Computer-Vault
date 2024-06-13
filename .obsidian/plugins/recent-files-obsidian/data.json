@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "cfs_2_21_2020",
+      "path": "notes/cfs_2_21_2020.md"
+    },
+    {
       "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
       "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "note-664",
       "path": "notes/note-664.md"
-    },
-    {
-      "basename": "note-666",
-      "path": "notes/note-666.md"
     }
   ],
   "omittedPaths": [],

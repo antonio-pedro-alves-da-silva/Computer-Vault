@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "45146d45a9b0422c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/cfs_2_21_2020.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "notes/cfs_2_21_2020.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "notes/cfs_2_21_2020.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+                "file": "notes/cfs_2_21_2020.md"
               }
             }
           },
@@ -183,8 +195,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f4cc7ca5e7679a69",
+  "active": "45146d45a9b0422c",
   "lastOpenFiles": [
+    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "notes/cfs_2_21_2020.md",
     "MATÉRIAS/EEAR.md",
     "notes/note-542.md",
     "notes/note-639.md",
@@ -201,7 +215,6 @@
     "notes/note-687.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-694.md",
-    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-693.md",
     "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md",
     "notes/note-476.md",
@@ -210,7 +223,6 @@
     "notes/note-690.md",
     "notes/note-691.md",
     "notes/FÍSICA/HIDROESTÁTICA.md",
-    "notes/note-689.md",
     "images/print_screen_693.png",
     "images/print_screen_220.png",
     "my-configuration-files/backup/cfs/cfs-b_2_2016.pdf",
