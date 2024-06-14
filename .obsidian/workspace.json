@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "00909f7d8416c7c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "48b02caf51db8b72",
             "type": "leaf",
             "state": {
@@ -32,19 +44,19 @@
             }
           },
           {
-            "id": "abbf4c18cf5a28fa",
+            "id": "e422f7ae12acc4ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/HIDROESTÁTICA.md",
+                "file": "notes/note-690.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.51103591918945
+    "width": 323.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "ee4e8bcf9413ed0e",
@@ -119,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/HIDROESTÁTICA.md",
+                "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/HIDROESTÁTICA.md",
+                "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/HIDROESTÁTICA.md"
+                "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md"
               }
             }
           },
@@ -194,11 +207,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "abbf4c18cf5a28fa",
+  "active": "00909f7d8416c7c2",
   "lastOpenFiles": [
+    "MATÉRIAS/EEAR.md",
     "notes/note-690.md",
     "notes/note-542.md",
-    "MATÉRIAS/EEAR.md",
+    "notes/FÍSICA/HIDROESTÁTICA.md",
     "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "notes/note-639.md",
     "notes/note-40.md",
@@ -221,7 +235,6 @@
     "notes/note-685.md",
     "notes/note-687.md",
     "notes/note-694.md",
-    "notes/note-693.md",
     "images/print_screen_693.png",
     "images/print_screen_220.png",
     "my-configuration-files/backup/cfs/cfs-b_2_2016.pdf",

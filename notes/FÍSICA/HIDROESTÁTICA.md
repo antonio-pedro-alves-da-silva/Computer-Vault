@@ -31,4 +31,3 @@ exercícios de hidroestática errados
 	[13](https://www.qconcursos.com/questoes-militares/questoes/f363b5bf-a0)(aprendi([[note-208|a como calcular a pressão de três líquidos imiscíveis  no fundo do cilindro]]))
 
 
-B
