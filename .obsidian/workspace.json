@@ -20,24 +20,36 @@
             }
           },
           {
-            "id": "7ed83823dd1cdfd6",
+            "id": "c26af3b2f5288fb3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "notes/note-542.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "934dfffdbe1c8b4d",
+            "id": "ea2ce1407ccdd708",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-696.md",
+                "file": "notes/note-639.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e1623faa98ec660",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-639.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-696.md",
+                "file": "notes/note-639.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-696.md",
+                "file": "notes/note-639.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-696.md"
+                "file": "notes/note-639.md"
               }
             }
           },
@@ -195,17 +207,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "934dfffdbe1c8b4d",
+  "active": "ea2ce1407ccdd708",
   "lastOpenFiles": [
+    "notes/note-542.md",
+    "notes/note-639.md",
+    "MATÉRIAS/EEAR.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-696.md",
-    "MATÉRIAS/EEAR.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-695.md",
     "notes/cfs_2_21_2020.md",
     "notes/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md",
-    "notes/note-542.md",
-    "notes/note-639.md",
     "notes/FÍSICA/ELETRICIDADE.md",
     "notes/note-645.md",
     "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
