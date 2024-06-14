@@ -5,4 +5,6 @@
 | **volume**      | **J**          | [[note-394\|+]] | [[note-395\|-]] | [[note-396\|=0]] |
 
 [[note-698|isobárica]]
+[[note-699|isovolumétrica]]
+[[note-700|isotérmico]]
 

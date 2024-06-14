@@ -20,31 +20,19 @@
             }
           },
           {
-            "id": "b74b9f3e29c48a9a",
+            "id": "de23596e4e97a159",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/TERMOLOGIA.md",
+                "file": "notes/note-542.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1a296312b4a11d92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-387.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63cb95ac783475bb",
+            "id": "888c53a27ca571ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -85,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "empuxo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-387.md",
+                "file": "notes/note-635.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-387.md",
+                "file": "notes/note-635.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-387.md"
+                "file": "notes/note-635.md"
               }
             }
           },
@@ -207,15 +195,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1a296312b4a11d92",
+  "active": "888c53a27ca571ca",
   "lastOpenFiles": [
-    "notes/note-698.md",
-    "notes/note-387.md",
-    "notes/FÍSICA/TERMOLOGIA.md",
-    "notes/note-635.md",
-    "MATÉRIAS/EEAR.md",
-    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "notes/note-542.md",
+    "MATÉRIAS/EEAR.md",
+    "notes/FÍSICA/TERMOLOGIA.md",
+    "notes/note-387.md",
+    "notes/note-700.md",
+    "notes/note-699.md",
+    "notes/note-698.md",
+    "notes/note-635.md",
+    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "notes/note-690.md",
     "notes/note-697.md",
     "Pasted image 20240614131854.png",
@@ -234,8 +224,6 @@
     "notes/note-645.md",
     "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
     "notes/note-613.md",
-    "notes/note-45.md",
-    "notes/note-651.md",
     "images/print_screen_693.png",
     "images/print_screen_220.png",
     "my-configuration-files/backup/cfs/cfs-b_2_2016.pdf",
