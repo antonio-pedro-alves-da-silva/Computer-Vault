@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "ea2ce1407ccdd708",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-639.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6e1623faa98ec660",
             "type": "leaf",
             "state": {
@@ -55,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "trigono",
+                "query": "doppler",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-639.md",
+                "file": "MATÉRIAS/EEAR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-639.md",
+                "file": "MATÉRIAS/EEAR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-639.md"
+                "file": "MATÉRIAS/EEAR.md"
               }
             }
           },
@@ -207,13 +194,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ea2ce1407ccdd708",
+  "active": "722e1b3f13896288",
   "lastOpenFiles": [
-    "notes/note-542.md",
-    "MATÉRIAS/EEAR.md",
     "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
-    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "notes/note-40.md",
+    "MATÉRIAS/EEAR.md",
+    "notes/note-542.md",
+    "notes/note-32.md",
     "notes/note-639.md",
+    "notes/note-75.md",
+    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-696.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-695.md",
@@ -232,9 +222,6 @@
     "notes/note-694.md",
     "notes/note-693.md",
     "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md",
-    "notes/note-476.md",
-    "notes/note-692.md",
-    "notes/FÍSICA/TERMOLOGIA.md",
     "images/print_screen_693.png",
     "images/print_screen_220.png",
     "my-configuration-files/backup/cfs/cfs-b_2_2016.pdf",
