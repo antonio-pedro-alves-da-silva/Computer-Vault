@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "c26af3b2f5288fb3",
+            "id": "48b02caf51db8b72",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,18 +32,19 @@
             }
           },
           {
-            "id": "6e1623faa98ec660",
+            "id": "abbf4c18cf5a28fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-639.md",
+                "file": "notes/FÍSICA/HIDROESTÁTICA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -72,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "doppler",
+                "query": "empuxo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.51103591918945,
-    "collapsed": true
+    "width": 323.51103591918945
   },
   "right": {
     "id": "ee4e8bcf9413ed0e",
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "notes/FÍSICA/HIDROESTÁTICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "notes/FÍSICA/HIDROESTÁTICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATÉRIAS/EEAR.md"
+                "file": "notes/FÍSICA/HIDROESTÁTICA.md"
               }
             }
           },
@@ -194,14 +194,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "722e1b3f13896288",
+  "active": "abbf4c18cf5a28fa",
   "lastOpenFiles": [
-    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
-    "notes/note-40.md",
-    "MATÉRIAS/EEAR.md",
+    "notes/note-690.md",
     "notes/note-542.md",
-    "notes/note-32.md",
+    "MATÉRIAS/EEAR.md",
+    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "notes/note-639.md",
+    "notes/note-40.md",
+    "notes/note-32.md",
     "notes/note-75.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-696.md",
@@ -221,7 +222,6 @@
     "notes/note-687.md",
     "notes/note-694.md",
     "notes/note-693.md",
-    "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md",
     "images/print_screen_693.png",
     "images/print_screen_220.png",
     "my-configuration-files/backup/cfs/cfs-b_2_2016.pdf",
