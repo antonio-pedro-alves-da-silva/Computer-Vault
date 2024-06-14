@@ -9,12 +9,16 @@
       "path": "notes/note-476.md"
     },
     {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
-    },
-    {
       "basename": "note-542",
       "path": "notes/note-542.md"
+    },
+    {
+      "basename": "note-658",
+      "path": "notes/note-658.md"
+    },
+    {
+      "basename": "EEAR",
+      "path": "MATÉRIAS/EEAR.md"
     },
     {
       "basename": "note-635",
@@ -195,10 +199,6 @@
     {
       "basename": "regência verbal",
       "path": "notes/GRAMÁTICA/regência verbal.md"
-    },
-    {
-      "basename": "note-684",
-      "path": "notes/note-684.md"
     }
   ],
   "omittedPaths": [],

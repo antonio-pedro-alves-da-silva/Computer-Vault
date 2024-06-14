@@ -42,18 +42,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d2c6a5ae85002113",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-542.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 2
@@ -211,8 +199,9 @@
   "lastOpenFiles": [
     "notes/note-476.md",
     "notes/note-701.md",
-    "MATÉRIAS/EEAR.md",
     "notes/note-542.md",
+    "notes/note-658.md",
+    "MATÉRIAS/EEAR.md",
     "notes/note-635.md",
     "notes/FÍSICA/ELETRICIDADE.md",
     "notes/FÍSICA/TERMOLOGIA.md",
@@ -235,7 +224,6 @@
     "notes/note-695.md",
     "notes/cfs_2_21_2020.md",
     "notes/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md",
-    "notes/note-645.md",
     "images/print_screen_693.png",
     "images/print_screen_220.png",
     "my-configuration-files/backup/cfs/cfs-b_2_2016.pdf",
