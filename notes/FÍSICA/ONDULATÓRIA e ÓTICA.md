@@ -144,6 +144,7 @@ ondulatória
 			$D=2d$
 	    [[note-48|rotação de um espelho plano]]
 		[[note-66|número de imagens gerada de um objeto entre dois espelhos]]
+	[[note-697|câmara escura]]
 	instrumentos ópticos
 		microscópio composto ou luneta astronômica
 			[[note-600|construção geométrica]]
