@@ -20,24 +20,36 @@
             }
           },
           {
-            "id": "de23596e4e97a159",
+            "id": "947802250edc9686",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-542.md",
+                "file": "notes/note-476.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "888c53a27ca571ca",
+            "id": "8f6985175f3075d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-635.md",
+                "file": "notes/note-701.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2c6a5ae85002113",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-542.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-635.md",
+                "file": "notes/note-701.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-635.md",
+                "file": "notes/note-701.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-635.md"
+                "file": "notes/note-701.md"
               }
             }
           },
@@ -195,16 +207,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "888c53a27ca571ca",
+  "active": "8f6985175f3075d7",
   "lastOpenFiles": [
-    "notes/note-542.md",
+    "notes/note-476.md",
+    "notes/note-701.md",
     "MATÉRIAS/EEAR.md",
+    "notes/note-542.md",
+    "notes/note-635.md",
+    "notes/FÍSICA/ELETRICIDADE.md",
     "notes/FÍSICA/TERMOLOGIA.md",
     "notes/note-387.md",
     "notes/note-700.md",
     "notes/note-699.md",
     "notes/note-698.md",
-    "notes/note-635.md",
     "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "notes/note-690.md",
     "notes/note-697.md",
@@ -220,10 +235,7 @@
     "notes/note-695.md",
     "notes/cfs_2_21_2020.md",
     "notes/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md",
-    "notes/FÍSICA/ELETRICIDADE.md",
     "notes/note-645.md",
-    "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
-    "notes/note-613.md",
     "images/print_screen_693.png",
     "images/print_screen_220.png",
     "my-configuration-files/backup/cfs/cfs-b_2_2016.pdf",

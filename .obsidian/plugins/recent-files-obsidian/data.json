@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "note-635",
-      "path": "notes/note-635.md"
+      "basename": "note-701",
+      "path": "notes/note-701.md"
+    },
+    {
+      "basename": "note-476",
+      "path": "notes/note-476.md"
+    },
+    {
+      "basename": "EEAR",
+      "path": "MATÉRIAS/EEAR.md"
     },
     {
       "basename": "note-542",
       "path": "notes/note-542.md"
     },
     {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
+      "basename": "note-635",
+      "path": "notes/note-635.md"
+    },
+    {
+      "basename": "ELETRICIDADE",
+      "path": "notes/FÍSICA/ELETRICIDADE.md"
     },
     {
       "basename": "TERMOLOGIA",
@@ -89,10 +101,6 @@
       "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md"
     },
     {
-      "basename": "ELETRICIDADE",
-      "path": "notes/FÍSICA/ELETRICIDADE.md"
-    },
-    {
       "basename": "note-645",
       "path": "notes/note-645.md"
     },
@@ -139,10 +147,6 @@
     {
       "basename": "Matrizes",
       "path": "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md"
-    },
-    {
-      "basename": "note-476",
-      "path": "notes/note-476.md"
     },
     {
       "basename": "note-692",
@@ -195,10 +199,6 @@
     {
       "basename": "note-684",
       "path": "notes/note-684.md"
-    },
-    {
-      "basename": "note-681",
-      "path": "notes/note-681.md"
     }
   ],
   "omittedPaths": [],
