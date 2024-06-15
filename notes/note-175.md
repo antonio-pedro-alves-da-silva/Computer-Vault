@@ -27,7 +27,7 @@
 | Tarnished                                                                                                | Manchado                                                                                                |
 | Pearl in the vastness of space                                                                           | Pérola na vastidão do espaço                                                                            |
 | **Portholes**                                                                                            | **Escotilhas**                                                                                          |
-| Has an arresting view of global warming's                                                                | Tem uma visão impactante do aquecimento global                                                          |
+| Has an arresting view of global<br>warming's                                                             | Tem uma visão impactante do aquecimento global                                                          |
 | **Clinginess**                                                                                           | **Pegajosidade**                                                                                        |
 | You shout it out                                                                                         | Você grita isso                                                                                         |
 | Fire away                                                                                                | Atire                                                                                                   |
@@ -36,7 +36,7 @@
 | But I've come through                                                                                    | Mas eu superei                                                                                          |
 | I've taken my bows                                                                                       | Eu tenho minhas reverências                                                                             |
 | Curtain                                                                                                  | Cortina                                                                                                 |
-| [[note-676\|Curtain call]]                                                                               | Chamada de emergência                                                                                   |
+| [[note-676\|Curtain call]]                                                                               | Chamada ao palco                                                                                        |
 | No pleasure cruise                                                                                       | Nenhuma viagem prazerosa                                                                                |
 | Pearl                                                                                                    | Pérola                                                                                                  |
 | Harbor or Harbour                                                                                        | Porto                                                                                                   |
@@ -51,7 +51,7 @@
 | Current turnover stands at over $6 billion                                                               | O faturamento atual ultrapassa US $6 bilhões                                                            |
 | Still fall $750 million short of Bond at the box office                                                  | Ainda fica US $750 milhões abaixo de Bond na bilheteria                                                 |
 | Not including merchandising                                                                              | Não incluindo merchandising                                                                             |
-| He’s a bestselling brand                                                                                 | Ele é uma marca de sucesso                                                                              |
+| He’s a **bestselling** brand                                                                             | Ele é uma marca de sucesso                                                                              |
 | Fleming novels on which to base the films, the series goes on and on.                                    | Romances de Fleming nos quais basear os filmes, a série continua sem parar                              |
 | “Shaken not stirred”                                                                                     | "Mexido, não batido"                                                                                    |
 | With so much money at stake                                                                              | Com tanto dinheiro em jogo                                                                              |
@@ -71,7 +71,7 @@
 | Jenny really [[note-649\|takes after]] her mother                                                        | Jenny realmente se parece com sua mãe                                                                   |
 | Has also been streamed 57                                                                                | Também foi transmitido 57                                                                               |
 | To reduce stigma surrounding                                                                             | Para reduzir o estigma em torno de                                                                      |
-| In their survey of 642 college freshmen                                                                  | Em sua pesquisa com 642 calouros universitários                                                         |
+| In their survey of 642 college **freshmen**                                                              | Em sua pesquisa com 642 **calouros universitários**                                                     |
 | Self-worth against objective standards                                                                   | Autoestima contra padrões objetivos                                                                     |
 | 47 days adrift in a raft                                                                                 | 47 dias à deriva em uma jangada                                                                         |
 | Discovered she had                                                                                       | Descobriu que tinha                                                                                     |
@@ -92,7 +92,7 @@
 | Well-educated dogs when in danger are always tame                                                        | Cães bem-educados quando em perigo estão sempre dóceis                                                  |
 | Powerhouse                                                                                               | Potência                                                                                                |
 | I was **jogging**                                                                                        | Eu estava **correndo**                                                                                  |
-| Is a number cruncher by day, while involving himself in seedier activities at night                      | É um calculador durante o dia, enquanto se envolve em atividades mais sórdidas à noite                  |
+| Is a **number cruncher** by day, while involving himself in seedier activities at night                  | É um calculador durante o dia, enquanto se envolve em atividades mais sórdidas à noite                  |
 | Tidy handwriting                                                                                         | Letra legível                                                                                           |
 | **Call on** some friends                                                                                 | **Chame** alguns amigos                                                                                 |
 | “On a par with”                                                                                          | "No mesmo nível"                                                                                        |
