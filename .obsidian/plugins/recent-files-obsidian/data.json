@@ -13,6 +13,10 @@
       "path": "MATÉRIAS/EEAR.md"
     },
     {
+      "basename": "Polígonos",
+      "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md"
+    },
+    {
       "basename": "note-175",
       "path": "notes/note-175.md"
     },
@@ -175,10 +179,6 @@
     {
       "basename": "note-688",
       "path": "notes/note-688.md"
-    },
-    {
-      "basename": "Polígonos",
-      "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md"
     },
     {
       "basename": "Polinômios",
