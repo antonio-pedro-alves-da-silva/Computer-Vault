@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "note-703",
+      "path": "notes/note-703.md"
+    },
+    {
+      "basename": "questões erradas de português",
+      "path": "notes/GRAMÁTICA/questões erradas de português.md"
+    },
+    {
+      "basename": "EEAR",
+      "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "note-143",
+      "path": "notes/note-143.md"
+    },
+    {
+      "basename": "note-476",
+      "path": "notes/note-476.md"
+    },
+    {
       "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
       "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
     },
@@ -9,20 +29,12 @@
       "path": "notes/note-702.md"
     },
     {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
-    },
-    {
       "basename": "Polígonos",
       "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md"
     },
     {
       "basename": "note-175",
       "path": "notes/note-175.md"
-    },
-    {
-      "basename": "note-476",
-      "path": "notes/note-476.md"
     },
     {
       "basename": "note-701",
@@ -99,10 +111,6 @@
     {
       "basename": "note-696",
       "path": "notes/note-696.md"
-    },
-    {
-      "basename": "questões erradas de português",
-      "path": "notes/GRAMÁTICA/questões erradas de português.md"
     },
     {
       "basename": "note-695",
@@ -191,14 +199,6 @@
     {
       "basename": "print_screen_220",
       "path": "images/print_screen_220.png"
-    },
-    {
-      "basename": "note-686",
-      "path": "notes/note-686.md"
-    },
-    {
-      "basename": "note-682",
-      "path": "notes/note-682.md"
     }
   ],
   "omittedPaths": [],
