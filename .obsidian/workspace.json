@@ -20,31 +20,31 @@
             }
           },
           {
-            "id": "61d582439f237b51",
+            "id": "65424ac48162019a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "file": "notes/note-542.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "65505b97e5562786",
+            "id": "918f6c7d45a02b61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-703.md",
+                "file": "notes/note-685.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "file": "notes/note-685.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "file": "notes/note-685.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md"
+                "file": "notes/note-685.md"
               }
             }
           },
@@ -195,11 +195,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "61d582439f237b51",
+  "active": "918f6c7d45a02b61",
   "lastOpenFiles": [
-    "notes/note-703.md",
-    "notes/GRAMÁTICA/questões erradas de português.md",
+    "notes/note-542.md",
+    "notes/note-685.md",
+    "my-configuration-files/backup/cfs/cfs-b_2_31_2016.pdf",
+    "notes/note-687.md",
     "MATÉRIAS/EEAR.md",
+    "notes/GRAMÁTICA/questões erradas de português.md",
+    "notes/note-703.md",
     "notes/note-143.md",
     "notes/note-476.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
@@ -207,7 +211,6 @@
     "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
     "notes/note-175.md",
     "notes/note-701.md",
-    "notes/note-542.md",
     "notes/note-658.md",
     "notes/note-635.md",
     "notes/FÍSICA/ELETRICIDADE.md",
@@ -222,8 +225,6 @@
     "Pasted image 20240614131854.png",
     "notes/FÍSICA/HIDROESTÁTICA.md",
     "notes/note-639.md",
-    "notes/note-40.md",
-    "notes/note-32.md",
     "images/print_screen_693.png",
     "images/print_screen_220.png",
     "my-configuration-files/backup/cfs/cfs-b_2_2016.pdf",
@@ -238,7 +239,6 @@
     "my-configuration-files/backup/cfs/cfs_2_21_2020.pdf",
     "my-configuration-files/backup/cfs/cfs_2_21_2020.pdf.crdownload",
     "Pasted image 20240518191509.png",
-    "my-configuration-files/backup/cfs/cfs-b_1-2_10_2015.pdf",
     "images/print_screen_212.png",
     "images/print_screen_691.png",
     "cf5c9c4bae9e811fd33cdcc49fc06a464d47f4d8.svg",
