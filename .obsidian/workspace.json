@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "db1e5dd8926a3c6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "65424ac48162019a",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -197,11 +209,14 @@
   },
   "active": "472c93b285460396",
   "lastOpenFiles": [
+    "notes/note-542.md",
+    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
+    "MATÉRIAS/EEAR.md",
+    "notes/FÍSICA/DINÂMICA.md",
+    "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
+    "notes/note-639.md",
     "notes/note-704.md",
     "images/print_screen_694.png",
-    "notes/note-639.md",
-    "notes/note-542.md",
-    "MATÉRIAS/EEAR.md",
     "notes/FÍSICA/ELETRICIDADE.md",
     "notes/note-645.md",
     "notes/note-287.md",
@@ -223,8 +238,6 @@
     "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
     "notes/note-175.md",
     "notes/note-701.md",
-    "notes/note-658.md",
-    "notes/note-635.md",
     "Pasted image 20240614131854.png",
     "images/print_screen_693.png",
     "images/print_screen_220.png",
