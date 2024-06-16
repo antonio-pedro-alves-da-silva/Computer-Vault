@@ -6,7 +6,7 @@
 81)a - [[print_screen_694.png|resistência equivalente de um circuito associado a um banco óptico]]
 84)c
 85)d
-86)d -
+86)d
 87)a 
 88)b
 89)d 
