@@ -5,6 +5,18 @@
       "path": "notes/note-645.md"
     },
     {
+      "basename": "ELETRICIDADE",
+      "path": "notes/FÍSICA/ELETRICIDADE.md"
+    },
+    {
+      "basename": "note-287",
+      "path": "notes/note-287.md"
+    },
+    {
+      "basename": "EEAR",
+      "path": "MATÉRIAS/EEAR.md"
+    },
+    {
       "basename": "note-542",
       "path": "notes/note-542.md"
     },
@@ -19,10 +31,6 @@
     {
       "basename": "Pasted image 20240131070606",
       "path": "images/Pasted image 20240131070606.png"
-    },
-    {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
     },
     {
       "basename": "note-546",
@@ -87,10 +95,6 @@
     {
       "basename": "note-635",
       "path": "notes/note-635.md"
-    },
-    {
-      "basename": "ELETRICIDADE",
-      "path": "notes/FÍSICA/ELETRICIDADE.md"
     },
     {
       "basename": "note-387",
@@ -195,10 +199,6 @@
     {
       "basename": "note-688",
       "path": "notes/note-688.md"
-    },
-    {
-      "basename": "Polinômios",
-      "path": "notes/MATEMÁTICA/ÁLGEBRA III/Polinômios/Polinômios.md"
     }
   ],
   "omittedPaths": [],
