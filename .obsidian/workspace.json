@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "482718615dbc4c60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "65424ac48162019a",
             "type": "leaf",
             "state": {
@@ -44,19 +32,31 @@
             }
           },
           {
-            "id": "965a154d7a0b44a3",
+            "id": "472c93b285460396",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-645.md",
+                "file": "notes/note-639.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0630ef51f174b705",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-639.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-645.md",
+                "file": "notes/note-639.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-645.md",
+                "file": "notes/note-639.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-645.md"
+                "file": "notes/note-639.md"
               }
             }
           },
@@ -207,13 +207,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "965a154d7a0b44a3",
+  "active": "472c93b285460396",
   "lastOpenFiles": [
-    "notes/FÍSICA/ELETRICIDADE.md",
-    "notes/note-287.md",
-    "MATÉRIAS/EEAR.md",
-    "notes/note-645.md",
     "notes/note-542.md",
+    "notes/note-639.md",
+    "MATÉRIAS/EEAR.md",
+    "notes/FÍSICA/ELETRICIDADE.md",
+    "notes/note-645.md",
+    "notes/note-287.md",
     "notes/note-651.md",
     "notes/FÍSICA/TERMOLOGIA.md",
     "images/Pasted image 20240131070606.png",
@@ -236,7 +237,6 @@
     "notes/note-635.md",
     "notes/note-387.md",
     "notes/note-700.md",
-    "notes/note-699.md",
     "Pasted image 20240614131854.png",
     "images/print_screen_693.png",
     "images/print_screen_220.png",
