@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "075376b1cda0c52f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "notes/note-143.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "notes/note-143.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "notes/note-143.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+                "file": "notes/note-143.md"
               }
             }
           },
@@ -183,12 +170,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "075376b1cda0c52f",
+  "active": "722e1b3f13896288",
   "lastOpenFiles": [
     "MATÉRIAS/EEAR.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
-    "notes/MATEMÁTICA/GEOMETRIA PLANA/Ângulos.md",
     "notes/note-704.md",
+    "notes/MATEMÁTICA/GEOMETRIA PLANA/Ângulos.md",
     "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "notes/note-542.md",
     "notes/note-639.md",
