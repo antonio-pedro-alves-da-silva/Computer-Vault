@@ -9,12 +9,16 @@
       "path": "MATÉRIAS/EEAR.md"
     },
     {
-      "basename": "Ângulos",
-      "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/Ângulos.md"
+      "basename": "Matrizes",
+      "path": "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md"
     },
     {
       "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
       "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+    },
+    {
+      "basename": "Ângulos",
+      "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/Ângulos.md"
     },
     {
       "basename": "cfs_2_21_2020",
@@ -191,10 +195,6 @@
     {
       "basename": "note-694",
       "path": "notes/note-694.md"
-    },
-    {
-      "basename": "Matrizes",
-      "path": "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md"
     },
     {
       "basename": "note-692",
