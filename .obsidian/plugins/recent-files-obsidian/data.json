@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "EEAR",
+      "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "Ângulos",
+      "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/Ângulos.md"
+    },
+    {
       "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
       "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
     },
     {
       "basename": "note-704",
       "path": "notes/note-704.md"
-    },
-    {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
     },
     {
       "basename": "ONDULATÓRIA e ÓTICA",
@@ -195,10 +199,6 @@
     {
       "basename": "note-692",
       "path": "notes/note-692.md"
-    },
-    {
-      "basename": "note-691",
-      "path": "notes/note-691.md"
     }
   ],
   "omittedPaths": [],
