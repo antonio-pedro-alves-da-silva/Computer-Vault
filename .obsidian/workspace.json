@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-143.md",
+                "file": "MATÉRIAS/EEAR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f202516a0edb128d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dea3983a860b238a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-693.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-143.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-143.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-143.md"
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
               }
             }
           },
@@ -170,10 +195,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "722e1b3f13896288",
+  "active": "f202516a0edb128d",
   "lastOpenFiles": [
-    "MATÉRIAS/EEAR.md",
+    "notes/note-693.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "notes/cfs_2_21_2020.md",
+    "notes/note-696.md",
+    "notes/note-702.md",
+    "MATÉRIAS/EEAR.md",
+    "notes/note-143.md",
     "notes/note-704.md",
     "notes/MATEMÁTICA/GEOMETRIA PLANA/Ângulos.md",
     "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
@@ -196,11 +226,6 @@
     "notes/note-687.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-703.md",
-    "notes/note-143.md",
-    "notes/note-476.md",
-    "notes/note-702.md",
-    "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
-    "notes/note-175.md",
     "Pasted image 20240614131854.png",
     "images/print_screen_693.png",
     "images/print_screen_220.png",
