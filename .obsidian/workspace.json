@@ -20,24 +20,24 @@
             }
           },
           {
-            "id": "f202516a0edb128d",
+            "id": "ed57b07621ca9a64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "notes/GRAMÁTICA/questões erradas de português.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dea3983a860b238a",
+            "id": "2744e480baf2ecbc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-693.md",
+                "file": "notes/note-695.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-693.md",
+                "file": "notes/note-695.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-693.md",
+                "file": "notes/note-695.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-693.md"
+                "file": "notes/note-695.md"
               }
             }
           },
@@ -195,12 +195,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dea3983a860b238a",
+  "active": "2744e480baf2ecbc",
   "lastOpenFiles": [
+    "notes/GRAMÁTICA/questões erradas de português.md",
+    "notes/note-703.md",
     "MATÉRIAS/EEAR.md",
-    "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md",
-    "notes/note-693.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "notes/note-688.md",
+    "notes/note-693.md",
+    "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md",
     "notes/MATEMÁTICA/GEOMETRIA PLANA/Ângulos.md",
     "notes/cfs_2_21_2020.md",
     "notes/note-696.md",
@@ -222,10 +225,7 @@
     "notes/note-546.md",
     "notes/note-674.md",
     "notes/note-680.md",
-    "notes/note-685.md",
     "my-configuration-files/backup/cfs/cfs-b_2_31_2016.pdf",
-    "notes/note-687.md",
-    "notes/GRAMÁTICA/questões erradas de português.md",
     "Pasted image 20240614131854.png",
     "images/print_screen_693.png",
     "images/print_screen_220.png",

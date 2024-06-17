@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "note-693",
-      "path": "notes/note-693.md"
+      "basename": "note-695",
+      "path": "notes/note-695.md"
+    },
+    {
+      "basename": "questões erradas de português",
+      "path": "notes/GRAMÁTICA/questões erradas de português.md"
+    },
+    {
+      "basename": "note-703",
+      "path": "notes/note-703.md"
     },
     {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
     },
     {
-      "basename": "Matrizes",
-      "path": "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md"
-    },
-    {
       "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
       "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+    },
+    {
+      "basename": "note-688",
+      "path": "notes/note-688.md"
+    },
+    {
+      "basename": "note-693",
+      "path": "notes/note-693.md"
+    },
+    {
+      "basename": "Matrizes",
+      "path": "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md"
     },
     {
       "basename": "Ângulos",
@@ -105,14 +121,6 @@
       "path": "notes/note-687.md"
     },
     {
-      "basename": "questões erradas de português",
-      "path": "notes/GRAMÁTICA/questões erradas de português.md"
-    },
-    {
-      "basename": "note-703",
-      "path": "notes/note-703.md"
-    },
-    {
       "basename": "note-476",
       "path": "notes/note-476.md"
     },
@@ -177,10 +185,6 @@
       "path": "notes/note-75.md"
     },
     {
-      "basename": "note-695",
-      "path": "notes/note-695.md"
-    },
-    {
       "basename": "TRIGONOMETRIA",
       "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "note-694",
       "path": "notes/note-694.md"
-    },
-    {
-      "basename": "note-692",
-      "path": "notes/note-692.md"
     }
   ],
   "omittedPaths": [],
