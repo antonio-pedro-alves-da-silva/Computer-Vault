@@ -146,3 +146,6 @@
 | booked my ticket                                                    | reservei meu bilhete                                              |
 | They were crying to break out of the jar...                         | Eles estavam chorando para sair do pote...                        |
 
+walnut
+flour
+cake tin
