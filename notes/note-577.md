@@ -2,7 +2,7 @@
 
 K(eV) — energia cinética do fóton ao qual é ejetado 
 
-E(eV) — energia do fóton da fonte que ilumina
+E(eV) — energia de apenas um fóton da fonte que ilumina
 
 Φ(eV) — energia que mantém o elétron dentro do material
 

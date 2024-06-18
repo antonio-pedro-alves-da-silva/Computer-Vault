@@ -20,31 +20,43 @@
             }
           },
           {
-            "id": "ed57b07621ca9a64",
+            "id": "ccdfe657fc5c90c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "file": "notes/note-546.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b9445d18dae1c6fd",
+            "id": "098f53eefd1c22e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-694.md",
+                "file": "notes/note-573.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9cd30801b2172d7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-639.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-694.md",
+                "file": "notes/note-639.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-694.md",
+                "file": "notes/note-639.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-694.md"
+                "file": "notes/note-639.md"
               }
             }
           },
@@ -195,13 +207,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b9445d18dae1c6fd",
+  "active": "9cd30801b2172d7f",
   "lastOpenFiles": [
+    "notes/note-573.md",
+    "notes/note-577.md",
+    "notes/note-639.md",
+    "notes/note-542.md",
+    "notes/note-574.md",
+    "notes/note-546.md",
+    "MATÉRIAS/EEAR.md",
+    "notes/note-300.md",
+    "notes/note-143.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-694.md",
     "notes/note-695.md",
     "notes/note-703.md",
-    "MATÉRIAS/EEAR.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-688.md",
     "notes/note-693.md",
@@ -210,21 +230,13 @@
     "notes/cfs_2_21_2020.md",
     "notes/note-696.md",
     "notes/note-702.md",
-    "notes/note-143.md",
     "notes/note-704.md",
     "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
-    "notes/note-542.md",
-    "notes/note-639.md",
     "notes/FÍSICA/DINÂMICA.md",
     "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
     "images/print_screen_694.png",
     "notes/FÍSICA/ELETRICIDADE.md",
-    "notes/note-645.md",
-    "notes/note-287.md",
-    "notes/note-651.md",
-    "notes/FÍSICA/TERMOLOGIA.md",
     "images/Pasted image 20240131070606.png",
-    "notes/note-546.md",
     "my-configuration-files/backup/cfs/cfs-b_2_31_2016.pdf",
     "Pasted image 20240614131854.png",
     "images/print_screen_693.png",
