@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "ELETRICIDADE",
-      "path": "notes/FÍSICA/ELETRICIDADE.md"
-    },
-    {
       "basename": "note-635",
       "path": "notes/note-635.md"
     },
@@ -15,6 +11,14 @@
     {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "ELETRICIDADE",
+      "path": "notes/FÍSICA/ELETRICIDADE.md"
+    },
+    {
+      "basename": "note-218",
+      "path": "notes/note-218.md"
     },
     {
       "basename": "ONDULATÓRIA e ÓTICA",
@@ -195,10 +199,6 @@
     {
       "basename": "HIDROESTÁTICA",
       "path": "notes/FÍSICA/HIDROESTÁTICA.md"
-    },
-    {
-      "basename": "note-40",
-      "path": "notes/note-40.md"
     }
   ],
   "omittedPaths": [],

@@ -20,19 +20,31 @@
             }
           },
           {
-            "id": "63540d4c2e485669",
+            "id": "b966522c3ca1a06b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md",
+                "file": "notes/note-542.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5e57fcd437e98ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-635.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md",
+                "file": "notes/note-635.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md",
+                "file": "notes/note-635.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md"
+                "file": "notes/note-635.md"
               }
             }
           },
@@ -183,12 +195,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "63540d4c2e485669",
+  "active": "c5e57fcd437e98ae",
   "lastOpenFiles": [
-    "notes/note-635.md",
-    "notes/FÍSICA/ELETRICIDADE.md",
     "notes/note-542.md",
     "MATÉRIAS/EEAR.md",
+    "notes/FÍSICA/ELETRICIDADE.md",
+    "notes/note-218.md",
+    "notes/note-635.md",
     "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "notes/note-39.md",
     "notes/note-690.md",
@@ -210,7 +223,6 @@
     "notes/MATEMÁTICA/GEOMETRIA PLANA/Ângulos.md",
     "notes/cfs_2_21_2020.md",
     "notes/note-696.md",
-    "notes/note-702.md",
     "images/print_screen_694.png",
     "images/Pasted image 20240131070606.png",
     "my-configuration-files/backup/cfs/cfs-b_2_31_2016.pdf",
