@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "2744e480baf2ecbc",
+            "id": "b9445d18dae1c6fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-695.md",
+                "file": "notes/note-694.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-695.md",
+                "file": "notes/note-694.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-695.md",
+                "file": "notes/note-694.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-695.md"
+                "file": "notes/note-694.md"
               }
             }
           },
@@ -195,9 +195,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2744e480baf2ecbc",
+  "active": "b9445d18dae1c6fd",
   "lastOpenFiles": [
     "notes/GRAMÁTICA/questões erradas de português.md",
+    "notes/note-694.md",
     "notes/note-695.md",
     "notes/note-703.md",
     "MATÉRIAS/EEAR.md",
@@ -224,7 +225,6 @@
     "notes/FÍSICA/TERMOLOGIA.md",
     "images/Pasted image 20240131070606.png",
     "notes/note-546.md",
-    "notes/note-674.md",
     "my-configuration-files/backup/cfs/cfs-b_2_31_2016.pdf",
     "Pasted image 20240614131854.png",
     "images/print_screen_693.png",
