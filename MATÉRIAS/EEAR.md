@@ -857,7 +857,7 @@ LINGUA PORTUGUESA
 		[[MONOSSÍLABA TÔNICA E ÁTONA]]
 	[[questões erradas de português]]
 	[[note-143|o que revisar]]
-LÍNGUA INGLESA 
+LÍNGUA INGLESA
 	GRAMÁTICA 
 		vocabulário
 			[[note-175|vocabulário]]

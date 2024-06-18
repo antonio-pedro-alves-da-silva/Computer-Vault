@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "62dd952783a4d439",
+            "id": "f5056ce47b8c1f80",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "e77d94b8916c980c",
+            "id": "330c4196e58c4b0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-476.md",
+                "file": "MATÉRIAS/EEAR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-476.md",
+                "file": "MATÉRIAS/EEAR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-476.md"
+                "file": "MATÉRIAS/EEAR.md"
               }
             }
           },
@@ -195,11 +194,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "62dd952783a4d439",
+  "active": "722e1b3f13896288",
   "lastOpenFiles": [
     "notes/note-705.md",
     "notes/note-476.md",
     "MATÉRIAS/EEAR.md",
+    "notes/GRAMÁTICA/questões erradas de português.md",
+    "notes/note-694.md",
+    "notes/note-143.md",
     "notes/note-542.md",
     "notes/note-625.md",
     "notes/note-634.md",
@@ -215,9 +217,6 @@
     "notes/note-577.md",
     "notes/note-574.md",
     "notes/note-300.md",
-    "notes/note-143.md",
-    "notes/GRAMÁTICA/questões erradas de português.md",
-    "notes/note-694.md",
     "notes/note-695.md",
     "notes/note-703.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
