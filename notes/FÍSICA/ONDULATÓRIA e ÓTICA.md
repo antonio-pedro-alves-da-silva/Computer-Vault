@@ -25,7 +25,7 @@ ondulatória
 	qualidade do som
 		[[note-30|intensidade]]
 			[[note-38|formula da intensidade sonora]]
-			[[note-39|formuça da itensidade de bel ou decibel]]
+			[[note-39|formuça da itensidade de decibel]]
 		[[note-29|altura]]
 		[[note-31|timbre]]
 	[[note-32|efeitos doppler]]

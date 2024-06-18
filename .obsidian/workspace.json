@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "f30bccc5091e3178",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "bb3ad195c730d544",
             "type": "leaf",
             "state": {
@@ -44,19 +32,19 @@
             }
           },
           {
-            "id": "b045733ab0835133",
+            "id": "7f87fdf695430597",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-690.md",
+                "file": "notes/note-635.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-690.md",
+                "file": "notes/note-635.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-690.md",
+                "file": "notes/note-635.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-690.md"
+                "file": "notes/note-635.md"
               }
             }
           },
@@ -207,13 +195,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b045733ab0835133",
+  "active": "7f87fdf695430597",
   "lastOpenFiles": [
     "notes/note-542.md",
+    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
+    "notes/note-39.md",
+    "MATÉRIAS/EEAR.md",
+    "notes/note-635.md",
     "notes/note-690.md",
     "notes/note-639.md",
-    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
-    "MATÉRIAS/EEAR.md",
     "notes/note-546.md",
     "notes/note-573.md",
     "notes/note-577.md",
@@ -233,8 +223,6 @@
     "notes/note-696.md",
     "notes/note-702.md",
     "notes/note-704.md",
-    "notes/FÍSICA/DINÂMICA.md",
-    "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
     "images/print_screen_694.png",
     "images/Pasted image 20240131070606.png",
     "my-configuration-files/backup/cfs/cfs-b_2_31_2016.pdf",
