@@ -44,12 +44,12 @@
             }
           },
           {
-            "id": "9cd30801b2172d7f",
+            "id": "b045733ab0835133",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-639.md",
+                "file": "notes/note-690.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-639.md",
+                "file": "notes/note-690.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-639.md",
+                "file": "notes/note-690.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-639.md"
+                "file": "notes/note-690.md"
               }
             }
           },
@@ -207,12 +207,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9cd30801b2172d7f",
+  "active": "b045733ab0835133",
   "lastOpenFiles": [
     "notes/note-542.md",
+    "notes/note-690.md",
+    "notes/note-639.md",
     "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "MATÉRIAS/EEAR.md",
-    "notes/note-639.md",
     "notes/note-546.md",
     "notes/note-573.md",
     "notes/note-577.md",
@@ -235,7 +236,6 @@
     "notes/FÍSICA/DINÂMICA.md",
     "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
     "images/print_screen_694.png",
-    "notes/FÍSICA/ELETRICIDADE.md",
     "images/Pasted image 20240131070606.png",
     "my-configuration-files/backup/cfs/cfs-b_2_31_2016.pdf",
     "Pasted image 20240614131854.png",
