@@ -20,43 +20,31 @@
             }
           },
           {
-            "id": "9c105096e26e862c",
+            "id": "94732805b466b106",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-175.md",
+                "file": "notes/GRAMÁTICA/questões erradas de português.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f5056ce47b8c1f80",
+            "id": "34714fa8449e8726",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-476.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "330c4196e58c4b0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-705.md",
+                "file": "notes/note-694.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-175.md",
+                "file": "notes/note-694.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-175.md",
+                "file": "notes/note-694.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-175.md"
+                "file": "notes/note-694.md"
               }
             }
           },
@@ -207,14 +195,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9c105096e26e862c",
+  "active": "34714fa8449e8726",
   "lastOpenFiles": [
-    "MATÉRIAS/EEAR.md",
-    "notes/note-476.md",
-    "notes/note-705.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
-    "notes/note-694.md",
+    "MATÉRIAS/EEAR.md",
     "notes/note-143.md",
+    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "notes/note-705.md",
+    "notes/note-476.md",
+    "notes/note-175.md",
+    "notes/note-694.md",
     "notes/note-542.md",
     "notes/note-625.md",
     "notes/note-634.md",
@@ -232,9 +222,7 @@
     "notes/note-300.md",
     "notes/note-695.md",
     "notes/note-703.md",
-    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-688.md",
-    "notes/note-693.md",
     "images/print_screen_694.png",
     "images/Pasted image 20240131070606.png",
     "my-configuration-files/backup/cfs/cfs-b_2_31_2016.pdf",
