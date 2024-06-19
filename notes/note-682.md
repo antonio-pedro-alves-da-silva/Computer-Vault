@@ -5,8 +5,8 @@
 6)b
 8)a
 9)c - [[note-706|sigla de pronome relativo]]
-10)a - 
-18)b
+10)a
+18)b -
 19)d
 21)c
 23)[[regência verbal|regência verbal]]
