@@ -1,0 +1,1 @@
+qqoocq == que quem onde o qual cujo quanto

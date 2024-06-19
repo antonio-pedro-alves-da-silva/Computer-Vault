@@ -9,10 +9,6 @@
       "path": "notes/GRAMÁTICA/questões erradas de português.md"
     },
     {
-      "basename": "note-694",
-      "path": "notes/note-694.md"
-    },
-    {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
     },
@@ -23,6 +19,18 @@
     {
       "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
       "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+    },
+    {
+      "basename": "note-702",
+      "path": "notes/note-702.md"
+    },
+    {
+      "basename": "note-706",
+      "path": "notes/note-706.md"
+    },
+    {
+      "basename": "note-694",
+      "path": "notes/note-694.md"
     },
     {
       "basename": "note-705",
@@ -129,10 +137,6 @@
       "path": "notes/note-696.md"
     },
     {
-      "basename": "note-702",
-      "path": "notes/note-702.md"
-    },
-    {
       "basename": "note-704",
       "path": "notes/note-704.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "note-387",
       "path": "notes/note-387.md"
-    },
-    {
-      "basename": "note-700",
-      "path": "notes/note-700.md"
     }
   ],
   "omittedPaths": [],
