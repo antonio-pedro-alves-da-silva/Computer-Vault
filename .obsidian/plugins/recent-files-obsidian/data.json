@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "note-707",
+      "path": "notes/note-707.md"
+    },
+    {
+      "basename": "tipos de funções",
+      "path": "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md"
+    },
+    {
+      "basename": "note-693",
+      "path": "notes/note-693.md"
+    },
+    {
+      "basename": "EEAR",
+      "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
+      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+    },
+    {
+      "basename": "cfs_2_21_2020",
+      "path": "notes/cfs_2_21_2020.md"
+    },
+    {
       "basename": "note-678",
       "path": "notes/note-678.md"
     },
@@ -13,16 +37,8 @@
       "path": "notes/note-682.md"
     },
     {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
-    },
-    {
       "basename": "note-143",
       "path": "notes/note-143.md"
-    },
-    {
-      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
-      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
     },
     {
       "basename": "note-702",
@@ -121,20 +137,12 @@
       "path": "notes/note-688.md"
     },
     {
-      "basename": "note-693",
-      "path": "notes/note-693.md"
-    },
-    {
       "basename": "Matrizes",
       "path": "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md"
     },
     {
       "basename": "Ângulos",
       "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/Ângulos.md"
-    },
-    {
-      "basename": "cfs_2_21_2020",
-      "path": "notes/cfs_2_21_2020.md"
     },
     {
       "basename": "note-696",
@@ -191,14 +199,6 @@
     {
       "basename": "Polígonos",
       "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md"
-    },
-    {
-      "basename": "note-701",
-      "path": "notes/note-701.md"
-    },
-    {
-      "basename": "note-658",
-      "path": "notes/note-658.md"
     }
   ],
   "omittedPaths": [],
