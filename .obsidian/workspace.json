@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "34714fa8449e8726",
+            "id": "89258c749cfee708",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-694.md",
+                "file": "notes/note-682.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-694.md",
+                "file": "notes/note-682.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-694.md",
+                "file": "notes/note-682.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-694.md"
+                "file": "notes/note-682.md"
               }
             }
           },
@@ -195,16 +195,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "34714fa8449e8726",
+  "active": "89258c749cfee708",
   "lastOpenFiles": [
     "notes/GRAMÁTICA/questões erradas de português.md",
+    "notes/note-682.md",
+    "notes/note-694.md",
     "MATÉRIAS/EEAR.md",
     "notes/note-143.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-705.md",
     "notes/note-476.md",
     "notes/note-175.md",
-    "notes/note-694.md",
     "notes/note-542.md",
     "notes/note-625.md",
     "notes/note-634.md",
@@ -222,7 +223,6 @@
     "notes/note-300.md",
     "notes/note-695.md",
     "notes/note-703.md",
-    "notes/note-688.md",
     "images/print_screen_694.png",
     "images/Pasted image 20240131070606.png",
     "my-configuration-files/backup/cfs/cfs-b_2_31_2016.pdf",
