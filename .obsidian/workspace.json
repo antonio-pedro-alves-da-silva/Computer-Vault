@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "7c297d1a8dcef892",
+            "id": "5413248d35a33362",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-678.md",
+                "file": "notes/note-666.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-678.md",
+                "file": "notes/note-666.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-678.md",
+                "file": "notes/note-666.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-678.md"
+                "file": "notes/note-666.md"
               }
             }
           },
@@ -195,7 +195,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7c297d1a8dcef892",
+  "active": "5413248d35a33362",
   "lastOpenFiles": [
     "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-678.md",
