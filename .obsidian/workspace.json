@@ -20,24 +20,24 @@
             }
           },
           {
-            "id": "e34d0e05124aad5a",
+            "id": "4f2f6f7d9b7a24ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "file": "notes/note-542.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5413248d35a33362",
+            "id": "3b3b16d2ba6fba68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-666.md",
+                "file": "notes/note-625.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-666.md",
+                "file": "notes/note-625.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-666.md",
+                "file": "notes/note-625.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-666.md"
+                "file": "notes/note-625.md"
               }
             }
           },
@@ -195,12 +195,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5413248d35a33362",
+  "active": "3b3b16d2ba6fba68",
   "lastOpenFiles": [
+    "notes/note-542.md",
+    "notes/note-625.md",
+    "MATÉRIAS/EEAR.md",
+    "notes/note-476.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-666.md",
     "notes/note-678.md",
-    "MATÉRIAS/EEAR.md",
     "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-688.md",
@@ -213,10 +216,7 @@
     "notes/note-706.md",
     "notes/note-694.md",
     "notes/note-705.md",
-    "notes/note-476.md",
     "notes/note-175.md",
-    "notes/note-542.md",
-    "notes/note-625.md",
     "notes/note-634.md",
     "notes/note-635.md",
     "notes/FÍSICA/ELETRICIDADE.md",
