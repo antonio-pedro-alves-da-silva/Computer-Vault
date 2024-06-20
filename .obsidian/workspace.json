@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "d5a24d9c92247704",
+            "id": "b13e8fec92503751",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e46bdcc3f53c13e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-708.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-476.md",
+                "file": "notes/note-708.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-476.md",
+                "file": "notes/note-708.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-476.md"
+                "file": "notes/note-708.md"
               }
             }
           },
@@ -183,11 +195,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d5a24d9c92247704",
+  "active": "e46bdcc3f53c13e1",
   "lastOpenFiles": [
-    "MATÉRIAS/EEAR.md",
     "notes/note-476.md",
     "notes/note-708.md",
+    "MATÉRIAS/EEAR.md",
     "notes/note-542.md",
     "notes/note-585.md",
     "notes/note-613.md",
