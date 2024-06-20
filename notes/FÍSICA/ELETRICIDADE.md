@@ -173,7 +173,7 @@ eletricidade
 		[[print_screen_598.png|força magnética sobre um fio condutor]]
 		[[note-20|itensidade do campo magnético gerado pela corrente que passa pelo fio]]
 		[[note-19|regras da corrente e regra da vbf]] 
-		[[print_screen_408.png|força e intensidade magnética entre dois fios condutores retilíneos paralelos]]
+		[[print_screen_408.png|força magnética entre dois fios condutores retilíneos paralelos]]
 		[[print_screen_406.png|campo magnético de uma espira circular]]
 		[[print_screen_407.png|campo magnético em um solenóide ou eletroimãs]]
 			[[note-288|direção e sentido do campo magnético de um solenóide]]
