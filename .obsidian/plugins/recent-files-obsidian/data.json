@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "note-627",
+      "path": "notes/note-627.md"
+    },
+    {
+      "basename": "questões erradas de português",
+      "path": "notes/GRAMÁTICA/questões erradas de português.md"
+    },
+    {
       "basename": "note-628",
       "path": "notes/note-628.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "note-630",
       "path": "notes/note-630.md"
-    },
-    {
-      "basename": "questões erradas de português",
-      "path": "notes/GRAMÁTICA/questões erradas de português.md"
     },
     {
       "basename": "note-626",
@@ -195,10 +199,6 @@
     {
       "basename": "note-696",
       "path": "notes/note-696.md"
-    },
-    {
-      "basename": "note-704",
-      "path": "notes/note-704.md"
     }
   ],
   "omittedPaths": [],
