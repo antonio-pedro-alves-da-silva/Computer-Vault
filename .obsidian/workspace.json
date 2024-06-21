@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cd9e148e53a1198c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-630.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-628.md",
+                "file": "notes/note-630.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-628.md",
+                "file": "notes/note-630.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-628.md"
+                "file": "notes/note-630.md"
               }
             }
           },
@@ -195,10 +207,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "44f0e8b1adb515f1",
+  "active": "cd9e148e53a1198c",
   "lastOpenFiles": [
-    "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-628.md",
+    "notes/note-630.md",
+    "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-626.md",
     "MATÉRIAS/EEAR.md",
     "notes/note-638.md",
@@ -222,7 +235,6 @@
     "notes/cfs_2_21_2020.md",
     "notes/note-682.md",
     "notes/note-143.md",
-    "notes/note-702.md",
     "images/print_screen_694.png",
     "images/Pasted image 20240131070606.png",
     "my-configuration-files/backup/cfs/cfs-b_2_31_2016.pdf",

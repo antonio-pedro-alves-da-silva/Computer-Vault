@@ -11,3 +11,4 @@ mais disposto a conversar. (com quem)(certo) ;pois conversar exige preposição 
 
 d) Muitas foram as transformações físicas _________ passou o
 jogador Neymar, desde o início de sua carreira. (porque)
+

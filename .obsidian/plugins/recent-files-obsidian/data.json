@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "note-630",
+      "path": "notes/note-630.md"
+    },
+    {
       "basename": "note-628",
       "path": "notes/note-628.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "DINÂMICA",
       "path": "notes/FÍSICA/DINÂMICA.md"
-    },
-    {
-      "basename": "CINEMÁTICA",
-      "path": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
     }
   ],
   "omittedPaths": [],
