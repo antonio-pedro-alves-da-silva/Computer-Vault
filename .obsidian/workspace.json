@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "967c7614148d90f1",
+            "id": "3a0a9e3bdcd805db",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "f1512c318410f00f",
+            "id": "44f0e8b1adb515f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-640.md",
+                "file": "notes/note-628.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-640.md",
+                "file": "notes/note-628.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-640.md",
+                "file": "notes/note-628.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-640.md"
+                "file": "notes/note-628.md"
               }
             }
           },
@@ -195,13 +195,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f1512c318410f00f",
+  "active": "44f0e8b1adb515f1",
   "lastOpenFiles": [
     "notes/GRAMÁTICA/questões erradas de português.md",
+    "notes/note-628.md",
+    "notes/note-626.md",
+    "MATÉRIAS/EEAR.md",
+    "notes/note-638.md",
     "notes/note-640.md",
     "notes/note-665.md",
     "notes/note-666.md",
-    "MATÉRIAS/EEAR.md",
     "notes/note-476.md",
     "notes/note-708.md",
     "notes/note-542.md",
@@ -220,9 +223,6 @@
     "notes/note-682.md",
     "notes/note-143.md",
     "notes/note-702.md",
-    "notes/note-706.md",
-    "notes/note-694.md",
-    "notes/note-705.md",
     "images/print_screen_694.png",
     "images/Pasted image 20240131070606.png",
     "my-configuration-files/backup/cfs/cfs-b_2_31_2016.pdf",
