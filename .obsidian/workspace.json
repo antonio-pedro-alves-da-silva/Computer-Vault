@@ -20,42 +20,6 @@
             }
           },
           {
-            "id": "778700ca2d89a7b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-175.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7bfb7f2cc7f97d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-476.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "64211ef723c7662c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-708.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "069b540159f262ae",
             "type": "leaf",
             "state": {
@@ -68,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,11 +184,11 @@
   },
   "active": "069b540159f262ae",
   "lastOpenFiles": [
+    "MATÉRIAS/EEAR.md",
+    "notes/note-175.md",
+    "notes/note-476.md",
     "notes/note-708.md",
     "notes/note-709.md",
-    "notes/note-476.md",
-    "notes/note-175.md",
-    "MATÉRIAS/EEAR.md",
     "notes/note-542.md",
     "notes/note-599.md",
     "notes/note-580.md",
