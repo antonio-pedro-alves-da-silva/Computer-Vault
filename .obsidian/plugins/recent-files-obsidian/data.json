@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "note-709",
+      "path": "notes/note-709.md"
+    },
+    {
+      "basename": "note-708",
+      "path": "notes/note-708.md"
+    },
+    {
+      "basename": "note-476",
+      "path": "notes/note-476.md"
+    },
+    {
       "basename": "note-175",
       "path": "notes/note-175.md"
     },
     {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
-    },
-    {
-      "basename": "note-476",
-      "path": "notes/note-476.md"
     },
     {
       "basename": "note-542",
@@ -79,10 +87,6 @@
     {
       "basename": "note-666",
       "path": "notes/note-666.md"
-    },
-    {
-      "basename": "note-708",
-      "path": "notes/note-708.md"
     },
     {
       "basename": "note-585",
@@ -195,10 +199,6 @@
     {
       "basename": "note-574",
       "path": "notes/note-574.md"
-    },
-    {
-      "basename": "note-300",
-      "path": "notes/note-300.md"
     }
   ],
   "omittedPaths": [],
