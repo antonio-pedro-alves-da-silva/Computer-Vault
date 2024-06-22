@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "instruções para o exame",
-      "path": "notes/instruções para o exame.md"
+      "basename": "note-611",
+      "path": "notes/note-611.md"
+    },
+    {
+      "basename": "note-542",
+      "path": "notes/note-542.md"
+    },
+    {
+      "basename": "EEAR",
+      "path": "MATÉRIAS/EEAR.md"
     },
     {
       "basename": "questões erradas de português",
       "path": "notes/GRAMÁTICA/questões erradas de português.md"
+    },
+    {
+      "basename": "instruções para o exame",
+      "path": "notes/instruções para o exame.md"
     },
     {
       "basename": "note-627",
@@ -27,10 +39,6 @@
     {
       "basename": "note-626",
       "path": "notes/note-626.md"
-    },
-    {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
     },
     {
       "basename": "note-638",
@@ -55,10 +63,6 @@
     {
       "basename": "note-708",
       "path": "notes/note-708.md"
-    },
-    {
-      "basename": "note-542",
-      "path": "notes/note-542.md"
     },
     {
       "basename": "note-585",
@@ -195,10 +199,6 @@
     {
       "basename": "Matrizes",
       "path": "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md"
-    },
-    {
-      "basename": "Ângulos",
-      "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/Ângulos.md"
     }
   ],
   "omittedPaths": [],

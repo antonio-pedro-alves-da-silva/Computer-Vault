@@ -20,24 +20,24 @@
             }
           },
           {
-            "id": "3a0a9e3bdcd805db",
+            "id": "124e6fba349e3020",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "file": "notes/note-542.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b3d2787f299ce013",
+            "id": "d99b0c8a2afef257",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/instruções para o exame.md",
+                "file": "notes/note-611.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/instruções para o exame.md",
+                "file": "notes/note-611.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/instruções para o exame.md",
+                "file": "notes/note-611.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/instruções para o exame.md"
+                "file": "notes/note-611.md"
               }
             }
           },
@@ -194,24 +194,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b3d2787f299ce013",
+  "active": "d99b0c8a2afef257",
   "lastOpenFiles": [
+    "notes/note-542.md",
+    "notes/note-611.md",
+    "MATÉRIAS/EEAR.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
-    "notes/note-627.md",
     "notes/instruções para o exame.md",
+    "notes/note-627.md",
     "images/print_screen_697.png",
     "notes/note-628.md",
     "notes/note-631.md",
     "notes/note-630.md",
     "notes/note-626.md",
-    "MATÉRIAS/EEAR.md",
     "notes/note-638.md",
     "notes/note-640.md",
     "notes/note-665.md",
     "notes/note-666.md",
     "notes/note-476.md",
     "notes/note-708.md",
-    "notes/note-542.md",
     "notes/note-585.md",
     "notes/note-613.md",
     "notes/note-624.md",
@@ -222,7 +223,6 @@
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-688.md",
     "notes/note-693.md",
-    "notes/note-707.md",
     "images/print_screen_694.png",
     "images/Pasted image 20240131070606.png",
     "my-configuration-files/backup/cfs/cfs-b_2_31_2016.pdf",
