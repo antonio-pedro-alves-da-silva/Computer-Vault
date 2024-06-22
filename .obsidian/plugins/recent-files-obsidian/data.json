@@ -5,12 +5,16 @@
       "path": "notes/note-611.md"
     },
     {
-      "basename": "note-542",
-      "path": "notes/note-542.md"
+      "basename": "TERMOLOGIA",
+      "path": "notes/FÍSICA/TERMOLOGIA.md"
     },
     {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "note-542",
+      "path": "notes/note-542.md"
     },
     {
       "basename": "questões erradas de português",
@@ -195,10 +199,6 @@
     {
       "basename": "note-703",
       "path": "notes/note-703.md"
-    },
-    {
-      "basename": "Matrizes",
-      "path": "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md"
     }
   ],
   "omittedPaths": [],

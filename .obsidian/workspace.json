@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "1983069bf39892af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/FÍSICA/TERMOLOGIA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "124e6fba349e3020",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -196,9 +208,10 @@
   },
   "active": "d99b0c8a2afef257",
   "lastOpenFiles": [
+    "notes/FÍSICA/TERMOLOGIA.md",
+    "MATÉRIAS/EEAR.md",
     "notes/note-542.md",
     "notes/note-611.md",
-    "MATÉRIAS/EEAR.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/instruções para o exame.md",
     "notes/note-627.md",
@@ -222,7 +235,6 @@
     "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-688.md",
-    "notes/note-693.md",
     "images/print_screen_694.png",
     "images/Pasted image 20240131070606.png",
     "my-configuration-files/backup/cfs/cfs-b_2_31_2016.pdf",
