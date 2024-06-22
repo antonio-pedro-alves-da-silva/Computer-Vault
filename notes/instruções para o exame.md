@@ -10,6 +10,7 @@
 	b) certificado/carteira de vacinação, comprovando as seguintes vacinas: febre amarela, tétano e hepatite B. Para vacinação contra hepatite B deverá constar, ao menos, a primeira dose válida do esquema vacinal. Será aceito o exame Anti-HBs positivo em substituição à comprovação do esquema vacinal contra hepatite B.
 	c) Radiografia Panorâmica das arcadas dentárias atualizada, realizada há no máximo 6 (seis) meses antes da data da INSPSAU.
 03/09/2024 a 18/09/2024 EAP
+	
 08/10/2024 a 10/10/2024 Realização da Entrevista Informativa.
 28/10/2024 a 31/10/2024 dia do teste físico
 	26 flexão
