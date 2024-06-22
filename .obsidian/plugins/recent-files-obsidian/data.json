@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "note-627",
-      "path": "notes/note-627.md"
+      "basename": "instruções para o exame",
+      "path": "notes/instruções para o exame.md"
     },
     {
       "basename": "questões erradas de português",
       "path": "notes/GRAMÁTICA/questões erradas de português.md"
+    },
+    {
+      "basename": "note-627",
+      "path": "notes/note-627.md"
     },
     {
       "basename": "note-628",
@@ -195,10 +199,6 @@
     {
       "basename": "Ângulos",
       "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/Ângulos.md"
-    },
-    {
-      "basename": "note-696",
-      "path": "notes/note-696.md"
     }
   ],
   "omittedPaths": [],
