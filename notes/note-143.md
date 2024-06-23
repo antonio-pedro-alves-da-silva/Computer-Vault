@@ -29,6 +29,7 @@ substantivos
 			Verbo ou advérbio + substantivo ou adjetivo
 			[[note-425|Palavras repetidas ou onomatopeias]]
 			Palavra variável + palavra variável
+			[[note-711|adjetivo composto + substantivo]]
 [[note-401|flexão do substantivo]]
 Expressões confudidas
 	mau ou mal
