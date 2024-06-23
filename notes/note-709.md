@@ -1,5 +1,5 @@
 
-zero conditional
+[[note-710|zero conditional]]
 first conditional
 second conditional
 third conditional
