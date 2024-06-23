@@ -5,6 +5,14 @@
       "path": "notes/note-688.md"
     },
     {
+      "basename": "Matrizes",
+      "path": "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md"
+    },
+    {
+      "basename": "EEAR",
+      "path": "MATÉRIAS/EEAR.md"
+    },
+    {
       "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
       "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "questões erradas de português",
       "path": "notes/GRAMÁTICA/questões erradas de português.md"
-    },
-    {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
     },
     {
       "basename": "note-143",
@@ -195,10 +199,6 @@
     {
       "basename": "note-218",
       "path": "notes/note-218.md"
-    },
-    {
-      "basename": "ONDULATÓRIA e ÓTICA",
-      "path": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md"
     }
   ],
   "omittedPaths": [],

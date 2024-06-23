@@ -1,5 +1,6 @@
+
 49)c
-50)b
+50)b [[print_screen_693.png|Determinante de 2a]]
 53)d
 59)a
 60)b
@@ -10,3 +11,4 @@
 69)b
 71)b
 72)b
+
