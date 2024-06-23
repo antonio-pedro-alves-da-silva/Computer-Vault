@@ -13,6 +13,22 @@
       "path": "MATÉRIAS/EEAR.md"
     },
     {
+      "basename": "note-143",
+      "path": "notes/note-143.md"
+    },
+    {
+      "basename": "uso da virgula correto",
+      "path": "notes/TEXTO/uso da virgula correto.md"
+    },
+    {
+      "basename": "note-226",
+      "path": "notes/note-226.md"
+    },
+    {
+      "basename": "regras do acento gráfico",
+      "path": "notes/GRAMÁTICA/regras do acento gráfico.md"
+    },
+    {
       "basename": "note-542",
       "path": "notes/note-542.md"
     },
@@ -145,10 +161,6 @@
       "path": "notes/note-682.md"
     },
     {
-      "basename": "note-143",
-      "path": "notes/note-143.md"
-    },
-    {
       "basename": "note-702",
       "path": "notes/note-702.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "note-690",
       "path": "notes/note-690.md"
-    },
-    {
-      "basename": "note-639",
-      "path": "notes/note-639.md"
-    },
-    {
-      "basename": "note-573",
-      "path": "notes/note-573.md"
-    },
-    {
-      "basename": "note-577",
-      "path": "notes/note-577.md"
     }
   ],
   "omittedPaths": [],

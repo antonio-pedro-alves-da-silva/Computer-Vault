@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "623e1cde5f120ddb",
+            "id": "1b36f87b83594a12",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "b3084cbc65a2b770",
+            "id": "e6c45265066246e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -194,11 +194,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b3084cbc65a2b770",
+  "active": "e6c45265066246e0",
   "lastOpenFiles": [
     "notes/GRAMÁTICA/questões erradas de português.md",
-    "notes/note-627.md",
     "MATÉRIAS/EEAR.md",
+    "notes/note-143.md",
+    "notes/TEXTO/uso da virgula correto.md",
+    "notes/note-226.md",
+    "notes/GRAMÁTICA/regras do acento gráfico.md",
+    "notes/note-627.md",
     "notes/note-542.md",
     "notes/note-710.md",
     "notes/note-709.md",
@@ -219,10 +223,6 @@
     "notes/note-638.md",
     "notes/note-640.md",
     "notes/note-665.md",
-    "notes/note-666.md",
-    "notes/note-585.md",
-    "notes/note-613.md",
-    "notes/note-624.md",
     "images/print_screen_694.png",
     "images/Pasted image 20240131070606.png",
     "my-configuration-files/backup/cfs/cfs-b_2_31_2016.pdf",
