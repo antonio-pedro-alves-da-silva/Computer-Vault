@@ -20,43 +20,31 @@
             }
           },
           {
-            "id": "268190e97dd2bdd0",
+            "id": "53949c052d9f0fd5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md",
+                "file": "notes/note-542.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "378cc54a55425172",
+            "id": "30f4e2902b2f905c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca9446c0c81271db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-688.md",
+                "file": "notes/note-580.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-688.md",
+                "file": "notes/note-542.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-688.md",
+                "file": "notes/note-542.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-688.md"
+                "file": "notes/note-542.md"
               }
             }
           },
@@ -207,12 +195,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ca9446c0c81271db",
+  "active": "53949c052d9f0fd5",
   "lastOpenFiles": [
+    "notes/note-580.md",
+    "notes/note-542.md",
+    "MATÉRIAS/EEAR.md",
+    "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-688.md",
-    "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md",
-    "MATÉRIAS/EEAR.md",
     "notes/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-143.md",
@@ -221,14 +211,12 @@
     "notes/TEXTO/uso da virgula correto.md",
     "notes/note-226.md",
     "notes/GRAMÁTICA/regras do acento gráfico.md",
-    "notes/note-542.md",
     "notes/note-710.md",
     "notes/note-709.md",
     "notes/note-175.md",
     "notes/note-476.md",
     "notes/note-708.md",
     "notes/note-599.md",
-    "notes/note-580.md",
     "notes/note-546.md",
     "notes/note-611.md",
     "notes/FÍSICA/TERMOLOGIA.md",
