@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "c19aea6bdf8c9a5e",
+            "id": "a8a4b299cacacb88",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1478e2ab52a0abe7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-580.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-542.md",
+                "file": "notes/note-580.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-542.md",
+                "file": "notes/note-580.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-542.md"
+                "file": "notes/note-580.md"
               }
             }
           },
@@ -182,16 +194,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c19aea6bdf8c9a5e",
+  "active": "1478e2ab52a0abe7",
   "lastOpenFiles": [
-    "MATÉRIAS/EEAR.md",
+    "notes/note-542.md",
     "notes/note-580.md",
+    "MATÉRIAS/EEAR.md",
     "notes/FÍSICA/TERMOLOGIA.md",
     "notes/FÍSICA/HIDROESTÁTICA.md",
     "notes/note-546.md",
     "notes/instruções para o exame.md",
     "notes/cfs_2_21_2020.md",
-    "notes/note-542.md",
     "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-688.md",
