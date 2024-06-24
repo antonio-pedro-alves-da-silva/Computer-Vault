@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "TERMOLOGIA",
+      "path": "notes/FÍSICA/TERMOLOGIA.md"
+    },
+    {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "HIDROESTÁTICA",
+      "path": "notes/FÍSICA/HIDROESTÁTICA.md"
     },
     {
       "basename": "note-580",
@@ -95,10 +103,6 @@
     {
       "basename": "note-611",
       "path": "notes/note-611.md"
-    },
-    {
-      "basename": "TERMOLOGIA",
-      "path": "notes/FÍSICA/TERMOLOGIA.md"
     },
     {
       "basename": "note-628",
@@ -195,10 +199,6 @@
     {
       "basename": "note-635",
       "path": "notes/note-635.md"
-    },
-    {
-      "basename": "note-218",
-      "path": "notes/note-218.md"
     }
   ],
   "omittedPaths": [],
