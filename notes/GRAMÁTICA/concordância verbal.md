@@ -214,9 +214,11 @@ o verbo fica sempre na 3ª pessoa (do singular ou do plural).
 
 [[note-713|Se a porcentagem vier antes do verbo]]
 
-[[note-714|Se a porcentagem vier depois do verbo, concorde somente com o numeral]]
+[[note-714|Se a porcentagem vier depois do verbo]]
 
-[[|Se o número percentual vier determinado por artigo, pronome ou adjetivo, a única concordância possível é com o número]]
+[[note-715|Se o número percentual vier determinado por artigo, pronome ou adjetivo]]
+
+eada = extenso antes depois artigo/pronome/adjetivo 
 
 ### ==25.sujeito composto==
 
