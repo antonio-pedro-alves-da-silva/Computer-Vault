@@ -25,31 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-143.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b841125fa8a1d357",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "notes/GRAMÁTICA/concordância verbal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a676c55cc5fff08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,11 +194,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b841125fa8a1d357",
+  "active": "70d39229a3af49e5",
   "lastOpenFiles": [
     "notes/note-143.md",
     "MATÉRIAS/EEAR.md",
     "notes/note-621.md",
+    "notes/note-713.md",
+    "notes/GRAMÁTICA/concordância verbal.md",
+    "notes/note-714.md",
+    "notes/note-712.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-622.md",
     "notes/note-175.md",
@@ -242,10 +222,6 @@
     "notes/note-627.md",
     "notes/TEXTO/uso da virgula correto.md",
     "notes/note-226.md",
-    "notes/GRAMÁTICA/regras do acento gráfico.md",
-    "notes/note-710.md",
-    "notes/note-709.md",
-    "notes/note-708.md",
     "images/print_screen_697.png",
     "images/print_screen_694.png",
     "images/Pasted image 20240131070606.png",

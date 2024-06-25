@@ -1,4 +1,4 @@
-
+coletivos partitivos , concordância com porcentagem ,
 revisão
 	[[concordância verbal#==1. Concordância com sujeito coletivo==|1.]]sujeito coletivo
 	[[concordância verbal#==5. Concordância com pronome relativo "que"==|5.]]relativo que
@@ -208,10 +208,16 @@ Verbos no infinitivo PESSOAL devem ser flexionados quando os sujeitos são difer
 o verbo fica sempre na 3ª pessoa (do singular ou do plural).
 
 - Vossa Alteza pediu silêncio./ Vossas Altezas pediram silêncio.
-### 24.concordância com porcentagem
+### ==24.concordância com porcentagem==
 
-- No seu Estado, 75% da população **ganha** menos de dois salários mínimos (concorda com população).
-- No seu Estado, 75% da população **ganham** menos de dois salários mínimos (concorda com 75%).
+[[note-712|Só escreva a porcentagem por extenso no início de parágrafo.]]
+
+[[note-713|Se a porcentagem vier antes do verbo]]
+
+[[note-714|Se a porcentagem vier depois do verbo, concorde somente com o numeral]]
+
+[[|Se o número percentual vier determinado por artigo, pronome ou adjetivo, a única concordância possível é com o número]]
+
 ### ==25.sujeito composto==
 
 a) **Quando o sujeito composto estiver antes do verbo, esse último ficará no plural**. Exemplo: Paola e Pedro gostaram do seu interesse em vender a casa. b) Quando o sujeito vier depois do verbo, esse último ficará no plural ou com o núcleo do sujeito que estiver mais próximo ao verbo.
