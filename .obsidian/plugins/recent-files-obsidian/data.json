@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "note-175",
-      "path": "notes/note-175.md"
+      "basename": "concordância verbal",
+      "path": "notes/GRAMÁTICA/concordância verbal.md"
+    },
+    {
+      "basename": "note-143",
+      "path": "notes/note-143.md"
     },
     {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "note-621",
+      "path": "notes/note-621.md"
+    },
+    {
+      "basename": "questões erradas de português",
+      "path": "notes/GRAMÁTICA/questões erradas de português.md"
+    },
+    {
+      "basename": "note-622",
+      "path": "notes/note-622.md"
+    },
+    {
+      "basename": "note-175",
+      "path": "notes/note-175.md"
     },
     {
       "basename": "note-476",
@@ -55,14 +75,6 @@
     {
       "basename": "GEOMETRIA ESPACIAL",
       "path": "notes/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md"
-    },
-    {
-      "basename": "questões erradas de português",
-      "path": "notes/GRAMÁTICA/questões erradas de português.md"
-    },
-    {
-      "basename": "note-143",
-      "path": "notes/note-143.md"
     },
     {
       "basename": "note-711",
@@ -187,18 +199,6 @@
     {
       "basename": "note-694",
       "path": "notes/note-694.md"
-    },
-    {
-      "basename": "note-705",
-      "path": "notes/note-705.md"
-    },
-    {
-      "basename": "note-634",
-      "path": "notes/note-634.md"
-    },
-    {
-      "basename": "note-635",
-      "path": "notes/note-635.md"
     }
   ],
   "omittedPaths": [],

@@ -142,8 +142,8 @@
 | rolled out new content                                              | lançado novo conteúdo                                             |
 | throughout                                                          | ao longo de                                                       |
 | “ever-growing” vocabulary.                                          | vocabulário “em constante crescimento”.                           |
-| whilst at the same time                                             | ao mesmo tempo                                                    |
-| seeping into foreign languages.                                     | infiltrando-se em línguas estrangeiras.                           |
+| **whilst** at the same time                                         | **enquanto** ao mesmo tempo                                       |
+| **seeping** into foreign languages.                                 | i**nfiltrando-se** em línguas estrangeiras.                       |
 | booked my ticket                                                    | reservei meu bilhete                                              |
 | They were crying to break out of the jar...                         | Eles estavam chorando para sair do pote...                        |
 
