@@ -96,7 +96,7 @@
 | Tidy handwriting                                                                                         | Letra legível                                                                                           |
 | **Call on** some friends                                                                                 | **Chame** alguns amigos                                                                                 |
 | “On a par with”                                                                                          | "No mesmo nível"                                                                                        |
-| He was fired on the spot for                                                                             | Ele foi demitido imediatamente por                                                                      |
+| He was fired on the spot for                                                                             | Ele foi demitido no local                                                                               |
 | Easygoing **blithe**                                                                                     | Despreocupado **alegre**                                                                                |
 
 | Appealing   | Atraente             |
@@ -112,6 +112,7 @@
 | Bribed      | Subornou             |
 | Halted      | Interrompeu          |
 | Shave off   | Reduzir              |
+
 
 | Inglês                                                              | Português                                                         |
 | ------------------------------------------------------------------- | ----------------------------------------------------------------- |
