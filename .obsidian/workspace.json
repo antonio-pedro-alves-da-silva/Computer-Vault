@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "29b5efd90cf63e27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/raiz quadrada de 11 até 40.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/raiz quadrada de 11 até 40.md",
+                "file": "MATÉRIAS/EEAR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/raiz quadrada de 11 até 40.md",
+                "file": "MATÉRIAS/EEAR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/raiz quadrada de 11 até 40.md"
+                "file": "MATÉRIAS/EEAR.md"
               }
             }
           },
@@ -182,8 +169,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "29b5efd90cf63e27",
+  "active": "2d3eb13c3180afde",
   "lastOpenFiles": [
+    "notes/raiz quadrada de 11 até 40.md",
     "MATÉRIAS/EEAR.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-688.md",
@@ -192,7 +180,6 @@
     "notes/instruções para o exame.md",
     "notes/note-603.md",
     "notes/note-451.md",
-    "notes/raiz quadrada de 11 até 40.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-621.md",
     "notes/note-143.md",
