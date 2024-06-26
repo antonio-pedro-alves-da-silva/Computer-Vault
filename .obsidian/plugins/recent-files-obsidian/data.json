@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "instruções para o exame",
+      "path": "notes/instruções para o exame.md"
+    },
+    {
+      "basename": "note-603",
+      "path": "notes/note-603.md"
+    },
+    {
       "basename": "note-599",
       "path": "notes/note-599.md"
     },
@@ -9,12 +17,12 @@
       "path": "notes/note-542.md"
     },
     {
-      "basename": "note-451",
-      "path": "notes/note-451.md"
-    },
-    {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "note-451",
+      "path": "notes/note-451.md"
     },
     {
       "basename": "note-688",
@@ -87,10 +95,6 @@
     {
       "basename": "note-546",
       "path": "notes/note-546.md"
-    },
-    {
-      "basename": "instruções para o exame",
-      "path": "notes/instruções para o exame.md"
     },
     {
       "basename": "cfs_2_21_2020",
@@ -195,10 +199,6 @@
     {
       "basename": "note-678",
       "path": "notes/note-678.md"
-    },
-    {
-      "basename": "tipos de funções",
-      "path": "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md"
     }
   ],
   "omittedPaths": [],
