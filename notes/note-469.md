@@ -2,7 +2,7 @@
 $\Large Vo=\sqrt{2\cdot g\cdot h}$
 ![[print_screen_689.png]]
 
-$$\Large V_{0\cdot t}=\frac{g\cdot t}{2}$$
+$$\Large V_{0\cdot t}=\frac{g\cdot t^{2}}{2}$$
 
 $$\Large V_{0}=\frac{g\cdot t}{2}$$
 $$\Large \left(\sqrt{2\cdot g\cdot h}\right)^2=\left(\frac{g\cdot t}{2}\right)^2$$

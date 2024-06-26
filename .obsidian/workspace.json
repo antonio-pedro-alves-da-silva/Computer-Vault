@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "1ce8209da7a667e8",
+            "id": "e385ff66f67a7815",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "acd2e80ff435ebe0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-469.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
+                "file": "notes/note-469.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
+                "file": "notes/note-469.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
+                "file": "notes/note-469.md"
               }
             }
           },
@@ -182,9 +194,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1ce8209da7a667e8",
+  "active": "acd2e80ff435ebe0",
   "lastOpenFiles": [
+    "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
     "MATÉRIAS/EEAR.md",
+    "images/print_screen_635.png",
     "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
     "notes/raiz quadrada de 11 até 40.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
@@ -208,8 +222,6 @@
     "notes/note-580.md",
     "notes/FÍSICA/TERMOLOGIA.md",
     "notes/FÍSICA/HIDROESTÁTICA.md",
-    "notes/note-546.md",
-    "notes/cfs_2_21_2020.md",
     "images/print_screen_697.png",
     "images/print_screen_694.png",
     "images/Pasted image 20240131070606.png",
@@ -229,7 +241,6 @@
     "my-configuration-files/backup/cfs/cfs_2_21_2020.pdf",
     "my-configuration-files/backup/cfs/cfs_2_21_2020.pdf.crdownload",
     "Pasted image 20240518191509.png",
-    "images/print_screen_212.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
