@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1ce8209da7a667e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATÉRIAS/EEAR.md"
+                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
               }
             }
           },
@@ -169,10 +182,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2d3eb13c3180afde",
+  "active": "1ce8209da7a667e8",
   "lastOpenFiles": [
-    "notes/raiz quadrada de 11 até 40.md",
     "MATÉRIAS/EEAR.md",
+    "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
+    "notes/raiz quadrada de 11 até 40.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-688.md",
     "notes/note-542.md",
@@ -196,7 +210,6 @@
     "notes/FÍSICA/HIDROESTÁTICA.md",
     "notes/note-546.md",
     "notes/cfs_2_21_2020.md",
-    "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md",
     "images/print_screen_697.png",
     "images/print_screen_694.png",
     "images/Pasted image 20240131070606.png",
