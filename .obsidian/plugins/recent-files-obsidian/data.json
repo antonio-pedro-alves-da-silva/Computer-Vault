@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "note-709",
+      "path": "notes/note-709.md"
+    },
+    {
+      "basename": "note-716",
+      "path": "notes/note-716.md"
+    },
+    {
+      "basename": "note-476",
+      "path": "notes/note-476.md"
+    },
+    {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "note-542",
+      "path": "notes/note-542.md"
     },
     {
       "basename": "CINEMÁTICA",
@@ -31,10 +47,6 @@
     {
       "basename": "note-688",
       "path": "notes/note-688.md"
-    },
-    {
-      "basename": "note-542",
-      "path": "notes/note-542.md"
     },
     {
       "basename": "note-599",
@@ -93,10 +105,6 @@
       "path": "notes/note-175.md"
     },
     {
-      "basename": "note-476",
-      "path": "notes/note-476.md"
-    },
-    {
       "basename": "note-580",
       "path": "notes/note-580.md"
     },
@@ -149,10 +157,6 @@
       "path": "notes/note-710.md"
     },
     {
-      "basename": "note-709",
-      "path": "notes/note-709.md"
-    },
-    {
       "basename": "note-708",
       "path": "notes/note-708.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "note-585",
       "path": "notes/note-585.md"
-    },
-    {
-      "basename": "note-613",
-      "path": "notes/note-613.md"
     }
   ],
   "omittedPaths": [],
