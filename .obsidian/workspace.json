@@ -20,12 +20,24 @@
             }
           },
           {
-            "id": "b5b1d50bcccda4c9",
+            "id": "0de3c41417576212",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-688.md",
+                "file": "notes/note-542.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "43fdc964d3c982ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-599.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-688.md",
+                "file": "notes/note-542.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-688.md",
+                "file": "notes/note-542.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-688.md"
+                "file": "notes/note-542.md"
               }
             }
           },
@@ -182,11 +194,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b5b1d50bcccda4c9",
+  "active": "0de3c41417576212",
   "lastOpenFiles": [
+    "notes/note-599.md",
+    "notes/note-542.md",
     "MATÉRIAS/EEAR.md",
-    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-688.md",
+    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/raiz quadrada de 11 até 40.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-621.md",
@@ -199,7 +213,6 @@
     "notes/note-622.md",
     "notes/note-175.md",
     "notes/note-476.md",
-    "notes/note-542.md",
     "notes/note-580.md",
     "notes/FÍSICA/TERMOLOGIA.md",
     "notes/FÍSICA/HIDROESTÁTICA.md",
@@ -209,7 +222,6 @@
     "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md",
     "notes/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
     "notes/note-711.md",
-    "notes/note-627.md",
     "images/print_screen_697.png",
     "images/print_screen_694.png",
     "images/Pasted image 20240131070606.png",
