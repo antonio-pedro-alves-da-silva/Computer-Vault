@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "e385ff66f67a7815",
+            "id": "93251995c7f3fcb9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "acd2e80ff435ebe0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-469.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-469.md",
+                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-469.md",
+                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-469.md"
+                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
               }
             }
           },
@@ -194,10 +182,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "acd2e80ff435ebe0",
+  "active": "93251995c7f3fcb9",
   "lastOpenFiles": [
-    "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
     "MATÉRIAS/EEAR.md",
+    "notes/note-469.md",
+    "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
     "images/print_screen_635.png",
     "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
     "notes/raiz quadrada de 11 até 40.md",
