@@ -1,20 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "note-692",
-      "path": "notes/note-692.md"
+      "basename": "note-609",
+      "path": "notes/note-609.md"
+    },
+    {
+      "basename": "questões erradas de português",
+      "path": "notes/GRAMÁTICA/questões erradas de português.md"
+    },
+    {
+      "basename": "note-620",
+      "path": "notes/note-620.md"
+    },
+    {
+      "basename": "lista de tarefas",
+      "path": "Lista de Tarefas/lista de tarefas.md"
+    },
+    {
+      "basename": "note-621",
+      "path": "notes/note-621.md"
+    },
+    {
+      "basename": "EEAR",
+      "path": "MATÉRIAS/EEAR.md"
     },
     {
       "basename": "note-476",
       "path": "notes/note-476.md"
     },
     {
-      "basename": "note-701",
-      "path": "notes/note-701.md"
+      "basename": "note-692",
+      "path": "notes/note-692.md"
     },
     {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
+      "basename": "note-701",
+      "path": "notes/note-701.md"
     },
     {
       "basename": "note-717",
@@ -113,14 +133,6 @@
       "path": "notes/note-451.md"
     },
     {
-      "basename": "questões erradas de português",
-      "path": "notes/GRAMÁTICA/questões erradas de português.md"
-    },
-    {
-      "basename": "note-621",
-      "path": "notes/note-621.md"
-    },
-    {
       "basename": "note-143",
       "path": "notes/note-143.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "note-627",
       "path": "notes/note-627.md"
-    },
-    {
-      "basename": "uso da virgula correto",
-      "path": "notes/TEXTO/uso da virgula correto.md"
-    },
-    {
-      "basename": "note-226",
-      "path": "notes/note-226.md"
-    },
-    {
-      "basename": "regras do acento gráfico",
-      "path": "notes/GRAMÁTICA/regras do acento gráfico.md"
     }
   ],
   "omittedPaths": [],

@@ -1,2 +1,4 @@
-- [ ] esperar o cartão chegar no dia 30/04
-- [ ] aprender a respirar por 5 minutos
+
+- [ ] tirar o lixo
+- [ ] tirar o frango do congelador
+- [ ] tirar o feijão
