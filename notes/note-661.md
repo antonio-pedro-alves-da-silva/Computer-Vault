@@ -1,4 +1,4 @@
-Também é utilizado para sujeito, mas quando o mesmo refere-se a um animal ou objeto.
+refere-se a um animal ou objeto.
 
 - The book **which** is on the table is yours. (O livro que está sob a mesa é seu)
 - The dog **which** is sick is ours. (O cachorro que estão doente é nosso)

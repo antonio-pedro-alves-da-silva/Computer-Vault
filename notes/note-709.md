@@ -1,5 +1,5 @@
 
-[[note-716|zero conditional]] - general truths
+zero conditional - general truths
 first conditional - real possibilities that happens in the future
 second conditional - unreal or improbable situations
 third conditional - past hypothetical
