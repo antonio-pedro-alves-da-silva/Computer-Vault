@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "crase",
+      "path": "notes/crase.md"
+    },
+    {
       "basename": "note-143",
       "path": "notes/note-143.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "note-546",
       "path": "notes/note-546.md"
-    },
-    {
-      "basename": "cfs_2_21_2020",
-      "path": "notes/cfs_2_21_2020.md"
     }
   ],
   "omittedPaths": [],
