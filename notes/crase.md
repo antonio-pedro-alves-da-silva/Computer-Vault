@@ -113,11 +113,8 @@ Assisti a + a peça = Assisti à peça.
 
 Dedicamo-nos a + as tarefas = Dedicamo-nos às tarefas."
 
-
-
-
-
 # regras de quando NÃO usar crase
+
 ###  ==1)antes de palavras masculinas==
 
 - Jorge tem um carro a álcool.
@@ -147,8 +144,8 @@ Ele comprou sapatos **à** Luís XV. (Ele comprou sapatos à moda de Luís XV.
 	- Já aderiu a este plano?
 ### ==5)quando indicamos tempo futuro==
 **A**  
-	Sempre que indicamos tempo futuro, usamos a preposição “a” sem contração com o artigo definido feminino “a”, ou seja, sem crase.  
-	– Daqui a 10 minutos chego aí.  
+	Sempre que indicamos tempo futuro, usamos a preposição “a” sem contração com o artigo definido feminino “a”, ou seja, sem crase.
+	– Daqui a 10 minutos chego aí.
 	– Vou te encontrar na sede daqui a pouco.
 ### ==6)antes de artigo indefinido um, uma, uns, umas==
 #### **pronomes indefinidos que não admitem artigo :**
