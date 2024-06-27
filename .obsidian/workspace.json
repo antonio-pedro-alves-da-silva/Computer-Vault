@@ -20,31 +20,19 @@
             }
           },
           {
-            "id": "8dfcfb89c8abc919",
+            "id": "8fb951593ee6f86b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-476.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "815c9d5864de40fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-701.md",
+                "file": "notes/note-717.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -120,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-701.md",
+                "file": "notes/note-717.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-701.md",
+                "file": "notes/note-717.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-701.md"
+                "file": "notes/note-717.md"
               }
             }
           },
@@ -195,54 +182,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "815c9d5864de40fc",
+  "active": "8fb951593ee6f86b",
   "lastOpenFiles": [
+    "MATÉRIAS/EEAR.md",
+    "notes/note-717.md",
+    "notes/note-721.md",
+    "notes/note-720.md",
+    "notes/note-719.md",
+    "notes/Untitled 10.md",
+    "images/Pasted image 20240614131854.png",
+    "images/Pasted image 20240604221822.png",
+    "images/Pasted image 20240528153058.png",
+    "images/Pasted image 20240519163843.png",
+    "images/Pasted image 20240519163839.png",
+    "images/Pasted image 20240519163834.png",
+    "images/Pasted image 20240519163727.png",
+    "images/Pasted image 20240519163722.png",
+    "images/Pasted image 20240519163609.png",
+    "images/Pasted image 20240518191509.png",
+    "tranquei a porta.md",
+    "notes/note-718.md",
     "notes/note-476.md",
     "notes/note-701.md",
     "notes/note-653.md",
-    "MATÉRIAS/EEAR.md",
     "notes/note-658.md",
     "notes/note-662.md",
     "notes/note-661.md",
     "notes/note-705.md",
-    "notes/note-717.md",
     "notes/note-709.md",
     "notes/note-716.md",
     "notes/note-542.md",
     "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
     "notes/note-469.md",
-    "images/print_screen_635.png",
     "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
     "notes/raiz quadrada de 11 até 40.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-688.md",
     "notes/note-599.md",
     "notes/instruções para o exame.md",
-    "notes/note-603.md",
-    "notes/note-451.md",
-    "notes/GRAMÁTICA/questões erradas de português.md",
-    "notes/note-621.md",
-    "notes/note-143.md",
-    "notes/GRAMÁTICA/concordância verbal.md",
-    "images/print_screen_697.png",
-    "images/print_screen_694.png",
-    "images/Pasted image 20240131070606.png",
     "my-configuration-files/backup/cfs/cfs-b_2_31_2016.pdf",
-    "Pasted image 20240614131854.png",
-    "images/print_screen_693.png",
-    "images/print_screen_220.png",
     "my-configuration-files/backup/cfs/cfs-b_2_2016.pdf",
     "my-configuration-files/backup/cfs/cfs-b_2_2016.pdf.crdownload",
     "my-configuration-files/backup/cfs/cfs_2_65_2017.pdf",
     "my-configuration-files/backup/cfs/cfs_2_65_2017.pdf.crdownload",
     "my-configuration-files/backup/cfs/cfs_2_11_2018.pdf",
     "my-configuration-files/backup/cfs/cfs_2_11_2018.pdf.crdownload",
-    "Pasted image 20240604221822.png",
-    "images/print_screen_692.png",
     "images/print_screen_692.png.crdownload",
     "my-configuration-files/backup/cfs/cfs_2_21_2020.pdf",
     "my-configuration-files/backup/cfs/cfs_2_21_2020.pdf.crdownload",
-    "Pasted image 20240518191509.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
