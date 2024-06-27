@@ -20,31 +20,19 @@
             }
           },
           {
-            "id": "13bd3ca0655108ab",
+            "id": "2318fbdc4aaa4b2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6e58cfccc2a8894",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-684.md",
+                "file": "notes/note-143.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-684.md",
+                "file": "notes/note-143.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-684.md",
+                "file": "notes/note-143.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-684.md"
+                "file": "notes/note-143.md"
               }
             }
           },
@@ -194,14 +182,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a6e58cfccc2a8894",
+  "active": "2318fbdc4aaa4b2c",
   "lastOpenFiles": [
+    "notes/note-300.md",
+    "notes/note-143.md",
+    "MATÉRIAS/EEAR.md",
+    "notes/GRAMÁTICA/questões erradas de português.md",
+    "notes/note-682.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "notes/note-679.md",
     "notes/note-684.md",
     "notes/note-688.md",
-    "MATÉRIAS/EEAR.md",
-    "notes/note-143.md",
-    "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-609.md",
     "notes/note-620.md",
     "Lista de Tarefas/lista de tarefas.md",
@@ -229,9 +220,6 @@
     "notes/note-653.md",
     "notes/note-658.md",
     "notes/note-662.md",
-    "notes/note-661.md",
-    "notes/note-705.md",
-    "notes/note-709.md",
     "my-configuration-files/backup/cfs/cfs-b_2_31_2016.pdf",
     "my-configuration-files/backup/cfs/cfs-b_2_2016.pdf",
     "my-configuration-files/backup/cfs/cfs-b_2_2016.pdf.crdownload",
