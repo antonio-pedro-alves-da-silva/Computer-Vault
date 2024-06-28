@@ -20,19 +20,31 @@
             }
           },
           {
-            "id": "ab8b23f676f93bfd",
+            "id": "b44b3bbb7342705e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lista de Tarefas/lista de tarefas.md",
+                "file": "notes/note-542.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b18691eb684ea29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-543.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lista de Tarefas/lista de tarefas.md",
+                "file": "notes/note-543.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lista de Tarefas/lista de tarefas.md",
+                "file": "notes/note-543.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lista de Tarefas/lista de tarefas.md"
+                "file": "notes/note-543.md"
               }
             }
           },
@@ -182,15 +194,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ab8b23f676f93bfd",
+  "active": "3b18691eb684ea29",
   "lastOpenFiles": [
-    "notes/note-599.md",
     "notes/note-542.md",
-    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
+    "notes/note-543.md",
     "MATÉRIAS/EEAR.md",
+    "notes/note-599.md",
+    "notes/note-40.md",
+    "Lista de Tarefas/lista de tarefas.md",
+    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "notes/note-600.md",
     "notes/note-602.md",
-    "Lista de Tarefas/lista de tarefas.md",
     "notes/note-32.md",
     "notes/FÍSICA/DINÂMICA.md",
     "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
@@ -208,8 +222,6 @@
     "notes/note-684.md",
     "notes/note-688.md",
     "notes/note-609.md",
-    "notes/note-620.md",
-    "notes/note-621.md",
     "images/Pasted image 20240614131854.png",
     "images/Pasted image 20240604221822.png",
     "images/Pasted image 20240528153058.png",
