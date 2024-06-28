@@ -1,3 +1,4 @@
+
 ![[Pasted image 20240519163609.png]]
 
 aparentemente a distância entre as lentes se dar por :

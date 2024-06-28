@@ -20,31 +20,19 @@
             }
           },
           {
-            "id": "db19dc689bde0619",
+            "id": "ab8b23f676f93bfd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e0a181dc2dfc2aa6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-600.md",
+                "file": "Lista de Tarefas/lista de tarefas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-600.md",
+                "file": "Lista de Tarefas/lista de tarefas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-600.md",
+                "file": "Lista de Tarefas/lista de tarefas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-600.md"
+                "file": "Lista de Tarefas/lista de tarefas.md"
               }
             }
           },
@@ -194,16 +182,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e0a181dc2dfc2aa6",
+  "active": "ab8b23f676f93bfd",
   "lastOpenFiles": [
-    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
-    "Lista de Tarefas/lista de tarefas.md",
-    "notes/note-602.md",
-    "notes/note-600.md",
     "notes/note-599.md",
     "notes/note-542.md",
-    "notes/note-32.md",
+    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "MATÉRIAS/EEAR.md",
+    "notes/note-600.md",
+    "notes/note-602.md",
+    "Lista de Tarefas/lista de tarefas.md",
+    "notes/note-32.md",
     "notes/FÍSICA/DINÂMICA.md",
     "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
     "notes/note-604.md",

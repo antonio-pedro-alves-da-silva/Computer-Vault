@@ -5,5 +5,5 @@
 88)c - [[note-40|formula do efeito doppler]]
 91)a 
 92)b
-94)c - 
+94)c -
 
