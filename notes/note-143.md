@@ -12,7 +12,7 @@ formação de palavras
 			tic-tac
 			miau
 			zum-zum
-[[crase]]
+[[crase]] -
 [[concordância verbal]]
 [[concordância nominal]]
 [[note-335|separação silábica]] 
