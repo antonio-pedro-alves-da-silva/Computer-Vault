@@ -1,28 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "DINÂMICA",
-      "path": "notes/FÍSICA/DINÂMICA.md"
-    },
-    {
-      "basename": "note-604",
-      "path": "notes/note-604.md"
-    },
-    {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
-    },
-    {
-      "basename": "CINEMÁTICA",
-      "path": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
+      "basename": "note-599",
+      "path": "notes/note-599.md"
     },
     {
       "basename": "note-542",
       "path": "notes/note-542.md"
     },
     {
-      "basename": "note-599",
-      "path": "notes/note-599.md"
+      "basename": "ONDULATÓRIA e ÓTICA",
+      "path": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md"
+    },
+    {
+      "basename": "note-32",
+      "path": "notes/note-32.md"
+    },
+    {
+      "basename": "EEAR",
+      "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "DINÂMICA",
+      "path": "notes/FÍSICA/DINÂMICA.md"
+    },
+    {
+      "basename": "CINEMÁTICA",
+      "path": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
+    },
+    {
+      "basename": "note-604",
+      "path": "notes/note-604.md"
     },
     {
       "basename": "note-603",
@@ -191,14 +199,6 @@
     {
       "basename": "note-712",
       "path": "notes/note-712.md"
-    },
-    {
-      "basename": "note-622",
-      "path": "notes/note-622.md"
-    },
-    {
-      "basename": "note-175",
-      "path": "notes/note-175.md"
     }
   ],
   "omittedPaths": [],
