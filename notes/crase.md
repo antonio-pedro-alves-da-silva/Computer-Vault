@@ -153,7 +153,7 @@ Ele comprou sapatos **à** Luís XV. (Ele comprou sapatos à moda de Luís XV.
 
 - Obedeço à **toda** norma do colégio.(errado)
 - Obedeço a toda norma do colégio. (certo)
-### ==7)Entre palavras idênticas repetidas, como nas expressões: cara a cara, boca a boca etc==.:
+### ==7)Entre palavras idênticas repetidas, como nas expressões: cara a cara, boca a boca etc==.
 
 - Depois do afogamento, foi preciso fazer respiração **boca a boca.**
 - Todas as vezes em que o poeta ficava **cara a cara** com suas emoções
@@ -165,7 +165,6 @@ Antes de palavra feminina de caráter genérico
 - Não peço nenhum favor **a pessoas** de caráter duvidoso.
 
 exemplos de palavras feminas de caráter genérico :
-
 
 1. A sorte
 2. A criança
