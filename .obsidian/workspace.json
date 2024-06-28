@@ -20,24 +20,36 @@
             }
           },
           {
-            "id": "b44b3bbb7342705e",
+            "id": "0ae12b589fb94bd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-542.md",
+                "file": "notes/note-476.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3b18691eb684ea29",
+            "id": "3869e133d3a06500",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-543.md",
+                "file": "notes/note-686.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f509c97113600102",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lista de Tarefas/lista de tarefas.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-543.md",
+                "file": "notes/note-686.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-543.md",
+                "file": "notes/note-686.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-543.md"
+                "file": "notes/note-686.md"
               }
             }
           },
@@ -194,14 +206,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3b18691eb684ea29",
+  "active": "3869e133d3a06500",
   "lastOpenFiles": [
+    "Lista de Tarefas/lista de tarefas.md",
+    "notes/note-686.md",
+    "notes/note-476.md",
+    "notes/note-689.md",
+    "notes/note-692.md",
+    "MATÉRIAS/EEAR.md",
     "notes/note-542.md",
     "notes/note-543.md",
-    "MATÉRIAS/EEAR.md",
     "notes/note-599.md",
     "notes/note-40.md",
-    "Lista de Tarefas/lista de tarefas.md",
     "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "notes/note-600.md",
     "notes/note-602.md",
@@ -218,10 +234,6 @@
     "notes/note-300.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-682.md",
-    "notes/note-679.md",
-    "notes/note-684.md",
-    "notes/note-688.md",
-    "notes/note-609.md",
     "images/Pasted image 20240614131854.png",
     "images/Pasted image 20240604221822.png",
     "images/Pasted image 20240528153058.png",
