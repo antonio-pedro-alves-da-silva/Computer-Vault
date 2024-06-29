@@ -32,16 +32,6 @@
             }
           },
           {
-            "id": "185223ec5747b2bf",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/print_screen_212.png"
-              }
-            }
-          },
-          {
             "id": "873ef297aa77c199",
             "type": "leaf",
             "state": {
@@ -54,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/print_screen_212.png",
+                "file": "notes/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/print_screen_212.png",
+                "file": "notes/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/print_screen_212.png"
+                "file": "notes/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md"
               }
             }
           },
@@ -205,8 +195,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "185223ec5747b2bf",
+  "active": "96026b0c108267be",
   "lastOpenFiles": [
+    "images/print_screen_212.png",
     "notes/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
     "MATÉRIAS/EEAR.md",
     "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
@@ -233,7 +224,6 @@
     "notes/note-543.md",
     "notes/note-599.md",
     "notes/note-40.md",
-    "notes/note-600.md",
     "images/Pasted image 20240614131854.png",
     "images/Pasted image 20240604221822.png",
     "images/Pasted image 20240528153058.png",
