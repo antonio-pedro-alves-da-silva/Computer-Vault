@@ -146,8 +146,13 @@
 | **seeping** into foreign languages.                                 | i**nfiltrando-se** em línguas estrangeiras.                       |
 | booked my ticket                                                    | reservei meu bilhete                                              |
 | They were crying to break out of the jar...                         | Eles estavam chorando para sair do pote...                        |
+|                                                                     |                                                                   |
 
-walnut
-flour
-cake tin
-
+| walnut       | noz           |
+| ------------ | ------------- |
+| flour        | farinha       |
+| cake tin     | forma de bolo |
+| nevertheless | no entanto    |
+| throughout   | ao longo de   |
+| therefore    | portanto      |
+| neither      | nem           |

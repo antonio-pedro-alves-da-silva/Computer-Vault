@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "0ae12b589fb94bd8",
+            "id": "914590a7e432f675",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,24 +32,12 @@
             }
           },
           {
-            "id": "3869e133d3a06500",
+            "id": "594e5faeb8ae7511",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-686.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f509c97113600102",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lista de Tarefas/lista de tarefas.md",
+                "file": "notes/note-681.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-686.md",
+                "file": "notes/note-681.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-686.md",
+                "file": "notes/note-681.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-686.md"
+                "file": "notes/note-681.md"
               }
             }
           },
@@ -206,14 +194,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3869e133d3a06500",
+  "active": "594e5faeb8ae7511",
   "lastOpenFiles": [
-    "Lista de Tarefas/lista de tarefas.md",
-    "notes/note-686.md",
     "notes/note-476.md",
+    "notes/note-681.md",
+    "MATÉRIAS/EEAR.md",
+    "notes/note-175.md",
+    "notes/note-686.md",
+    "MATÉRIAS/hobbies.md",
+    "Lista de Tarefas/lista de tarefas.md",
     "notes/note-689.md",
     "notes/note-692.md",
-    "MATÉRIAS/EEAR.md",
     "notes/note-542.md",
     "notes/note-543.md",
     "notes/note-599.md",
@@ -231,9 +222,6 @@
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-143.md",
     "notes/crase.md",
-    "notes/note-300.md",
-    "notes/GRAMÁTICA/questões erradas de português.md",
-    "notes/note-682.md",
     "images/Pasted image 20240614131854.png",
     "images/Pasted image 20240604221822.png",
     "images/Pasted image 20240528153058.png",
