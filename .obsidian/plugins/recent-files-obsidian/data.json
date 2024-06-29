@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "note-679",
-      "path": "notes/note-679.md"
+      "basename": "print_screen_212",
+      "path": "images/print_screen_212.png"
+    },
+    {
+      "basename": "GEOMETRIA ESPACIAL",
+      "path": "notes/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md"
     },
     {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "Polígonos",
+      "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md"
+    },
+    {
+      "basename": "note-679",
+      "path": "notes/note-679.md"
     },
     {
       "basename": "Estudo Analítico",
@@ -15,10 +27,6 @@
     {
       "basename": "note-471",
       "path": "notes/note-471.md"
-    },
-    {
-      "basename": "Polígonos",
-      "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md"
     },
     {
       "basename": "note-722",
@@ -191,14 +199,6 @@
     {
       "basename": "note-718",
       "path": "notes/note-718.md"
-    },
-    {
-      "basename": "note-653",
-      "path": "notes/note-653.md"
-    },
-    {
-      "basename": "note-658",
-      "path": "notes/note-658.md"
     }
   ],
   "omittedPaths": [],
