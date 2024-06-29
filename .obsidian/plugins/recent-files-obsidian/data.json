@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "TRIGONOMETRIA",
+      "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md"
+    },
+    {
+      "basename": "EEAR",
+      "path": "MATÉRIAS/EEAR.md"
+    },
+    {
       "basename": "note-679",
       "path": "notes/note-679.md"
     },
     {
       "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
       "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
-    },
-    {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
     },
     {
       "basename": "note-672",
@@ -195,10 +199,6 @@
     {
       "basename": "note-469",
       "path": "notes/note-469.md"
-    },
-    {
-      "basename": "print_screen_635",
-      "path": "images/print_screen_635.png"
     }
   ],
   "omittedPaths": [],
