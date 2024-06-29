@@ -113,7 +113,6 @@
 | Halted      | Interrompeu          |
 | Shave off   | Reduzir              |
 
-
 | Inglês                                                              | Português                                                         |
 | ------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | Corruption Scandal                                                  | Escândalo de Corrupção                                            |
@@ -146,7 +145,7 @@
 | **seeping** into foreign languages.                                 | i**nfiltrando-se** em línguas estrangeiras.                       |
 | booked my ticket                                                    | reservei meu bilhete                                              |
 | They were crying to break out of the jar...                         | Eles estavam chorando para sair do pote...                        |
-|                                                                     |                                                                   |
+
 
 | walnut       | noz           |
 | ------------ | ------------- |
@@ -156,3 +155,4 @@
 | throughout   | ao longo de   |
 | therefore    | portanto      |
 | neither      | nem           |
+
