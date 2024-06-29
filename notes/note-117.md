@@ -9,3 +9,4 @@ $x^2+y^2-4x-6y+4=0$
 do centro de curvatura e os soma ao outro lado da igualdade
 
 $x^{2}+y^{2}-4x-6y=-4+2^{2}+3^{2}$
+

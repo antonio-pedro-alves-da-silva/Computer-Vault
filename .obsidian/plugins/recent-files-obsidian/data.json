@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "TRIGONOMETRIA",
-      "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md"
+      "basename": "note-117",
+      "path": "notes/note-117.md"
     },
     {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
+      "basename": "Estudo Analítico",
+      "path": "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md"
+    },
+    {
+      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
+      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
     },
     {
       "basename": "note-679",
       "path": "notes/note-679.md"
     },
     {
-      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
-      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+      "basename": "EEAR",
+      "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "ONDULATÓRIA e ÓTICA",
+      "path": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md"
+    },
+    {
+      "basename": "note-451",
+      "path": "notes/note-451.md"
+    },
+    {
+      "basename": "TRIGONOMETRIA",
+      "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md"
     },
     {
       "basename": "note-672",
@@ -63,10 +79,6 @@
     {
       "basename": "note-40",
       "path": "notes/note-40.md"
-    },
-    {
-      "basename": "ONDULATÓRIA e ÓTICA",
-      "path": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md"
     },
     {
       "basename": "note-600",
@@ -187,18 +199,6 @@
     {
       "basename": "note-705",
       "path": "notes/note-705.md"
-    },
-    {
-      "basename": "note-709",
-      "path": "notes/note-709.md"
-    },
-    {
-      "basename": "note-716",
-      "path": "notes/note-716.md"
-    },
-    {
-      "basename": "note-469",
-      "path": "notes/note-469.md"
     }
   ],
   "omittedPaths": [],
