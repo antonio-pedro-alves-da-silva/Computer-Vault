@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "c9b042c6c00e2bcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/fissão nuclear de urânio.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9e67d7cc22639d19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-542.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a95a1c06fed40565",
             "type": "leaf",
             "state": {
@@ -68,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -144,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-546.md",
+                "file": "notes/note-543.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-546.md",
+                "file": "notes/note-543.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-546.md"
+                "file": "notes/note-543.md"
               }
             }
           },
@@ -219,12 +195,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d5a6ea87f89a4306",
+  "active": "a95a1c06fed40565",
   "lastOpenFiles": [
-    "notes/fissão nuclear de urânio.md",
     "notes/note-542.md",
-    "notes/note-543.md",
     "notes/note-546.md",
+    "notes/fissão nuclear de urânio.md",
+    "notes/note-543.md",
     "MATÉRIAS/EEAR.md",
     "notes/note-679.md",
     "notes/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
