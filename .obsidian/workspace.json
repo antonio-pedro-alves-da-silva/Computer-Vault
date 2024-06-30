@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "ed4b9db47f6c9b6d",
+            "id": "8805b01f797f77f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,12 +44,12 @@
             }
           },
           {
-            "id": "239daca40dd60c4c",
+            "id": "756a796e4ccc42d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-654.md",
+                "file": "notes/note-658.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,13 +110,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 323.51103591918945,
-    "collapsed": true
+    "width": 323.51103591918945
   },
   "right": {
     "id": "ee4e8bcf9413ed0e",
@@ -132,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-654.md",
+                "file": "notes/note-658.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-654.md",
+                "file": "notes/note-658.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-654.md"
+                "file": "notes/note-658.md"
               }
             }
           },
@@ -207,12 +205,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "239daca40dd60c4c",
+  "active": "7d2ff1388fc577af",
   "lastOpenFiles": [
-    "notes/note-655.md",
-    "notes/note-654.md",
     "notes/note-653.md",
+    "notes/note-658.md",
+    "notes/note-662.md",
     "notes/note-476.md",
+    "notes/note-661.md",
+    "notes/note-660.md",
+    "notes/note-659.md",
+    "notes/note-654.md",
+    "notes/note-655.md",
     "MATÉRIAS/EEAR.md",
     "notes/FÍSICA/DINÂMICA.md",
     "images/print_screen_509.png",
@@ -234,11 +237,6 @@
     "notes/note-547.md",
     "notes/FÍSICA/TERMOLOGIA.md",
     "notes/note-553.md",
-    "notes/note-723.md",
-    "notes/note-577.md",
-    "notes/note-576.md",
-    "notes/fissão nuclear de urânio.md",
-    "notes/note-679.md",
     "images/print_screen_212.png",
     "images/print_screen_698.png",
     "images/Pasted image 20240614131854.png",
