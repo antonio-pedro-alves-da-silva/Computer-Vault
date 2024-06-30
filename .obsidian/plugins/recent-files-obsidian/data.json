@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "vetores",
-      "path": "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md"
+      "basename": "CINEMÁTICA",
+      "path": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
+    },
+    {
+      "basename": "note-460",
+      "path": "notes/note-460.md"
+    },
+    {
+      "basename": "note-467",
+      "path": "notes/note-467.md"
     },
     {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "Pasted image 20231227161652",
+      "path": "images/Pasted image 20231227161652.png"
+    },
+    {
+      "basename": "print_screen_247",
+      "path": "images/print_screen_247.png"
+    },
+    {
+      "basename": "vetores",
+      "path": "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md"
     },
     {
       "basename": "CONCEITOS BÁSICOS E FUNDAMENTAIS",
@@ -173,32 +193,12 @@
       "path": "notes/FÍSICA/DINÂMICA.md"
     },
     {
-      "basename": "CINEMÁTICA",
-      "path": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
-    },
-    {
       "basename": "note-604",
       "path": "notes/note-604.md"
     },
     {
       "basename": "note-603",
       "path": "notes/note-603.md"
-    },
-    {
-      "basename": "note-219",
-      "path": "notes/note-219.md"
-    },
-    {
-      "basename": "note-143",
-      "path": "notes/note-143.md"
-    },
-    {
-      "basename": "crase",
-      "path": "notes/crase.md"
-    },
-    {
-      "basename": "note-300",
-      "path": "notes/note-300.md"
     }
   ],
   "omittedPaths": [],

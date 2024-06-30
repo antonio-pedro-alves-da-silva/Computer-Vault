@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "c5dbbd4bb280f3b8",
+            "id": "2ddbf6013cad5966",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
+                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
+                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
+                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md"
+                "file": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
               }
             }
           },
@@ -183,9 +183,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c5dbbd4bb280f3b8",
+  "active": "2ddbf6013cad5966",
   "lastOpenFiles": [
+    "notes/note-460.md",
+    "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
+    "notes/note-467.md",
     "MATÉRIAS/EEAR.md",
+    "images/Pasted image 20231227161652.png",
+    "images/print_screen_247.png",
+    "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
     "notes/CONCEITOS BÁSICOS E FUNDAMENTAIS.md",
     "notes/raiz quadrada de 11 até 40.md",
     "notes/note-542.md",
@@ -208,19 +214,13 @@
     "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md",
     "notes/note-471.md",
     "notes/note-722.md",
-    "notes/note-117.md",
     "images/print_screen_698.png",
-    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
-    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
-    "notes/note-451.md",
     "images/Pasted image 20240614131854.png",
     "images/Pasted image 20240604221822.png",
     "images/Pasted image 20240528153058.png",
     "images/Pasted image 20240519163843.png",
     "images/Pasted image 20240519163839.png",
     "images/Pasted image 20240519163834.png",
-    "images/Pasted image 20240519163727.png",
-    "images/Pasted image 20240519163722.png",
     "my-configuration-files/backup/cfs/cfs-b_2_31_2016.pdf",
     "my-configuration-files/backup/cfs/cfs-b_2_2016.pdf",
     "my-configuration-files/backup/cfs/cfs-b_2_2016.pdf.crdownload",
