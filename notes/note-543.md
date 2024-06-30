@@ -1,12 +1,12 @@
 
 73)d
 77)d 
-79)b -
-80)
-81)
-86)
-87)não há corrente em circurto aberto
-89)efeito fotoelétrico
+79)b
+80)c
+81)c
+86)c
+87)d - não há corrente em circurto aberto
+89)c - efeito fotoelétrico
 91)
 94)
 95)modelos atômicos
