@@ -8,6 +8,6 @@
 87)d - não há corrente em circurto aberto
 89)c - efeito fotoelétrico
 91)d
-94)- varaição de temperatura formulas
+94)c - [[note-723|varicação de temperatura]]
 95)modelos atômicos
 

@@ -4,7 +4,7 @@ termologia
 	diferença entre calefação , ebuilçaõ e evaporização
 	[[Pasted image 20240129211500.png|zero absoluto , ponto de ebulição e de fusão]]
 	[[note-84|Transferência de calor e Equlíbrio térmico]]
-	[[note-547|escalas celsius e fahrenheit , kelvin e reaumur]]
+	[[note-547|escalas celsius e fahrenheit , kelvin e reaumur]] e [[note-723|varicação de temperatura]]
 	dilatação térmica       
 		[[Pasted image 20231214210504.png|dilatação linear]]
 		[[print_screen_463.png|dilatação superficial]]
