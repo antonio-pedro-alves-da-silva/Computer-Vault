@@ -5,6 +5,10 @@
       "path": "notes/note-654.md"
     },
     {
+      "basename": "note-655",
+      "path": "notes/note-655.md"
+    },
+    {
       "basename": "note-653",
       "path": "notes/note-653.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "note-40",
       "path": "notes/note-40.md"
-    },
-    {
-      "basename": "note-600",
-      "path": "notes/note-600.md"
     }
   ],
   "omittedPaths": [],
