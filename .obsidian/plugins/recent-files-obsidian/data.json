@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "raiz quadrada de 11 até 40",
-      "path": "notes/raiz quadrada de 11 até 40.md"
+      "basename": "vetores",
+      "path": "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md"
     },
     {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "CONCEITOS BÁSICOS E FUNDAMENTAIS",
+      "path": "notes/CONCEITOS BÁSICOS E FUNDAMENTAIS.md"
+    },
+    {
+      "basename": "raiz quadrada de 11 até 40",
+      "path": "notes/raiz quadrada de 11 até 40.md"
     },
     {
       "basename": "note-542",
@@ -191,14 +199,6 @@
     {
       "basename": "note-300",
       "path": "notes/note-300.md"
-    },
-    {
-      "basename": "questões erradas de português",
-      "path": "notes/GRAMÁTICA/questões erradas de português.md"
-    },
-    {
-      "basename": "note-682",
-      "path": "notes/note-682.md"
     }
   ],
   "omittedPaths": [],

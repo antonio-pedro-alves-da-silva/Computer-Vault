@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "5f3f3d62b9024dc8",
+            "id": "c5dbbd4bb280f3b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/raiz quadrada de 11 até 40.md",
+                "file": "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/raiz quadrada de 11 até 40.md",
+                "file": "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/raiz quadrada de 11 até 40.md",
+                "file": "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/raiz quadrada de 11 até 40.md"
+                "file": "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md"
               }
             }
           },
@@ -183,9 +183,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5f3f3d62b9024dc8",
+  "active": "c5dbbd4bb280f3b8",
   "lastOpenFiles": [
     "MATÉRIAS/EEAR.md",
+    "notes/CONCEITOS BÁSICOS E FUNDAMENTAIS.md",
+    "notes/raiz quadrada de 11 até 40.md",
     "notes/note-542.md",
     "notes/note-546.md",
     "notes/note-543.md",
@@ -211,8 +213,6 @@
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "notes/note-451.md",
-    "notes/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md",
-    "notes/note-672.md",
     "images/Pasted image 20240614131854.png",
     "images/Pasted image 20240604221822.png",
     "images/Pasted image 20240528153058.png",
