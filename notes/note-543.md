@@ -9,5 +9,5 @@
 89)c - efeito fotoelétrico
 91)d
 94)c - [[note-723|varicação de temperatura]]
-95)modelos atômicos
+95)b - modelos atômicos
 

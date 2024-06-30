@@ -1,5 +1,5 @@
 
-Modelos atômicos
+Modelos atômicos(dtrbs)
 	[[note-548|John dalton]]
 	[[note-549|J.J Thomson]]
 	[[note-550|Ernest Rutherford]]
