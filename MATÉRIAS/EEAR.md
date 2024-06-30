@@ -1006,7 +1006,7 @@ FÍSICA
 		gráficos
 		lançamentos e queda livre
 		Movimento Rétilineo Circular uniforme
-	[[DINÂMICA]](easy one)
+	[[DINÂMICA]](easy one)-
 	[[ESTÁTICA]]
 	[[HIDROESTÁTICA]]
 	[[GRAVITAÇÃO]]

@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "DINÂMICA",
-      "path": "notes/FÍSICA/DINÂMICA.md"
+      "basename": "note-654",
+      "path": "notes/note-654.md"
+    },
+    {
+      "basename": "note-653",
+      "path": "notes/note-653.md"
+    },
+    {
+      "basename": "note-476",
+      "path": "notes/note-476.md"
     },
     {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "DINÂMICA",
+      "path": "notes/FÍSICA/DINÂMICA.md"
+    },
+    {
+      "basename": "print_screen_509",
+      "path": "images/print_screen_509.png"
     },
     {
       "basename": "print_screen_513",
@@ -153,10 +169,6 @@
       "path": "notes/note-175.md"
     },
     {
-      "basename": "note-476",
-      "path": "notes/note-476.md"
-    },
-    {
       "basename": "note-681",
       "path": "notes/note-681.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "note-600",
       "path": "notes/note-600.md"
-    },
-    {
-      "basename": "note-602",
-      "path": "notes/note-602.md"
-    },
-    {
-      "basename": "note-32",
-      "path": "notes/note-32.md"
-    },
-    {
-      "basename": "note-604",
-      "path": "notes/note-604.md"
     }
   ],
   "omittedPaths": [],
