@@ -32,31 +32,19 @@
             }
           },
           {
-            "id": "8805b01f797f77f9",
+            "id": "60458b5b2dc7265c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-653.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "756a796e4ccc42d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-658.md",
+                "file": "notes/note-643.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.51103591918945
+    "width": 323.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "ee4e8bcf9413ed0e",
@@ -130,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-658.md",
+                "file": "notes/note-643.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-658.md",
+                "file": "notes/note-643.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-658.md"
+                "file": "notes/note-643.md"
               }
             }
           },
@@ -205,12 +194,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7d2ff1388fc577af",
+  "active": "60458b5b2dc7265c",
   "lastOpenFiles": [
+    "notes/note-476.md",
+    "notes/note-643.md",
     "notes/note-653.md",
     "notes/note-658.md",
     "notes/note-662.md",
-    "notes/note-476.md",
     "notes/note-661.md",
     "notes/note-660.md",
     "notes/note-659.md",
@@ -236,7 +226,6 @@
     "notes/FÍSICA/ELETRICIDADE.md",
     "notes/note-547.md",
     "notes/FÍSICA/TERMOLOGIA.md",
-    "notes/note-553.md",
     "images/print_screen_212.png",
     "images/print_screen_698.png",
     "images/Pasted image 20240614131854.png",
