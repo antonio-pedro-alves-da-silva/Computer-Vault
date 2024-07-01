@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f5e5ffe531e824e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-664.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "notes/note-664.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "notes/note-664.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+                "file": "notes/note-664.md"
               }
             }
           },
@@ -182,10 +194,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d7e3b70fa383e641",
+  "active": "f5e5ffe531e824e6",
   "lastOpenFiles": [
-    "notes/note-679.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "notes/note-664.md",
+    "notes/note-672.md",
+    "notes/note-679.md",
     "MATÉRIAS/EEAR.md",
     "notes/note-476.md",
     "notes/note-642.md",
@@ -212,8 +226,6 @@
     "notes/note-542.md",
     "notes/note-546.md",
     "notes/note-543.md",
-    "notes/note-550.md",
-    "notes/note-573.md",
     "images/print_screen_212.png",
     "images/print_screen_698.png",
     "images/Pasted image 20240614131854.png",

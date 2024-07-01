@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "note-664",
+      "path": "notes/note-664.md"
+    },
+    {
       "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
       "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+    },
+    {
+      "basename": "note-672",
+      "path": "notes/note-672.md"
     },
     {
       "basename": "note-679",
@@ -191,14 +199,6 @@
     {
       "basename": "TRIGONOMETRIA",
       "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md"
-    },
-    {
-      "basename": "note-672",
-      "path": "notes/note-672.md"
-    },
-    {
-      "basename": "note-175",
-      "path": "notes/note-175.md"
     }
   ],
   "omittedPaths": [],
