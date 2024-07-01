@@ -197,6 +197,7 @@ No entanto, se essas duas palavras (“casa” e “terra”) forem qualificadas
 ### 11)Antes de nomes de pessoas famosas
 ### ==12)"Antes dos seguintes pronomes: “ninguém”, “essa”, “toda”, “cada”, “qualquer”, “tudo”"==
 para lebrar netcqt
+
 ### 13)Antes de numerais
 
 ### 14)Em expressões adverbiais de modo com substantivo no plural
@@ -205,11 +206,14 @@ para lebrar netcqt
 - **Os funcionários** resolveram tudo **a pauladas**.
 
 
-### ==15)Por outro lado, **quando acompanhadas de preposições (para, desde, após, perante, com), não se utiliza a crase**==
+### ==15)Por outro lado, **quando acompanhadas de preposições (para,perante, desde, após, com), não se utiliza a crase**==
+
+ppdac
 
 - Logo após a promulgação do decreto, houve protestos em várias cidades.
 
-# quando a crase é facultativa
+# quando a crase é facultativa (áppá)
+
 A crase será facultativa **quando a presença do artigo definido feminino “a” ou a preposição “a” também for facultativa, podendo ou não estar presente na frase**. Dessa forma, se o artigo e a preposição estiverem na frase, o uso da crase é obrigatório, pois há contração da preposição “a” com o artigo “a”
 ### ==depois da preposição até==
 	fui até á praça ou fui até a praça
@@ -243,7 +247,6 @@ Não dão valor **a nossa** opinião."
 
 - “Às vezes”, com crase, é uma locução adverbial indicativa de tempo, que significa “ocasionalmente”, “de vez em quando”, “de quando em quando”, “em alguns momentos ou situações”.
 - as vezes sem crase tem sentido de "fazes as vezes de" , 'as ocasiões'
-- 
 
 ### Antes dos seguintes nomes de lugar: Europa, Ásia, África, França, Inglaterra, Espanha, Holanda, Escócia e Flandres.
 
