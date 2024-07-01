@@ -217,8 +217,8 @@ o verbo fica sempre na 3ª pessoa (do singular ou do plural).
 [[note-714|Se a porcentagem vier depois do verbo]]
 
 [[note-715|Se o número percentual vier determinado por artigo, pronome ou adjetivo]]
-
-eada = extenso antes depois artigo/pronome/adjetivo 
+ 
+epna = extenso posposto numeral artigo/pronome/adjetivo 
 
 ### ==25.sujeito composto==
 
