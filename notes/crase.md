@@ -243,10 +243,8 @@ ou
 Não dão valor **a nossa** opinião."
  
 
-### [as vezes ou ás vezes](https://www.trf3.jus.br/emag/emagconecta/conexaoemag-lingua-portuguesa/as-vezes-as-vezes#:~:text=%E2%80%9C%C3%80s%20vezes%E2%80%9D%2C%20com%20crase,eficaz%20de%20combater%20a%20depress%C3%A3o.%E2%80%9D)
 
-- “Às vezes”, com crase, é uma locução adverbial indicativa de tempo, que significa “ocasionalmente”, “de vez em quando”, “de quando em quando”, “em alguns momentos ou situações”.
-- as vezes sem crase tem sentido de "fazes as vezes de" , 'as ocasiões'
+# [[note-724|as vezes]] ou [[note-725|ás vezes]]
 
 ### Antes dos seguintes nomes de lugar: Europa, Ásia, África, França, Inglaterra, Espanha, Holanda, Escócia e Flandres.
 

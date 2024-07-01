@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "41a8c636f1d0f0b1",
+            "id": "9ec79ac0cdbf8fb9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "c5fe6484120efe20",
+            "id": "a3e26c37103c0229",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/crase.md",
+                "file": "notes/GRAMÁTICA/concordância verbal.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/crase.md",
+                "file": "notes/GRAMÁTICA/concordância verbal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/crase.md",
+                "file": "notes/GRAMÁTICA/concordância verbal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/crase.md"
+                "file": "notes/GRAMÁTICA/concordância verbal.md"
               }
             }
           },
@@ -194,10 +194,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c5fe6484120efe20",
+  "active": "a3e26c37103c0229",
   "lastOpenFiles": [
     "notes/note-143.md",
+    "notes/crase.md",
     "MATÉRIAS/EEAR.md",
+    "notes/note-724.md",
+    "notes/note-725.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-664.md",
@@ -223,9 +226,6 @@
     "images/Pasted image 20231227161652.png",
     "images/print_screen_247.png",
     "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md",
-    "notes/CONCEITOS BÁSICOS E FUNDAMENTAIS.md",
-    "notes/raiz quadrada de 11 até 40.md",
-    "notes/note-542.md",
     "images/print_screen_212.png",
     "images/print_screen_698.png",
     "images/Pasted image 20240614131854.png",

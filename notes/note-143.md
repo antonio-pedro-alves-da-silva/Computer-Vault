@@ -12,8 +12,8 @@ formação de palavras
 			tic-tac
 			miau
 			zum-zum
-[[crase]] -
-[[concordância verbal]]
+[[crase]] 
+[[concordância verbal]] -
 [[concordância nominal]]
 [[note-335|separação silábica]] 
 [[notes/GRAMÁTICA/pronome relativo#==regras do pronome “cujo”==|pronome relativo cujo]]
