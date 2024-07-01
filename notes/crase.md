@@ -2,7 +2,7 @@
 revisão
 	[[note-357|quando usar]]
 		[[crase#==1. antes de palavras femininas==|1.]]feminas
-		[[crase#==2. após verbos que indicam destino(ir, voltar,vir)==|2.]]destino
+		[[crase#==2. após verbos que indicam destino(ir, voltar,vir)==|2.]]destino(ivv)
 		[[crase#4. ==antes dos pronomes demonstrativos aquele , aquela , aquilo==|4.]]demonstrativos
 		[[crase#==7. na indicação de horas exatas.==|7.]]indicação de hora exata
 	[[note-358|quando não usar]] 

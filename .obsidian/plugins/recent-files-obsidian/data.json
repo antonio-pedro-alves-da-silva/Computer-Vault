@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "crase",
+      "path": "notes/crase.md"
+    },
+    {
+      "basename": "note-143",
+      "path": "notes/note-143.md"
+    },
+    {
+      "basename": "EEAR",
+      "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "questões erradas de português",
+      "path": "notes/GRAMÁTICA/questões erradas de português.md"
+    },
+    {
       "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
       "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
     },
@@ -15,10 +31,6 @@
     {
       "basename": "note-679",
       "path": "notes/note-679.md"
-    },
-    {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
     },
     {
       "basename": "note-476",
@@ -187,18 +199,6 @@
     {
       "basename": "note-117",
       "path": "notes/note-117.md"
-    },
-    {
-      "basename": "ONDULATÓRIA e ÓTICA",
-      "path": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md"
-    },
-    {
-      "basename": "note-451",
-      "path": "notes/note-451.md"
-    },
-    {
-      "basename": "TRIGONOMETRIA",
-      "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md"
     }
   ],
   "omittedPaths": [],

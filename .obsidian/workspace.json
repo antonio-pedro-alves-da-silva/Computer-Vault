@@ -20,31 +20,43 @@
             }
           },
           {
-            "id": "d7e3b70fa383e641",
+            "id": "41a8c636f1d0f0b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "notes/note-143.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f5e5ffe531e824e6",
+            "id": "fd37abf0c6abb35b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-664.md",
+                "file": "notes/crase.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5fe6484120efe20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/crase.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -119,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "notes/crase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "notes/crase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+                "file": "notes/crase.md"
               }
             }
           },
@@ -194,13 +206,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d7e3b70fa383e641",
+  "active": "c5fe6484120efe20",
   "lastOpenFiles": [
-    "notes/note-664.md",
+    "notes/note-143.md",
+    "MATÉRIAS/EEAR.md",
+    "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "notes/note-664.md",
     "notes/note-672.md",
     "notes/note-679.md",
-    "MATÉRIAS/EEAR.md",
     "notes/note-476.md",
     "notes/note-642.md",
     "notes/note-643.md",
@@ -224,8 +238,6 @@
     "notes/CONCEITOS BÁSICOS E FUNDAMENTAIS.md",
     "notes/raiz quadrada de 11 até 40.md",
     "notes/note-542.md",
-    "notes/note-546.md",
-    "notes/note-543.md",
     "images/print_screen_212.png",
     "images/print_screen_698.png",
     "images/Pasted image 20240614131854.png",
