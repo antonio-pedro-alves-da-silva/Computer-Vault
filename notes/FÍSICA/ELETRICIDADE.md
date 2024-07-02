@@ -28,7 +28,7 @@ eletricidade
 			[[note-214|o que é o potencial elétrico ??]]
 			[[print_screen_590.png|potência elétrico gerado por uma carga fonte]]
 			[[print_screen_588.png|potencial elétrico entre uma carga fonte e uma carga de prova]]
-			[[print_screen_589.png|potencial elétrico gerado por várias cargas fontes]]
+			[[print_screen_589.png|potencial elétrico gerado por várias cargas fontes em um ponto específico]]
 		campo elétrico de cargas puntiformes
 			[[print_screen_582.png|campo elétrico de cargas puntiformes e direção do campo elétrico]]
 			[[print_screen_685.png|direção do campo elétrico]]
