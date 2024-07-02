@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "ESTÁTICA",
-      "path": "notes/FÍSICA/ESTÁTICA.md"
+      "basename": "HIDROESTÁTICA",
+      "path": "notes/FÍSICA/HIDROESTÁTICA.md"
     },
     {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "ESTÁTICA",
+      "path": "notes/FÍSICA/ESTÁTICA.md"
+    },
+    {
+      "basename": "note-475",
+      "path": "notes/note-475.md"
     },
     {
       "basename": "note-446",
@@ -191,14 +199,6 @@
     {
       "basename": "ELETRICIDADE",
       "path": "notes/FÍSICA/ELETRICIDADE.md"
-    },
-    {
-      "basename": "note-547",
-      "path": "notes/note-547.md"
-    },
-    {
-      "basename": "TERMOLOGIA",
-      "path": "notes/FÍSICA/TERMOLOGIA.md"
     }
   ],
   "omittedPaths": [],
