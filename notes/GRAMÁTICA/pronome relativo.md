@@ -16,7 +16,6 @@ Os pronomes relativos retomam um substantivo mencionado anteriormente na frase. 
 - não se usa artigo após ao pronome cujo
 - o pronome cujo pode vir preposicionado
 
- Quando pairar dúvidas acerca do uso do pronome cujo, siga as seguintes estratégias com as informações já citadas anteriormente:
 
 **1 –** O pronome relativo cujo vem entre dois substantivos, dando-lhes uma relação de posse.
 

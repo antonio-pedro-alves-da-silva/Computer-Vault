@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "concordância nominal",
-      "path": "notes/GRAMÁTICA/concordância nominal.md"
+      "basename": "DINÂMICA",
+      "path": "notes/FÍSICA/DINÂMICA.md"
+    },
+    {
+      "basename": "note-542",
+      "path": "notes/note-542.md"
+    },
+    {
+      "basename": "EEAR",
+      "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "CINEMÁTICA",
+      "path": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
     },
     {
       "basename": "note-143",
       "path": "notes/note-143.md"
+    },
+    {
+      "basename": "pronome relativo",
+      "path": "notes/GRAMÁTICA/pronome relativo.md"
+    },
+    {
+      "basename": "note-335",
+      "path": "notes/note-335.md"
+    },
+    {
+      "basename": "concordância nominal",
+      "path": "notes/GRAMÁTICA/concordância nominal.md"
     },
     {
       "basename": "concordância verbal",
@@ -15,10 +39,6 @@
     {
       "basename": "crase",
       "path": "notes/crase.md"
-    },
-    {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
     },
     {
       "basename": "note-724",
@@ -93,20 +113,12 @@
       "path": "notes/note-655.md"
     },
     {
-      "basename": "DINÂMICA",
-      "path": "notes/FÍSICA/DINÂMICA.md"
-    },
-    {
       "basename": "print_screen_509",
       "path": "images/print_screen_509.png"
     },
     {
       "basename": "print_screen_513",
       "path": "images/print_screen_513.png"
-    },
-    {
-      "basename": "CINEMÁTICA",
-      "path": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
     },
     {
       "basename": "note-460",
@@ -135,10 +147,6 @@
     {
       "basename": "raiz quadrada de 11 até 40",
       "path": "notes/raiz quadrada de 11 até 40.md"
-    },
-    {
-      "basename": "note-542",
-      "path": "notes/note-542.md"
     },
     {
       "basename": "note-546",
@@ -191,14 +199,6 @@
     {
       "basename": "GEOMETRIA ESPACIAL",
       "path": "notes/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md"
-    },
-    {
-      "basename": "print_screen_212",
-      "path": "images/print_screen_212.png"
-    },
-    {
-      "basename": "Polígonos",
-      "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md"
     }
   ],
   "omittedPaths": [],

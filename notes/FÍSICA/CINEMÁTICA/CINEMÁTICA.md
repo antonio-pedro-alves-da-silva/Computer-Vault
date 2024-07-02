@@ -13,7 +13,7 @@ cinemática
 		[[Pasted image 20231227161652.png|lançamento oblíquo vetores]]
 		[[note-467|lançamento oblíquo formulas]]
 		[[note-460|lançamento oblíquo do alto]]
-	[[note-469|lançamento no plano inclinado]]
+	[[note-469|lançamento vertical no plano inclinado]]
 	movimento rétilineo circular uniforme
 		[[print_screen_250.png|espaço linear]]
 		[[note-4|periodo e frequência]]

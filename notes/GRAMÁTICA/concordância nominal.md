@@ -115,6 +115,7 @@ O verbo "é necessário" concorda com o substantivo "uniforme" no singular, e a 
 ### ==5. **Concordância dos particípios**==  
 
 #### invariável
+
 Se o particípio pertencer a um [[tempo composto]], será invariável.
 
 - O juiz tinha iniciado o jogo de vôlei./ A juíza tinha iniciado o jogo de vôlei.
@@ -132,7 +133,6 @@ se o sujeito apresenta uma **forma de tratamento**, o adjetivo predicativo conc
 
 - Vossa Excelência está **confuso**.
 - Vossa Excelência está **confusa**.
-
 
 ### 7.Predicativo do objeto com Objeto direto
 **substantivos de mesmo gênero** -> fica no plural
