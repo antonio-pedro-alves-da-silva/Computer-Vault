@@ -5,16 +5,20 @@
       "path": "notes/FÍSICA/DINÂMICA.md"
     },
     {
-      "basename": "note-604",
-      "path": "notes/note-604.md"
-    },
-    {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
     },
     {
       "basename": "ONDULATÓRIA e ÓTICA",
       "path": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md"
+    },
+    {
+      "basename": "note-2",
+      "path": "notes/note-2.md"
+    },
+    {
+      "basename": "note-604",
+      "path": "notes/note-604.md"
     },
     {
       "basename": "note-542",
@@ -195,10 +199,6 @@
     {
       "basename": "note-577",
       "path": "notes/note-577.md"
-    },
-    {
-      "basename": "note-576",
-      "path": "notes/note-576.md"
     }
   ],
   "omittedPaths": [],
