@@ -20,19 +20,31 @@
             }
           },
           {
-            "id": "3fe37fbdc534e0ae",
+            "id": "315a54596f54ecd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md",
+                "file": "notes/note-476.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "460372271954386a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-642.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md",
+                "file": "notes/note-642.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md",
+                "file": "notes/note-642.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/ELETRICIDADE.md"
+                "file": "notes/note-642.md"
               }
             }
           },
@@ -182,10 +194,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3fe37fbdc534e0ae",
+  "active": "460372271954386a",
   "lastOpenFiles": [
+    "notes/note-476.md",
+    "notes/note-642.md",
     "MATÉRIAS/EEAR.md",
     "notes/FÍSICA/ELETRICIDADE.md",
+    "notes/note-218.md",
+    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
+    "notes/FÍSICA/DINÂMICA.md",
     "Lista de Tarefas/lista de tarefas.md",
     "images/Pasted image 20231201133941.png",
     "notes/note-15.md",
@@ -195,9 +212,7 @@
     "notes/FÍSICA/ESTÁTICA.md",
     "notes/note-475.md",
     "notes/note-446.md",
-    "notes/FÍSICA/DINÂMICA.md",
     "notes/note-473.md",
-    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "notes/note-2.md",
     "notes/note-604.md",
     "images/print_screen_699.png",
@@ -210,9 +225,6 @@
     "notes/GRAMÁTICA/concordância verbal.md",
     "notes/crase.md",
     "notes/note-724.md",
-    "notes/note-725.md",
-    "notes/GRAMÁTICA/questões erradas de português.md",
-    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "images/print_screen_509.png",
     "images/print_screen_513.png",
     "images/Pasted image 20231227161652.png",

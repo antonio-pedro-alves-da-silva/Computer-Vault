@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "ELETRICIDADE",
-      "path": "notes/FÍSICA/ELETRICIDADE.md"
+      "basename": "note-642",
+      "path": "notes/note-642.md"
+    },
+    {
+      "basename": "note-476",
+      "path": "notes/note-476.md"
     },
     {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "ELETRICIDADE",
+      "path": "notes/FÍSICA/ELETRICIDADE.md"
+    },
+    {
+      "basename": "note-218",
+      "path": "notes/note-218.md"
+    },
+    {
+      "basename": "ONDULATÓRIA e ÓTICA",
+      "path": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md"
+    },
+    {
+      "basename": "DINÂMICA",
+      "path": "notes/FÍSICA/DINÂMICA.md"
     },
     {
       "basename": "lista de tarefas",
@@ -45,16 +65,8 @@
       "path": "notes/note-446.md"
     },
     {
-      "basename": "DINÂMICA",
-      "path": "notes/FÍSICA/DINÂMICA.md"
-    },
-    {
       "basename": "note-473",
       "path": "notes/note-473.md"
-    },
-    {
-      "basename": "ONDULATÓRIA e ÓTICA",
-      "path": "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md"
     },
     {
       "basename": "note-2",
@@ -125,14 +137,6 @@
       "path": "notes/note-679.md"
     },
     {
-      "basename": "note-476",
-      "path": "notes/note-476.md"
-    },
-    {
-      "basename": "note-642",
-      "path": "notes/note-642.md"
-    },
-    {
       "basename": "note-643",
       "path": "notes/note-643.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "vetores",
       "path": "notes/FÍSICA/CONCEITOS BÁSICOS E FUNDAMENTAIS/vetores.md"
-    },
-    {
-      "basename": "CONCEITOS BÁSICOS E FUNDAMENTAIS",
-      "path": "notes/CONCEITOS BÁSICOS E FUNDAMENTAIS.md"
     }
   ],
   "omittedPaths": [],

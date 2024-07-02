@@ -159,7 +159,7 @@ ondulatória
 		refração da luz
 			 [1](https://www.qconcursos.com/questoes-militares/questoes/a79bf388-6b)(exercício de aplicação de indice de refração relativo)
 			 [2](https://www.qconcursos.com/questoes-militares/questoes/464932f5-49)(lâminas paralelas)
-			 [3](https://www.qconcursos.com/questoes-militares/questoes/67bd5226-86)(prisma angulo de Abertura A e Desvio Mínimo , <span style="color:#ff0000">cuidado ele quer o angulo de abertua não o desvio mínimo</span>)-onde parei
+			 [3](https://www.qconcursos.com/questoes-militares/questoes/67bd5226-86)(prisma angulo de Abertura A e Desvio Mínimo , <span style="color:#ff0000">cuidado ele quer o angulo de abertua não o desvio mínimo</span>)
 			 [4](https://www.qconcursos.com/questoes-militares/questoes/fdac0247-f8)(indice de refração relativo)
 		espelhos esféricos
 			 [2](https://www.qconcursos.com/questoes-militares/questoes/b200bff0-01)([[Pasted image 20240122181909.png|equação dos pontos conjugados]]e aumento linear transversal,<span style="color:#ff0000">CUIDADO ELE AFASTOU 40CM ENTÃO ELE ESTÁ HÁ 60CM</span>)

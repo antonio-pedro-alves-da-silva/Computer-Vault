@@ -16,7 +16,7 @@ Pêndulo
 	[[note-176|pendulo simples oscilando no ponto mais baixo]]
 	[[print_screen_509.png|pendulo simples parado e oscilando no ponto mais alto]]
 	[[print_screen_511.png|pêndulo cônico]]
-energia , trabalho e potência - onde parei
+energia , trabalho e potência
 	 [[print_screen_258.png|Trabalho motor e trabalho resistênte]]
 	 [[print_screen_259.png|Trabalho de uma força]]
 	 [[Pasted image 20231126074712.png|formulas relacionadas a força elástica]]
