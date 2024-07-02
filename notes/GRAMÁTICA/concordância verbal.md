@@ -226,8 +226,7 @@ a) **Quando o sujeito composto estiver antes do verbo, esse último ficará no 
 
 ### ==26.Concordância dos particípios==
 
-
-se estiverem no tempo composto será invariável se não eles irão concordar com o substantivo que se referirem'
+se estiverem **no tempo composto será invariáve**l se não eles irão concordar com o substantivo que se referirem'
 
 Exemplos:  
   

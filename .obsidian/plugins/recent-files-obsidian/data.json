@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "concordância verbal",
-      "path": "notes/GRAMÁTICA/concordância verbal.md"
+      "basename": "concordância nominal",
+      "path": "notes/GRAMÁTICA/concordância nominal.md"
     },
     {
       "basename": "note-143",
       "path": "notes/note-143.md"
+    },
+    {
+      "basename": "concordância verbal",
+      "path": "notes/GRAMÁTICA/concordância verbal.md"
     },
     {
       "basename": "crase",
@@ -195,10 +199,6 @@
     {
       "basename": "Polígonos",
       "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md"
-    },
-    {
-      "basename": "Estudo Analítico",
-      "path": "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md"
     }
   ],
   "omittedPaths": [],
