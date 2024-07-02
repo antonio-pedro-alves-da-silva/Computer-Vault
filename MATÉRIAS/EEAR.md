@@ -867,6 +867,7 @@ LÍNGUA INGLESA
 		[[note-323|Infinitivo , gerúndio e particípio]]
 		[[note-319|Modos imperativo]] e [[note-322|subjuntivo]]
 		[[note-717|comparative and superlative]]
+		[[note-709|types of conditional]]
 		Orações condicionais (0, 1 e 2)
 		Question Tags
 		Quantificadores

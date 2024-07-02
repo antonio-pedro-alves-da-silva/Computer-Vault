@@ -20,36 +20,24 @@
             }
           },
           {
-            "id": "2bb55c02afd92eec",
+            "id": "0598a9e765067207",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-488.md",
+                "file": "notes/note-476.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fd465315c6f37cbd",
+            "id": "71f8118c197b69c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-637.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc27a21d2bc20ef1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/instruções para o exame.md",
+                "file": "notes/note-636.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "first cond",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -131,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-637.md",
+                "file": "notes/note-636.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-637.md",
+                "file": "notes/note-636.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-637.md"
+                "file": "notes/note-636.md"
               }
             }
           },
@@ -206,13 +195,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fd465315c6f37cbd",
+  "active": "71f8118c197b69c4",
   "lastOpenFiles": [
-    "notes/note-488.md",
     "notes/note-476.md",
+    "notes/note-636.md",
     "MATÉRIAS/EEAR.md",
     "notes/note-637.md",
+    "notes/note-175.md",
+    "notes/note-709.md",
     "notes/instruções para o exame.md",
+    "notes/note-488.md",
     "notes/note-642.md",
     "notes/FÍSICA/ELETRICIDADE.md",
     "notes/note-218.md",
@@ -234,9 +226,6 @@
     "notes/note-542.md",
     "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md",
     "notes/note-143.md",
-    "notes/GRAMÁTICA/pronome relativo.md",
-    "notes/note-335.md",
-    "notes/GRAMÁTICA/concordância nominal.md",
     "images/print_screen_509.png",
     "images/print_screen_513.png",
     "images/Pasted image 20231227161652.png",

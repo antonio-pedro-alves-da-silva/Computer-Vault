@@ -147,12 +147,13 @@
 | They were crying to break out of the jar...                         | Eles estavam chorando para sair do pote...                        |
 
 
-| walnut       | noz           |
-| ------------ | ------------- |
-| flour        | farinha       |
-| cake tin     | forma de bolo |
-| nevertheless | no entanto    |
-| throughout   | ao longo de   |
-| therefore    | portanto      |
-| neither      | nem           |
+| walnut                         | noz                                      |
+| ------------------------------ | ---------------------------------------- |
+| flour                          | farinha                                  |
+| cake tin                       | forma de bolo                            |
+| nevertheless                   | no entanto                               |
+| throughout                     | ao longo de                              |
+| therefore                      | portanto                                 |
+| neither                        | nem                                      |
+| Car Wash carried out by police | Lavagem de carros realizada pela polícia |
 
