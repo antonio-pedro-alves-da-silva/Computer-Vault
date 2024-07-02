@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "c9f0ccb303e724b8",
+            "id": "7d44fcd14be720df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/HIDROESTÁTICA.md",
+                "file": "notes/FÍSICA/GRAVITAÇÃO.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/HIDROESTÁTICA.md",
+                "file": "notes/FÍSICA/GRAVITAÇÃO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/HIDROESTÁTICA.md",
+                "file": "notes/FÍSICA/GRAVITAÇÃO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/HIDROESTÁTICA.md"
+                "file": "notes/FÍSICA/GRAVITAÇÃO.md"
               }
             }
           },
@@ -182,9 +182,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c9f0ccb303e724b8",
+  "active": "7d44fcd14be720df",
   "lastOpenFiles": [
     "MATÉRIAS/EEAR.md",
+    "notes/FÍSICA/HIDROESTÁTICA.md",
+    "images/Pasted image 20240425162150.png",
     "notes/FÍSICA/ESTÁTICA.md",
     "notes/note-475.md",
     "notes/note-446.md",
@@ -209,8 +211,6 @@
     "notes/note-664.md",
     "notes/note-672.md",
     "notes/note-679.md",
-    "notes/note-476.md",
-    "notes/note-642.md",
     "images/print_screen_509.png",
     "images/print_screen_513.png",
     "images/Pasted image 20231227161652.png",
@@ -219,7 +219,6 @@
     "images/print_screen_698.png",
     "images/Pasted image 20240614131854.png",
     "images/Pasted image 20240604221822.png",
-    "images/Pasted image 20240528153058.png",
     "my-configuration-files/backup/cfs/cfs-b_2_31_2016.pdf",
     "my-configuration-files/backup/cfs/cfs-b_2_2016.pdf",
     "my-configuration-files/backup/cfs/cfs-b_2_2016.pdf.crdownload",

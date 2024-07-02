@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "HIDROESTÁTICA",
-      "path": "notes/FÍSICA/HIDROESTÁTICA.md"
+      "basename": "GRAVITAÇÃO",
+      "path": "notes/FÍSICA/GRAVITAÇÃO.md"
     },
     {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "HIDROESTÁTICA",
+      "path": "notes/FÍSICA/HIDROESTÁTICA.md"
+    },
+    {
+      "basename": "Pasted image 20240425162150",
+      "path": "images/Pasted image 20240425162150.png"
     },
     {
       "basename": "ESTÁTICA",
@@ -191,14 +199,6 @@
     {
       "basename": "note-550",
       "path": "notes/note-550.md"
-    },
-    {
-      "basename": "note-573",
-      "path": "notes/note-573.md"
-    },
-    {
-      "basename": "ELETRICIDADE",
-      "path": "notes/FÍSICA/ELETRICIDADE.md"
     }
   ],
   "omittedPaths": [],
