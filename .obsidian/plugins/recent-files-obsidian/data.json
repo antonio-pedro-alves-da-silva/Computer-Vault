@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "DINÂMICA",
-      "path": "notes/FÍSICA/DINÂMICA.md"
+      "basename": "ESTÁTICA",
+      "path": "notes/FÍSICA/ESTÁTICA.md"
     },
     {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "note-446",
+      "path": "notes/note-446.md"
+    },
+    {
+      "basename": "DINÂMICA",
+      "path": "notes/FÍSICA/DINÂMICA.md"
+    },
+    {
+      "basename": "note-473",
+      "path": "notes/note-473.md"
     },
     {
       "basename": "ONDULATÓRIA e ÓTICA",
@@ -187,18 +199,6 @@
     {
       "basename": "TERMOLOGIA",
       "path": "notes/FÍSICA/TERMOLOGIA.md"
-    },
-    {
-      "basename": "note-553",
-      "path": "notes/note-553.md"
-    },
-    {
-      "basename": "note-723",
-      "path": "notes/note-723.md"
-    },
-    {
-      "basename": "note-577",
-      "path": "notes/note-577.md"
     }
   ],
   "omittedPaths": [],

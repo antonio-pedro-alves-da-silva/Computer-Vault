@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "2e7d49af5626f2fc",
+            "id": "09e54c9f9521798a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/DINÂMICA.md",
+                "file": "notes/FÍSICA/ESTÁTICA.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/DINÂMICA.md",
+                "file": "notes/FÍSICA/ESTÁTICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/DINÂMICA.md",
+                "file": "notes/FÍSICA/ESTÁTICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/DINÂMICA.md"
+                "file": "notes/FÍSICA/ESTÁTICA.md"
               }
             }
           },
@@ -182,12 +182,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2e7d49af5626f2fc",
+  "active": "09e54c9f9521798a",
   "lastOpenFiles": [
     "MATÉRIAS/EEAR.md",
+    "notes/note-446.md",
+    "notes/FÍSICA/ESTÁTICA.md",
+    "notes/FÍSICA/DINÂMICA.md",
+    "notes/note-473.md",
     "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "notes/note-2.md",
-    "notes/FÍSICA/DINÂMICA.md",
     "notes/note-604.md",
     "images/print_screen_699.png",
     "notes/note-542.md",
@@ -208,9 +211,6 @@
     "notes/note-476.md",
     "notes/note-642.md",
     "notes/note-643.md",
-    "notes/note-653.md",
-    "notes/note-658.md",
-    "notes/note-662.md",
     "images/print_screen_509.png",
     "images/print_screen_513.png",
     "images/Pasted image 20231227161652.png",

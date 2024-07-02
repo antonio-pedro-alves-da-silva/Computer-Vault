@@ -1,6 +1,6 @@
 
 equilíbrio de um ponto material
-[[note-446|força  interfixa , interpotente e interresistente]]
+[[note-446|força  interfixa , interpotente e interresistente]] (frp)
 equilíbrio de um corpo extenso
 	[[print_screen_539.png|corpo extenso , somatoria das forças e somatoria dos momentos]]
 	[[print_screen_540.png|somatoria das forças e somatoria dos momentos]]
