@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "regras do acento gráfico",
+      "path": "notes/GRAMÁTICA/regras do acento gráfico.md"
+    },
+    {
+      "basename": "note-468",
+      "path": "notes/note-468.md"
+    },
+    {
       "basename": "pronome relativo",
       "path": "notes/GRAMÁTICA/pronome relativo.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "note-679",
       "path": "notes/note-679.md"
-    },
-    {
-      "basename": "note-643",
-      "path": "notes/note-643.md"
-    },
-    {
-      "basename": "note-653",
-      "path": "notes/note-653.md"
     }
   ],
   "omittedPaths": [],
