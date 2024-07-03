@@ -20,24 +20,24 @@
             }
           },
           {
-            "id": "3c530b9b25166ddc",
+            "id": "390f8f7317a7e518",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "notes/note-143.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "07f53eb833863123",
+            "id": "3685df141c7e73a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-610.md",
+                "file": "notes/GRAMÁTICA/pronome relativo.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-610.md",
+                "file": "notes/GRAMÁTICA/pronome relativo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-610.md",
+                "file": "notes/GRAMÁTICA/pronome relativo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-610.md"
+                "file": "notes/GRAMÁTICA/pronome relativo.md"
               }
             }
           },
@@ -195,8 +195,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "07f53eb833863123",
+  "active": "3685df141c7e73a1",
   "lastOpenFiles": [
+    "notes/note-143.md",
+    "MATÉRIAS/EEAR.md",
+    "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-610.md",
     "notes/note-612.md",
@@ -204,7 +207,6 @@
     "notes/note-641.md",
     "notes/note-650.md",
     "notes/note-664.md",
-    "MATÉRIAS/EEAR.md",
     "notes/note-709.md",
     "notes/note-175.md",
     "notes/note-476.md",
@@ -224,8 +226,6 @@
     "notes/FÍSICA/DINÂMICA.md",
     "Lista de Tarefas/lista de tarefas.md",
     "images/Pasted image 20231201133941.png",
-    "notes/note-15.md",
-    "notes/FÍSICA/GRAVITAÇÃO.md",
     "images/Pasted image 20240425162150.png",
     "images/print_screen_699.png",
     "images/print_screen_509.png",
