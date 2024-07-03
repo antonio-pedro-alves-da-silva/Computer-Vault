@@ -14,12 +14,12 @@ Oxítonas
 		**ÓI, ÓIS**: dói, mói, sóis.
 hiatos
 	quando acrescentar o acento
-		[[note-305|1]].iu
-		[[note-306|2]].ditongo 
+		[[note-305|1]].i ou u como segunda vogal do hiato
+		[[note-306|2]].hiato após o ditongo
 	quando não acrescentar o acento
 		[[note-307|1]].nh
 		[[note-308|2]].idêntica
-		[[note-309|3]].ditongo
+		[[note-309|3]].vogal como paroxítona após ditongo decrescente
 [[note-339|ditongos abertos]]
 [[note-53|acento diferenciais]]
 
