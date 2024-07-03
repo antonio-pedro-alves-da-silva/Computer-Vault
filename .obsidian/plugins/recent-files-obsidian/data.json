@@ -5,16 +5,20 @@
       "path": "notes/GRAMÁTICA/regras do acento gráfico.md"
     },
     {
+      "basename": "note-143",
+      "path": "notes/note-143.md"
+    },
+    {
+      "basename": "note-305",
+      "path": "notes/note-305.md"
+    },
+    {
       "basename": "note-468",
       "path": "notes/note-468.md"
     },
     {
       "basename": "pronome relativo",
       "path": "notes/GRAMÁTICA/pronome relativo.md"
-    },
-    {
-      "basename": "note-143",
-      "path": "notes/note-143.md"
     },
     {
       "basename": "EEAR",
@@ -195,10 +199,6 @@
     {
       "basename": "note-672",
       "path": "notes/note-672.md"
-    },
-    {
-      "basename": "note-679",
-      "path": "notes/note-679.md"
     }
   ],
   "omittedPaths": [],
