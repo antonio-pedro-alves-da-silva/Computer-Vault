@@ -66,7 +66,7 @@ eletricidade
 			[[print_screen_357.png|associação em séries]]
 				[[print_screen_649.png|ddp total]]
 			[[print_screen_368.png|associação em paralelo]]
-				 relação entre ddps
+				 relação entre ddps 
 				 [[print_screen_358.png|truque da corrente]]
 				 [[note-518|itensidade da corrente que passa pelo resistor]]
 			[calculando associação mista de resistores](http://www.brawnexercicios.com.br/2015/12/exercicio-resolvido-resistencia-equivalente-circuito-2.html)
