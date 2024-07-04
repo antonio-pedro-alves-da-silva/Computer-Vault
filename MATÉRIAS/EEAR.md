@@ -856,7 +856,7 @@ LINGUA PORTUGUESA
 	FONOLOGIA
 		[[MONOSSÍLABA TÔNICA E ÁTONA]]
 	[[questões erradas de português]]
-	[[note-143|o que revisar]]
+	[[note-143|o que revisar]] -
 LÍNGUA INGLESA
 	GRAMÁTICA
 		vocabulário

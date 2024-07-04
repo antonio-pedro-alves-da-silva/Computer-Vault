@@ -17,10 +17,10 @@ formação de palavras
 [[concordância nominal]] 
 [[note-335|separação silábica]]
 [[notes/GRAMÁTICA/pronome relativo#==regras do pronome “cujo”==|pronome relativo cujo]] 
-[[regras do acento gráfico]] -
-substantivos
-	gênero de substantivo 
-		uniforme 
+[[regras do acento gráfico]]
+substantivos -
+	gênero de substantivo
+		uniforme
 		biforme
 	[[plural dos substantivos]]
 		plural de palavras compostas

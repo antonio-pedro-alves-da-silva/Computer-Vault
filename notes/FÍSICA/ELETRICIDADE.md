@@ -53,7 +53,7 @@ eletricidade
 			[5](https://www.qconcursos.com/questoes-militares/questoes/8d05dce4-f3)(aprendi([[Pasted image 20240305095255.png|a como calcular a gravidade de um planeta]] e o que é a relação carga elétrica por massa))
 			[6](https://www.qconcursos.com/questoes-militares/questoes/2145673f-4d)(aprendi(gráfico da força elétrica em função da distânica))
 			[7](https://www.qconcursos.com/questoes-militares/questoes/67fdfca5-86)([[note-16|condutores postos em contato]], a diferença de condutores em contato sempre será zero)
-	eletrodinâmica - onde parei
+	eletrodinâmica
 		[[print_screen_353.png|principio da continuidade da corrente]]
 		[[print_screen_353.png|efeito joule]]
 		resistores

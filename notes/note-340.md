@@ -1,3 +1,4 @@
+SINGULAR PLURAL
 ele tem	eles têm
 ele vem	eles vêm
 ele contém	eles contêm

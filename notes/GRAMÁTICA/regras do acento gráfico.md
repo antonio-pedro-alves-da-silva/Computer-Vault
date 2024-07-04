@@ -23,6 +23,7 @@ hiatos
 [[note-339|ditongos abertos]]
 [[note-53|acento diferenciais]]
 
+
 ### Referências
 - https://escolakids.uol.com.br/portugues/acento-agudo.htm#:~:text=Regras%20gerais%3A,-Proparox%C3%ADtonas%3A%20todas%20s%C3%A3o&text=Ox%C3%ADtonas%3A%20acentuam%2Dse%20as%20terminadas,%2C%20r%2C%20x%2C%20n.
 - https://www.portugues.com.br/gramatica/acento-agudo.html
