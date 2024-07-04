@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "note-17",
+      "path": "notes/note-17.md"
+    },
+    {
       "basename": "ELETRICIDADE",
       "path": "notes/FÍSICA/ELETRICIDADE.md"
     },
     {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "print_screen_570",
+      "path": "images/print_screen_570.png"
     },
     {
       "basename": "print_screen_569",
@@ -191,14 +199,6 @@
     {
       "basename": "note-542",
       "path": "notes/note-542.md"
-    },
-    {
-      "basename": "CINEMÁTICA",
-      "path": "notes/FÍSICA/CINEMÁTICA/CINEMÁTICA.md"
-    },
-    {
-      "basename": "note-335",
-      "path": "notes/note-335.md"
     }
   ],
   "omittedPaths": [],
