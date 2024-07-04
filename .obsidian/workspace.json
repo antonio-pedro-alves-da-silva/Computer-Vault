@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5b019ad20662b24f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-519.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-519.md",
+                "file": "notes/FÍSICA/ELETRICIDADE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-519.md",
+                "file": "notes/FÍSICA/ELETRICIDADE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-519.md"
+                "file": "notes/FÍSICA/ELETRICIDADE.md"
               }
             }
           },
@@ -195,9 +183,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5b019ad20662b24f",
+  "active": "db48061f6e6fd688",
   "lastOpenFiles": [
+    "images/print_screen_366.png",
     "notes/FÍSICA/ELETRICIDADE.md",
+    "notes/note-519.md",
     "images/print_screen_353.png",
     "notes/note-143.md",
     "notes/FÍSICA/HIDROESTÁTICA.md",
@@ -223,7 +213,6 @@
     "notes/note-636.md",
     "notes/note-726.md",
     "Pasted image 20240702212341.png",
-    "notes/note-488.md",
     "Pasted image 20240702212245.png",
     "images/Pasted image 20231201133941.png",
     "images/Pasted image 20240425162150.png",

@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "note-519",
-      "path": "notes/note-519.md"
-    },
-    {
       "basename": "ELETRICIDADE",
       "path": "notes/FÍSICA/ELETRICIDADE.md"
+    },
+    {
+      "basename": "print_screen_366",
+      "path": "images/print_screen_366.png"
+    },
+    {
+      "basename": "note-519",
+      "path": "notes/note-519.md"
     },
     {
       "basename": "print_screen_353",
@@ -195,10 +199,6 @@
     {
       "basename": "concordância nominal",
       "path": "notes/GRAMÁTICA/concordância nominal.md"
-    },
-    {
-      "basename": "concordância verbal",
-      "path": "notes/GRAMÁTICA/concordância verbal.md"
     }
   ],
   "omittedPaths": [],
