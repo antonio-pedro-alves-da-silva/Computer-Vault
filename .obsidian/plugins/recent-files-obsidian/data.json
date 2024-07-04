@@ -5,6 +5,14 @@
       "path": "notes/FÍSICA/ELETRICIDADE.md"
     },
     {
+      "basename": "EEAR",
+      "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "print_screen_569",
+      "path": "images/print_screen_569.png"
+    },
+    {
       "basename": "print_screen_366",
       "path": "images/print_screen_366.png"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "HIDROESTÁTICA",
       "path": "notes/FÍSICA/HIDROESTÁTICA.md"
-    },
-    {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
     },
     {
       "basename": "regras do acento gráfico",
@@ -195,10 +199,6 @@
     {
       "basename": "note-335",
       "path": "notes/note-335.md"
-    },
-    {
-      "basename": "concordância nominal",
-      "path": "notes/GRAMÁTICA/concordância nominal.md"
     }
   ],
   "omittedPaths": [],
