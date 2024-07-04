@@ -5,6 +5,10 @@
       "path": "notes/FÍSICA/ELETRICIDADE.md"
     },
     {
+      "basename": "note-299",
+      "path": "notes/note-299.md"
+    },
+    {
       "basename": "note-17",
       "path": "notes/note-17.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "note-604",
       "path": "notes/note-604.md"
-    },
-    {
-      "basename": "note-542",
-      "path": "notes/note-542.md"
     }
   ],
   "omittedPaths": [],
