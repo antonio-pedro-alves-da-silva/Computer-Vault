@@ -15,6 +15,8 @@ beijar
 torturar
 	funciona apenas como transitivo direto
 [[note-65|aspirar]]
+
+
 [[note-729|lembrar]]
 [[note-461|precisar]]
 [[note-462|preferir]]
@@ -25,5 +27,4 @@ assitir
 	[[note-592|caber direito/razão a alguém -> transitivo indireto -> me]]
 	[[note-593|prestar assistência -> transitivo direto ou transitivo indireto]]
 	[[note-594|caber a álguem -> transitivo direto -> a]]
-
 
