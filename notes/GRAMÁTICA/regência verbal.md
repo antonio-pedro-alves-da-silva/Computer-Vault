@@ -1,3 +1,4 @@
+
 chamar
 	[[note-524|td ou tdi-> convocar]]
 	[[note-|tdi -> qualificar,apelidar]]
@@ -14,9 +15,7 @@ beijar
 torturar
 	funciona apenas como transitivo direto
 [[note-65|aspirar]]
-lembrar
-	é regido pela preposição "de"
-	também pode servir como pronominal
+[[note-729|lembrar]]
 [[note-461|precisar]]
 [[note-462|preferir]]
 simpatizar
@@ -26,3 +25,5 @@ assitir
 	[[note-592|caber direito/razão a alguém -> transitivo indireto -> me]]
 	[[note-593|prestar assistência -> transitivo direto ou transitivo indireto]]
 	[[note-594|caber a álguem -> transitivo direto -> a]]
+
+

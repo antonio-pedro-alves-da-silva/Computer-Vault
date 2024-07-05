@@ -1,1 +1,1 @@
-- é o verbo avista na 3ª pessoa do singular do presente do indicativo ou na 2ª pessoa do singular do modo imperativo.  
+- é o verbo avistar na 3ª pessoa do singular do presente do indicativo ou na 2ª pessoa do singular do modo imperativo.  
