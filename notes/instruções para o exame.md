@@ -1,5 +1,5 @@
 
-14/07/2024 dia da prova **Para realizar as Provas Escritas, o candidato deverá utilizar somente caneta esferográfica de corpo transparente, de tinta preta.** Recomenda-se ao candidato iniciar a marcação do Cartão de Respostas nos últimos 20 minutos do tempo total das provas. 4 (quatro) horas e 20 (vinte) minutos.
+14/07/2024 dia da prova **Para realizar as Provas Escritas, o candidato deverá utilizar somente caneta esferográfica de corpo transparente, de tinta preta.** Recomenda-se ao candidato iniciar a marcação do Cartão de Respostas nos últimos 20 minutos do tempo total das provas. 4 (quatro) horas e 20 (vinte) minutos.Recomenda-se chegar com uma hora de antecedência
 
 16/07/2024 a 17/07/2024 fifq
 12/08/2024 revelação das notas
