@@ -20,43 +20,19 @@
             }
           },
           {
-            "id": "f927c066d10e79f2",
+            "id": "b018cd906cf2b809",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-175.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f564dd8adfdcc502",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-476.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4b49ceef7732c41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-642.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-642.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-642.md",
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-642.md"
+                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
               }
             }
           },
@@ -207,17 +183,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d4b49ceef7732c41",
+  "active": "b018cd906cf2b809",
   "lastOpenFiles": [
+    "MATÉRIAS/EEAR.md",
+    "notes/note-175.md",
     "notes/note-476.md",
+    "notes/note-636.md",
+    "notes/note-637.md",
+    "notes/note-642.md",
     "notes/note-643.md",
     "notes/note-653.md",
     "notes/note-675.md",
     "notes/note-681.md",
     "notes/note-686.md",
-    "notes/note-175.md",
     "notes/note-692.md",
-    "MATÉRIAS/EEAR.md",
     "notes/note-717.md",
     "notes/note-701.md",
     "notes/note-614.md",
@@ -236,9 +215,6 @@
     "notes/GRAMÁTICA/regras do acento gráfico.md",
     "notes/note-53.md",
     "notes/note-340.md",
-    "notes/note-305.md",
-    "notes/note-468.md",
-    "notes/GRAMÁTICA/pronome relativo.md",
     "Pasted image 20240702212341.png",
     "Pasted image 20240702212245.png",
     "images/Pasted image 20231201133941.png",
