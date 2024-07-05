@@ -18,7 +18,7 @@ formação de palavras
 [[note-335|separação silábica]]
 [[notes/GRAMÁTICA/pronome relativo#==regras do pronome “cujo”==|pronome relativo cujo]] 
 [[regras do acento gráfico]]
-substantivos -
+substantivos 
 	gênero de substantivo
 		uniforme
 		biforme
@@ -26,11 +26,10 @@ substantivos -
 		plural de palavras compostas
 			[[note-423|Substantivo + substantivo que especifica o primeiro]]
 			[[note-424|Palavras unidas por preposição]]
-			Verbo ou advérbio + substantivo ou adjetivo
+			[[note-727|Verbo ou advérbio + substantivo ou adjetivo]]
 			[[note-425|Palavras repetidas ou onomatopeias]]
-			Palavra variável + palavra variável
-			[[note-711|adjetivo composto + substantivo]]
-[[note-401|flexão do substantivo]]
+			[[note-728|Palavra variável + palavra variável]]
+			[[note-711|cores]]
 Expressões confudidas
 	mau ou mal
 	[[note-59|afim ou a fim]]
