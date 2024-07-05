@@ -44,12 +44,12 @@
             }
           },
           {
-            "id": "13666096236d7153",
+            "id": "d4b49ceef7732c41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-686.md",
+                "file": "notes/note-642.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-686.md",
+                "file": "notes/note-642.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-686.md",
+                "file": "notes/note-642.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-686.md"
+                "file": "notes/note-642.md"
               }
             }
           },
@@ -207,14 +207,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "13666096236d7153",
+  "active": "d4b49ceef7732c41",
   "lastOpenFiles": [
     "notes/note-476.md",
+    "notes/note-643.md",
+    "notes/note-653.md",
+    "notes/note-675.md",
+    "notes/note-681.md",
     "notes/note-686.md",
+    "notes/note-175.md",
     "notes/note-692.md",
     "MATÉRIAS/EEAR.md",
     "notes/note-717.md",
-    "notes/note-175.md",
     "notes/note-701.md",
     "notes/note-614.md",
     "notes/note-658.md",
@@ -235,10 +239,6 @@
     "notes/note-305.md",
     "notes/note-468.md",
     "notes/GRAMÁTICA/pronome relativo.md",
-    "notes/GRAMÁTICA/questões erradas de português.md",
-    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
-    "notes/note-610.md",
-    "notes/note-612.md",
     "Pasted image 20240702212341.png",
     "Pasted image 20240702212245.png",
     "images/Pasted image 20231201133941.png",
