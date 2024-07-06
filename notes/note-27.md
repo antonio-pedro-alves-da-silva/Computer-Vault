@@ -1,4 +1,4 @@
- 
+
 | Tempos Verbais                     | Eu       | Tu/Você    | Ele/Ela  | Nós          | Vós/Vocês    | Eles/Elas |
 | ---------------------------------- | -------- | ---------- | -------- | ------------ | ------------ | --------- |
 | Pretérito Perfeito                 | dancei   | "dançaste" | dançou   | dançamos     | "dançastes"  | dançaram  |

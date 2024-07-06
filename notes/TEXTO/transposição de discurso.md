@@ -20,3 +20,5 @@ transposição do discurso direto para o discurso indireto
 		ali e lá
 	este, esta e isto
 		 aquele, aquela, aquilo
+
+
