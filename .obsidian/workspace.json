@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "08c7d0779c50a041",
+            "id": "e06e1a33d79feec2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -183,11 +183,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "08c7d0779c50a041",
+  "active": "e06e1a33d79feec2",
   "lastOpenFiles": [
-    "notes/note-451.md",
-    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "MATÉRIAS/EEAR.md",
+    "notes/note-34.md",
+    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
+    "notes/note-451.md",
     "notes/FÍSICA/ELETRICIDADE.md",
     "notes/note-542.md",
     "notes/GRAMÁTICA/colocação pronominal.md",
@@ -210,7 +211,6 @@
     "notes/note-727.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-608.md",
-    "notes/MATEMÁTICA/GEOMETRIA PLANA/Ângulos.md",
     "images/Pasted image 20231101094601.png",
     "my-configuration-files/backup/cfs/local_da_prova.pdf",
     "my-configuration-files/backup/cfs/local_da_prova.pdf.crdownload",
