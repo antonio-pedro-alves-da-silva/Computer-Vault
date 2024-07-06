@@ -26,5 +26,5 @@ assitir
 	[[note-595|ver , presenciar -> transitivo indireto -> ao , á]]
 	[[note-592|caber direito/razão a alguém -> transitivo indireto -> me]]
 	[[note-593|prestar assistência -> transitivo direto ou transitivo indireto]]
-	[[note-594|caber a álguem -> transitivo direto -> a]]
+	[[note-594|quando tarefa caber a alguém -> transitivo direto -> a]]
 
