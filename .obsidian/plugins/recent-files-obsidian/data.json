@@ -5,6 +5,14 @@
       "path": "notes/FÍSICA/TERMOLOGIA.md"
     },
     {
+      "basename": "note-98",
+      "path": "notes/note-98.md"
+    },
+    {
+      "basename": "note-87",
+      "path": "notes/note-87.md"
+    },
+    {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "note-701",
       "path": "notes/note-701.md"
-    },
-    {
-      "basename": "note-614",
-      "path": "notes/note-614.md"
-    },
-    {
-      "basename": "note-658",
-      "path": "notes/note-658.md"
     }
   ],
   "omittedPaths": [],
