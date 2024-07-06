@@ -869,6 +869,7 @@ LÍNGUA INGLESA
 		[[note-319|Modos imperativo]] e [[note-322|subjuntivo]]
 		[[note-717|comparative and superlative]]
 		[[note-709|types of conditional]]
+		[[note-730|object pronoun and subject pronoun]]
 		Orações condicionais (0, 1 e 2)
 		Question Tags
 		Quantificadores
