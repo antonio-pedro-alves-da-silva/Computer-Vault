@@ -20,19 +20,31 @@
             }
           },
           {
-            "id": "f05b21fc3d43452e",
+            "id": "b4286bdfabc1e4b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/FÍSICA/TERMOLOGIA.md",
+                "file": "notes/note-476.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d532ee718702d57a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-636.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FÍSICA/TERMOLOGIA.md",
+                "file": "notes/note-636.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/FÍSICA/TERMOLOGIA.md",
+                "file": "notes/note-636.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/FÍSICA/TERMOLOGIA.md"
+                "file": "notes/note-636.md"
               }
             }
           },
@@ -183,14 +195,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f05b21fc3d43452e",
+  "active": "d532ee718702d57a",
   "lastOpenFiles": [
-    "notes/note-102.md",
+    "notes/note-476.md",
+    "notes/note-636.md",
+    "MATÉRIAS/EEAR.md",
     "notes/FÍSICA/TERMOLOGIA.md",
+    "notes/note-105.md",
+    "notes/note-102.md",
     "notes/note-387.md",
     "notes/note-98.md",
     "notes/note-87.md",
-    "MATÉRIAS/EEAR.md",
     "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
     "images/print_screen_664.png",
     "notes/note-324.md",
@@ -210,9 +225,6 @@
     "notes/note-591.md",
     "notes/note-462.md",
     "notes/note-461.md",
-    "notes/note-56.md",
-    "notes/note-59.md",
-    "notes/note-711.md",
     "images/Pasted image 20231101094601.png",
     "my-configuration-files/backup/cfs/local_da_prova.pdf",
     "my-configuration-files/backup/cfs/local_da_prova.pdf.crdownload",

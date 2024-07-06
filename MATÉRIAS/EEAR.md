@@ -1082,6 +1082,6 @@ FÍSICA
 			Instrumentos ópticos simples. 
 			Olho humano (principais defeitos da visão). 
 	[[TERMOLOGIA]]
-	[[note-546|MATÉRIA E RADIAÇÃO]]
+	[[note-546|MATÉRIA E RADIAÇÃO]] - onde parei
 	[[note-542|provas anteriores de física]]
 
