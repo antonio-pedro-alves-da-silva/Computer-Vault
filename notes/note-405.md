@@ -8,3 +8,5 @@
 | Completiva nominal                              | exerce função de complemento nominal da oração principal | Tenho o desejo de que tudo se resolva da melhor maneira.                       |
 | Apositiva                                       | exerce função de aposto da oração principal              | Temos foco no nosso maior objetivo: que ajudemos o máximo de pessoas possível! |
 
+
+
