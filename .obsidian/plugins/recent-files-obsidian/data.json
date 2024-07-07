@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "progressões aritmética e geométrica",
+      "path": "notes/MATEMÁTICA/ÁLGEBRA/progressões aritmética e geométrica.md"
+    },
+    {
+      "basename": "EEAR",
+      "path": "MATÉRIAS/EEAR.md"
+    },
+    {
       "basename": "tipos de funções",
       "path": "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "domínio, imagem e contradomínio",
       "path": "notes/MATEMÁTICA/ÁLGEBRA/Funções/domínio, imagem e contradomínio.md"
-    },
-    {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
     },
     {
       "basename": "definição de função",
@@ -195,10 +199,6 @@
     {
       "basename": "note-461",
       "path": "notes/note-461.md"
-    },
-    {
-      "basename": "note-56",
-      "path": "notes/note-56.md"
     }
   ],
   "omittedPaths": [],

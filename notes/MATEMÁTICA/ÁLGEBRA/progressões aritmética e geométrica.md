@@ -1,3 +1,4 @@
+
 [[Pasted image 20231107095201.png|progressão aritmietica e progressão geométrica formulas]]
 [[print_screen_661.png|equivalência da progressão aritmética e geométrica]]
 [[Pasted image 20231107110414.png|propriedade da p.a]]

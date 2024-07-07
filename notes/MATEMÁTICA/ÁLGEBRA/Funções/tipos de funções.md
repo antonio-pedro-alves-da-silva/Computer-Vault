@@ -48,5 +48,4 @@ função logaritima
 		[[print_screen_228.png|propriedade 4]]
 		[[print_screen_087.png|propriedade 5]]
 		[[note-707|propriedade 6]]
-		[[note-707|propriedade 7]]
 
