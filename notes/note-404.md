@@ -1,3 +1,4 @@
+
 oração subordinada
 	[[note-405|oração subordinada substantiva]]
 	[[note-406|oração subordinada adjetiva]]

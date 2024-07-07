@@ -25,31 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-143.md",
+                "file": "notes/note-404.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "617cf794473235ce",
+            "id": "fd459286aa91ca12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/GRAMÁTICA/regência verbal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b393839399226f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-729.md",
+                "file": "notes/note-405.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/GRAMÁTICA/regência verbal.md",
+                "file": "notes/note-405.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/GRAMÁTICA/regência verbal.md",
+                "file": "notes/note-405.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/GRAMÁTICA/regência verbal.md"
+                "file": "notes/note-405.md"
               }
             }
           },
@@ -207,12 +195,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "617cf794473235ce",
+  "active": "fd459286aa91ca12",
   "lastOpenFiles": [
-    "notes/note-729.md",
-    "notes/GRAMÁTICA/regência verbal.md",
+    "notes/note-404.md",
     "notes/note-143.md",
+    "notes/TEXTO/transposição de discurso.md",
     "notes/note-27.md",
+    "notes/GRAMÁTICA/regência verbal.md",
+    "notes/note-729.md",
     "MATÉRIAS/EEAR.md",
     "notes/MATEMÁTICA/ÁLGEBRA/progressões aritmética e geométrica.md",
     "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md",
@@ -236,8 +226,6 @@
     "notes/note-717.md",
     "notes/note-617.md",
     "notes/note-730.md",
-    "notes/note-619.md",
-    "notes/note-626.md",
     "images/print_screen_664.png",
     "images/print_screen_500.png",
     "images/Pasted image 20231101094601.png",
