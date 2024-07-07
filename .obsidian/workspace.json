@@ -20,12 +20,14 @@
             }
           },
           {
-            "id": "a2c11127b90c6278",
+            "id": "bb2ec4fe2a49904e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Pasted image 20240302171101.png"
+                "file": "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -105,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/Pasted image 20240302171101.png",
+                "file": "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/Pasted image 20240302171101.png",
+                "file": "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/Pasted image 20240302171101.png"
+                "file": "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md"
               }
             }
           },
@@ -180,9 +183,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a2c11127b90c6278",
+  "active": "bb2ec4fe2a49904e",
   "lastOpenFiles": [
+    "notes/MATEMÁTICA/ÁLGEBRA/Funções/domínio, imagem e contradomínio.md",
+    "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md",
     "MATÉRIAS/EEAR.md",
+    "notes/MATEMÁTICA/ÁLGEBRA/Funções/definição de função.md",
+    "images/Pasted image 20240302171101.png",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-608.md",
     "notes/note-143.md",
@@ -207,9 +214,6 @@
     "images/print_screen_664.png",
     "notes/note-324.md",
     "images/print_screen_500.png",
-    "notes/note-34.md",
-    "notes/note-451.md",
-    "notes/FÍSICA/ELETRICIDADE.md",
     "images/Pasted image 20231101094601.png",
     "my-configuration-files/backup/cfs/local_da_prova.pdf",
     "my-configuration-files/backup/cfs/local_da_prova.pdf.crdownload",
@@ -219,7 +223,6 @@
     "images/print_screen_353.png",
     "Pasted image 20240702212341.png",
     "Pasted image 20240702212245.png",
-    "images/Pasted image 20231201133941.png",
     "my-configuration-files/backup/cfs/cfs-b_2_31_2016.pdf",
     "my-configuration-files/backup/cfs/cfs-b_2_2016.pdf",
     "my-configuration-files/backup/cfs/cfs-b_2_2016.pdf.crdownload",

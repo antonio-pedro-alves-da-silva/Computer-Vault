@@ -1,3 +1,4 @@
+
 [[note-428|função sobrejetora]]
 [[note-429|função injetora]]
 [[note-427|função bijetora]]
