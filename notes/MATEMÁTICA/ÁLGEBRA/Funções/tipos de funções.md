@@ -18,8 +18,8 @@ função quadrática ou função do 2 grau
 	estudo do sinal
 função modular
 	propriedade de um módulo
-		[[print_screen_033.png|propriedade 1]]
-		[[note-431|propriedade 2]]
+		$\sqrt[]{x^2}$ - [[print_screen_033.png|propriedade 1]]
+		 [[note-431|propriedade 2]]
 		[[note-432|propriedade 3]]
 	soma de duas funções modulares
 		[[print_screen_031.png|equação da soma de duas funções modulares]]
