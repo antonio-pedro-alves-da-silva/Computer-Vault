@@ -38,7 +38,7 @@ função exponencial
 		[[print_screen_059.png|propriedade5]]
 	[[print_screen_065.png|regra]]
 	gráfico
-		[[print_screen_684.png|crescente e decrescente]]
+		[[note-731|crescente e decrescente]]
 função logaritima
 	[[print_screen_085.png|condição de existência]]
 	propriedades logarítmicas

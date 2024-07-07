@@ -5,6 +5,10 @@
       "path": "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md"
     },
     {
+      "basename": "note-731",
+      "path": "notes/note-731.md"
+    },
+    {
       "basename": "note-431",
       "path": "notes/note-431.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "note-56",
       "path": "notes/note-56.md"
-    },
-    {
-      "basename": "note-59",
-      "path": "notes/note-59.md"
     }
   ],
   "omittedPaths": [],
