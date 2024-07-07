@@ -30,30 +30,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4e58ad32af6d0106",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-431.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e293cd75fcf70425",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-430.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -209,11 +185,11 @@
   },
   "active": "bb2ec4fe2a49904e",
   "lastOpenFiles": [
-    "images/print_screen_032.png",
-    "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md",
-    "images/print_screen_031.png",
-    "notes/note-430.md",
     "notes/note-431.md",
+    "notes/note-430.md",
+    "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md",
+    "images/print_screen_032.png",
+    "images/print_screen_031.png",
     "notes/note-597.md",
     "notes/MATEMÁTICA/ÁLGEBRA/Funções/domínio, imagem e contradomínio.md",
     "MATÉRIAS/EEAR.md",
@@ -246,7 +222,6 @@
     "images/print_screen_569.png",
     "images/print_screen_366.png",
     "images/print_screen_353.png",
-    "Pasted image 20240702212341.png",
     "my-configuration-files/backup/cfs/cfs-b_2_31_2016.pdf",
     "my-configuration-files/backup/cfs/cfs-b_2_2016.pdf",
     "my-configuration-files/backup/cfs/cfs-b_2_2016.pdf.crdownload",
