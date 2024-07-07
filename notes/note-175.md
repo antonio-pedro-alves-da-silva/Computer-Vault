@@ -158,4 +158,5 @@
 | Car Wash carried out by police   | Lavagem de carros realizada pela polícia |
 | Twenty-First Century Birdwatchin | Observação de pássaros no século XXI     |
 | falling income                   | rendimento em queda                      |
+| to passed out/to faint           | desmaiar                                 |
 
