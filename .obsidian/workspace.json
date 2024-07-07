@@ -32,16 +32,6 @@
             }
           },
           {
-            "id": "659921358f66ea84",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/print_screen_032.png"
-              }
-            }
-          },
-          {
             "id": "4e58ad32af6d0106",
             "type": "leaf",
             "state": {
@@ -66,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/print_screen_032.png",
+                "file": "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/print_screen_032.png",
+                "file": "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/print_screen_032.png"
+                "file": "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md"
               }
             }
           },
@@ -217,8 +207,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "659921358f66ea84",
+  "active": "bb2ec4fe2a49904e",
   "lastOpenFiles": [
+    "images/print_screen_032.png",
     "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md",
     "images/print_screen_031.png",
     "notes/note-430.md",
