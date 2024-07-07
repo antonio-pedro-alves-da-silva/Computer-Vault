@@ -20,19 +20,43 @@
             }
           },
           {
-            "id": "7b203081017c888e",
+            "id": "c20edcf9df18c6ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/MATEMÁTICA/ÁLGEBRA/progressões aritmética e geométrica.md",
+                "file": "notes/note-143.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "617cf794473235ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/GRAMÁTICA/regência verbal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b393839399226f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-729.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/MATEMÁTICA/ÁLGEBRA/progressões aritmética e geométrica.md",
+                "file": "notes/GRAMÁTICA/regência verbal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/MATEMÁTICA/ÁLGEBRA/progressões aritmética e geométrica.md",
+                "file": "notes/GRAMÁTICA/regência verbal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/MATEMÁTICA/ÁLGEBRA/progressões aritmética e geométrica.md"
+                "file": "notes/GRAMÁTICA/regência verbal.md"
               }
             }
           },
@@ -183,9 +207,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7b203081017c888e",
+  "active": "617cf794473235ce",
   "lastOpenFiles": [
+    "notes/note-729.md",
+    "notes/GRAMÁTICA/regência verbal.md",
+    "notes/note-143.md",
+    "notes/note-27.md",
     "MATÉRIAS/EEAR.md",
+    "notes/MATEMÁTICA/ÁLGEBRA/progressões aritmética e geométrica.md",
     "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md",
     "notes/note-707.md",
     "notes/note-731.md",
@@ -199,7 +228,6 @@
     "images/Pasted image 20240302171101.png",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-608.md",
-    "notes/note-143.md",
     "notes/note-175.md",
     "notes/note-476.md",
     "notes/note-614.md",
@@ -210,10 +238,6 @@
     "notes/note-730.md",
     "notes/note-619.md",
     "notes/note-626.md",
-    "notes/note-636.md",
-    "notes/FÍSICA/TERMOLOGIA.md",
-    "notes/note-105.md",
-    "notes/note-102.md",
     "images/print_screen_664.png",
     "images/print_screen_500.png",
     "images/Pasted image 20231101094601.png",
