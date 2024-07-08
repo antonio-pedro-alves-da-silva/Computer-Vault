@@ -1,4 +1,12 @@
 
+can - pcp
+could - php
+should - crs
+would - pd
+may - ppp
+might - p
+must - opd
+
 | Verbo modal                                          | Significados mais comuns  | Uso                                                                              | Exemplo                                                                                                                                                                                                                                                                                                        |
 | ---------------------------------------------------- | ------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Can](https://www.todamateria.com.br/verbo-can/)     | pode; consegue            | expressa permissão, capacidade, habilidade e possibilidade                       | **Permissão**: _Can I go to the toilet?_ (Posso ir ao banheiro?)<br><br>**Capacidade/habilidade**_: He can speak three languages fluently._ (Ele pode/consegue falar três línguas fluentemente.)<br><br>**Possibilidade**: _We can go to the movies_. (Podemos ir ao cinema.)                                  |
