@@ -20,31 +20,43 @@
             }
           },
           {
-            "id": "c20edcf9df18c6ac",
+            "id": "d0457b379f198d9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-404.md",
+                "file": "notes/note-143.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fd459286aa91ca12",
+            "id": "80e11c5b619d02d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-405.md",
+                "file": "notes/TEXTO/uso da virgula correto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71d9acd87fd51669",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-226.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,8 +110,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -120,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-405.md",
+                "file": "notes/note-226.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-405.md",
+                "file": "notes/note-226.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-405.md"
+                "file": "notes/note-226.md"
               }
             }
           },
@@ -195,16 +206,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fd459286aa91ca12",
+  "active": "71d9acd87fd51669",
   "lastOpenFiles": [
-    "notes/note-404.md",
-    "notes/note-405.md",
+    "notes/TEXTO/uso da virgula correto.md",
     "notes/note-143.md",
+    "notes/note-193.md",
+    "notes/note-172.md",
+    "notes/note-414.md",
+    "MATÉRIAS/EEAR.md",
+    "notes/MATEMÁTICA/CONJUNTOS NUMÉRICOS.md",
+    "notes/GRAMÁTICA/concordância verbal.md",
+    "notes/GRAMÁTICA/colocação pronominal.md",
+    "notes/note-404.md",
+    "notes/note-407.md",
+    "notes/crase.md",
+    "notes/note-406.md",
+    "notes/note-405.md",
     "notes/TEXTO/transposição de discurso.md",
     "notes/note-27.md",
     "notes/GRAMÁTICA/regência verbal.md",
     "notes/note-729.md",
-    "MATÉRIAS/EEAR.md",
     "notes/MATEMÁTICA/ÁLGEBRA/progressões aritmética e geométrica.md",
     "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md",
     "notes/note-707.md",
@@ -215,17 +236,7 @@
     "images/print_screen_031.png",
     "notes/note-597.md",
     "notes/MATEMÁTICA/ÁLGEBRA/Funções/domínio, imagem e contradomínio.md",
-    "notes/MATEMÁTICA/ÁLGEBRA/Funções/definição de função.md",
     "images/Pasted image 20240302171101.png",
-    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
-    "notes/note-608.md",
-    "notes/note-175.md",
-    "notes/note-476.md",
-    "notes/note-614.md",
-    "notes/note-615.md",
-    "notes/note-618.md",
-    "notes/note-717.md",
-    "notes/note-617.md",
     "images/print_screen_664.png",
     "images/print_screen_500.png",
     "images/Pasted image 20231101094601.png",
