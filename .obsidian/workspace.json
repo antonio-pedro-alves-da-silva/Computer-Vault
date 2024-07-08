@@ -18,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "982da702e12de215",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-546.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "972beabefe028e5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-572.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-572.md",
+                "file": "MATÉRIAS/EEAR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-572.md",
+                "file": "MATÉRIAS/EEAR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-572.md"
+                "file": "MATÉRIAS/EEAR.md"
               }
             }
           },
@@ -194,9 +169,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "972beabefe028e5b",
+  "active": "5ff102654c4e2211",
   "lastOpenFiles": [
+    "notes/note-476.md",
+    "MATÉRIAS/EEAR.md",
     "notes/note-546.md",
+    "notes/note-572.md",
     "notes/note-573.md",
     "images/Pasted image 20240517111800.png",
     "notes/note-575.md",
@@ -207,7 +185,6 @@
     "notes/note-560.md",
     "notes/note-554.md",
     "notes/note-579.md",
-    "MATÉRIAS/EEAR.md",
     "notes/note-555.md",
     "notes/note-551.md",
     "notes/note-552.md",
@@ -222,7 +199,6 @@
     "notes/note-172.md",
     "notes/note-414.md",
     "notes/MATEMÁTICA/CONJUNTOS NUMÉRICOS.md",
-    "notes/GRAMÁTICA/concordância verbal.md",
     "images/print_screen_032.png",
     "images/print_screen_031.png",
     "images/Pasted image 20240302171101.png",
