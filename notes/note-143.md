@@ -92,8 +92,8 @@ oração subordinada errada
 	[1](https://www.qconcursos.com/questoes-militares/questoes/c6b94bdd-59)-C
 	[2](https://www.qconcursos.com/questoes-militares/questoes/95270389-53)-C
 [[note-246|como fazer análise sintática]]
-regra de pontuação
-	[[uso da virgula correto]]
+regra de pontuação -
+	[[uso da virgula correto]] -
 	[[uso do ponto e virgula correto]]
 	[[uso do dois-ponto|uso do dois-ponto]]
 	[[uso do travessão]]

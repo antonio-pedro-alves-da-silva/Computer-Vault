@@ -26,3 +26,4 @@ efeito fotoelétrico
 [[note-578|potência de ondas eletromagnéticas]]
 [[note-647|lei de wien]]
 [[note-648|relação de wien da constante de proporcionalidade]]
+
