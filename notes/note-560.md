@@ -1,3 +1,4 @@
+
 <p align="center">
 	<strong><sub>Z</sub></strong><strong><sup>A</sup></strong><strong>X &rarr; <sup>4</sup><sub>2</sub>&alpha;<sup>2+</sup> + <sub>Z-2</sub><sup>A-4</sup>X</strong>
 	</p>
