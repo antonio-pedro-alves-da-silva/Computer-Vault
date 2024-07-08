@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9f5e54da9b278b61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-573.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-546.md",
+                "file": "notes/note-573.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-546.md",
+                "file": "notes/note-573.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-546.md"
+                "file": "notes/note-573.md"
               }
             }
           },
@@ -182,10 +194,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "982da702e12de215",
+  "active": "9f5e54da9b278b61",
   "lastOpenFiles": [
-    "notes/note-571.md",
+    "notes/note-574.md",
+    "notes/note-573.md",
     "notes/note-546.md",
+    "notes/note-571.md",
     "notes/note-557.md",
     "notes/note-561.md",
     "notes/note-560.md",
@@ -209,8 +223,6 @@
     "notes/GRAMÁTICA/concordância verbal.md",
     "notes/GRAMÁTICA/colocação pronominal.md",
     "notes/note-404.md",
-    "notes/note-407.md",
-    "notes/crase.md",
     "images/print_screen_032.png",
     "images/print_screen_031.png",
     "images/Pasted image 20240302171101.png",

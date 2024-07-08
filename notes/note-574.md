@@ -1,3 +1,3 @@
-partículas de massa de repouso nula que carregam energia e que compõe a luz
 
-partículas com massa nula quando em repouso que carregam energia que compõe a luz
+- são partículas de massa não nula quando em movimento
+- são partículas de massa nula quando paradas
