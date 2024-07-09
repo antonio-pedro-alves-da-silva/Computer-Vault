@@ -20,7 +20,7 @@ $amplitude da função seno ou cosseno= \frac{MaiorValordaImage-MenorValordaImag
 
 https://www.geogebra.org/m/Bbzfry8U
 
-$a=$ eixo de simetria na função seno ,nada de espcial na cosseno, define o deslocamento da função seno e cosseno 
+$a=$ eixo de simetria na função seno ,nada de especial na cosseno, define o deslocamento da função seno e cosseno 
 $b=$ inverte a função quando com sinal negativo indica onde o a função cosseno corta o eixo y
 k= modifica o periodo da função quanto maior menor o periodo
 n= desloca  a função para a direita(sinal negativo) ou para esquerda(sinal positivo)

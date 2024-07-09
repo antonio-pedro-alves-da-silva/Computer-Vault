@@ -30,19 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "76e67ff05767e0c3",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/relações decorrentes da relação fundamental da trigonometria.jpeg"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/relações decorrentes da relação fundamental da trigonometria.jpeg",
+                "file": "notes/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/relações decorrentes da relação fundamental da trigonometria.jpeg",
+                "file": "notes/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/relações decorrentes da relação fundamental da trigonometria.jpeg"
+                "file": "notes/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md"
               }
             }
           },
@@ -192,8 +182,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "76e67ff05767e0c3",
+  "active": "d542d1ddd29784be",
   "lastOpenFiles": [
+    "images/relações decorrentes da relação fundamental da trigonometria.jpeg",
     "notes/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md",
     "MATÉRIAS/EEAR.md",
     "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
@@ -222,7 +213,6 @@
     "notes/note-560.md",
     "notes/note-554.md",
     "notes/note-579.md",
-    "notes/note-555.md",
     "Pasted image 20240708082341.png",
     "images/print_screen_032.png",
     "images/print_screen_031.png",
