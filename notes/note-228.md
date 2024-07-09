@@ -3,3 +3,4 @@
 - “_Gosto de ler; minha irmã, de assistir a séries; nossa prima, de passeios ao ar livre;nosso primo , de futebol._”
 
 Aqui, para evitar a repetição do verbo “gostar”, o uso de ponto e vírgula deixa subentendido que todos os sujeitos sentem prazer em fazer algo.
+
