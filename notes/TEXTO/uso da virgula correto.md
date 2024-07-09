@@ -31,3 +31,5 @@ uso da virgula
 		[1](https://www.qconcursos.com/questoes-militares/questoes/0831864b-e4)(aprendi([[note-225|resolução]]))
 		[2](https://www.qconcursos.com/questoes-militares/questoes/1fdcbbda-4d)(aprendi([[note-226|resolução]]))
 		[3](https://www.qconcursos.com/questoes-militares/questoes/d61a26a6-4b)(aprendi([[note-274|resolução]]))-C
+
+

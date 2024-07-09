@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "uso da virgula correto",
+      "path": "notes/TEXTO/uso da virgula correto.md"
+    },
+    {
+      "basename": "note-199",
+      "path": "notes/note-199.md"
+    },
+    {
+      "basename": "note-143",
+      "path": "notes/note-143.md"
+    },
+    {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
     },
@@ -149,14 +161,6 @@
       "path": "notes/note-542.md"
     },
     {
-      "basename": "note-143",
-      "path": "notes/note-143.md"
-    },
-    {
-      "basename": "uso da virgula correto",
-      "path": "notes/TEXTO/uso da virgula correto.md"
-    },
-    {
       "basename": "expressões explicativas",
       "path": "notes/TEXTO/expressões explicativas.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "note-407",
       "path": "notes/note-407.md"
-    },
-    {
-      "basename": "crase",
-      "path": "notes/crase.md"
     }
   ],
   "omittedPaths": [],
