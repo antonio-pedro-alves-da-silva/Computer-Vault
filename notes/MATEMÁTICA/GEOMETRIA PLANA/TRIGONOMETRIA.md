@@ -9,6 +9,7 @@ formulas trigonométricas
 	 [[print_screen_150.png|formulas trigonométrica de adição]] , [[print_screen_153.png|arco duplo]] e [[print_screen_152.png|arco metade]]
 [[print_screen_687.png|Lei seno]] e  [[print_screen_688.png|Lei cosseno]]
 funções trigonométricas
+
 # Funções trigonométricas
 
 ## Função seno e cosseno
