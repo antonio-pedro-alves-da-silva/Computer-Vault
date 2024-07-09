@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "TRIGONOMETRIA",
-      "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md"
-    },
-    {
-      "basename": "relações decorrentes da relação fundamental da trigonometria",
-      "path": "images/relações decorrentes da relação fundamental da trigonometria.jpeg"
+      "basename": "Análise combinatória",
+      "path": "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md"
     },
     {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "Matrizes",
+      "path": "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md"
+    },
+    {
+      "basename": "TRIGONOMETRIA",
+      "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md"
+    },
+    {
+      "basename": "note-353",
+      "path": "notes/note-353.md"
+    },
+    {
+      "basename": "relações decorrentes da relação fundamental da trigonometria",
+      "path": "images/relações decorrentes da relação fundamental da trigonometria.jpeg"
     },
     {
       "basename": "Polígonos",
@@ -187,18 +199,6 @@
     {
       "basename": "crase",
       "path": "notes/crase.md"
-    },
-    {
-      "basename": "note-406",
-      "path": "notes/note-406.md"
-    },
-    {
-      "basename": "note-405",
-      "path": "notes/note-405.md"
-    },
-    {
-      "basename": "transposição de discurso",
-      "path": "notes/TEXTO/transposição de discurso.md"
     }
   ],
   "omittedPaths": [],
