@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "76c9148b8dae3513",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md",
+                "file": "MATÉRIAS/EEAR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md",
+                "file": "MATÉRIAS/EEAR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md"
+                "file": "MATÉRIAS/EEAR.md"
               }
             }
           },
@@ -182,8 +169,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "76c9148b8dae3513",
+  "active": "5ff102654c4e2211",
   "lastOpenFiles": [
+    "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md",
     "MATÉRIAS/EEAR.md",
     "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md",
     "notes/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md",
@@ -213,7 +201,6 @@
     "notes/note-557.md",
     "notes/note-561.md",
     "notes/note-560.md",
-    "notes/note-554.md",
     "Pasted image 20240708082341.png",
     "images/print_screen_032.png",
     "images/print_screen_031.png",
