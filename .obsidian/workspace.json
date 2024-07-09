@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "97a595f9d475868d",
+            "id": "365caa906c8f0de2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-313.md",
+                "file": "notes/MATEMÁTICA/GEOMETRIA PLANA/Ângulos.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-313.md",
+                "file": "notes/MATEMÁTICA/GEOMETRIA PLANA/Ângulos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-313.md",
+                "file": "notes/MATEMÁTICA/GEOMETRIA PLANA/Ângulos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-313.md"
+                "file": "notes/MATEMÁTICA/GEOMETRIA PLANA/Ângulos.md"
               }
             }
           },
@@ -182,9 +182,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "97a595f9d475868d",
+  "active": "365caa906c8f0de2",
   "lastOpenFiles": [
     "MATÉRIAS/EEAR.md",
+    "notes/MATEMÁTICA/ÁLGEBRA/progressões aritmética e geométrica.md",
+    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-313.md",
     "notes/note-319.md",
     "notes/note-321.md",
@@ -210,8 +212,6 @@
     "notes/note-552.md",
     "notes/note-732.md",
     "Pasted image 20240708082341.png",
-    "notes/note-542.md",
-    "notes/note-143.md",
     "images/print_screen_032.png",
     "images/print_screen_031.png",
     "images/Pasted image 20240302171101.png",

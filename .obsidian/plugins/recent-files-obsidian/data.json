@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "note-313",
-      "path": "notes/note-313.md"
+      "basename": "Ângulos",
+      "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/Ângulos.md"
     },
     {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "progressões aritmética e geométrica",
+      "path": "notes/MATEMÁTICA/ÁLGEBRA/progressões aritmética e geométrica.md"
+    },
+    {
+      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
+      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+    },
+    {
+      "basename": "note-313",
+      "path": "notes/note-313.md"
     },
     {
       "basename": "note-319",
@@ -181,24 +193,12 @@
       "path": "notes/note-729.md"
     },
     {
-      "basename": "progressões aritmética e geométrica",
-      "path": "notes/MATEMÁTICA/ÁLGEBRA/progressões aritmética e geométrica.md"
-    },
-    {
       "basename": "tipos de funções",
       "path": "notes/MATEMÁTICA/ÁLGEBRA/Funções/tipos de funções.md"
     },
     {
       "basename": "note-731",
       "path": "notes/note-731.md"
-    },
-    {
-      "basename": "note-431",
-      "path": "notes/note-431.md"
-    },
-    {
-      "basename": "note-430",
-      "path": "notes/note-430.md"
     }
   ],
   "omittedPaths": [],
