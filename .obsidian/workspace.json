@@ -20,7 +20,19 @@
             }
           },
           {
-            "id": "2f538a26fd249acf",
+            "id": "57a398f7bf13cfb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-143.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9643702606919733",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "481a8f9d7cc5f68f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-273.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -107,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/TEXTO/uso da virgula correto.md",
+                "file": "notes/note-273.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/TEXTO/uso da virgula correto.md",
+                "file": "notes/note-273.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/TEXTO/uso da virgula correto.md"
+                "file": "notes/note-273.md"
               }
             }
           },
@@ -182,13 +206,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2f538a26fd249acf",
+  "active": "481a8f9d7cc5f68f",
   "lastOpenFiles": [
-    "notes/note-222.md",
     "notes/TEXTO/uso da virgula correto.md",
-    "notes/note-199.md",
     "notes/note-143.md",
     "MATÉRIAS/EEAR.md",
+    "notes/note-224.md",
+    "notes/note-222.md",
+    "notes/note-199.md",
     "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md",
     "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Matrizes.md",
     "notes/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md",
@@ -213,7 +238,6 @@
     "notes/note-573.md",
     "images/Pasted image 20240517111800.png",
     "notes/note-575.md",
-    "notes/note-574.md",
     "Pasted image 20240708082341.png",
     "images/print_screen_032.png",
     "images/print_screen_031.png",

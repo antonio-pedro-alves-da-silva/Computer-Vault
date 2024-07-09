@@ -26,7 +26,6 @@ uso da virgula
 		[[note-202|Enumeração curta]]
 		[[note-221|Adjetivos enumerados]]
 		[[note-222|Conjunções coordenativas]]
-		[[note-224|Estrutura cordenada assindética]]
 		[[note-273|para separar sujeitos diferentes]]
 	Exercícios de pontuação errados
 		[1](https://www.qconcursos.com/questoes-militares/questoes/0831864b-e4)(aprendi([[note-225|resolução]]))
@@ -34,3 +33,4 @@ uso da virgula
 		[3](https://www.qconcursos.com/questoes-militares/questoes/d61a26a6-4b)(aprendi([[note-274|resolução]]))-C
 
 
+ 

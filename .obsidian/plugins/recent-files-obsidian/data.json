@@ -1,16 +1,12 @@
 {
   "recentFiles": [
     {
+      "basename": "note-273",
+      "path": "notes/note-273.md"
+    },
+    {
       "basename": "uso da virgula correto",
       "path": "notes/TEXTO/uso da virgula correto.md"
-    },
-    {
-      "basename": "note-222",
-      "path": "notes/note-222.md"
-    },
-    {
-      "basename": "note-199",
-      "path": "notes/note-199.md"
     },
     {
       "basename": "note-143",
@@ -19,6 +15,18 @@
     {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "note-224",
+      "path": "notes/note-224.md"
+    },
+    {
+      "basename": "note-222",
+      "path": "notes/note-222.md"
+    },
+    {
+      "basename": "note-199",
+      "path": "notes/note-199.md"
     },
     {
       "basename": "Análise combinatória",
@@ -191,14 +199,6 @@
     {
       "basename": "concordância verbal",
       "path": "notes/GRAMÁTICA/concordância verbal.md"
-    },
-    {
-      "basename": "colocação pronominal",
-      "path": "notes/GRAMÁTICA/colocação pronominal.md"
-    },
-    {
-      "basename": "note-404",
-      "path": "notes/note-404.md"
     }
   ],
   "omittedPaths": [],
