@@ -5,6 +5,10 @@
       "path": "notes/TEXTO/uso da virgula correto.md"
     },
     {
+      "basename": "note-222",
+      "path": "notes/note-222.md"
+    },
+    {
       "basename": "note-199",
       "path": "notes/note-199.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "note-404",
       "path": "notes/note-404.md"
-    },
-    {
-      "basename": "note-407",
-      "path": "notes/note-407.md"
     }
   ],
   "omittedPaths": [],

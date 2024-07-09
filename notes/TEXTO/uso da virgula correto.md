@@ -1,4 +1,5 @@
 
+
 uso da virgula
 	quando usar virgula
 		usado para evitar ambiguidade
@@ -19,11 +20,11 @@ uso da virgula
 		[[note-199|separar orações cordenadas assindéticas]]
 		[[note-200|orações cordendas alternativas que enfatizam uma escolha]]
 	Quando não usar a vírgula
-		não separar o sujeito do predicadol
+		não separar o sujeito do predicado
 		[[note-201|não separar o verbo do complemento]]
 	Quando a  virgula é facultativa
 		[[note-202|Enumeração curta]]
-		[[note-221|Adjetivos coordenados]]
+		[[note-221|Adjetivos enumerados]]
 		[[note-222|Conjunções coordenativas]]
 		[[note-224|Estrutura cordenada assindética]]
 		[[note-273|para separar sujeitos diferentes]]

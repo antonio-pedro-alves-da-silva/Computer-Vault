@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "697b40c1cef9c71b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-143.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2f538a26fd249acf",
             "type": "leaf",
             "state": {
@@ -42,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "73980a2f4060a649",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-199.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,8 +184,9 @@
   },
   "active": "2f538a26fd249acf",
   "lastOpenFiles": [
-    "notes/note-199.md",
+    "notes/note-222.md",
     "notes/TEXTO/uso da virgula correto.md",
+    "notes/note-199.md",
     "notes/note-143.md",
     "MATÉRIAS/EEAR.md",
     "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md",
@@ -237,7 +214,6 @@
     "images/Pasted image 20240517111800.png",
     "notes/note-575.md",
     "notes/note-574.md",
-    "notes/note-571.md",
     "Pasted image 20240708082341.png",
     "images/print_screen_032.png",
     "images/print_screen_031.png",
