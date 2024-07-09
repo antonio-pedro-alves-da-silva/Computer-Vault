@@ -8,7 +8,7 @@ triângulos
 	[[note-471|relações métricas e áreas]]
 	[[print_screen_193.png|área do tringulo]]
 	[[print_screen_176.png|congruência dos triângulos]]
-	[[Pasted image 20231025174132.png|altura , bissetriz , mediana , mediatriz]] e [[Pasted image 20240512155914.png|baricentro , incentro , circucentro e ortocentro]] e [[print_screen_197.png|medida da mediana]]
+	[[Pasted image 20231025174132.png|altura , bissetriz , mediana , mediatriz]] e [[Pasted image 20240512155914.png|baricentro , incentro , circucentro e ortocentro]] e [[print_screen_197.png|medida da mediana]] - bico mbhh
 	semelhança de triângulo
 trapézio
 	[[print_screen_181.png|ângulo]]
@@ -21,7 +21,7 @@ circuferência
 	[[print_screen_188.png|área do segmento circular]] e [[print_screen_191.png|exemplo]]
 	[[Pasted image 20231026084817.png|potência de ponto]]
 		[[print_screen_192.png|circuferência inscrita em um triângulo retângulo]]
- 
+
 ## semelhança de triângulo
 
 ![[print_screen_203.png]]

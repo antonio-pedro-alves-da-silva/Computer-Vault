@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "46fbdc811a0ed5a9",
+            "id": "d542d1ddd29784be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
+                "file": "notes/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
+                "file": "notes/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
+                "file": "notes/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md"
+                "file": "notes/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md"
               }
             }
           },
@@ -182,9 +182,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "46fbdc811a0ed5a9",
+  "active": "d542d1ddd29784be",
   "lastOpenFiles": [
     "MATÉRIAS/EEAR.md",
+    "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
+    "images/print_screen_192.png",
+    "images/Pasted image 20240512155914.png",
     "notes/MATEMÁTICA/GEOMETRIA PLANA/Ângulos.md",
     "notes/MATEMÁTICA/ÁLGEBRA/progressões aritmética e geométrica.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
@@ -209,8 +212,6 @@
     "notes/note-554.md",
     "notes/note-579.md",
     "notes/note-555.md",
-    "notes/note-551.md",
-    "notes/note-552.md",
     "Pasted image 20240708082341.png",
     "images/print_screen_032.png",
     "images/print_screen_031.png",
@@ -220,8 +221,6 @@
     "images/Pasted image 20231101094601.png",
     "my-configuration-files/backup/cfs/local_da_prova.pdf",
     "my-configuration-files/backup/cfs/local_da_prova.pdf.crdownload",
-    "images/print_screen_570.png",
-    "images/print_screen_569.png",
     "my-configuration-files/backup/cfs/cfs-b_2_31_2016.pdf",
     "my-configuration-files/backup/cfs/cfs-b_2_2016.pdf",
     "my-configuration-files/backup/cfs/cfs-b_2_2016.pdf.crdownload",
