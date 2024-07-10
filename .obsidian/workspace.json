@@ -20,19 +20,31 @@
             }
           },
           {
-            "id": "f6cf489f2ad89a9b",
+            "id": "9036bcf3641d8974",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-175.md",
+                "file": "notes/note-653.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c7dc5abeb0f4602",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-654.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-175.md",
+                "file": "notes/note-654.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-175.md",
+                "file": "notes/note-654.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-175.md"
+                "file": "notes/note-654.md"
               }
             }
           },
@@ -182,13 +194,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f6cf489f2ad89a9b",
+  "active": "1c7dc5abeb0f4602",
   "lastOpenFiles": [
+    "notes/note-653.md",
+    "notes/note-175.md",
     "MATÉRIAS/EEAR.md",
     "notes/note-313.md",
     "notes/note-323.md",
     "notes/note-322.md",
-    "notes/note-175.md",
     "notes/note-476.md",
     "notes/note-542.md",
     "notes/note-611.md",
@@ -209,7 +222,6 @@
     "notes/note-561.md",
     "notes/note-143.md",
     "notes/TEXTO/uso do ponto e virgula correto.md",
-    "notes/note-231.md",
     "images/relações decorrentes da relação fundamental da trigonometria.jpeg",
     "images/print_screen_192.png",
     "images/Pasted image 20240512155914.png",

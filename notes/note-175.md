@@ -46,7 +46,7 @@
 | Egotistical                                                                                              | Egoísta                                                                                                 |
 | Backstabbing                                                                                             | Fofoca ou falar mal de alguém por trás                                                                  |
 | Wimpy                                                                                                    | Fracote                                                                                                 |
-| Longest-running                                                                                          | mais antigo                                                                                             |
+| Longest-running                                                                                          | o mais antigo                                                                                           |
 | Highest grossing                                                                                         | Com maior faturamento                                                                                   |
 | Current turnover stands at over $6 billion                                                               | O faturamento atual ultrapassa US $6 bilhões                                                            |
 | Still fall $750 million short of Bond at the box office                                                  | Ainda fica US $750 milhões abaixo de Bond na bilheteria                                                 |
@@ -99,6 +99,7 @@
 | He was fired on the spot for                                                                             | Ele foi demitido no local                                                                               |
 | Easygoing **blithe**                                                                                     | Despreocupado **alegre**                                                                                |
 
+
 | Appealing   | Atraente             |
 | ----------- | -------------------- |
 | Untaxing    | Não tributável       |
@@ -113,14 +114,15 @@
 | Halted      | Interrompeu          |
 | Shave off   | Reduzir              |
 
+
 | Inglês                                                              | Português                                                         |
 | ------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | Corruption Scandal                                                  | Escândalo de Corrupção                                            |
 | had **bribed** executives                                           | havia **subornado** executivos                                    |
 | has **halted** payments on many projects                            | **suspendeu** os pagamentos em muitos projetos                    |
 | will probably shave 0.75 percent off growth of the nation’s economy | provavelmente reduzirá em 0,75% o crescimento da economia do país |
-| **space shuttle**                                                   | o primeiro **ônibus espacial**                                    |
-| **landowner**                                                       | um rico **proprietário de terras**                                |
+| **space shuttle**                                                   | o primeiro **nave espacial**                                      |
+| **landowner**                                                       | **proprietário de terras**                                        |
 | my **homestay** family                                              | minha família **anfitriã**                                        |
 | up side down/overturned                                             | de cabeça para baixo/virado                                       |
 | seldom                                                              | raramente                                                         |
@@ -147,16 +149,16 @@
 | They were crying to break out of the jar...                         | Eles estavam chorando para sair do pote...                        |
 
 
-| walnut                           | noz                                      |
-| -------------------------------- | ---------------------------------------- |
-| flour                            | farinha                                  |
-| cake tin                         | forma de bolo                            |
-| nevertheless                     | no entanto                               |
-| throughout                       | ao longo de                              |
-| therefore                        | portanto                                 |
-| neither                          | nem                                      |
-| Car Wash carried out by police   | Lavagem de carros realizada pela polícia |
-| Twenty-First Century Birdwatchin | Observação de pássaros no século XXI     |
-| falling income                   | rendimento em queda                      |
-| to passed out/to faint           | desmaiar                                 |
+| walnut                            | noz                                      |
+| --------------------------------- | ---------------------------------------- |
+| flour                             | farinha                                  |
+| cake tin                          | forma de bolo                            |
+| nevertheless                      | no entanto                               |
+| throughout                        | ao longo de                              |
+| therefore                         | portanto                                 |
+| neither                           | nem                                      |
+| Car Wash carried out by police    | Lavagem de carros realizada pela polícia |
+| Twenty-First Century Birdwatching | Observação de pássaros no século XXI     |
+| falling income                    | rendimento em queda                      |
+| to passed out/to faint            | desmaiar                                 |
 

@@ -870,6 +870,8 @@ LÍNGUA INGLESA
 		[[note-717|comparative and superlative]]
 		[[note-709|types of conditional]]
 		[[note-730|object pronoun and subject pronoun]]
+		[[note-654|preposition at , in e on]]
+		[[note-658|relative clauses]]
 		Orações condicionais (0, 1 e 2)
 		Question Tags
 		Quantificadores
