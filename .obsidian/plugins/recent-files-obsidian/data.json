@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "note-611",
+      "path": "notes/note-611.md"
+    },
+    {
+      "basename": "note-542",
+      "path": "notes/note-542.md"
+    },
+    {
+      "basename": "note-580",
+      "path": "notes/note-580.md"
+    },
+    {
       "basename": "note-599",
       "path": "notes/note-599.md"
     },
@@ -11,10 +23,6 @@
     {
       "basename": "note-603",
       "path": "notes/note-603.md"
-    },
-    {
-      "basename": "note-542",
-      "path": "notes/note-542.md"
     },
     {
       "basename": "note-543",
@@ -191,14 +199,6 @@
     {
       "basename": "note-571",
       "path": "notes/note-571.md"
-    },
-    {
-      "basename": "note-560",
-      "path": "notes/note-560.md"
-    },
-    {
-      "basename": "note-554",
-      "path": "notes/note-554.md"
     }
   ],
   "omittedPaths": [],
