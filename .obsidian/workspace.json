@@ -20,43 +20,19 @@
             }
           },
           {
-            "id": "57a398f7bf13cfb5",
+            "id": "1fab8316717de393",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-143.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c59e123f70a3ed8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/TEXTO/uso do ponto e virgula correto.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "059006e64a79670a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-231.md",
+                "file": "notes/note-546.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-231.md",
+                "file": "notes/note-546.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-231.md",
+                "file": "notes/note-546.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-231.md"
+                "file": "notes/note-546.md"
               }
             }
           },
@@ -206,16 +182,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "059006e64a79670a",
+  "active": "1fab8316717de393",
   "lastOpenFiles": [
+    "MATÉRIAS/EEAR.md",
+    "notes/note-143.md",
     "notes/TEXTO/uso do ponto e virgula correto.md",
     "notes/note-231.md",
     "notes/note-230.md",
     "notes/note-228.md",
-    "notes/note-143.md",
     "notes/TEXTO/uso da virgula correto.md",
     "notes/note-273.md",
-    "MATÉRIAS/EEAR.md",
     "notes/note-224.md",
     "notes/note-222.md",
     "notes/note-199.md",
