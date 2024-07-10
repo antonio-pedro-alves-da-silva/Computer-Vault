@@ -9,7 +9,7 @@ Modelos atômicos(dtrbs)
 radiotividade
 	[[note-555|número atômico e número de massa]]
 	[[note-579|isotópos , isótonos, isóbaros , Núcelos espelhos , isodiáferos , isômeros]]
-	tipos
+	tipos de raios
 		[[note-554|raios alfa]]
 		[[note-557|raios beta]]
 		[[note-562|raios gama]]
@@ -23,7 +23,7 @@ Teoria sobre a natureza da luz
 efeito fotoelétrico - 
 	[[note-573|fótons]]
 	[[note-572|o que é o efeito fotoelétrico]]
-[[note-578|potência de ondas eletromagnéticas]]
+[[note-578|itensidade da ondas eletromagnética]]
 [[note-647|lei de wien]]
 [[note-648|relação de wien da constante de proporcionalidade]]
 
