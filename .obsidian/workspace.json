@@ -42,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "824930531e726170",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-40.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -131,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-40.md",
+                "file": "notes/note-599.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-40.md",
+                "file": "notes/note-599.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-40.md"
+                "file": "notes/note-599.md"
               }
             }
           },
@@ -206,8 +194,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "824930531e726170",
+  "active": "60a21335680d6f8e",
   "lastOpenFiles": [
+    "notes/note-40.md",
     "notes/note-599.md",
     "notes/note-603.md",
     "notes/note-542.md",
@@ -233,7 +222,6 @@
     "notes/note-224.md",
     "notes/note-222.md",
     "notes/note-199.md",
-    "notes/MATEMÁTICA/ÁLGEBRA II/Matrizes/Análise combinatória.md",
     "images/relações decorrentes da relação fundamental da trigonometria.jpeg",
     "images/print_screen_192.png",
     "images/Pasted image 20240512155914.png",
