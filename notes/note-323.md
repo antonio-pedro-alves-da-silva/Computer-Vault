@@ -1,3 +1,4 @@
+
 **Infinitivo** 
 
 - The teacher wants **to give** her students a gift.   
@@ -8,9 +9,10 @@
 
 - **Writing** is an important skill.   
     (Escrever é uma habilidade importante.) 
-    
+
 
 **Particípio** 
 
 - A **balanced** diet can help you.   
     (Uma dieta equilibrada pode te ajudar.)
+

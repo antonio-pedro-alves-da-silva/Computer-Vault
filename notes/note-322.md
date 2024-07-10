@@ -1,3 +1,4 @@
+
 O modo subjuntivo, ou subjunctive em inglês, é um modo verbal que expressa hipóteses, desejos ou possibilidades. Em inglês, o presente do subjuntivo é independente do tempo e é sempre conjugado em infinitivo sem "to". Por exemplo:
 
 - "They suggested that he come with them"(Eles sugeriram que ele fosse com eles)
