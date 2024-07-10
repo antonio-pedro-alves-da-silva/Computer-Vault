@@ -8,7 +8,7 @@
 | Performance on the pitch                                                                                 | Performance no campo                                                                                    |
 | Whereas in the past                                                                                      | Enquanto no passado                                                                                     |
 | Badge of honour                                                                                          | Medalha de honra                                                                                        |
-| Elusive                                                                                                  | Indescritível                                                                                           |
+| **Elusive**                                                                                              | Indescritível                                                                                           |
 | Long-lasting                                                                                             | Duradouro                                                                                               |
 | Stating                                                                                                  | Afirmando                                                                                               |
 | Slave trade                                                                                              | Tráfico de escravos                                                                                     |
@@ -19,15 +19,15 @@
 | He bought                                                                                                | Ele comprou                                                                                             |
 | Auction                                                                                                  | Leilão                                                                                                  |
 | Torch                                                                                                    | Tocha                                                                                                   |
-| Stairway                                                                                                 | Escadaria                                                                                               |
+| **Stairway**                                                                                             | Escadaria                                                                                               |
 | Restoration work                                                                                         | Trabalho de restauração                                                                                 |
 | Worsening repercussions                                                                                  | Repercussões piores                                                                                     |
-| Trailing destruction in their wake                                                                       | Destruição deixada em seu rastro                                                                        |
+| ==Trailing destruction== **in their wake**                                                               | ==Deixando Destruição== **em seu rastro**                                                               |
 | The **haunting** fragility                                                                               | A fragilidade **assombrosa**                                                                            |
 | Tarnished                                                                                                | Manchado                                                                                                |
 | Pearl in the vastness of space                                                                           | Pérola na vastidão do espaço                                                                            |
 | **Portholes**                                                                                            | **Escotilhas**                                                                                          |
-| Has an arresting view of global<br>warming's                                                             | Tem uma visão impactante do aquecimento global                                                          |
+| Has an **arresting** view of global<br>warming's                                                         | Tem uma visão **impactante** do aquecimento global                                                      |
 | **Clinginess**                                                                                           | **Pegajosidade**                                                                                        |
 | You shout it out                                                                                         | Você grita isso                                                                                         |
 | Fire away                                                                                                | Atire                                                                                                   |
@@ -52,7 +52,7 @@
 | Still fall $750 million short of Bond at the box office                                                  | Ainda fica US $750 milhões abaixo de Bond na bilheteria                                                 |
 | Not including merchandising                                                                              | Não incluindo merchandising                                                                             |
 | He’s a **bestselling** brand                                                                             | Ele é uma marca de sucesso                                                                              |
-| Fleming novels on which to base the films, the series goes on and on.                                    | Romances de Fleming nos quais basear os filmes, a série continua sem parar                              |
+| Fleming novels on which to base the films, the series goes on and on                                     | Romances de Fleming nos quais basear os filmes, a série continua sem parar                              |
 | “Shaken not stirred”                                                                                     | "Mexido, não batido"                                                                                    |
 | With so much money at stake                                                                              | Com tanto dinheiro em jogo                                                                              |
 | Sean Connery                                                                                             | Sean Connery                                                                                            |
@@ -64,7 +64,7 @@
 | Toothache                                                                                                | Dor de dente                                                                                            |
 | Have a **dental check-up** before                                                                        | Faça um **check-up dentário** antes                                                                     |
 | Our **upbringing**                                                                                       | Nossa **criação**                                                                                       |
-| Genetic set point                                                                                        | Ponto de ajuste genético                                                                                |
+| Genetic **set point**                                                                                    | **Ponto de ajuste** genético                                                                            |
 | Remnants of hurricane                                                                                    | Remanescentes de furacão                                                                                |
 | Cape Town                                                                                                | Cidade do Cabo                                                                                          |
 | Facelift                                                                                                 | Lifting facial                                                                                          |

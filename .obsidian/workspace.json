@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "ccc55c977affc2dc",
+            "id": "f6cf489f2ad89a9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-313.md",
+                "file": "notes/note-175.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-313.md",
+                "file": "notes/note-175.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-313.md",
+                "file": "notes/note-175.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-313.md"
+                "file": "notes/note-175.md"
               }
             }
           },
@@ -182,9 +182,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ccc55c977affc2dc",
+  "active": "f6cf489f2ad89a9b",
   "lastOpenFiles": [
     "MATÉRIAS/EEAR.md",
+    "notes/note-313.md",
     "notes/note-323.md",
     "notes/note-322.md",
     "notes/note-175.md",
@@ -209,7 +210,6 @@
     "notes/note-143.md",
     "notes/TEXTO/uso do ponto e virgula correto.md",
     "notes/note-231.md",
-    "notes/note-230.md",
     "images/relações decorrentes da relação fundamental da trigonometria.jpeg",
     "images/print_screen_192.png",
     "images/Pasted image 20240512155914.png",
