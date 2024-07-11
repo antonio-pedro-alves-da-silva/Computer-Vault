@@ -14,4 +14,4 @@ divisão de polinômios
 
 
 
-
+ 
