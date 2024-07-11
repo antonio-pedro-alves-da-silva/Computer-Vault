@@ -15,3 +15,4 @@ Assinale (F) falso ou (V) verdadeiro para as afirmações abaixo e, em seguida, 
 ( ) Nas frases II e III, a conjunção e introduz sujeitos diferentes, por isso uma vírgula foi indevidamente omitida na frase II.
 
 ( ) Na frase III, há vírgulas empregadas para isolar um termo deslocado, o que evidencia uma quebra na sequência sintática.
+
