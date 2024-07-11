@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "GEOMETRIA ESPACIAL",
-      "path": "notes/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md"
+      "basename": "Estudo Analítico",
+      "path": "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md"
     },
     {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "GEOMETRIA ESPACIAL",
+      "path": "notes/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md"
+    },
+    {
+      "basename": "note-733",
+      "path": "notes/note-733.md"
+    },
+    {
+      "basename": "print_screen_220",
+      "path": "images/print_screen_220.png"
     },
     {
       "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
@@ -187,18 +199,6 @@
     {
       "basename": "TRIGONOMETRIA",
       "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md"
-    },
-    {
-      "basename": "note-353",
-      "path": "notes/note-353.md"
-    },
-    {
-      "basename": "relações decorrentes da relação fundamental da trigonometria",
-      "path": "images/relações decorrentes da relação fundamental da trigonometria.jpeg"
-    },
-    {
-      "basename": "Polígonos",
-      "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md"
     }
   ],
   "omittedPaths": [],

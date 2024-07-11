@@ -14,7 +14,7 @@ Poliedros
 		[[print_screen_220.png|área]]
 	esfera
 		[[Pasted image 20231031205034.png|área e volume]]
-		[[Pasted image 20231101071244.png|volume do cunha e área do fuso]]
+		[[note-733|volume do cunha e área do fuso]]
 
 
 
