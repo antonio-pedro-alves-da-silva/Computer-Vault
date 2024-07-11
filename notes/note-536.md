@@ -13,3 +13,4 @@
 [12](https://www.qconcursos.com/questoes-militares/questoes/5b122d7d-16)- Análise combinatória - Combinação simples e permutação
 [13](https://militares.estrategia.com/public/questoes/cos-x-0-8-enta-valor-1173579503a/)([[print_screen_150.png|Formula trigonométrica adição]] , [[print_screen_153.png|arco duplo]] e [[print_screen_152.png|arco metade]])
 [14](https://www.qconcursos.com/questoes-militares/questoes/5b0731b4-16)([[print_screen_679.png|resolução]])
+
