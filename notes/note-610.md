@@ -1,7 +1,7 @@
 
 49)a
 54)a 
-57)c 
+57)c -
 58)a 
 61)d 
 64)b - distância entre ponto e reta
