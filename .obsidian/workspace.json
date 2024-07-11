@@ -32,12 +32,24 @@
             }
           },
           {
-            "id": "eb87f0dc4fe8f8d1",
+            "id": "fcf96308b44a773d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-226.md",
+                "file": "notes/note-252.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d33040cd9be966b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-251.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-226.md",
+                "file": "notes/note-252.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-226.md",
+                "file": "notes/note-252.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-226.md"
+                "file": "notes/note-252.md"
               }
             }
           },
@@ -194,9 +206,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eb87f0dc4fe8f8d1",
+  "active": "fcf96308b44a773d",
   "lastOpenFiles": [
     "notes/note-143.md",
+    "notes/note-251.md",
+    "notes/note-250.md",
+    "notes/note-245.md",
+    "notes/note-226.md",
+    "images/print_screen_640.png",
     "notes/note-225.md",
     "notes/TEXTO/uso do travessão.md",
     "notes/TEXTO/uso do dois-ponto.md",
@@ -220,18 +237,13 @@
     "notes/note-346.md",
     "images/print_screen_125.png",
     "notes/MATEMÁTICA/ÁLGEBRA III/Produto Notaveis.md",
-    "notes/MATEMÁTICA/ÁLGEBRA III/Números Complexos.md",
     "images/print_screen_136.png",
-    "notes/MATEMÁTICA/GEOMETRIA ANALÍTICA/Estudo Analítico.md",
     "images/print_screen_698.png",
-    "notes/note-722.md",
-    "notes/note-328.md",
     "images/print_screen_167.png",
     "images/print_screen_681.png",
     "images/Pasted image 20231101071244.png",
     "images/print_screen_220.png",
     "images/relações decorrentes da relação fundamental da trigonometria.jpeg",
-    "images/print_screen_192.png",
     "my-configuration-files/backup/cfs/local_da_prova.pdf",
     "my-configuration-files/backup/cfs/local_da_prova.pdf.crdownload",
     "my-configuration-files/backup/cfs/cfs-b_2_31_2016.pdf",
