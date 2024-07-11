@@ -3,6 +3,8 @@
 [[print_screen_639.png|ordem direta]]
 [[print_screen_640.png|ordem inversa ou ordem indireta]]
 
+ordem direta 
+
 a virgula na ordem direta é facultativa quando há uma oração adverbial
 já na ordem indireta a virgula é obrigatória.
 
