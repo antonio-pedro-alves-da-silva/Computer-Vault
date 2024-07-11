@@ -32,24 +32,12 @@
             }
           },
           {
-            "id": "a077348b27092222",
+            "id": "ca8ac96d2d77d664",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-229.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75feaaa9bddb6be8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-231.md",
+                "file": "notes/TEXTO/uso do travessão.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-229.md",
+                "file": "notes/TEXTO/uso do travessão.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-229.md",
+                "file": "notes/TEXTO/uso do travessão.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-229.md"
+                "file": "notes/TEXTO/uso do travessão.md"
               }
             }
           },
@@ -206,13 +194,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a077348b27092222",
+  "active": "ca8ac96d2d77d664",
   "lastOpenFiles": [
-    "notes/TEXTO/uso do ponto e virgula correto.md",
-    "notes/note-231.md",
-    "notes/note-230.md",
-    "notes/note-229.md",
     "notes/note-143.md",
+    "notes/TEXTO/uso do dois-ponto.md",
+    "notes/note-240.md",
+    "notes/TEXTO/uso do ponto e virgula correto.md",
+    "notes/note-235.md",
+    "notes/note-234.md",
+    "notes/note-232.md",
+    "notes/note-228.md",
+    "notes/note-231.md",
+    "notes/note-229.md",
+    "notes/note-230.md",
     "notes/TEXTO/uso da virgula correto.md",
     "MATÉRIAS/EEAR.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
@@ -236,12 +230,6 @@
     "notes/note-733.md",
     "images/Pasted image 20231101071244.png",
     "images/print_screen_220.png",
-    "notes/note-476.md",
-    "notes/note-615.md",
-    "notes/note-319.md",
-    "notes/note-717.md",
-    "notes/note-709.md",
-    "notes/note-653.md",
     "images/relações decorrentes da relação fundamental da trigonometria.jpeg",
     "images/print_screen_192.png",
     "my-configuration-files/backup/cfs/local_da_prova.pdf",

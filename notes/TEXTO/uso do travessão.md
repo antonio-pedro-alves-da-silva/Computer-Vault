@@ -1,3 +1,4 @@
+
 O **travessão** é um sinal de pontuação representado por um traço na horizontal (—) e tem como objetivo marcar o **discurso direto** ou **destacar trechos em textos.**
 
 [[note-241|discurso direto]]
