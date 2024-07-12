@@ -1,3 +1,4 @@
+
 **GABARITO A**
 
 I- A sindicância feita pela diretoria revelou quantos são, quanto ganham e no que trabalham os pais que não pagaram as mensalidades.

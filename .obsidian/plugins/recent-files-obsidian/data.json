@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "note-259",
-      "path": "notes/note-259.md"
+      "basename": "note-260",
+      "path": "notes/note-260.md"
     },
     {
       "basename": "note-143",
       "path": "notes/note-143.md"
+    },
+    {
+      "basename": "note-259",
+      "path": "notes/note-259.md"
     },
     {
       "basename": "note-252",
@@ -195,10 +199,6 @@
     {
       "basename": "note-658",
       "path": "notes/note-658.md"
-    },
-    {
-      "basename": "note-654",
-      "path": "notes/note-654.md"
     }
   ],
   "omittedPaths": [],
