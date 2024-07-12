@@ -44,12 +44,12 @@
             }
           },
           {
-            "id": "0d6e10702be71176",
+            "id": "2d79733052710755",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-585.md",
+                "file": "notes/note-613.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-585.md",
+                "file": "notes/note-613.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-585.md",
+                "file": "notes/note-613.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-585.md"
+                "file": "notes/note-613.md"
               }
             }
           },
@@ -206,9 +206,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0d6e10702be71176",
+  "active": "2d79733052710755",
   "lastOpenFiles": [
     "notes/note-542.md",
+    "notes/note-613.md",
     "notes/note-585.md",
     "notes/note-611.md",
     "notes/FÍSICA/TERMOLOGIA.md",
@@ -234,7 +235,6 @@
     "notes/note-228.md",
     "notes/note-231.md",
     "notes/note-229.md",
-    "notes/note-230.md",
     "images/Pasted image 20231102133222.png",
     "images/print_screen_125.png",
     "images/print_screen_136.png",
