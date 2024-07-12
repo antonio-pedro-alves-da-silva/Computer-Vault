@@ -44,12 +44,12 @@
             }
           },
           {
-            "id": "2d79733052710755",
+            "id": "48a2bf869db8d303",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/note-613.md",
+                "file": "notes/note-624.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-613.md",
+                "file": "notes/note-624.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-613.md",
+                "file": "notes/note-624.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-613.md"
+                "file": "notes/note-624.md"
               }
             }
           },
@@ -206,9 +206,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2d79733052710755",
+  "active": "48a2bf869db8d303",
   "lastOpenFiles": [
     "notes/note-542.md",
+    "notes/note-624.md",
     "notes/note-613.md",
     "notes/note-585.md",
     "notes/note-611.md",
@@ -234,7 +235,6 @@
     "notes/note-232.md",
     "notes/note-228.md",
     "notes/note-231.md",
-    "notes/note-229.md",
     "images/Pasted image 20231102133222.png",
     "images/print_screen_125.png",
     "images/print_screen_136.png",

@@ -1,4 +1,5 @@
-76)d
+
+76)d - ondas sonoras precisam de um meio material para se propagar elas não se propagam no espaço
 80)c
 83)a
 84)b
