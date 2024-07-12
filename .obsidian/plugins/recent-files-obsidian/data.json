@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "note-617",
+      "path": "notes/note-617.md"
+    },
+    {
+      "basename": "note-476",
+      "path": "notes/note-476.md"
+    },
+    {
+      "basename": "note-618",
+      "path": "notes/note-618.md"
+    },
+    {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
     },
@@ -15,14 +27,6 @@
     {
       "basename": "note-318",
       "path": "notes/note-318.md"
-    },
-    {
-      "basename": "note-476",
-      "path": "notes/note-476.md"
-    },
-    {
-      "basename": "note-618",
-      "path": "notes/note-618.md"
     },
     {
       "basename": "note-615",
@@ -195,10 +199,6 @@
     {
       "basename": "Números Complexos",
       "path": "notes/MATEMÁTICA/ÁLGEBRA III/Números Complexos.md"
-    },
-    {
-      "basename": "print_screen_136",
-      "path": "images/print_screen_136.png"
     }
   ],
   "omittedPaths": [],
