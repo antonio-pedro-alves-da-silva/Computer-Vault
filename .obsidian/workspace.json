@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7763651c43ae0add",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-684.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "notes/note-684.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+                "file": "notes/note-684.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+                "file": "notes/note-684.md"
               }
             }
           },
@@ -182,12 +194,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e3ad500a6aac80d1",
+  "active": "7763651c43ae0add",
   "lastOpenFiles": [
+    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
+    "notes/note-679.md",
+    "notes/note-664.md",
+    "notes/note-650.md",
+    "notes/note-646.md",
+    "notes/note-641.md",
     "MATÉRIAS/EEAR.md",
     "notes/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md",
     "notes/note-623.md",
-    "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-612.md",
     "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
     "notes/note-610.md",
@@ -205,11 +222,6 @@
     "notes/note-615.md",
     "notes/note-542.md",
     "notes/note-624.md",
-    "notes/FÍSICA/ONDULATÓRIA e ÓTICA.md",
-    "notes/note-74.md",
-    "notes/note-72.md",
-    "notes/FÍSICA/TERMOLOGIA.md",
-    "notes/note-613.md",
     "images/print_screen_640.png",
     "images/Pasted image 20231102133222.png",
     "images/print_screen_125.png",
