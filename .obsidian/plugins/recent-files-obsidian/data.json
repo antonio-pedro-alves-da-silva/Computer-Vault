@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "note-627",
+      "path": "notes/note-627.md"
+    },
+    {
+      "basename": "questões erradas de português",
+      "path": "notes/GRAMÁTICA/questões erradas de português.md"
+    },
+    {
+      "basename": "note-621",
+      "path": "notes/note-621.md"
+    },
+    {
+      "basename": "EEAR",
+      "path": "MATÉRIAS/EEAR.md"
+    },
+    {
       "basename": "7 erros com pronomes pessoais",
       "path": "notes/GRAMÁTICA/pronome/7 erros com pronomes pessoais.md"
     },
@@ -13,16 +29,8 @@
       "path": "notes/note-620.md"
     },
     {
-      "basename": "questões erradas de português",
-      "path": "notes/GRAMÁTICA/questões erradas de português.md"
-    },
-    {
       "basename": "note-143",
       "path": "notes/note-143.md"
-    },
-    {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
     },
     {
       "basename": "note-609",
@@ -191,14 +199,6 @@
     {
       "basename": "note-655",
       "path": "notes/note-655.md"
-    },
-    {
-      "basename": "note-617",
-      "path": "notes/note-617.md"
-    },
-    {
-      "basename": "note-618",
-      "path": "notes/note-618.md"
     }
   ],
   "omittedPaths": [],
