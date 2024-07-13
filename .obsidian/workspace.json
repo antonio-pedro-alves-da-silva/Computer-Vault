@@ -18,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b5273515137aba51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-143.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e8f7568757933d76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/note-405.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note-405.md",
+                "file": "MATÉRIAS/EEAR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note-405.md",
+                "file": "MATÉRIAS/EEAR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/note-405.md"
+                "file": "MATÉRIAS/EEAR.md"
               }
             }
           },
@@ -195,10 +170,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e8f7568757933d76",
+  "active": "5ff102654c4e2211",
   "lastOpenFiles": [
+    "notes/note-107.md",
     "notes/note-143.md",
+    "notes/GRAMÁTICA/quando usar o x ou ch.md",
+    "notes/GRAMÁTICA/diferença entre adjunto adnominal e complemento nominal.md",
     "MATÉRIAS/EEAR.md",
+    "notes/note-172.md",
+    "notes/note-189.md",
+    "notes/note-185.md",
+    "notes/note-184.md",
+    "notes/note-414.md",
+    "notes/note-408.md",
+    "notes/note-737.md",
+    "notes/note-407.md",
+    "notes/note-738.md",
+    "notes/note-736.md",
+    "notes/note-735.md",
+    "notes/note-405.md",
     "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md",
     "notes/note-702.md",
     "notes/note-696.md",
@@ -208,21 +198,6 @@
     "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
     "notes/note-684.md",
     "notes/note-734.md",
-    "notes/note-679.md",
-    "notes/note-664.md",
-    "notes/note-650.md",
-    "notes/note-646.md",
-    "notes/note-641.md",
-    "notes/MATEMÁTICA/GEOMETRIA PLANA/TRIGONOMETRIA.md",
-    "notes/note-623.md",
-    "notes/note-612.md",
-    "notes/note-610.md",
-    "notes/note-476.md",
-    "notes/note-636.md",
-    "notes/note-626.md",
-    "notes/note-619.md",
-    "notes/note-654.md",
-    "notes/note-655.md",
     "images/print_screen_640.png",
     "images/Pasted image 20231102133222.png",
     "images/print_screen_125.png",

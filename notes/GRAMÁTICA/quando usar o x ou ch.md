@@ -1,3 +1,4 @@
+
 # ***Depois de ditongos:**  
   
 **ameixa, caixa, baixela, caixote, peixe, feixe...**  
