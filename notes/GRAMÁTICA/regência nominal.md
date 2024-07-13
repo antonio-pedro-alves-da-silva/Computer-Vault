@@ -2,6 +2,7 @@
 lista de palavra e suas preposições
 - as palavras dessas lista fazem regência apenas e somente com as preposições da lista 
 - se encontra uma preposição sendo usado em algum exercíco que não esteje nesta lista , então é provavelmente um erro de regência nominal
+
 	consulta
 		**Preposição a**
 			consulta á internet
@@ -17,8 +18,8 @@ lista de palavra e suas preposições
 		**Preposição a**
 		**Preposição com**
 	compatível
-		**Preposição com**
-	relativa
+		**Preposição com , a**
+	relativo
 		**Preposição a**
 	coerente
 		**Preposição com:**
@@ -40,4 +41,7 @@ lista de palavra e suas preposições
 	atencioso
 		**Preposição com**
 		**Preposição para com (álguem)**
-	
+
+
+
+
