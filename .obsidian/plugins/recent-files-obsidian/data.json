@@ -5,16 +5,20 @@
       "path": "notes/note-688.md"
     },
     {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
+      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
+      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
     },
     {
       "basename": "GEOMETRIA ESPACIAL",
       "path": "notes/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md"
     },
     {
-      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
-      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
+      "basename": "EEAR",
+      "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "Polígonos",
+      "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md"
     },
     {
       "basename": "note-684",
@@ -55,10 +59,6 @@
     {
       "basename": "note-612",
       "path": "notes/note-612.md"
-    },
-    {
-      "basename": "Polígonos",
-      "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md"
     },
     {
       "basename": "note-610",
