@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fd3f1d40db741bdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-143.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6964c1992fbbc4e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/GRAMÁTICA/pronome/7 erros com pronomes pessoais.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "notes/GRAMÁTICA/pronome/7 erros com pronomes pessoais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "notes/GRAMÁTICA/pronome/7 erros com pronomes pessoais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATÉRIAS/EEAR.md"
+                "file": "notes/GRAMÁTICA/pronome/7 erros com pronomes pessoais.md"
               }
             }
           },
@@ -170,13 +195,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5ff102654c4e2211",
+  "active": "6964c1992fbbc4e8",
   "lastOpenFiles": [
-    "notes/note-107.md",
     "notes/note-143.md",
-    "notes/GRAMÁTICA/quando usar o x ou ch.md",
     "notes/GRAMÁTICA/diferença entre adjunto adnominal e complemento nominal.md",
+    "notes/note-383.md",
     "MATÉRIAS/EEAR.md",
+    "notes/note-107.md",
+    "notes/GRAMÁTICA/quando usar o x ou ch.md",
     "notes/note-172.md",
     "notes/note-189.md",
     "notes/note-185.md",
@@ -197,7 +223,6 @@
     "notes/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
     "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
     "notes/note-684.md",
-    "notes/note-734.md",
     "images/print_screen_640.png",
     "images/Pasted image 20231102133222.png",
     "images/print_screen_125.png",

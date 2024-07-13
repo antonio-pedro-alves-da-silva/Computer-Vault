@@ -129,3 +129,4 @@ erros de ortografia lista
 [[note-400|o que é denotativo e conotativo ?]]
 discurso direto , discurso indireto e discurso indireto livre
 [pronome de tratamento](https://querobolsa.com.br/enem/portugues/pronomes-de-tratamento#:~:text=6)
+
