@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "fd3f1d40db741bdb",
+            "id": "becb782ef7e030e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,19 +32,43 @@
             }
           },
           {
-            "id": "6964c1992fbbc4e8",
+            "id": "410742149904fdef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/GRAMÁTICA/pronome/7 erros com pronomes pessoais.md",
+                "file": "notes/GRAMÁTICA/regras do acento gráfico.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "144407c03cfce97b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e0ea535b4fd8f44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/note-609.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -120,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/GRAMÁTICA/pronome/7 erros com pronomes pessoais.md",
+                "file": "notes/note-609.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/GRAMÁTICA/pronome/7 erros com pronomes pessoais.md",
+                "file": "notes/note-609.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/GRAMÁTICA/pronome/7 erros com pronomes pessoais.md"
+                "file": "notes/note-609.md"
               }
             }
           },
@@ -195,12 +219,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6964c1992fbbc4e8",
+  "active": "8e0ea535b4fd8f44",
   "lastOpenFiles": [
+    "notes/GRAMÁTICA/questões erradas de português.md",
+    "notes/note-609.md",
+    "notes/GRAMÁTICA/regras do acento gráfico.md",
     "notes/note-143.md",
+    "MATÉRIAS/EEAR.md",
+    "notes/GRAMÁTICA/pronome/7 erros com pronomes pessoais.md",
     "notes/GRAMÁTICA/diferença entre adjunto adnominal e complemento nominal.md",
     "notes/note-383.md",
-    "MATÉRIAS/EEAR.md",
     "notes/note-107.md",
     "notes/GRAMÁTICA/quando usar o x ou ch.md",
     "notes/note-172.md",
@@ -219,10 +247,6 @@
     "notes/note-702.md",
     "notes/note-696.md",
     "notes/note-693.md",
-    "notes/note-688.md",
-    "notes/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md",
-    "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md",
-    "notes/note-684.md",
     "images/print_screen_640.png",
     "images/Pasted image 20231102133222.png",
     "images/print_screen_125.png",
