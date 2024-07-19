@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "144407c03cfce97b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "file": "MATÉRIAS/EEAR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md",
+                "file": "MATÉRIAS/EEAR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/GRAMÁTICA/questões erradas de português.md"
+                "file": "MATÉRIAS/EEAR.md"
               }
             }
           },
@@ -183,10 +170,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "144407c03cfce97b",
+  "active": "5ff102654c4e2211",
   "lastOpenFiles": [
-    "notes/note-640.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
+    "notes/note-640.md",
     "notes/note-638.md",
     "notes/note-628.md",
     "notes/note-627.md",
