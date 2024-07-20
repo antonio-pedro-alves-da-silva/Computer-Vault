@@ -43,16 +43,20 @@ exec --no-startup-id nm-applet
 
     #special commands
 set $refresh_i3status killall -SIGUSR1 i3status
-bindsym $mod+shift+m exec --no-startup-id pactl set-sink-mute @DEFAULT_SINK@ toggle && $refresh_i3status
+bindsym $mod+shift+m exec pactl set-sink-mute @DEFAULT_SINK@ toggle
 bindsym $mod+c kill
 bindsym $mod+shift+k exec xdotool getactivewindow windowkill
 bindsym $mod+l exec --no-startup-id dmenu_run
-
-
-# exit i3 (logs you out of your X session)
 bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -b 'Yes, exit i3' 'i3-msg exit'"
-# save the workspace
 
+bindsym $mod+h split h
+bindsym $mod+v split v
+bindsym $mod+f fullscreen toggle
+bindsym $mod+s layout stacking
+bindsym $mod+w layout tabbed
+bindsym $mod+e layout toggle split
+bindsym $mod+Shift+t floating toggle
+bindsym $mod+Shift+s sticky toggle
 
     #command to open applications,open application
 bindsym $mod+$Alt+Return exec tilix
@@ -71,12 +75,52 @@ bindsym $mod+$Alt+n exec nautilus
     # making window floating when they open 
 for_window [class="Pavucontrol"] floating enable
 for_window [class="XVkbd"] floating enable
+# making the window floating sticky
+for_window [class="XVkbd"]sticky enable
 
-# focus on window when the mouse is over 
 focus_follows_mouse yes
 # Use Mouse+$mod to drag floating windows to their wanted position
-floating_modifier $mod
+floating_modifier $mod 
 
+    # i3 Modes 
+mode "execute" {
+        bindsym Return exec tilix
+        bindsym p exec flameshot gui
+        bindsym b exec lxqt-config-brightness
+        bindsym r exec lxqt-runner
+        bindsym c exec code
+        bindsym l exec lxqt-leave 
+        bindsym x exec xvkbd 
+        bindsym f exec firefox
+        bindsym o exec obsidian
+        bindsym v exec pavucontrol
+        bindsym a exec auto-cpufreq-gtk
+        bindsym n exec nautilus
+        # back to normal: Escape
+        bindsym Escape mode "default"
+        bindsym Escape mode "default"
+}
+
+bindcode 68 mode execute
+
+mode "resolution" {
+    bindsym 1 exec bash "$HOME/Computer-Vault/my-configuration-files/system-scripts/diminuir-resoluçao.sh"
+    bindsym 2 exec bash "$HOME/Computer-Vault/my-configuration-files/system-scripts/aumentar-resoluçao.sh"
+    # back to normal: Escape
+    bindsym Escape mode "default"
+    bindsym Escape mode "default"
+}
+
+bindcode 69 mode resolution
+
+mode "kill" {
+    bindsym c kill
+    # back to normal: Escape
+    bindsym Escape mode "default"
+    bindsym Escape mode "default"
+}
+
+bindcode 70 mode kill
 
 
 # A more modern dmenu replacement is rofi:
@@ -99,26 +143,8 @@ bindsym $mod+Shift+Down move down
 bindsym $mod+Shift+Up move up
 bindsym $mod+Shift+Right move right
 
-# split in horizontal orientation
-bindsym $mod+h split h
-
-# split in vertical orientation
-bindsym $mod+v split v
-
-# enter fullscreen mode for the focused container
-bindsym $mod+f fullscreen toggle
-
-# change container layout (stacked, tabbed, toggle split)
-bindsym $mod+s layout stacking
-bindsym $mod+w layout tabbed
-bindsym $mod+e layout toggle split
-
-# toggle tiling / floating
-bindsym $mod+Shift+t floating toggle
-
 # change focus between tiling / floating windows
 bindsym $mod+t focus mode_toggle
-
 # focus the parent container
 bindsym $mod+a focus parent
 
@@ -168,8 +194,13 @@ bindsym $mod+Shift+c reload
 bindsym $mod+Shift+r restart
 
 # Start i3bar to display a workspace bar (plus the system information i3status
-# finds out, if available)
+# finds out, if available
+
 bar {
-    status_command i3status
+
+mode hide
+
+status_command i3status
+
 }
  
