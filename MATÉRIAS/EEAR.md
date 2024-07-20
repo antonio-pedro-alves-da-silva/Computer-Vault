@@ -1087,3 +1087,10 @@ FÍSICA
 	[[note-546|MATÉRIA E RADIAÇÃO]] - onde parei
 	[[note-542|provas anteriores de física]]
 
+
+san lorenzo x ca huracan - menos de 4.5 - 15:00
+
+
+
+
+
