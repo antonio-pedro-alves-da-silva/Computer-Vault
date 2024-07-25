@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7ccf3323745d78a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/tier list of food.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "de ele",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "notes/tier list of food.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATÉRIAS/EEAR.md",
+                "file": "notes/tier list of food.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATÉRIAS/EEAR.md"
+                "file": "notes/tier list of food.md"
               }
             }
           },
@@ -170,10 +182,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5ff102654c4e2211",
+  "active": "7ccf3323745d78a5",
   "lastOpenFiles": [
-    "notes/GRAMÁTICA/questões erradas de português.md",
     "MATÉRIAS/EEAR.md",
+    "notes/tier list of food.md",
+    "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-640.md",
     "notes/note-638.md",
     "notes/note-628.md",
@@ -197,7 +210,6 @@
     "notes/note-408.md",
     "notes/note-737.md",
     "notes/note-407.md",
-    "notes/note-738.md",
     "images/print_screen_640.png",
     "images/Pasted image 20231102133222.png",
     "images/print_screen_125.png",
