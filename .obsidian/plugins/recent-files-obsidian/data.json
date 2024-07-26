@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "configurações-do-lubuntu",
+      "path": "my-configuration-files/installation and configuration/configurações-do-lubuntu.md"
+    },
+    {
       "basename": "total ...",
       "path": "notes/total ....md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "note-610",
       "path": "notes/note-610.md"
-    },
-    {
-      "basename": "note-476",
-      "path": "notes/note-476.md"
     }
   ],
   "omittedPaths": [],
