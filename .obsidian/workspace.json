@@ -11,8 +11,12 @@
             "id": "1389bb8936da96aa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "notes/total ....md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.51103591918945,
-    "collapsed": true
+    "width": 323.51103591918945
   },
   "right": {
     "id": "ee4e8bcf9413ed0e",
@@ -90,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/total ....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/total ....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/total ....md"
+              }
             }
           },
           {
@@ -163,6 +170,7 @@
   },
   "active": "1389bb8936da96aa",
   "lastOpenFiles": [
+    "notes/total ....md",
     "MATÉRIAS/EEAR.md",
     "notes/tier list of food.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
@@ -188,7 +196,6 @@
     "notes/note-414.md",
     "notes/note-408.md",
     "notes/note-737.md",
-    "notes/note-407.md",
     "images/print_screen_640.png",
     "images/Pasted image 20231102133222.png",
     "images/print_screen_125.png",
