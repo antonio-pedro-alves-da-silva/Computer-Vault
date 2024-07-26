@@ -1,3 +1,4 @@
+  
   enabling hibernation
 1. create a swap partion at least 2 times larger than your ram
 2. go to enable swap partion
