@@ -1,4 +1,5 @@
 
+
 LINGUA PORTUGUESA
 	TEXTO
 		Interpretação de textos literários ou não literários.
