@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "configurações-do-lubuntu",
-      "path": "my-configuration-files/installation and configuration/configurações-do-lubuntu.md"
-    },
-    {
       "basename": "total ...",
       "path": "notes/total ....md"
     },
     {
+      "basename": "FULL-STACK DEVELOPER",
+      "path": "MATÉRIAS/FULL-STACK DEVELOPER.md"
+    },
+    {
       "basename": "EEAR",
       "path": "MATÉRIAS/EEAR.md"
+    },
+    {
+      "basename": "configurações-do-lubuntu",
+      "path": "my-configuration-files/installation and configuration/configurações-do-lubuntu.md"
     },
     {
       "basename": "tier list of food",
@@ -195,10 +199,6 @@
     {
       "basename": "note-612",
       "path": "notes/note-612.md"
-    },
-    {
-      "basename": "note-610",
-      "path": "notes/note-610.md"
     }
   ],
   "omittedPaths": [],

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5ca2ecacfdd55f29",
+        "id": "1a696d69b167138d",
         "type": "tabs",
         "children": [
           {
-            "id": "e694ef5f3603a55e",
+            "id": "9ddbd4cb5e9ef545",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "my-configuration-files/installation and configuration/configurações-do-lubuntu.md",
+                "file": "notes/total ....md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "my-configuration-files/installation and configuration/configurações-do-lubuntu.md",
+                "file": "notes/total ....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "my-configuration-files/installation and configuration/configurações-do-lubuntu.md",
+                "file": "notes/total ....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "my-configuration-files/installation and configuration/configurações-do-lubuntu.md"
+                "file": "notes/total ....md"
               }
             }
           },
@@ -169,11 +169,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e694ef5f3603a55e",
+  "active": "9ddbd4cb5e9ef545",
   "lastOpenFiles": [
-    "notes/total ....md",
-    "my-configuration-files/installation and configuration/configurações-do-lubuntu.md",
+    "MATÉRIAS/FULL-STACK DEVELOPER.md",
     "MATÉRIAS/EEAR.md",
+    "my-configuration-files/installation and configuration/configurações-do-lubuntu.md",
+    "notes/total ....md",
     "notes/tier list of food.md",
     "notes/GRAMÁTICA/questões erradas de português.md",
     "notes/note-640.md",
@@ -196,7 +197,6 @@
     "notes/note-185.md",
     "notes/note-184.md",
     "notes/note-414.md",
-    "notes/note-408.md",
     "images/print_screen_640.png",
     "images/Pasted image 20231102133222.png",
     "images/print_screen_125.png",
