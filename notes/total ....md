@@ -1,1 +1,2 @@
-Everton de Vina X Del MarDeportes Iquique - 20:00 - menos de 5.5
+ Hull City X Newcastle United - 10:00 - menos de 6.5
+ 
