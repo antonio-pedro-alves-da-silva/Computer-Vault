@@ -1,2 +1,2 @@
+juventude-rs x criciúma - 19:00 - menos de 4.5
 
-Inter de Milão X UD Las Palmas - 14:30 - menos de 6.5
