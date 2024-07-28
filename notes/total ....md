@@ -1,3 +1,1 @@
-
-juventude-rs x criciúma - 19:00 - menos de 4.5
-
+FC Slovan Liberec x SK Sigma Olomouc - menos de 6.5 - 
