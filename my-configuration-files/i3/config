@@ -32,12 +32,12 @@ exec --no-startup-id dex --autostart --environment i3
 
 
     #session configurations
+exec xmodmap ~/Computer-Vault/my-configuration-files/xmodmap/.Xmodmap
 exec setxkbmap -model abnt2 -layout br
 exec --no-startup-id $(which lxqt-powermanagement)
 exec feh --bg-fill ~/Computer-Vault/my-configuration-files/wallpaper/black.png
 exec xinput set-prop $(xinput list | grep "Touchpad" | grep -o 'id=[0-9]*' | grep -o '[0-9]*') "libinput Tapping Enabled" 1
 exec --no-startup-id lxqt-policykit-agent
-exec xmodmap ~/Computer-Vault/my-configuration-files/xmodmap/.Xmodmap
 exec node ~/Computer-Vault/my-configuration-files/js-scripts/computer-vault-git-backup.cjs
 exec --no-startup-id nm-applet
 
