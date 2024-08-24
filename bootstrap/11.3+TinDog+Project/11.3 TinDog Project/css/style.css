@@ -33,7 +33,12 @@
 }
 
 #features {
-  height:400px;
+  height:390px;
+}
+
+#footer {
+  /* padding-left: 4rem;
+  padding-top: 3rem; */
 }
 
 #testimonial {
@@ -48,3 +53,20 @@
 .card-group {
   margin-top:4rem;
 }
+
+
+.pricing-title {
+  font-size:2.2rem;
+}
+
+@media (min-width:992px){
+
+  .title {
+    font-size: 2.8rem;
+    max-width: 24rem;
+  }
+  .card {
+    max-width: 40rem;
+  }
+}
+
