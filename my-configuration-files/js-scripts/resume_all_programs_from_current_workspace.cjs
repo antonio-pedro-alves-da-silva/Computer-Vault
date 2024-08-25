@@ -2,11 +2,11 @@
 
 const { exec } = require("child_process");
 
-// get window id = gwi
+// get window id
 
 let gwi = `
 current_workspace=$(wmctrl -d | grep '*' | awk '{print $1}')
-all_windows_id="$(wmctrl -l | awk '{ if($2 != '$current_workspace') print $1;}' | tr '\n' ' ')"
+all_windows_id="$(wmctrl -l | awk '{ if($2 = '$current_workspace') print $1;}' | tr '\n' ' ')"
 echo $all_windows_id
 `
 
@@ -27,18 +27,16 @@ exec(gwi,(error,stdout,stderr)=>{
 		}
 			
 		pids_array = stdout.match(/\d+/gm);
-
-		// pause others programs
-		pop = pids_array.map((v)=>{
-			return `pkill -KILL -P ${v}`;
+        // resume others programs
+		rop = pids_array.map((v)=>{
+			return `pkill -CONT -P ${v}`;
 		}).join("\n")
 
-		exec(pop,(error,stdout)=>{
+		exec(rop,(error,stdout)=>{
 			if(error){
 				console.log(error)
 			}
 		})
-		// resume others programs
 
 	})
 }) 
