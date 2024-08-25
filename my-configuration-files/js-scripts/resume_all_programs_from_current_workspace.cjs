@@ -41,5 +41,3 @@ exec(gwi,(error,stdout,stderr)=>{
 	})
 }) 
 
-
-
