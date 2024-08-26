@@ -10,34 +10,33 @@ all_windows_id="$(wmctrl -l | awk '{ if($2 = '$current_workspace') print $1;}' |
 echo $all_windows_id
 `
 
-exec(gwi,(error,stdout,stderr)=>{
-	if(error){
+exec(gwi, (error, stdout, stderr) => {
+	if (error) {
 		console.log(error)
 	}
 	// instructions to get all window pid
 	let gwp = "";
-	let wid = `${stdout}`.replaceAll('\n','').split(" ");
-	wid.forEach((id,i,arr)=>{
-		 gwp += `xprop -id ${id} _NET_WM_PID\n`;
+	let wid = `${stdout}`.replaceAll('\n', '').split(" ");
+	wid.forEach((id, i, arr) => {
+		gwp += `xprop -id ${id} _NET_WM_PID\n`;
 	})
 
-	exec(gwp,(error,stdout,stdeer)=>{
-		if(error){
+	exec(gwp, (error, stdout, stdeer) => {
+		if (error) {
 			console.log(error)
 		}
-			
+
 		pids_array = stdout.match(/\d+/gm);
-        // resume others programs
-		rop = pids_array.map((v)=>{
+		// resume others programs
+		rop = pids_array.map((v) => {
 			return `pkill -CONT -P ${v}`;
 		}).join("\n")
 
-		exec(rop,(error,stdout)=>{
-			if(error){
+		exec(rop, (error, stdout) => {
+			if (error) {
 				console.log(error)
 			}
 		})
 
 	})
-}) 
-
+})
