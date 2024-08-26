@@ -13,7 +13,7 @@ echo $all_windows_id
 exec(gwi,(error,stdout,stderr)=>{
 	if(error){
 		console.log(error)
-	} else {
+	}
 		// instructions to get all window pid
 		let wid = `${stdout}`.replaceAll('\n','').split(" ");
 		let gwp = "";
@@ -49,7 +49,6 @@ exec(gwi,(error,stdout,stderr)=>{
 		
 			})
 		}
-	}
 }) 
 
 
