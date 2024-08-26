@@ -13,39 +13,43 @@ echo $all_windows_id
 exec(gwi,(error,stdout,stderr)=>{
 	if(error){
 		console.log(error)
-	}
-	console.log(`"${gwi}"`);
-	// instructions to get all window pid
-	let gwp = "";
-	
-	let wid = `${stdout}`.replaceAll('\n','').split(" ");
-	wid.forEach((id,i,arr)=>{
-			gwp += `xprop -id ${id} _NET_WM_PID\n`;
-	})
-
-	exec(gwp,(error,stdout,stdeer)=>{
-		if(error){
-			console.log(error)
-		}
-		console.log(gwp)
-		pids_array = stdout.match(/\d+/gm);
+	} else {
+		// instructions to get all window pid
+		let wid = `${stdout}`.replaceAll('\n','').split(" ");
+		let gwp = "";
+		if(!wid){
+			console.log("there's no windown to get the pid")
+		} else {
+			
+			wid.forEach((id,i,arr)=>{
+					gwp += `xprop -id ${id} _NET_WM_PID\n`;
+			})
 		
-
-		// pause others programs
-		pop = pids_array.map((v)=>{
-			return `pkill -STOP -P ${v}`;
-		}).join("\n")
-
-		exec(pop,(error,stdout)=>{
-			if(error){
-				console.log(error)
-			}
-
-			console.log(pop)
-		})
-		// resume others programs
-
-	})
+			exec(gwp,(error,stdout,stdeer)=>{
+				if(error){
+					console.log(error)
+				} 
+				console.log(gwp)
+				pids_array = stdout.match(/\d+/gm);
+				
+		
+				// pause others programs
+				pop = pids_array.map((v)=>{
+					return `pkill -STOP -P ${v}`;
+				}).join("\n")
+		
+				exec(pop,(error,stdout)=>{
+					if(error){
+						console.log(error)
+					}
+		
+					console.log(pop)
+				})
+				// resume others programs
+		
+			})
+		}
+	}
 }) 
 
 
