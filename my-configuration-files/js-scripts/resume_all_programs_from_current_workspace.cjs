@@ -6,7 +6,7 @@ const { exec } = require("child_process");
 
 let gwi = `
 current_workspace=$(wmctrl -d | grep '*' | awk '{print $1}')
-all_windows_id="$(wmctrl -l | awk '{ if($2 = '$current_workspace') print $1;}' | tr '\n' ' ')"
+all_windows_id="$(wmctrl -l | awk '{ if($2 == '$current_workspace') print $1;}' | tr '\n' ' ')"
 echo $all_windows_id
 `
 
@@ -25,7 +25,7 @@ exec(gwi, (error, stdout, stderr) => {
 		if (error) {
 			console.log(error)
 		}
-
+		console.log(gwp)
 		pids_array = stdout.match(/\d+/gm);
 		// resume others programs
 		rop = pids_array.map((v) => {
@@ -36,6 +36,7 @@ exec(gwi, (error, stdout, stderr) => {
 			if (error) {
 				console.log(error)
 			}
+			console.log(rop)
 		})
 
 	})
