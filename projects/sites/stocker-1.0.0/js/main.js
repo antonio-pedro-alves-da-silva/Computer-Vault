@@ -1,3 +1,4 @@
 $(window).ready(()=>{
-    $("#container-spinner")
+    $("#container-spinner").addClass("d-none")
 })
+
