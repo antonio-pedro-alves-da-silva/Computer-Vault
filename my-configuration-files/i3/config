@@ -34,7 +34,7 @@ exec --no-startup-id dex --autostart --environment i3
     #session configurations
 exec xmodmap ~/Computer-Vault/my-configuration-files/xmodmap/.Xmodmap
 exec setxkbmap -model abnt2 -layout br
-exec --no-startup-id $(which xfce4-power-manager)
+exec --no-startup-id $(which lxqt-powermanagement)
 exec feh --bg-fill ~/Computer-Vault/my-configuration-files/wallpaper/black.png
 exec xinput set-prop $(xinput list | grep "Touchpad" | grep -o 'id=[0-9]*' | grep -o '[0-9]*') "libinput Tapping Enabled" 1
 #exec --no-startup-id lxqt-policykit-agent
@@ -72,7 +72,7 @@ bindsym $mod+$Alt+n exec nautilus
     # making window floating when they open 
 for_window [class="Pavucontrol"] floating enable
 for_window [class="XVkbd"] floating enable
-for_window [class="org.gnome.Nautilus"] floating enable
+for_window [class="Nautilus"] floating enable
 
 # making the window floating sticky
 for_window [class="XVkbd"]sticky enable
@@ -109,15 +109,20 @@ mode "resolution" {
 
 bindcode 69 mode resolution
 
-mode "kill" {
-    bindsym c kill
-    bindsym k exec xdotool getactivewindow windowkill
-    # back to normal: Escape
-    bindsym Escape mode "default"
-    bindsym Escape mode "default"
+
+mode "brightness" {
+    bindsym 1 exec xrandr --output eDP-1 --brightness 0.1
+    bindsym 2 exec xrandr --output eDP-1 --brightness 0.2
+    bindsym 3 exec xrandr --output eDP-1 --brightness 0.3
+    bindsym 4 exec xrandr --output eDP-1 --brightness 0.4
+    bindsym 5 exec xrandr --output eDP-1 --brightness 0.5
+    bindsym 6 exec xrandr --output eDP-1 --brightness 0.6
+    bindsym 7 exec xrandr --output eDP-1 --brightness 0.7
+    bindsym 8 exec xrandr --output eDP-1 --brightness 0.8
+    bindsym 9 exec xrandr --output eDP-1 --brightness 0.9
 }
 
-bindcode 70 mode kill
+bindcode 70 mode brightness
 
 
 # A more modern dmenu replacement is rofi:
