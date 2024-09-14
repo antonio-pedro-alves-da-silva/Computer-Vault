@@ -1,3 +1,7 @@
+:root {
+    --bs-primary:#00D084;
+}
+
 #container-spinner {
     display: flex;
     width: 100vw;
@@ -20,25 +24,7 @@
     --bs-spinner-border-width: 0.25em;
     --bs-spinner-animation-speed: 0.75s;
     --bs-spinner-animation-name: spinner-border;
-    border: var(--bs-spinner-border-width) solid currentcolor;
+    border: var(--bs-spinner-border-width) solid var(--bs-primary);
     border-right-color: transparent;
   }
 
-
-
-/*********** bootstrap changes ***************/
-
-.spinner-border {
-    --bs-spinner-width: 2rem;
-    --bs-spinner-height: 2rem;
-    --bs-spinner-vertical-align: -0.125em;
-    --bs-spinner-border-width: 0.25em;
-    --bs-spinner-animation-speed: 0.75s;
-    --bs-spinner-animation-name: spinner-border;
-    border: var(--bs-spinner-border-width) solid currentcolor;
-    border-right-color: transparent;
-  }
-
-
-
-/*********** bootstrap changes ***************/
