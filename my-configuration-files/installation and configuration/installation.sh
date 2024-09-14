@@ -47,6 +47,7 @@ sudo apt-fast install i3 -y
 sudo apt-fast install i3status -y
 sudo apt-fast install blueman -y
 sudo apt-fast install tilix -y
+sudo apt-fast install brightnessctl
 
 # other packages 
 

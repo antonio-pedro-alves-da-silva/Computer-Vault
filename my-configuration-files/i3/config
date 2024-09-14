@@ -32,12 +32,12 @@ exec --no-startup-id dex --autostart --environment i3
 
 
     #session configurations
-xmodmap ~/Computer-Vault/my-configuration-files/xmodmap/.Xmodmap
+exec xmodmap ~/Computer-Vault/my-configuration-files/xmodmap/.Xmodmap
 exec setxkbmap -model abnt2 -layout br
-exec --no-startup-id $(which lxqt-powermanagement)
+exec --no-startup-id $(which xfce4-power-manager)
 exec feh --bg-fill ~/Computer-Vault/my-configuration-files/wallpaper/black.png
 exec xinput set-prop $(xinput list | grep "Touchpad" | grep -o 'id=[0-9]*' | grep -o '[0-9]*') "libinput Tapping Enabled" 1
-exec --no-startup-id lxqt-policykit-agent
+#exec --no-startup-id lxqt-policykit-agent
 exec node ~/Computer-Vault/my-configuration-files/js-scripts/computer-vault-git-backup.cjs
 exec --no-startup-id nm-applet
 
@@ -59,22 +59,21 @@ bindsym $mod+Shift+t floating toggle
 bindsym $mod+Shift+s sticky toggle
 
     #command to open applications,open application
-bindsym $mod+$Alt+Return exec tilix
+bindsym $mod+Return exec tilix
 bindsym $mod+$Alt+p exec flameshot gui
-bindsym $mod+$Alt+b exec lxqt-config-brightness
-bindsym $mod+$Alt+r exec lxqt-runner
 bindsym $mod+$Alt+c exec code
-bindsym $mod+$Alt+l exec lxqt-leave 
 bindsym $mod+$Alt+x exec xvkbd 
-bindsym $mod+$Alt+f exec firefox
+bindsym $mod+$Alt+f exec google-chrome
 bindsym $mod+$Alt+o exec obsidian
-bindsym $mod+$Alt+v exec pavucontrol
+bindsym $mod+$Alt+v exec pavucontrol                                                                                                           
 bindsym $mod+$Alt+a exec auto-cpufreq-gtk
 bindsym $mod+$Alt+n exec nautilus
 
     # making window floating when they open 
 for_window [class="Pavucontrol"] floating enable
 for_window [class="XVkbd"] floating enable
+for_window [class="org.gnome.Nautilus"] floating enable
+
 # making the window floating sticky
 for_window [class="XVkbd"]sticky enable
 
@@ -86,12 +85,9 @@ floating_modifier $mod
 mode "execute" {
         bindsym Return exec tilix
         bindsym p exec flameshot gui
-        bindsym b exec lxqt-config-brightness
-        bindsym r exec lxqt-runner
         bindsym c exec code
-        bindsym l exec lxqt-leave 
         bindsym x exec xvkbd 
-        bindsym f exec firefox
+        bindsym f exec google-chrome
         bindsym o exec obsidian
         bindsym v exec pavucontrol
         bindsym a exec auto-cpufreq-gtk
@@ -115,6 +111,7 @@ bindcode 69 mode resolution
 
 mode "kill" {
     bindsym c kill
+    bindsym k exec xdotool getactivewindow windowkill
     # back to normal: Escape
     bindsym Escape mode "default"
     bindsym Escape mode "default"
@@ -166,15 +163,15 @@ set $ws10 "10"
 
 # switch to workspace and resume the current workspace and pause others workspace
 bindsym $mod+1 workspace number $ws1
-bindsym $mod+2 exec tilix
-bindsym $mod+3 workspace number $ws3; exec tilix
-bindsym $mod+4 workspace number $ws4; exec tilix
-bindsym $mod+5 workspace number $ws5; exec tilix
-bindsym $mod+6 workspace number $ws6; exec tilix
-bindsym $mod+7 workspace number $ws7; exec tilix
-bindsym $mod+8 workspace number $ws8; exec tilix
-bindsym $mod+9 workspace number $ws9; exec tilix
-bindsym $mod+0 workspace number $ws10; exec tilix
+bindsym $mod+2 workspace number $ws2;
+bindsym $mod+3 workspace number $ws3;
+bindsym $mod+4 workspace number $ws4;
+bindsym $mod+5 workspace number $ws5;
+bindsym $mod+6 workspace number $ws6;
+bindsym $mod+7 workspace number $ws7; 
+bindsym $mod+8 workspace number $ws8; 
+bindsym $mod+9 workspace number $ws9;
+bindsym $mod+0 workspace number $ws10; 
 
 # move focused container to workspace
 bindsym $mod+Shift+1 move container to workspace number $ws1
