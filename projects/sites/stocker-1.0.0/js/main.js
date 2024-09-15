@@ -9,5 +9,7 @@ $(window).ready(()=>{
     $(".btn-primary").on("blur",()=>{
         $(".btn-primary").css("box-shadow","0px 0px 0px 0px rgba(0,208,132,0.6)")
     })
-})
 
+    
+
+})
