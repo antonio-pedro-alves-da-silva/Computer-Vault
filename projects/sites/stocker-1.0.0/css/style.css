@@ -31,7 +31,6 @@
   }
 
 
-
 .navbar {
     --bs-navbar-padding-x: 0;
     --bs-navbar-padding-y: 0.5rem;
@@ -72,7 +71,26 @@
     padding:10px 0px;
     margin-left:0;
     color:var(--bs-dark);
+    font-family: "Roboto";
+    font-size:17px;
+    transition:.5s;
+
   }
+
+  .navbar-nav .nav-link.active {
+    color:var(--bs-primary)
+  }
+
+  .navbar-nav .nav-link:hover {
+    color:var(--bs-primary);
+    transition:0.5s
+  }
+
+  .dropdown-menu .dropdown-item:hover {
+    background-color: var(--bs-primary);
+    color:white;
+  }
+
 
 
   /************ bootstrap changes **************/
@@ -81,6 +99,32 @@
     --bs-text-opacity: 1;
     color: var(--bs-primary-rgb) !important;
   }
+
+  .btn-primary {
+    --bs-btn-color: white;
+    --bs-btn-bg: var(--bs-primary);
+      border:none;
+    --bs-btn-hover-color: var(--bs-primary);
+    --bs-btn-hover-bg: #000;
+    --bs-btn-active-bg: #000;
+    --bs-btn-active-color:var(--bs-primary);
+    font-family: "Inter";
+    font-size:16px;
+    font-weight: 600;
+  }
+
+  .navbar-toggler {
+    padding: var(--bs-navbar-toggler-padding-y) var(--bs-navbar-toggler-padding-x);
+    font-size: var(--bs-navbar-toggler-font-size);
+    line-height: 1;
+    color: var(--bs-navbar-color);
+    background-color: transparent;
+    border: var(--bs-border-width) solid var(--bs-navbar-toggler-border-color);
+    border-radius: var(--bs-navbar-toggler-border-radius);
+    transition: var(--bs-navbar-toggler-transition);
+  }
+
+  
 
     /************ bootstrap changes **************/
 
