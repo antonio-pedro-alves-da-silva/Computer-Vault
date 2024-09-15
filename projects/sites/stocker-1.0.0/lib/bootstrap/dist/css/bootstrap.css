@@ -3412,7 +3412,7 @@ textarea.form-control-lg {
   white-space: nowrap;
 }
 .dropdown-toggle::after {
-  display: inline-block;
+  display: none;
   margin-left: 0.255em;
   vertical-align: 0.255em;
   content: "";
@@ -3569,14 +3569,16 @@ textarea.form-control-lg {
     left: auto;
   }
 }
+
 .dropup .dropdown-menu[data-bs-popper] {
   top: auto;
   bottom: 100%;
   margin-top: 0;
   margin-bottom: var(--bs-dropdown-spacer);
 }
+
 .dropup .dropdown-toggle::after {
-  display: inline-block;
+  display: none;
   margin-left: 0.255em;
   vertical-align: 0.255em;
   content: "";
@@ -3585,6 +3587,7 @@ textarea.form-control-lg {
   border-bottom: 0.3em solid;
   border-left: 0.3em solid transparent;
 }
+
 .dropup .dropdown-toggle:empty::after {
   margin-left: 0;
 }

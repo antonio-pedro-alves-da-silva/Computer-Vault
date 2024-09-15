@@ -10,6 +10,16 @@ $(window).ready(()=>{
         $(".btn-primary").css("box-shadow","0px 0px 0px 0px rgba(0,208,132,0.6)")
     })
 
-    
+    // setting owl carousel
+    $('.owl-carousel').owlCarousel({
+        loop:true,
+        margin:0,
+        nav:true,
+        responsive:{
+            0:{
+                items:1
+            }
+        }
+    })
 
 })

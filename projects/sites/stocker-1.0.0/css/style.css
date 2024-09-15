@@ -73,6 +73,20 @@
     color:white;
   }
 
+  .owl-carousel .item {
+
+    height:100vh;
+
+  }
+
+  .owl-carousel .item::after{
+
+    display: block;
+    background: black;
+    width: 100vw;
+    height: 100vw;
+
+  }
 
 
   /************ bootstrap changes **************/
@@ -94,6 +108,7 @@
     font-size:16px;
     font-weight: 600;
   }
+
 
     /************ bootstrap changes **************/
 
