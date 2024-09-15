@@ -74,14 +74,13 @@
   }
 
   .owl-carousel .item {
-
     height:100vh;
 
   }
 
-  .owl-carousel .item::after{
-
-    display: block;
+  .backdrop-filter::after{
+    display: table;
+    content: "adjlkfjsldfjalk";
     background: black;
     width: 100vw;
     height: 100vw;
