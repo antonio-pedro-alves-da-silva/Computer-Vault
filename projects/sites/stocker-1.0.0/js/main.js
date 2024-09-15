@@ -1,4 +1,7 @@
 
+
+
+
 $(window).ready(()=>{
     $("#container-spinner").addClass("d-none");
 
@@ -14,7 +17,7 @@ $(window).ready(()=>{
     $('.owl-carousel').owlCarousel({
         loop:true,
         margin:0,
-        nav:true,
+        nav:false,
         responsive:{
             0:{
                 items:1
@@ -23,3 +26,5 @@ $(window).ready(()=>{
     })
 
 })
+
+

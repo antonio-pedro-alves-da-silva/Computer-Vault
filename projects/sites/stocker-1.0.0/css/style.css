@@ -78,13 +78,12 @@
 
   }
 
-  .backdrop-filter::after{
-    display: table;
-    content: "adjlkfjsldfjalk";
+  .backdrop-filter{
+    position:absolute;
     background: black;
     width: 100vw;
     height: 100vw;
-
+    z-index: 3;
   }
 
 
@@ -106,6 +105,7 @@
     font-family: "Inter";
     font-size:16px;
     font-weight: 600;
+
   }
 
 
