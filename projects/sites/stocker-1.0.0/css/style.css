@@ -76,23 +76,22 @@
   .owl-carousel {
     height: 100vh;
     overflow: hidden;
+
   }
 
   .owl-carousel .item {
     height:100vh;
     position: relative;
+
   }
 
-  .owl-carousel .item .container img-container img {
+  .owl-carousel .item img {
     position: absolute;
-    animation-name: image-zoom;
-    animation-duration: 6s;
-    animation-iteration-count: infinite;
 
   }
 
   .header-carousel {
-    background-color: #000;
+    background-color: #727272;
     width: 100vw;
     height: 100vh;
     position:absolute;
