@@ -73,14 +73,52 @@
     color:white;
   }
 
+  .owl-carousel {
+    height: 100vh;
+    overflow: hidden;
+  }
 
+  .owl-carousel .item {
+    height:100vh;
+    position: relative;
+  }
 
+  .owl-carousel .item .container img-container img {
+    position: absolute;
+    animation-name: image-zoom;
+    animation-duration: 6s;
+    animation-iteration-count: infinite;
+
+  }
+
+  .header-carousel {
+    background-color: #000;
+    width: 100vw;
+    height: 100vh;
+    position:absolute;
+    opacity: 0.7;
+
+  }
+
+  @keyframes image-zoom {
+
+    0% {height: 100vh; opacity: 0.9; }
+
+    25% {height: 110vh; opacity: 0.5}
+
+    50% {height: 115vh; opacity: 1}
+
+    75% {height:110%; opacity:0.5}
+
+    100% {height: 100%; opacity:0.9}
+
+  }
 
   /************ bootstrap changes **************/
 
   .text-primary {
     --bs-text-opacity: 1;
-    color: var(--bs-primary-rgb) !important;
+    color: var(--bs-primary);
   }
 
   .btn-primary {
