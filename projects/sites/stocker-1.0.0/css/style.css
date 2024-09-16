@@ -159,7 +159,7 @@
     font-family: "Inter";
     font-size:16px;
     font-weight: 600;
-    
+
   }
 
   .btn-secondary {
@@ -167,19 +167,29 @@
     --bs-btn-bg: var(--bs-secondary);
     --bs-btn-hover-color: var(--bs-secondary);
     --bs-btn-hover-bg: var(--bs-primary);
-    font-weight: 600;
-    transition: .5s;
 
+
+    --bs-btn-focus-shadow-rgb: transparent;
+    --bs-btn-active-color: var(--bs-secondary);
+    --bs-btn-active-bg: var(--bs-primary);
+
+    font-weight: 600;
+
+  }
+
+  .btn-secondary:active {
+    background-color: var(--bs-primary);
   }
 
   .header-item .buttons {
     font-family: "Inter",sans-serif;
   }
 
-  .header-item .watchbtn {
+  .header-item .watchbtn , .header-item .learnbtn {
     font-weight: 600;
     transition: .5s;
     padding:15px 35px;
+
   }
 
     /************ bootstrap changes **************/
