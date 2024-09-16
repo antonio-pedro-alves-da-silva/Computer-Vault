@@ -73,18 +73,7 @@
     color:white;
   }
 
-  .owl-carousel .item {
-    height:100vh;
 
-  }
-
-  .backdrop-filter{
-    position:absolute;
-    background: black;
-    width: 100vw;
-    height: 100vw;
-    z-index: 3;
-  }
 
 
   /************ bootstrap changes **************/
