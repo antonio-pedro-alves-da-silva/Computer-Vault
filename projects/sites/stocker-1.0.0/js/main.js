@@ -9,19 +9,17 @@ $(window).ready(()=>{
     //     $(".btn-primary").css(`box-shadow`,`0px 0px 0px 0.2rem var(--bs-${}-rgb)`)
     // })
 
-    // $(".btn-primary").on("blur",()=>{
-    //     $(".btn-primary").css(`box-shadow`,`0px 0px 0px 0px var(--bs-${}-rgb)`)
-    // })
-
-    $(window).on('click',(e)=>{
-        
-        btnClassesArray = ["btn-primary-rgb","btn-secondary-rgb"];
-        btnClasses = $(e.target).attr("class");
-        
-
+    
+    $(".btnShadowAnimation").on('click',(e)=>{
+        btnShadowColor = $(e.target).attr("shadow-color");
+        $(e.target).css("box-shadow",`0px 0px 0px 0.2rem ${btnShadowColor}`)
     })
-
-
+    
+    $(".btnShadowAnimation").on('blur',(e)=>{
+        btnShadowColor = $(e.target).attr("shadow-color");
+        $(e.target).css("box-shadow",`0px 0px 0px 0rem ${btnShadowColor}`)
+    })
+    
     // setting owl carousel
     $('.owl-carousel').owlCarousel({
         loop:true,
