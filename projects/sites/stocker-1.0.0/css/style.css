@@ -3,6 +3,7 @@
     --bs-primary:#00D084;
     --bs-primary-rgb:rgba(0,208,132);
     --bs-dark:#111111;
+    --bs-secondary:#fff;
 }
 
 #container-spinner {
@@ -102,7 +103,6 @@
 }
 
   .header-carousel .header-item {
-    max-width:400px;
 
   }
 
@@ -116,12 +116,14 @@
 
   .header-item h4 , .header-item p {
     font-size:calc(1rem + 1vw);
+    max-width:791px;
   }
 
   .header-item h1{
     font-size: calc(2rem + 1vw);
     font-weight: 550;
     font-family: "Roboto",sans-serif;
+    max-width: 430px;
 
   }
 
@@ -157,9 +159,28 @@
     font-family: "Inter";
     font-size:16px;
     font-weight: 600;
+    
+  }
+
+  .btn-secondary {
+    --bs-btn-color: var(--bs-primary);
+    --bs-btn-bg: var(--bs-secondary);
+    --bs-btn-hover-color: var(--bs-secondary);
+    --bs-btn-hover-bg: var(--bs-primary);
+    font-weight: 600;
+    transition: .5s;
 
   }
 
+  .header-item .buttons {
+    font-family: "Inter",sans-serif;
+  }
+
+  .header-item .watchbtn {
+    font-weight: 600;
+    transition: .5s;
+    padding:15px 35px;
+  }
 
     /************ bootstrap changes **************/
 
