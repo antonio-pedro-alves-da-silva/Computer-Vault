@@ -14,7 +14,11 @@ $(window).ready(()=>{
     // })
 
     $(window).on('click',(e)=>{
-        console.log(e.target);
+        
+        btnClassesArray = ["btn-primary-rgb","btn-secondary-rgb"];
+        btnClasses = $(e.target).attr("class");
+        
+
     })
 
 

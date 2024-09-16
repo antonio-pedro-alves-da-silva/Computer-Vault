@@ -103,27 +103,24 @@
 
 }
 
-  .header-item h4 {
-    font-size:calc(1rem + 1vw);
-    font-weight: 700;
-    filter: contrast(110%);
-    font-family: "Roboto",sans-serif;
-    max-width: 430px;
+.header-item h4 {
+  font-size:calc(1rem + 1vw);
+  font-weight: 700;
+  filter: contrast(110%);
+  font-family: "Roboto",sans-serif;
 
-  }
+}
 
-  .header-item h4 , .header-item p {
-    font-size:calc(1rem + 1vw);
-    max-width:791px;
-  }
+.header-item h4 , .header-item p {
+  font-size:calc(1rem + 1vw);
+}
 
-  .header-item h1{
-    font-size: calc(2rem + 1vw);
-    font-weight: 550;
-    font-family: "Roboto",sans-serif;
-    max-width: 430px;
+.header-item h1{
+  font-size: calc(2rem + 1vw);
+  font-weight: 550;
+  font-family: "Roboto",sans-serif;
 
-  }
+}
 
   .header-item .buttons {
     font-family: "Inter",sans-serif;
@@ -202,4 +199,26 @@
     /************ bootstrap changes **************/
 
 
-    
+@media (min-width:430px){
+  .header-item h4 {
+    font-size:calc(1rem + 1vw);
+    font-weight: 700;
+    filter: contrast(110%);
+    font-family: "Roboto",sans-serif;
+    max-width: 500px;
+
+  }
+
+  .header-item h4 , .header-item p {
+    font-size:calc(1rem + 1vw);
+    max-width:791px;
+  }
+
+  .header-item h1{
+    font-size: calc(2rem + 1vw);
+    font-weight: 550;
+    font-family: "Roboto",sans-serif;
+    max-width: 500px;
+
+  }
+}
