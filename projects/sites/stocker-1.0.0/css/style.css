@@ -102,11 +102,10 @@
     height: 100%;
 
 
-
 }
 
-  .header-carousel .header-item {
-    
+  .header-carousel .header-item > * {
+    flex:1 0 auto;
   }
 
   .header-item h4 {
