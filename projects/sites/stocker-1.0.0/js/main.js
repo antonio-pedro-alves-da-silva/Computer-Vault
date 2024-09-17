@@ -17,8 +17,7 @@ $(window).ready(() => {
 
   // setting owl carousel
   var owl = $(".owl-carousel").owlCarousel({
-    animateOut: 'slideOutDown',
-    animateIn: 'flipInX',
+    animateOut: 'fadeOut',
     loop: true,
     margin: 0,
     nav: false,
@@ -27,11 +26,12 @@ $(window).ready(() => {
         items: 1,
       },
     },
+
   });
 
-  // setting the next and prev btn
-//   var owl = $(".owl-carousel");
-//   owl.owlCarousel();
+//   setting the next and prev btn
+  var owl = $(".owl-carousel");
+  owl.owlCarousel();
 
   $(".nextBtn").click(function () {
     owl.trigger("next.owl.carousel");
