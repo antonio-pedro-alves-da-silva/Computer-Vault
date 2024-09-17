@@ -189,12 +189,34 @@
     border-radius: 100%;
     color:white;
     font-size:1.5rem;
+
   }
 
   .owl-nav .prevBtn:hover , .owl-nav .nextBtn:hover {
     background:var(--bs-secondary);
     color:var(--bs-primary);
     transition:.5s;
+
+  }
+
+  .about {
+    /* padding-top:90px; */
+    
+  }
+
+  .about .item h4 {
+    font-weight: 500;
+    font-family:"Roboto",sans-serif;
+    font-size:calc(1.3rem + 1vw);
+
+  }
+  .about .item h1 {
+    font-weight: 700;
+    font-family: "Roboto",sans-serif;
+    font-size:calc(1.5rem + 1vw);
+    line-height: 1.2;
+    color:var(--bs-dark);
+
   }
 
 
