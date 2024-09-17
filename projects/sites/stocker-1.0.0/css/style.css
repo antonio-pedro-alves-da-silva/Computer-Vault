@@ -128,20 +128,25 @@
 
   .header-item .buttons {
     font-family: "Inter",sans-serif;
+    margin-top:25px;
   }
 
   .header-item .watchbtn {
     font-weight: 600;
     transition: .5s;
-    padding:15px 25px;
+    padding:15px 28px;
 
   }
 
   .header-item .learnbtn {
     font-weight: 600;
     transition: .5s;
-    padding:15px 20px;
+    padding:15px 24px;
 
+  }
+
+  .followUs {
+    margin-top:27px;
   }
 
   .followUs h2 {
@@ -171,7 +176,8 @@
   }
 
   .header-item .owl-nav {
-    
+    margin-top: 20px;
+
   }
 
   .owl-nav .prevBtn , .owl-nav .nextBtn {
@@ -188,7 +194,8 @@
 
   .owl-nav .prevBtn:hover , .owl-nav .nextBtn:hover {
     background:var(--bs-secondary);
-    color:var(var(--bs-primary));
+    color:var(--bs-primary);
+    transition:.5s;
   }
 
 
