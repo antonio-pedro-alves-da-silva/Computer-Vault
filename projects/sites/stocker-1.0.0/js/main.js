@@ -17,6 +17,8 @@ $(window).ready(() => {
 
   // setting owl carousel
   var owl = $(".owl-carousel").owlCarousel({
+    animateOut: 'slideOutDown',
+    animateIn: 'flipInX',
     loop: true,
     margin: 0,
     nav: false,
