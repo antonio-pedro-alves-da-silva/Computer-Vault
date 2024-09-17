@@ -128,7 +128,6 @@
 
   .header-item .buttons {
     font-family: "Inter",sans-serif;
-    margin-top:25px;
   }
 
   .header-item .watchbtn {
@@ -176,8 +175,8 @@
   }
 
   .header-item .owl-nav {
-    margin-top: 20px;
-
+    margin-top: 30px;
+    
   }
 
   .owl-nav .prevBtn , .owl-nav .nextBtn {
