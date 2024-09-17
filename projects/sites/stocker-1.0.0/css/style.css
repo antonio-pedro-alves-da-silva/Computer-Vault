@@ -78,7 +78,7 @@
 
   .owl-carousel .item {
     position: relative;
-    height: 104.5vw;
+    height: 104.5vh;
     
   }
 
@@ -163,6 +163,7 @@
     align-items: center;
     justify-content: center;
     transition:.5s;
+    flex:1 0 auto
   
   }
 
@@ -210,6 +211,8 @@
     100% {height: 100%; opacity:0.9}
 
   }
+
+  
 
   /************ bootstrap changes **************/
 
