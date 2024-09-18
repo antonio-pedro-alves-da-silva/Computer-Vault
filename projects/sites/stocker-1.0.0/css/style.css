@@ -79,8 +79,8 @@
 
   .owl-carousel .item {
     position: relative;
-    height: 104.5vh;
-    
+    height:calc(104.5vw);
+
   }
 
   .owl-carousel .item img {
@@ -101,11 +101,14 @@
     position:absolute;
     width: 100%;
     height: 100%;
+    box-sizing: border-box;
+    padding:0px 20px;
 
 }
 
 .header-carousel .header-item {
   width:100%;
+
 
 }
 
@@ -114,7 +117,6 @@
   font-weight: 700;
   filter: contrast(110%);
   font-family: "Roboto",sans-serif;
-  margin-top: 30px;
 
 }
 
