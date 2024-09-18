@@ -1,10 +1,14 @@
 const { exec } = require("child_process");
 
 
-const cmmNotify = `dunst close && notify-send "$(xset q | grep -o "Num Lock:\s*\(off\|on\)")"`;
-exec(cmmNotify,(error)=>{
-    if(error){
-        console.log(error)
+const cmmNotify = "xset q | grep -o " + "'" + "Num Lock:[ ]*" + `\` + "(off\|on\)" + "'"
 
-    }
-})
+
+    exec(cmmNotify,(error,stdout)=>{
+        if(error){
+            console.log(error)
+    
+        }
+
+        console.log(stdout)
+    })
