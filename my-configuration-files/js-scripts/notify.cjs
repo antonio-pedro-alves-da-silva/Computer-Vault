@@ -1,14 +1,14 @@
+
 const { exec } = require("child_process");
 
+const cmmNotify = "bash /home/robotuser/Computer-Vault/my-configuration-files/system-scripts/numlock-status.sh";
 
-const cmmNotify = "xset q | grep -o " + "'" + "Num Lock:[ ]*" + `\` + "(off\|on\)" + "'"
 
-
-    exec(cmmNotify,(error,stdout)=>{
-        if(error){
-            console.log(error)
-    
+    exec(cmmNotify,(err,stdout)=>{
+        if(err){
+            console.log(err)
+        } else {
+            console.log(stdout)
         }
-
-        console.log(stdout)
     })
+
