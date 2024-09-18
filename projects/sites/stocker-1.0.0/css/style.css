@@ -5,6 +5,7 @@
     --bs-dark:#111111;
     --bs-secondary:#fff;
     --bs-secondary-rgb:   rgb(255,255,255);
+    --bs-gray:#787878;
 }
 
 #container-spinner {
@@ -200,8 +201,8 @@
   }
 
   .about {
-    /* padding-top:90px; */
-    
+    padding-top:90px;
+
   }
 
   .about .item h4 {
@@ -210,14 +211,26 @@
     font-size:calc(1.3rem + 1vw);
 
   }
-  
+
   .about .item h1 {
     font-weight: 700;
     font-family: "Roboto",sans-serif;
-    font-size:calc(1.5rem + 1vw);
+    font-size:calc(1.7rem + 1.7vw);
     line-height: 1.2;
     color:var(--bs-dark);
 
+  }
+
+  .about .item p {
+    color: var(--bs-gray);
+    font-family: "Inter",sans-serif;
+    font-size:1rem;
+    line-height: 1.5;
+
+  }
+
+  .about .btnDiscover {
+    padding:18px 50px;
   }
 
   @keyframes zoom {
