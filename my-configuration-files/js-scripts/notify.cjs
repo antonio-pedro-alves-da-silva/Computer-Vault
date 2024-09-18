@@ -1,7 +1,7 @@
 const { exec } = require("child_process");
 
 
-const cmmNotify = `zenity --notification --text="$(xset q | grep -o 'Num Lock:[ ]*\\(off\\|on\\)')"`;
+const cmmNotify = `dunst close && notify-send "$(xset q | grep -o "Num Lock:\s*\(off\|on\)")"`;
 exec(cmmNotify,(error)=>{
     if(error){
         console.log(error)
