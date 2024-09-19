@@ -235,6 +235,16 @@
     padding:18px 50px;
   }
 
+  .to-top-btn {
+    width:57px;
+    height:57px;
+    font-size:8rem;
+    position:fixed;
+    left:90%;
+    top:80%;
+    z-index:4 ;
+  }
+
   @keyframes zoom {
     
     0% {height: 100%; opacity: 0.5}
@@ -289,6 +299,7 @@
 
   .btn-secondary:active {
     background-color: var(--bs-primary);
+
   }
 
 
@@ -321,3 +332,7 @@
   }
 }
 
+.bg-primary {
+  --bs-bg-opacity: 1;
+  background-color: var(--bs-primary) !important;
+}

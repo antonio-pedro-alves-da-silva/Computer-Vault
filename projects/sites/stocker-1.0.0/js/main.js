@@ -1,9 +1,9 @@
+
+
 $(window).ready(() => {
+
   $("#container-spinner").addClass("d-none");
 
-  // $(".btn-primary").on("click",()=>{
-  //     $(".btn-primary").css(`box-shadow`,`0px 0px 0px 0.2rem var(--bs-${}-rgb)`)
-  // })
 
   $(".btnShadowAnimation").on("click", (e) => {
     btnShadowColor = $(e.target).attr("shadow-color");
@@ -42,4 +42,21 @@ $(window).ready(() => {
     // Parameters has to be in square bracket '[]'
     owl.trigger("prev.owl.carousel", [300]);
   });
+
+
+  if(window.scrollY > 700){
+    $(".to-top-btn").toggle("d-none")
+  } else {
+    $(".to-top-btn").toggle("d-none")
+  }
+
+  $(".back-to-top").on("click",()=>{
+    window.scroll({
+      top:0,
+      behavior:"smooth"
+    })
+  })
+
+
+
 });
