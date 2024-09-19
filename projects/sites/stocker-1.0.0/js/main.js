@@ -15,7 +15,7 @@ $(window).ready(() => {
     $(e.target).css("box-shadow", `0px 0px 0px 0rem ${btnShadowColor}`);
   });
 
-  // setting owl carousel
+// setting owl carousel
   var owl = $(".owl-carousel").owlCarousel({
     animateOut: 'fadeOut',
     loop: true,
@@ -43,12 +43,15 @@ $(window).ready(() => {
     owl.trigger("prev.owl.carousel", [300]);
   });
 
+//  back-to-top 
+  $(window).on("scroll",()=>{
+    if(window.scrollY > 500){
+      $(".to-top-btn").removeClass("d-none")
+    } else {
+      $(".to-top-btn").addClass("d-none")
 
-  if(window.scrollY > 700){
-    $(".to-top-btn").toggle("d-none")
-  } else {
-    $(".to-top-btn").toggle("d-none")
-  }
+    }
+  })
 
   $(".back-to-top").on("click",()=>{
     window.scroll({
