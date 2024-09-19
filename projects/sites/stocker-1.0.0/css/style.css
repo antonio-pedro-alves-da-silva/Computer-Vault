@@ -243,8 +243,8 @@
     height:57px;
     font-size:8rem;
     position:fixed;
-    left:90%;
-    top:80%;
+    right:20px;
+    top:80vh;
     z-index:4 ;
   }
 
@@ -275,8 +275,20 @@
 
   }
 
-  .service-container {
-    
+  .services-container {
+    padding:0px 8vw;
+  }
+
+  .service-item .item-body {
+    padding:30px 30px 30px 10px;
+    background: var(--bs-);
+  }
+
+  .service-item .item-body h4 {
+    color:var(--bs-dark);
+    font-size:1.5rem;
+    font-family: "Roboto",sans-serif;
+    font-weight: 500;
   }
 
 
