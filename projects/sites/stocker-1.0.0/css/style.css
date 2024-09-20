@@ -7,6 +7,7 @@
     --bs-secondary-rgb:   rgb(255,255,255);
     --bs-gray:#787878;
     --bs-light: #f8f8f8;
+    --bs-border-radius:10px;
 }
 
 
@@ -264,27 +265,58 @@
     font-family: "Roboto",sans-serif;
     color:var(--bs-dark);
     font-weight: 530;
-    font-size:calc(1.7rem + 1vw);
+    font-size:calc(1.7rem + 2vw);
     line-height: 1.2;
   }
 
   .services p {
     font-family: "Inter",sans-serif;
-    font-size:calc(0.8rem + 1vw);
+    font-size:calc(0.7rem + 1vw);
     color: var(--bs-gray);
     line-height: 1.5;
 
   }
 
+
   .services-container {
-    padding:0px 6vw;
+    padding:0px 20px;
+    margin-top:50px;
     
   }
+
+  .service-item {
+    overflow: hidden;
+    border-radius: var(--bs-border-radius) !important;
+    transition:.5s;
+  }
+
+  .service-item .item-header{
+    overflow: hidden;
+
+  }
   
+    .service-item .item-header img {
+      width:100%;
+      transition: .5s;
+    }
+
+  .service-item:hover {
+    -webkit-box-shadow: 0px 0px 55px -11px rgba(0,0,0,0.25);
+    -moz-box-shadow: 0px 0px 55px -11px rgba(0,0,0,0.25);
+    box-shadow: 0px 0px 55px -11px rgba(0,0,0,0.25);
+    transition:.5s;
+    }
+
+  .service-item:hover .item-header img {
+    transform: scale(1.2);
+    transition:0.8s;
+    color:red;
+  }
 
   .service-item .item-body {
     padding:1.5rem;
-    background:var(--bs-light)
+    background:var(--bs-light);
+
   }
 
   .service-item .item-body h4 {
@@ -294,11 +326,16 @@
     font-weight: 500;
   }
 
+  .service-item .item-body h4:hover {
+    color:var(--bs-primary)
+  }
+
   .service-item .item-body p {
     font-family: "Inter",sans-serif;
     font-size:1rem;
 
   }
+
   .service-item .item-body .learnbtn {
     font-weight: 600;
     padding:8px 25px;
