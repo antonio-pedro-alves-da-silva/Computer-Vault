@@ -489,6 +489,11 @@
   }
 
 
+  .benefits-img {
+    border-radius: 10px;
+
+  }
+
   @keyframes zoom {
     
     0% {height: 100%; opacity: 0.5}
