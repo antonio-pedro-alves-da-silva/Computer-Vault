@@ -465,16 +465,27 @@
 
   .offer-cards {
     background: var(--bs-light);
-    padding:30px;
+    padding:50px;
     width:90vw;
     border-radius:10px;
-
+    grid-gap:20px;
   }
 
   .offer-cards h5 {
     background:var(--bs-secondary);
-    padding:20px;
+    padding:25px 20px;
     border-radius:10px;
+    font-family: "Roboto",sans-serif;
+    line-height: 1.2;
+    color:var(--bs-dark);
+    font-weight: 500;
+    font-size:1.25rem;
+  }
+
+  .offer-cards h5.active {
+    transition:.5s;
+    background: var(--bs-primary);
+    color:var(--bs-secondary);
   }
 
 
