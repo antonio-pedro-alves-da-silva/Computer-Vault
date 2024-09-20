@@ -281,14 +281,18 @@
   .services-container {
     padding:0px 20px;
     margin-top:50px;
-    
+    grid-gap:40px;    
   }
+
 
   .service-item {
     overflow: hidden;
     border-radius: var(--bs-border-radius) !important;
     transition:.5s;
+
   }
+
+
 
   .service-item .item-header{
     overflow: hidden;
