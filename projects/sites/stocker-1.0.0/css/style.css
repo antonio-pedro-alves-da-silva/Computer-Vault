@@ -414,7 +414,6 @@
     color: var(--bs-gray);
     margin-top:10px;
     font-size:1rem;
-    max-width:300px;
   }
 
   .features-item .features-body .learnbtn {
@@ -458,6 +457,24 @@
     margin-top:27px;
     line-height: 1.5;
 
+  }
+
+  .offer-container {
+
+  }
+
+  .offer-cards {
+    background: var(--bs-light);
+    padding:30px;
+    width:90vw;
+    border-radius:10px;
+
+  }
+
+  .offer-cards h5 {
+    background:var(--bs-secondary);
+    padding:20px;
+    border-radius:10px;
   }
 
 
