@@ -6,6 +6,7 @@
     --bs-secondary:#fff;
     --bs-secondary-rgb:   rgb(255,255,255);
     --bs-gray:#787878;
+    --bs-light: #f8f8f8;
 }
 
 
@@ -276,12 +277,14 @@
   }
 
   .services-container {
-    padding:0px 8vw;
+    padding:0px 6vw;
+    
   }
+  
 
   .service-item .item-body {
-    padding:30px 30px 30px 10px;
-    background: var(--bs-);
+    padding:1.5rem;
+    background:var(--bs-light)
   }
 
   .service-item .item-body h4 {
@@ -291,6 +294,15 @@
     font-weight: 500;
   }
 
+  .service-item .item-body p {
+    font-family: "Inter",sans-serif;
+    font-size:1rem;
+
+  }
+  .service-item .item-body .learnbtn {
+    font-weight: 600;
+    padding:8px 25px;
+  }
 
   @keyframes zoom {
     
