@@ -144,6 +144,7 @@
   }
 
   .header-item .learnbtn {
+    font-family: "Inter"sans-serif;
     font-weight: 600;
     transition: .5s;
     padding:15px 24px;
@@ -349,6 +350,10 @@
     margin-top:120px;
   }
 
+  .features-header {
+    padding: 0px 3vw;
+  }
+
   .features-header h4 {
     font-family: "Roboto",sans-serif;
     font-weight: 500;
@@ -359,7 +364,7 @@
     font-family: "Roboto",sans-serif;
     color:var(--bs-dark);
     font-weight: 530;
-    font-size:calc(1.7rem + 2vw);
+    font-size:calc(1.5rem + 2vw);
     line-height: 1.2;
   }
 
@@ -373,7 +378,46 @@
 
   .features-item {
     background:var(--bs-light);
-    width:
+    padding:30px;
+    border-radius: 10px;
+    transition: 1s;
+    box-sizing: border-box;
+  }
+
+  .features-container {
+    padding:0px 5vw;
+  }
+
+  .features-item .features-icon {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+  }
+
+  .features-item h4 {
+    font-family: "Roboto",sans-serif;
+    color:black;
+    font-size:1.5rem;
+    font-weight: 500;
+    margin-top:30px;
+
+  }
+
+  .features-item p {
+    font-family: "Inter",sans-serif;
+    color: var(--bs-gray);
+    margin-top:10px;
+    font-size:1.075rem;
+  }
+
+  .features-item .learnbtn {
+    margin-top: 15px;
+  }
+
+  .features-item:hover {
+   box-shadow: 0px 0px 0px 1px var(--bs-primary);
+   transition:1s;
+
   }
 
   @keyframes zoom {
