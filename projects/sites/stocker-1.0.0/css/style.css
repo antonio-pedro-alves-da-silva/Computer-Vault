@@ -347,7 +347,7 @@
   }
 
   .features {
-    margin-top:120px;
+    margin-top:100px;
   }
 
   .features-header {
@@ -426,6 +426,40 @@
    transition:1s;
 
   }
+
+  .offer {
+    margin-top:100px;
+  }
+
+  .offer-header {
+    padding:0px 20px;
+  }
+
+  .offer-header h4 {
+    color:var(--bs-primary);
+    font-family: "Roboto",sans-serif;
+    font-weight: 500;
+    font-size:calc(1.3rem + 1vw);
+  }
+
+  .offer-header h1 {
+    font-family: "Roboto",sans-serif;
+    color:var(--bs-dark);
+    font-weight: 530;
+    font-size:calc(1.5rem + 2vw);
+    line-height: 1.2;
+  }
+
+  .offer-header p {
+    font-family: "Inter",sans-serif;
+    font-size:calc(0.8rem + 1vw);
+    color: var(--bs-gray);
+    line-height: 1.5;
+    margin-top:27px;
+    line-height: 1.5;
+
+  }
+
 
   @keyframes zoom {
     
