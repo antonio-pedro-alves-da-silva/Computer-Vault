@@ -340,9 +340,40 @@
 
   }
 
-  .service-item .item-body .learnbtn {
+ .learnbtn {
     font-weight: 600;
     padding:8px 25px;
+  }
+
+  .features {
+    margin-top:120px;
+  }
+
+  .features-header h4 {
+    font-family: "Roboto",sans-serif;
+    font-weight: 500;
+    font-size:calc(1.3rem + 1vw);
+  }
+
+  .features-header h1 {
+    font-family: "Roboto",sans-serif;
+    color:var(--bs-dark);
+    font-weight: 530;
+    font-size:calc(1.7rem + 2vw);
+    line-height: 1.2;
+  }
+
+  .features-header p {
+    font-family: "Inter",sans-serif;
+    font-size:calc(0.7rem + 1vw);
+    color: var(--bs-gray);
+    line-height: 1.5;
+    margin-top:27px;
+  }
+
+  .features-item {
+    background:var(--bs-light);
+    width:
   }
 
   @keyframes zoom {
