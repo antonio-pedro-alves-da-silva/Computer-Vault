@@ -60,16 +60,21 @@ $(window).ready(() => {
     })
   })
 
+
 // collapse
 const cards = $(".offer-cards").children();
 
 cards.on("click",(e)=>{
   cards.map((i,v)=>{
+
       if(v !== e.target){
         $(v).removeClass("active");
       } else {
-        $(e.target).addClass("active")
+        $(e.target).addClass("active");
       }
+
+      
+
     })
   })
 
