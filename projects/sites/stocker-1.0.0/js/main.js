@@ -61,21 +61,24 @@ $(window).ready(() => {
   })
 
 
-// collapse
+
+// active cards
 const cards = $(".offer-cards").children();
+const benefits = $(".offer-benefits").children();
 
 cards.on("click",(e)=>{
-  cards.map((i,v)=>{
 
+  cards.map((i,v)=>{
+      // add active class to the clicked item and remove from siblings
       if(v !== e.target){
         $(v).removeClass("active");
       } else {
         $(e.target).addClass("active");
       }
 
-      
-
     })
+
+
   })
 
 });

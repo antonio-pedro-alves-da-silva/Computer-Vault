@@ -517,7 +517,13 @@
 
   }
 
+  .offer-benefits > div {
+    animation: opacity;
+    animation-duration:2s;
+    animation-iteration-count: 1;
+  }
 
+  
 
   @keyframes zoom {
     
@@ -533,7 +539,12 @@
 
   }
 
-  
+  @keyframes opacity {
+    0% {opacity: 1}
+
+    100% {opacity:0}
+  }
+
 
   /************ bootstrap changes **************/
 
