@@ -61,6 +61,12 @@ $(window).ready(() => {
   })
 
 // collapse
-
+  $(".offer-cards").children().map((i,v)=>{
+    $(v).on("click",(e)=>{
+        v.removeClass("active");
+        e.target.addClass("active");
+    
+    })
+  })
 
 });
