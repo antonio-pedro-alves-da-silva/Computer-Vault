@@ -61,11 +61,15 @@ $(window).ready(() => {
   })
 
 // collapse
-  $(".offer-cards").children().map((i,v)=>{
-    $(v).on("click",(e)=>{
-        v.removeClass("active");
-        e.target.addClass("active");
-    
+const cards = $(".offer-cards").children();
+
+cards.on("click",(e)=>{
+  cards.map((i,v)=>{
+      if(v !== e.target){
+        $(v).removeClass("active");
+      } else {
+        $(e.target).addClass("active")
+      }
     })
   })
 
