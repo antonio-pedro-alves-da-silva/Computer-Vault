@@ -2,7 +2,7 @@
 :root {
     --bs-primary:#00D084;
     --bs-primary-rgb:rgba(0,208,132);
-    --bs-dark:#111111;
+    --bs-dark:#111;
     --bs-secondary:#fff;
     --bs-secondary-rgb:   rgb(255,255,255);
     --bs-gray:#787878;
@@ -459,14 +459,11 @@
 
   }
 
-  .offer-container {
-
-  }
 
   .offer-cards {
     background: var(--bs-light);
     padding:50px;
-    width:90vw;
+    width:85vw;
     border-radius:10px;
     grid-gap:20px;
   }
@@ -491,8 +488,36 @@
 
   .benefits-img {
     border-radius: 10px;
+    overflow:hidden;
+    width:85vw;
+  }
+
+  .benefits-body {
+    width:85vw;
 
   }
+
+  .benefits-body h1 {
+    font-size:calc(1.425rem + 2.1vw);
+    font-weight:700;
+    line-height: 1.2;
+    color:var(--bs-dark);
+    font-family: "Roboto",sans-serif;
+    margin-top:25px;
+  }
+
+
+  .benefits-body p {
+    font-family: "Inter",sans-serif;
+    font-size:calc(0.5rem + 2vw);
+    color: var(--bs-gray);
+    line-height: 1.5;
+    margin-top:27px;
+    line-height: 1.5;
+
+  }
+
+
 
   @keyframes zoom {
     
