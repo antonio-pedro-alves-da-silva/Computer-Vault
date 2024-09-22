@@ -190,8 +190,8 @@
 
   .owl-nav .prevBtn , .owl-nav .nextBtn {
     display: inline-flex;
-    width: 60px;
-    height:60px;
+    width: 65px;
+    height:65px;
     background-color: var(--bs-primary);
     align-items: center;
     justify-content: center;
@@ -554,8 +554,7 @@
   .blog .blog-item {
     background: var(--bs-light);
     width: 88%;
-    height:600px;
-    padding:25px;
+    padding:25px 25px 15px 25px;
     border-radius:10px;
   }
 
@@ -581,8 +580,28 @@
 
   }
 
-  .blog-item h5 {
-    
+  .blog-item .user img {
+    width:65px;
+    height:65px;
+    object-fit: fill;
+    border-radius: 100%;
+  }
+
+  .blog-item .user h5{
+    font-family: "Roboto",sans-serif;
+    color:var(--bs-dark);
+    font-weight: 500;
+    font-size: 1.25rem;
+    line-height: 1.2;
+
+  }
+
+  .blog-item .user p{
+    font-family: "Inter",sans-serif;
+    color: var(--bs-gray);
+    font-size: 1rem;
+    line-height: 1.5;
+    font-weight: 400;
   }
 
   @keyframes zoom {
