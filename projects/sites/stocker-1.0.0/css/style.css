@@ -102,7 +102,7 @@
     
   }
   
-  .header-carousel {
+  .item-backdrop {
     background-color: rgba(0,0,0,0.7);
     position:absolute;
     width: 100%;
@@ -112,7 +112,7 @@
 
 }
 
-.header-carousel .header-item {
+.owl-carousel .header-item {
   width:100%;
 
 }
@@ -242,13 +242,14 @@
   }
 
   .to-top-btn {
-    width:57px;
-    height:57px;
+    width:13vw;
+    height:13vw;
     font-size:8rem;
     position:fixed;
     right:20px;
     top:80vh;
-    z-index:4 ;
+    z-index:4;
+    
   }
 
   
@@ -546,17 +547,27 @@
 
   }
 
-
-  .blog .owl-carousel .item{
+  .blog-carousel .item{
     width:100%;
   }
 
   .blog .blog-item {
     background: var(--bs-light);
-    width: 85%;
-    height:500px;
+    width: 88%;
+    height:600px;
+    padding:25px;
+    border-radius:10px;
   }
 
+  .blog-carousel .img-container {
+    width:100%;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+
+  .blog-carousel {
+
+  }
 
   @keyframes zoom {
     

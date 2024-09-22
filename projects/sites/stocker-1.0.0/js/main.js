@@ -30,7 +30,7 @@ $(window).ready(() => {
   });
 
 //   setting the next and prev btn
-  var owl = $(".owl-carousel");
+  var owl = $(".header-carousel");
   owl.owlCarousel();
 
   $(".nextBtn").click(function () {
@@ -107,13 +107,13 @@ cards.on("click",(e)=>{
   })
 
   // setting owl carousel
-  var blogCarousel = $(".owl-carousel").owlCarousel({
+  var blogCarousel = $(".blog-carousel").owlCarousel({
     loop: true,
     margin: 0,
     nav: false,
     responsive: {
       0: {
-        items: 3,
+        items: 1,
       },
     },
 
