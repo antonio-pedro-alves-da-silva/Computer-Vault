@@ -242,8 +242,8 @@
   }
 
   .to-top-btn {
-    width:13vw;
-    height:13vw;
+    width:64px;
+    height:64px;
     font-size:8rem;
     position:fixed;
     right:20px;
@@ -565,7 +565,23 @@
     overflow: hidden;
   }
 
-  .blog-carousel {
+  .blog-item h4 {
+    font-family: "Roboto",sans-serif;
+    color:var(--bs-dark);
+    font-weight: 500;
+    font-size:calc(1.375rem + 0.3vw);
+    line-height: 1.2;
+
+  }
+
+  .blog-item p {
+    font-family: "Inter",sans-serif;
+    color:var(--bs-gray);
+    font-size: calc(0.9rem + 0.3vw);
+
+  }
+
+  .blog-item h5 {
     
   }
 
