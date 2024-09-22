@@ -16,7 +16,7 @@ $(window).ready(() => {
   });
 
 // setting owl carousel
-  var owl = $(".owl-carousel").owlCarousel({
+  var blogCarousel = $(".owl-carousel").owlCarousel({
     animateOut: 'fadeOut',
     loop: true,
     margin: 0,
@@ -63,22 +63,60 @@ $(window).ready(() => {
 
 
 // active cards
+
 const cards = $(".offer-cards").children();
 const benefits = $(".offer-benefits").children();
 
+
 cards.on("click",(e)=>{
 
+  let lastItemId = $(".offer-cards").find(".active").attr("collapse");
+  let lastActiveItem = document.getElementById(lastItemId);
+
+  let currentItemId = $(e.target).attr("collapse");
+  let currentActiveItem = document.getElementById(currentItemId);
+
+  // animating and collapsing
+  $(lastActiveItem).animate({
+    opacity:0
+  },270,()=>{
+    
+    $(lastActiveItem).addClass("d-none");
+    $(lastActiveItem).animate({opacity:1})
+
+    $(currentActiveItem).removeClass("d-none");
+
+  })
+
   cards.map((i,v)=>{
-      // add active class to the clicked item and remove from siblings
+
+
+      // remove active class from siblings
       if(v !== e.target){
         $(v).removeClass("active");
-      } else {
-        $(e.target).addClass("active");
-      }
+      } 
 
+      // add active class to clicked item
+
+      $(e.target).addClass("active");
     })
 
 
+    // 
+
   })
+
+  // setting owl carousel
+  var blogCarousel = $(".owl-carousel").owlCarousel({
+    loop: true,
+    margin: 0,
+    nav: false,
+    responsive: {
+      0: {
+        items: 3,
+      },
+    },
+
+  });
 
 });
