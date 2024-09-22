@@ -647,7 +647,19 @@
   --bs-btn-active-color:var(--bs-primary);
 }
 
+.blog-nav .btn-container {
+  width:88%;
+}
 
+.blog .blog-prevBtn , .blog .blog-nextBtn{
+  background-color: var(--bs-primary);
+  color:var(--bs-secondary);
+  padding:12px 35px;
+  border-radius: 30px;
+  transition: .5s;
+  font-weight: 100;
+  font-size: 0.8rem;
+}
 
   @keyframes zoom {
     

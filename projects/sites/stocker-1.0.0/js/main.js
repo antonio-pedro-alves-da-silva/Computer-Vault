@@ -16,7 +16,7 @@ $(window).ready(() => {
   });
 
 // setting owl carousel
-  var blogCarousel = $(".owl-carousel").owlCarousel({
+  var blogCarousel = $(".header-carousel").owlCarousel({
     animateOut: 'fadeOut',
     loop: true,
     margin: 0,
@@ -118,16 +118,20 @@ cards.on("click",(e)=>{
     },
   });
 
+  //   setting the next and prev btn
+  var owl = $(".blog-carousel");
+  owl.owlCarousel();
+
   // Go to the next item
-  $('.customNextBtn').click(function() {
-    owl.trigger('next.owl.carousel');
+  $('.blog-nextBtn').click(function() {
+    owl.trigger('next.owl.carousel',[1500]);
   })
 
   // Go to the previous item
-  $('.customPrevBtn').click(function() {
+  $('.blog-prevBtn').click(function() {
     // With optional speed parameter
     // Parameters has to be in square bracket '[]'
-    owl.trigger('prev.owl.carousel', [300]);
+    owl.trigger('prev.owl.carousel', [1500]);
   })
 
 });
