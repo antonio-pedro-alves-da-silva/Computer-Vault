@@ -108,13 +108,14 @@
     width: 100%;
     height: 100%;
     box-sizing: border-box;
-    
+
 }
 
 .owl-carousel .header-item {
   width:100%;
 
 }
+
 
 .header-item > h4 {
   font-size:calc(1rem + 1vw);
@@ -601,7 +602,10 @@
     font-size: 1rem;
     line-height: 1.5;
     font-weight: 400;
+
   }
+
+
 
   @keyframes zoom {
     
