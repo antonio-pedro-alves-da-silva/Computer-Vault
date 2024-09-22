@@ -82,14 +82,14 @@
     color:white;
   }
 
-  .owl-carousel .item {
+  .header-carousel .item {
     position: relative;
     height:104.5vh;
     max-height: 650px;
     min-height: 700px;
   }
 
-  .owl-carousel .item img {
+  .header-carousel .item img {
     position: absolute;
     object-fit: cover;
 
@@ -249,7 +249,7 @@
     right:20px;
     top:80vh;
     z-index:4;
-    
+
   }
 
   
@@ -566,7 +566,7 @@
   }
 
   .blog-carousel {
-
+    
   }
 
   @keyframes zoom {
