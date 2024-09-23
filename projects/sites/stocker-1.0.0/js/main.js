@@ -90,7 +90,6 @@ cards.on("click",(e)=>{
 
   cards.map((i,v)=>{
 
-
       // remove active class from siblings
       if(v !== e.target){
         $(v).removeClass("active");
@@ -110,7 +109,7 @@ cards.on("click",(e)=>{
   var blogCarousel = $(".blog-carousel").owlCarousel({
     loop: true,
     margin: 0,
-    nav: true,
+    nav: false,
     responsive: {
       0: {
         items: 1,

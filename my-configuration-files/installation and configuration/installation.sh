@@ -36,7 +36,7 @@ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/.oh-my-zsh/th
 git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
 cd ~/.fzf/
 ./install
-
+k
 # instalaçao do i3
 
 sudo apt-fast install feh -y
@@ -48,6 +48,7 @@ sudo apt-fast install i3status -y
 sudo apt-fast install blueman -y
 sudo apt-fast install tilix -y
 sudo apt-fast install brightnessctl
+sudo apt-fast install i3blocks -y
 
 # other packages 
 
