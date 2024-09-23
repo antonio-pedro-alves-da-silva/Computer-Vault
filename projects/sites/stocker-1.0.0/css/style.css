@@ -795,7 +795,6 @@ body {
 
 }
 
-
 .team-icons .icon {
   width: 40px;
   height: 40px;
@@ -815,6 +814,7 @@ body {
   width:85%;
   margin:0 auto;
   height: 280px;
+  background: red;
 
 }
 
@@ -824,7 +824,7 @@ body {
   bottom: 0px;
   left:0px;
   padding-bottom: 20px;
-  
+
 }
 
 .team-item .icon:hover {
@@ -854,7 +854,7 @@ body {
   background:var(--bs-light);
   border-radius:10px;
   bottom: 0px;
-  transition:.3s;
+  transition:.5s;
 }
 
 .team-item::after {
@@ -867,7 +867,7 @@ body {
   border-radius: 10px;
   bottom: 0px;
   z-index: -1;
-  transition: .3s;
+  transition: .5s;
 }
 
 .team-item:hover::before {
@@ -880,8 +880,7 @@ body {
   background:var(--bs-light);
   border-radius:10px;
   bottom: 0px;
-  transition:.3s;
-
+  transition:.5
 }
 
 .team-item:hover::after {
@@ -894,7 +893,14 @@ body {
   border-radius: 10px;
   bottom: 0px;
   z-index: -1;
-  transition: .3s;
+  transition: .5s;
+}
+
+.team-img img {
+  width: 100%;
+  border-radius: 100%;
+  border: dotted 4px var(--bs-secondary-rgb);
+  padding: 4px;
 }
 
 .team-item:hover .team-info p {
