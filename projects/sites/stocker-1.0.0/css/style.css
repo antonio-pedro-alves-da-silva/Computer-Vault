@@ -813,16 +813,16 @@ body {
   width:85%;
   margin:0 auto;
   background:green;
-  height: 380px;
+  height: 480px;
   position:relative;
 
 }
 
 .team-container {
   background: gray;
-  position:relative;
+  position:absolute;
   bottom: 0px;
-  height: 280px;
+  height:80%;
 
 }
 
