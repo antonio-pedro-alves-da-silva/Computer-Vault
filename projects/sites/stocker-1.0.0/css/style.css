@@ -771,7 +771,8 @@ body {
 
 .team .team-cards {
   flex:1 1 auto;
-  margin-top: 100px;
+  margin-top: 210px;
+
 }
 
 
@@ -794,6 +795,10 @@ body {
 
 }
 
+.team-icons {
+  gap:0px 10px
+}
+
 .team-icons .icon {
   width: 40px;
   height: 40px;
@@ -804,35 +809,75 @@ body {
   color:var(--bs-secondary);
   border-radius: 100%;
   font-weight: 500;
-  --bs-gutter-y: 1.5rem;
-  --bs-gutter-x: 1.5rem;
+  --bs-gutter-y: 0.8rem;
+  --bs-gutter-x: 0.8rem;
 
 }
 
 .team-item {
   width:85%;
+  height: 300px;
   margin:0 auto;
-  background:green;
-  height: 580px;
+  background:transparent;
   position:relative;
-  
+  border-radius: 10px;
+
 }
 
-.team-container {
-  background: gray;
-  position: absolute;
-  bottom: 0px;
-  height:480px;
-  
+.team-item > * {
+  position:relative;
+  top:-155px;
+  transition: .5s;
 }
 
-.team-img img {
-  width: 100%;
+
+.team-img {
+  width: 90%;
   height: 100%;
   border-radius: 100%;
   border: dotted 4px var(--bs-primary);
   padding: 4px;
 
+}
+
+.team-item::before {
+  display: block;
+  content: "";
+  width: 100%;
+  height: 100%;
+  background:var(--bs-light);
+  position:absolute;
+  bottom: 0px;
+  border-radius: 10px;
+  z-index:-2;
+  transition: .5s;
+}
+
+.team-item::after {
+  display: block;
+  content: "";
+  width: 100%;
+  height: 0%;
+  background:var(--bs-primary);
+  position:absolute;
+  border-radius: 10px;
+  z-index: -1;
+  transition: .5s;
+  bottom: 0px;
+}
+
+.team-item:hover::before {
+  height:0%;
+
+}
+
+.team-item:hover::after {
+  height:100%;  
+
+}
+
+.team-item:hover .team-img {
+  
 }
 
   @keyframes zoom {
