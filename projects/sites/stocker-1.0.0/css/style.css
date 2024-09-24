@@ -251,8 +251,8 @@ body {
     height:64px;
     font-size:8rem;
     position:fixed;
-    right:20px;
-    top:80vh;
+    right:0px;
+    bottom:10vh;
     z-index:4;
 
   }
@@ -813,17 +813,17 @@ body {
   width:85%;
   margin:0 auto;
   background:green;
-  height: 480px;
+  height: 580px;
   position:relative;
-
+  
 }
 
 .team-container {
   background: gray;
-  position:absolute;
+  position: absolute;
   bottom: 0px;
-  height:80%;
-
+  height:480px;
+  
 }
 
 .team-img img {
@@ -834,7 +834,6 @@ body {
   padding: 4px;
 
 }
-
 
   @keyframes zoom {
     
