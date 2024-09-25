@@ -818,10 +818,9 @@ body {
   width:85%;
   height: 100%;
   margin:0 auto;
-  position:relative;
   border-radius: 10px;
   background-color: red;
-
+  
 }
 
 .team-item .team-container > * {
@@ -841,9 +840,8 @@ body {
 }
 
 .team-container {
-  height: 50%;
   background-color: green;
-  position:relative;
+  position: relative;
   
 }
 
