@@ -43,7 +43,7 @@ $(window).ready(() => {
     owl.trigger("prev.owl.carousel", [300]);
   });
 
-//  back-to-top 
+//  back-to-top btn
   $(window).on("scroll",()=>{
     if(window.scrollY > 500){
       $(".to-top-btn").removeClass("d-none")
@@ -105,11 +105,13 @@ cards.on("click",(e)=>{
 
   })
 
-  // setting owl carousel
+  // setting blog carousel
   var blogCarousel = $(".blog-carousel").owlCarousel({
     loop: true,
     dots:false,
     margin: 0,
+    autoplay: true,
+    smartSpeed: 1500,
     responsive: {
       0: {
         items: 1,
@@ -140,6 +142,8 @@ cards.on("click",(e)=>{
     margin: 0,
     nav: false,
     dots:false,
+    autoplay: true,
+    smartSpeed: 1500,
     responsive: {
       0: {
         items: 1,
@@ -147,15 +151,12 @@ cards.on("click",(e)=>{
     },
   });
 
-
+  // setting the testimonial-dots 
   $(".testimonial-dot").map((i,v)=>{
-    
     $(v).on("click",()=>{
       testimonialCarousel.trigger("to.owl.carousel",i,0)
     })
   })
 
-
-  
 
 });
