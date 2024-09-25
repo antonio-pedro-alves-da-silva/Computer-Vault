@@ -108,17 +108,13 @@ cards.on("click",(e)=>{
   // setting owl carousel
   var blogCarousel = $(".blog-carousel").owlCarousel({
     loop: true,
+    dots:false,
     margin: 0,
     responsive: {
       0: {
         items: 1,
       },
-    },
-    autoPlay: 3000, //Set AutoPlay to 3 seconds
-    dots: true,
-    items: 2,
-    itemsDesktop: [1199, 3],
-    itemsDesktopSmall: [979, 3]
+    }
   });
 
   //   setting the next and prev btn
@@ -151,6 +147,13 @@ cards.on("click",(e)=>{
     },
   });
 
+
+  $(".testimonial-dot").map((i,v)=>{
+    
+    $(v).on("click",()=>{
+      testimonialCarousel.trigger("to.owl.carousel",i,0)
+    })
+  })
 
 
   

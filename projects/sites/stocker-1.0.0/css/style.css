@@ -888,21 +888,32 @@ body {
 
 }
 
-.owl-dot {
+/******************************** TESTIMONIAL START *****************************************/
+
+
+.dots-primary {
+  background:var(--bs-secondary);
   width: 15px;
   height: 15px;
-  margin: 5px;
-  background-color: #ccc;  /* Default dot color */
-  border-radius: 50%;      /* Make the dots round */
-  display: inline-block;
-  border: 2px solid #000;  /* Add a border to the dots */
-  transition: background-color 0.3s ease; /* Smooth transition */
+  box-sizing: content-box;
+  border:8px solid var(--bs-primary);
+  border-radius: 50%;
+  display: block;
+  transition:.5s;
+  cursor:pointer;
 }
 
-/* Style the active dot */
-.owl-dot.active {
-  background-color: #000;  /* Active dot color */
+.testimonial-dots {
+  gap:18px;
 }
+
+.dots-primary:hover {
+  background: var(--bs-primary);
+  border-color: var(--bs-dark);
+}
+
+/******************************** TESTIMONIAL END *****************************************/
+
 
 
 
