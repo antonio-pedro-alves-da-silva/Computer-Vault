@@ -816,23 +816,22 @@ body {
 
 .team-item {
   width:85%;
-  height: 100%;
+  height:400px;
   margin:0 auto;
   border-radius: 10px;
   background-color: red;
   
 }
 
-.team-item .team-container > * {
+.team-item  .team-container > * {
   position:relative;
   bottom:0px;
   transition: .5s;
-  
+
 }
 
 .team-img {
   width: 90%;
-  height: 100%;
   border-radius: 100%;
   border: dotted 4px var(--bs-primary);
   padding: 4px;
@@ -841,8 +840,9 @@ body {
 
 .team-container {
   background-color: green;
-  position: relative;
-  
+  position:absolute;
+  bottom: 0px;
+
 }
 
 /* 
