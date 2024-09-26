@@ -893,8 +893,8 @@ body {
 /******************************** TESTIMONIAL START *****************************************/
 
 .testimonial-carousel {
-
-
+  margin-top:75px;
+  overflow: visible;
 }
 
 .dots-primary {
@@ -916,6 +916,7 @@ body {
 .dots-primary:hover {
   background: var(--bs-primary);
   border-color: var(--bs-dark);
+
 }
 
 .testimonial-carousel .item {
@@ -926,14 +927,17 @@ body {
   padding:0px 25px 25px 25px;
   user-select: none;
   border-radius: 10px;
+  overflow: visible;
+
 }
 
 .testimonial-img {
   width:90px;
   object-fit: cover;
   border-radius: 100%;
-  margin:0 auto;
+  margin:-10% auto 0 auto;
   display: block;
+  position:absolute;
 
 }
 
