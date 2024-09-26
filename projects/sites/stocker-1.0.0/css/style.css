@@ -892,6 +892,10 @@ body {
 
 /******************************** TESTIMONIAL START *****************************************/
 
+.testimonial-carousel {
+
+
+}
 
 .dots-primary {
   background:var(--bs-secondary);
@@ -912,6 +916,25 @@ body {
 .dots-primary:hover {
   background: var(--bs-primary);
   border-color: var(--bs-dark);
+}
+
+.testimonial-carousel .item {
+  width: 88%;
+  margin: 0 auto;
+  background: var(--bs-light);
+  margin-bottom: 30px;
+  padding:0px 25px 25px 25px;
+  user-select: none;
+  border-radius: 10px;
+}
+
+.testimonial-img {
+  width:90px;
+  object-fit: cover;
+  border-radius: 100%;
+  margin:0 auto;
+  display: block;
+
 }
 
 /******************************** TESTIMONIAL END *****************************************/
