@@ -124,12 +124,12 @@ cards.on("click",(e)=>{
   owl.owlCarousel();
 
   // Go to the next item
-  $('.blog-nextBtn').click(function() {
+  $('.nav-primary .nextBtn').click(function() {
     owl.trigger('next.owl.carousel',[1500]);
   })
 
   // Go to the previous item
-  $('.blog-prevBtn').click(function() {
+  $('.nav-primary .prevBtn').click(function() {
     // With optional speed parameter
     // Parameters has to be in square bracket '[]'
     owl.trigger('prev.owl.carousel', [1500]);

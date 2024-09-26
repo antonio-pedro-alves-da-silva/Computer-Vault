@@ -247,12 +247,13 @@ body {
   }
 
   .to-top-btn {
-    width:64px;
-    height:64px;
-    font-size:8rem;
+    width: 56px;
+    height: 56px;
+    font-size:0rem;
     position:fixed;
     right:0px;
-    bottom:10vh;
+    right:6vw;
+    bottom:7vh;
     z-index:4;
 
   }
@@ -616,10 +617,10 @@ body {
 
 .blog-item .img-container .dividendBtn {
   position: absolute;
-
   left:25px;
   bottom: 25px;
   padding:8px 15px;
+
 }
 
 .img-container .dividendBtn:hover {
@@ -629,11 +630,12 @@ body {
   --bs-btn-active-color:var(--bs-primary);
 }
 
-.blog-nav .btn-container {
+.nav-primary .btn-container {
   width:88%;
+
 }
 
-.blog .blog-prevBtn , .blog .blog-nextBtn{
+.nav-primary .prevBtn , .nav-primary .nextBtn{
   background-color: var(--bs-primary);
   color:var(--bs-secondary);
   padding:12px 35px;
