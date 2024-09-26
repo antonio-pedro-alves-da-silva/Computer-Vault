@@ -22,6 +22,7 @@
   -moz-backface-visibility: hidden;
   /* fix firefox animation glitch */
 }
+
 .owl-carousel .owl-stage:after {
   content: ".";
   display: block;
@@ -30,6 +31,7 @@
   line-height: 0;
   height: 0;
 }
+
 .owl-carousel .owl-stage-outer {
   position: relative;
   overflow: hidden;
@@ -46,6 +48,7 @@
   -moz-transform: translate3d(0, 0, 0);
   -ms-transform: translate3d(0, 0, 0);
 }
+
 .owl-carousel .owl-item {
   position: relative;
   min-height: 1px;
@@ -54,6 +57,7 @@
   -webkit-tap-highlight-color: transparent;
   -webkit-touch-callout: none;
   overflow: visible;
+
 }
 
 .owl-carousel .owl-nav.disabled,
@@ -91,6 +95,7 @@
 }
 .owl-carousel.owl-refresh .owl-item {
   visibility: hidden;
+  overflow: visible;
 }
 .owl-carousel.owl-drag .owl-item {
   -ms-touch-action: pan-y;

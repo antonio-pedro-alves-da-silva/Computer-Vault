@@ -13,8 +13,13 @@
 
 body {
   font-family: "Inter",sans-serif;
+  margin: 0px;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
-
 
 #container-spinner {
     display: flex;
@@ -898,7 +903,7 @@ body {
 /******************************** TESTIMONIAL START *****************************************/
 
 .testimonial-carousel {
-  margin-top:75px;
+  margin-top:45px;
   overflow: visible;
 }
 
@@ -916,6 +921,7 @@ body {
 
 .testimonial-dots {
   gap:18px;
+
 }
 
 .dots-primary:hover {
@@ -927,31 +933,82 @@ body {
 .testimonial-carousel .item {
   width: 88%;
   margin: 0 auto;
-  background: var(--bs-light);
   margin-bottom: 30px;
-  padding:0px 25px 25px 25px;
-  user-select: none;
-  border-radius: 10px;
   overflow: visible;
+}
 
+.testimonial-carousel .item-container {
+  width:100%;
+  padding:0px 25px 15px 25px;
+  user-select: none;
+}
+
+
+.testimonial-carousel .item-container::before {
+  display: block;
+  content: "";
+  height:90%;
+  width:100%;
+  position:absolute;
+  bottom: 0px;
+  left:0px;
+  background: var(--bs-light);
+  z-index:-1;
+  border-radius: 10px;
 }
 
 .testimonial-img {
   width:90px;
   object-fit: cover;
   border-radius: 100%;
-  margin:-100% auto 0 auto;
+  margin:0% auto 0 auto;
   display: block;
 
+}
+
+.testimonial-text {
+  padding:25px 0;
+  text-align: center;
+  margin: 0;
+  font-family: "Inter", sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #787878;
 
 }
 
-.owl-carousel .owl-item {
-  overflow: visible;
+.testimonial-user h4 {
+  font-size:1.3rem;
+  font-weight: 600;
+  line-height: 1.2;
+  color:#111;
+  margin: 0px;
+
 }
 
-.owl-stage, .owl-stage-outer {
-  overflow: visible !important;
+.testimonial-user p {
+  font-family: "Inter", sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #787878;
+  margin-top: 5px;
+}
+
+.testimonial-stars {
+  color:var(--bs-primary);
+  font-size:1rem;
+}
+
+.testimonial-quote-left , .testimonial-quote-right {
+  color:var(--bs-primary);
+  background:var(--bs-secondary);
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  top:0px;
 }
 
 
