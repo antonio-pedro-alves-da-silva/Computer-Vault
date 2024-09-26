@@ -548,6 +548,11 @@ body {
     overflow: hidden;
   }
 
+  .blog-carousel .img-container img {
+    width:100%;
+  }
+
+
   .blog-item h4 {
     font-family: "Roboto",sans-serif;
     color:var(--bs-dark);
@@ -935,10 +940,20 @@ body {
   width:90px;
   object-fit: cover;
   border-radius: 100%;
-  margin:-10% auto 0 auto;
+  margin:-100% auto 0 auto;
   display: block;
 
+
 }
+
+.owl-carousel .owl-item {
+  overflow: visible;
+}
+
+.owl-stage, .owl-stage-outer {
+  overflow: visible !important;
+}
+
 
 /******************************** TESTIMONIAL END *****************************************/
 
