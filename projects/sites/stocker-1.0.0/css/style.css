@@ -935,12 +935,16 @@ body {
   margin: 0 auto;
   margin-bottom: 30px;
   overflow: visible;
+  position:relative;
+
 }
+
 
 .testimonial-carousel .item-container {
   width:100%;
   padding:0px 25px 15px 25px;
   user-select: none;
+
 }
 
 
@@ -963,7 +967,6 @@ body {
   border-radius: 100%;
   margin:0% auto 0 auto;
   display: block;
-
 }
 
 .testimonial-text {
@@ -1008,9 +1011,24 @@ body {
   width: 60px;
   height: 60px;
   border-radius: 50%;
-  top:0px;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.5rem;
+  z-index: 10;
 }
 
+.testimonial-quote-left {
+  top:0px;
+  left:25px;
+
+}
+
+.testimonial-quote-right {
+  bottom: -25px;
+  right:25px;
+
+}
 
 /******************************** TESTIMONIAL END *****************************************/
 

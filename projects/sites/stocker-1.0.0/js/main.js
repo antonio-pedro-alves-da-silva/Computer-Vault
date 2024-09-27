@@ -152,12 +152,9 @@ cards.on("click",(e)=>{
     },
   });
 
-  // setting the testimonial-dots 
-  $(".testimonial-dot").map((i,v)=>{
-    $(v).on("click",()=>{
-      testimonialCarousel.trigger("to.owl.carousel",i,0)
-    })
-  })
+  // dynamacally adding the testimonial-dots based on the amount of items on testimonial-carousel
+ 
 
 
 });
+
