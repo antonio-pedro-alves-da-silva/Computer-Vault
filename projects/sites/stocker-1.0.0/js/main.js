@@ -16,7 +16,7 @@ $(window).ready(() => {
   });
 
 // setting owl carousel
-  var blogCarousel = $(".header-carousel").owlCarousel({
+  var headerCarousel = $(".header-carousel").owlCarousel({
     animateOut: 'fadeOut',
     loop: true,
     margin: 0,
@@ -31,20 +31,18 @@ $(window).ready(() => {
   });
 
 //   setting the next and prev btn
-  var owl = $(".header-carousel");
-  owl.owlCarousel();
 
   $(".nextBtn").click(function () {
-    owl.trigger("next.owl.carousel");
+    headerCarousel.trigger("next.owl.carousel");
   });
 
   $(".prevBtn").click(function () {
-    // With optional speed parameter
-    // Parameters has to be in square bracket '[]'
-    owl.trigger("prev.owl.carousel", [300]);
+
+    headerCarousel.trigger("prev.owl.carousel", [300]);
   });
 
 //  back-to-top btn
+
   $(window).on("scroll",()=>{
     if(window.scrollY > 500){
       $(".to-top-btn").removeClass("d-none")
@@ -62,8 +60,7 @@ $(window).ready(() => {
   })
 
 
-
-// active cards
+// activing cards in the offer section
 
 const cards = $(".offer-cards").children();
 const benefits = $(".offer-benefits").children();
@@ -121,19 +118,17 @@ cards.on("click",(e)=>{
   });
 
   //   setting the next and prev btn
-  var owl = $(".blog-carousel");
-  owl.owlCarousel();
 
-  // Go to the next item
-  $('.nav-primary .nextBtn').click(function() {
-    owl.trigger('next.owl.carousel',[1500]);
+
+  $('.blog-nav .nextBtn').click(function() {
+    blogCarousel.trigger('stop.owl.autoplay');
+    blogCarousel.trigger('next.owl.carousel',[1500]);
   })
 
   // Go to the previous item
-  $('.nav-primary .prevBtn').click(function() {
-    // With optional speed parameter
-    // Parameters has to be in square bracket '[]'
-    owl.trigger('prev.owl.carousel', [1500]);
+  $('.blog-nav .prevBtn').click(function() {
+    blogCarousel.trigger('stop.owl.autoplay');
+    blogCarousel.trigger('prev.owl.carousel', [1500]);
   })
 
   // setting testimonial carousel
@@ -152,9 +147,22 @@ cards.on("click",(e)=>{
     },
   });
 
+  testimonialCarousel.owlCarousel();
+
+  $('.testimonial-nav .nextBtn').click(function() {
+    testimonialCarousel.trigger('stop.owl.autoplay');
+    testimonialCarousel.trigger('next.owl.carousel',[1500]);
+  })
+
+  $('.testimonial-nav .prevBtn').click(function() {
+    testimonialCarousel.trigger('stop.owl.autoplay');
+    testimonialCarousel.trigger('prev.owl.carousel', [1500]);
+  })
+
+
   // dynamacally adding the testimonial-dots based on the amount of items on testimonial-carousel
  
-
+  
 
 });
 
