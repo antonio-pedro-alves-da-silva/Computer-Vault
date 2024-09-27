@@ -163,16 +163,58 @@ cards.on("click",(e)=>{
   })
 
 
-  // dynamacally adding the testimonial-dots based on the amount of items on testimonial-carousel
 
-  testimonialDots = $(".testimonial-dots");
+  // selecting the items
+
+  testimonialDot = $(".testimonial-dots");
   items = $(".testimonial-carousel .owl-item:not(.cloned)");
-  
-  dots = items.map((i,v)=>{
-    return `<span class="testimonial-dot dots-primary"></span>`
+
+  // adding the testimonial-dots based on the amount of items on testimonial-carousel
+
+  items.map((i,v)=>{
+    testimonialDot.append(`<span class="testimonial-dot dots-primary"></span>`)
   })
 
-  testimonialDots.html(dots[0]);
+  dots = testimonialDot.children();
+
+  // adding an event to dots
+  dots.map((i,v)=>{
+
+    $(v).on("click",()=>{
+      testimonialCarousel.trigger("to.owl.carousel",i);
+
+      // activating dot
+      for(ii in dots){
+        // activating the dot using the active item 
+        activeItem = $(".testimonial-carousel").find(".owl-item.active");
+    
+        itemsArr = items.toArray();
+        dotsArr = dots.toArray();
+        
+        if(activeItem[0] == itemsArr[ii])
+          $(dotsArr[ii]).addClass("active")
+        else 
+          $(dotsArr[ii]).removeClass("active")
+        
+      }
+    });
+  })
+
+    // activating dot
+    for(ii in dots){
+      // activating the dot using the active item 
+      activeItem = $(".testimonial-carousel").find(".owl-item.active");
+  
+      itemsArr = items.toArray();
+      dotsArr = dots.toArray();
+      
+      if(activeItem[0] == itemsArr[ii])
+        $(dotsArr[ii]).addClass("active")
+      else 
+        $(dotsArr[ii]).removeClass("active")
+      
+    }
 
 });
+
 

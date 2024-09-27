@@ -919,10 +919,18 @@ body {
   cursor:pointer;
 }
 
-.testimonial-dots {
-  gap:18px;
+.dots-primary.active {
+  background:var(--bs-primary);
+  border:8px solid var(--bs-dark);
 
 }
+
+.testimonial-dots {
+  gap:22px;
+
+}
+
+
 
 .dots-primary:hover {
   background: var(--bs-primary);
