@@ -133,7 +133,9 @@ cards.on("click",(e)=>{
 
   // setting testimonial carousel
 
-  var testimonialCarousel = $(".testimonial-carousel").owlCarousel({
+
+
+  testimonialCarousel = $(".testimonial-carousel").owlCarousel({
     loop: true,
     margin: 0,
     nav: false,
@@ -161,8 +163,11 @@ cards.on("click",(e)=>{
 
 
   // dynamacally adding the testimonial-dots based on the amount of items on testimonial-carousel
- 
-  
+
+  testimonialCarousel.on("initialized.owl.carousel",(e)=>{
+    console.log(e);
+
+  })
 
 });
 
