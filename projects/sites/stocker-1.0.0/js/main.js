@@ -168,9 +168,11 @@ cards.on("click",(e)=>{
   testimonialDots = $(".testimonial-dots");
   items = $(".testimonial-carousel .owl-item:not(.cloned)");
   
-  items.map((i,v)=>{
+  dots = items.map((i,v)=>{
     return `<span class="testimonial-dot dots-primary"></span>`
   })
+
+  testimonialDots.html(dots[0]);
 
 });
 
