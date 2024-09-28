@@ -1081,18 +1081,24 @@ body {
 }
 
 .footer-buttons .btn {
-  display:flex;
   text-align: start;
+
 }
 
 
-.footer-buttons .btn small {
-  display:flex;
-  justify-content: center;
+.footer-buttons .button-icon {
+  display:inline-block;
+  background: red;
   align-items: center;
-  height:100%;
+  justify-content: center;
 
 }
+
+.footer-buttons .button-text {
+  display:inline-block;
+}
+
+
 
 /******************************** FOOTER END *****************************************/
 
