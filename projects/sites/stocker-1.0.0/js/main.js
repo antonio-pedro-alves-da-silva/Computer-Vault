@@ -198,22 +198,19 @@ cards.on("click",(e)=>{
 
   // adding an event to dots
   dots.map((i,v)=>{
-
     $(v).on("click",()=>{
       testimonialCarousel.trigger("stop.owl.autoplay");
       testimonialCarousel.trigger("to.owl.carousel",i);
 
       // activating dot
-      // activeDot()
+      activeDot()
     });
+    
   })
 
   testimonialCarousel.on("changed.owl.carousel",()=>{
     activeDot()
   })
-
-
-
 
 
 });

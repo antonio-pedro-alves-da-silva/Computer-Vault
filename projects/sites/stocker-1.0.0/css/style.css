@@ -927,7 +927,7 @@ body {
 }
 
 .testimonial-dots {
-  gap:22px;
+  gap:19.5px;
 
 }
 
@@ -1044,7 +1044,8 @@ body {
 /******************************** FOOTER START *****************************************/
 .footer {
   background:var(--bs-tertiary);
-  padding:4rem 1.5rem;
+  padding:2rem 1.5rem;
+  margin-top:100px;
 
 }
 /******************************** FOOTER END *****************************************/
