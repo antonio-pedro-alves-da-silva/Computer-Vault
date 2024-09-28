@@ -1080,8 +1080,8 @@ body {
   margin-top:50px;
 }
 
-.footer-buttons .btn {
-  text-align: start;
+.footer-buttons .appleBtn {
+
 
 }
 
@@ -1091,11 +1091,13 @@ body {
   background: red;
   align-items: center;
   justify-content: center;
+  height:100%;
 
 }
 
 .footer-buttons .button-text {
   display:inline-block;
+  text-align: start;
 }
 
 
