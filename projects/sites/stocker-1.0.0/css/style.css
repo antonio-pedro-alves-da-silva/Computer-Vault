@@ -9,6 +9,7 @@
     --bs-gray:#787878;
     --bs-light: #f8f8f8;
     --bs-border-radius:10px;
+    --bs-tertiary:#17303b;
 }
 
 body {
@@ -1040,7 +1041,13 @@ body {
 
 /******************************** TESTIMONIAL END *****************************************/
 
+/******************************** FOOTER START *****************************************/
+.footer {
+  background:var(--bs-tertiary);
+  padding:4rem 1.5rem;
 
+}
+/******************************** FOOTER END *****************************************/
 
 
   @keyframes zoom {
