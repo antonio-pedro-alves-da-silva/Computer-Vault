@@ -1060,12 +1060,39 @@ body {
   font-family: "Roboto",sans-serif;
   font-size: calc(1.275rem + 0.3vw);
   font-weight: 500;
-  margin-bottom: .5rem;
+  margin-bottom: 0.75rem;
   color:var(--bs-gray);
 
 }
 
+.footer p {
+  font-family: "Inter", sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #787878;
+  margin-top: 5px;
+  line-height: 2.1;
 
+}
+
+.footer .row {
+  margin-top:50px;
+}
+
+.footer-buttons .btn {
+  display:flex;
+  text-align: start;
+}
+
+
+.footer-buttons .btn small {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  height:100%;
+
+}
 
 /******************************** FOOTER END *****************************************/
 
