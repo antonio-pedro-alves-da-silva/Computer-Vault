@@ -177,30 +177,8 @@ cards.on("click",(e)=>{
 
   dots = testimonialDot.children();
 
-  // adding an event to dots
-  dots.map((i,v)=>{
-
-    $(v).on("click",()=>{
-      testimonialCarousel.trigger("to.owl.carousel",i);
-
-      // activating dot
-      for(ii in dots){
-        // activating the dot using the active item 
-        activeItem = $(".testimonial-carousel").find(".owl-item.active");
-    
-        itemsArr = items.toArray();
-        dotsArr = dots.toArray();
-        
-        if(activeItem[0] == itemsArr[ii])
-          $(dotsArr[ii]).addClass("active")
-        else 
-          $(dotsArr[ii]).removeClass("active")
-        
-      }
-    });
-  })
-
-    // activating dot
+  // function to activate dot
+  function activeDot(){
     for(ii in dots){
       // activating the dot using the active item 
       activeItem = $(".testimonial-carousel").find(".owl-item.active");
@@ -214,6 +192,29 @@ cards.on("click",(e)=>{
         $(dotsArr[ii]).removeClass("active")
       
     }
+  }
+
+  activeDot()
+
+  // adding an event to dots
+  dots.map((i,v)=>{
+
+    $(v).on("click",()=>{
+      testimonialCarousel.trigger("stop.owl.autoplay");
+      testimonialCarousel.trigger("to.owl.carousel",i);
+
+      // activating dot
+      // activeDot()
+    });
+  })
+
+  testimonialCarousel.on("changed.owl.carousel",()=>{
+    activeDot()
+  })
+
+
+
+
 
 });
 
