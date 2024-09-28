@@ -5,11 +5,16 @@
     --bs-dark:#111;
     --bs-black:#000;
     --bs-secondary:#fff;
-    --bs-secondary-rgb:   rgb(255,255,255);
+    --bs-secondary-rgb: 255,255,255;
     --bs-gray:#787878;
+    --bs-gray-rgb:120,120,120;
     --bs-light: #f8f8f8;
     --bs-border-radius:10px;
     --bs-tertiary:#17303b;
+}
+
+a {
+  text-decoration: none;
 }
 
 body {
@@ -873,6 +878,7 @@ body {
   background:var(--bs-dark);
 }
 
+/******************************** TESTIMONIAL START *****************************************/
 
 .testimonial {
   margin-top:100px;
@@ -901,7 +907,7 @@ body {
 
 }
 
-/******************************** TESTIMONIAL START *****************************************/
+
 
 .testimonial-carousel {
   margin-top:45px;
@@ -1042,12 +1048,25 @@ body {
 /******************************** TESTIMONIAL END *****************************************/
 
 /******************************** FOOTER START *****************************************/
+
 .footer {
   background:var(--bs-tertiary);
-  padding:2rem 1.5rem;
+  padding:2.375rem 0.75rem;
   margin-top:100px;
 
 }
+
+.footer h4 {
+  font-family: "Roboto",sans-serif;
+  font-size: calc(1.275rem + 0.3vw);
+  font-weight: 500;
+  margin-bottom: .5rem;
+  color:var(--bs-gray);
+
+}
+
+
+
 /******************************** FOOTER END *****************************************/
 
 
