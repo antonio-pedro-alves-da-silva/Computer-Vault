@@ -14,7 +14,13 @@
 }
 
 a {
-  text-decoration: none;
+  text-decoration: none; /* Removes underline */
+  color: inherit; /* Inherits color from the parent element */
+}
+
+a:hover, a:focus, a:visited {
+  text-decoration: none; /* No underline on hover, focus, or visited */
+  color: inherit; /* Keeps the same color on hover, focus, or visited */
 }
 
 body {
@@ -1080,24 +1086,31 @@ body {
   margin-top:50px;
 }
 
+
 .footer-buttons .appleBtn {
+  display:flex;
+  --width:150px;
+  width:var(--width);
 
-
+  background:var(--bs-primary);
+  color:var(--bs-secondary);
+  line-height:35px;
+  border-radius:10px;
+  padding:.5rem 1rem;
+  
 }
 
-
 .footer-buttons .button-icon {
-  display:inline-block;
   background: red;
+  display: flex;
   align-items: center;
-  justify-content: center;
   height:100%;
 
 }
 
 .footer-buttons .button-text {
-  display:inline-block;
   text-align: start;
+
 }
 
 
