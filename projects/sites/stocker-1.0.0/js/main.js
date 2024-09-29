@@ -140,7 +140,7 @@ cards.on("click",(e)=>{
     margin: 0,
     nav: false,
     dots:false,
-    autoplay: false,
+    autoplay: true,
     smartSpeed: 1500,
     responsive: {
       0: {
@@ -200,20 +200,16 @@ cards.on("click",(e)=>{
     activeDot();
   })
 
-  testimonialCarousel.on("change.owl.carousel",()=>{
-    activeDot();
-  })
-
   $('.testimonial-nav .nextBtn').click(function() {
     testimonialCarousel.trigger('stop.owl.autoplay');
     testimonialCarousel.trigger('next.owl.carousel',[1500]);
-    // activeDot()
+    activeDot()
   })
 
   $('.testimonial-nav .prevBtn').click(function() {
     testimonialCarousel.trigger('stop.owl.autoplay');
     testimonialCarousel.trigger('prev.owl.carousel', [1500]);
-    // activeDot()
+    activeDot()
   })
 
 
