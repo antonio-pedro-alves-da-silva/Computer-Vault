@@ -152,17 +152,6 @@ cards.on("click",(e)=>{
 
   testimonialCarousel.owlCarousel();
 
-  $('.testimonial-nav .nextBtn').click(function() {
-    testimonialCarousel.trigger('stop.owl.autoplay');
-    testimonialCarousel.trigger('next.owl.carousel',[1500]);
-  })
-
-  $('.testimonial-nav .prevBtn').click(function() {
-    testimonialCarousel.trigger('stop.owl.autoplay');
-    testimonialCarousel.trigger('prev.owl.carousel', [1500]);
-  })
-
-
 
   // selecting the items
 
@@ -201,15 +190,30 @@ cards.on("click",(e)=>{
     $(v).on("click",()=>{
       testimonialCarousel.trigger("stop.owl.autoplay");
       testimonialCarousel.trigger("to.owl.carousel",i);
-
-      // activating dot
       activeDot()
+
     });
     
   })
 
   testimonialCarousel.on("changed.owl.carousel",()=>{
-    activeDot()
+    activeDot();
+  })
+
+  testimonialCarousel.on("change.owl.carousel",()=>{
+    activeDot();
+  })
+
+  $('.testimonial-nav .nextBtn').click(function() {
+    testimonialCarousel.trigger('stop.owl.autoplay');
+    testimonialCarousel.trigger('next.owl.carousel',[1500]);
+    // activeDot()
+  })
+
+  $('.testimonial-nav .prevBtn').click(function() {
+    testimonialCarousel.trigger('stop.owl.autoplay');
+    testimonialCarousel.trigger('prev.owl.carousel', [1500]);
+    // activeDot()
   })
 
 
