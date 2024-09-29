@@ -791,11 +791,11 @@ body {
   transition: .5s;
 }
 
-.team-icons {
+.social-icons {
   gap:0px 10px
 }
 
-.team-icons .icon {
+.social-icons .icon {
   width: calc(30px + 1vw);
   height: calc(30px + 1vw);
   display: flex;
@@ -810,6 +810,7 @@ body {
   transition:.5s;
 
 }
+
 
 .team .team-cards {
   flex:1 1 auto;
@@ -880,8 +881,15 @@ body {
   color:var(--bs-secondary);
 }
 
-.team-item:hover .team-icons .icon  {
-  background:var(--bs-dark);
+
+.team-item:hover .social-icons .icon  {
+  color:var(--bs-dark);
+  background:var(--bs-secondary)
+}
+
+.team-item:hover .social-icons .icon:hover  {
+  color:var(--bs-primary);
+  background:var(--bs-dark)
 }
 
 /******************************** TESTIMONIAL START *****************************************/
@@ -943,13 +951,6 @@ body {
 
 }
 
-
-
-.dots-primary:hover {
-  background: var(--bs-primary);
-  border-color: var(--bs-dark);
-
-}
 
 .testimonial-carousel .item {
   width: 88%;
@@ -1141,6 +1142,8 @@ body {
 
 }
 
+
+
 .footer-links h4 {
   font-size: calc(1.275rem + 0.3vw);
   font-family: "Roboto",sans-serif;
@@ -1150,12 +1153,11 @@ body {
 }
 
 .footer-links a {
-  display:inline-block;
+  display:inline-block !important;
   color:var(--bs-gray);
   transition: .5s;
   font-size:1rem;
   font-weight: 400;
-
 }
 
 .footer-links a:not(.first) {
@@ -1166,6 +1168,27 @@ body {
 
 .footer-links a:hover {
   color:var(--bs-primary);
+}
+
+.footer-contact i {
+  color:var(--bs-primary);
+
+}
+
+.footer-contact p {
+  margin:0;
+  margin-left:18px;
+  font-size:1rem;
+  line-height: 35px;
+  color:var(--bs-secondary);
+  font-weight: 400;
+  font-family: "Inter",sans-serif;
+  font-weight:400;
+}
+
+.footer-contact h4 {
+  margin-bottom:1.5rem;
+
 }
 
 
