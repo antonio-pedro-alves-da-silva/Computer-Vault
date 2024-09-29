@@ -1059,7 +1059,7 @@ body {
   background:var(--bs-tertiary);
   padding:2.375rem 0.75rem;
   margin-top:100px;
-
+  overflow-x:auto;
 }
 
 .footer h4 {
@@ -1067,7 +1067,7 @@ body {
   font-size: calc(1.275rem + 0.3vw);
   font-weight: 500;
   margin-bottom: 0.75rem;
-  color:var(--bs-gray);
+  color:var(--bs-secondary);
 
 }
 
@@ -1078,7 +1078,7 @@ body {
   line-height: 1;
   color: #787878;
   margin-top: 5px;
-  line-height: 2.1;
+  line-height: 1.5;
 
 }
 
@@ -1087,40 +1087,86 @@ body {
 }
 
 .footer-buttons {
-  flex:1 1 auto;
+  gap:15px;
+
 }
 
 .footer-buttons .appleBtn {
   display:flex;
-  max-width:200px;
-
+  max-width: 200px;
   background:var(--bs-primary);
   color:var(--bs-secondary);
   line-height:35px;
   border-radius:10px;
-  padding:.5rem 1rem;
+  align-items: center;
+  justify-content: center;
+  min-width: 170px;
+  flex:1 1 auto;
+
+}
+
+.footer-buttons .playstoreBtn {
+  display:flex;
+  background:var(--bs-dark);
+  color:var(--bs-secondary);
+  line-height:35px;
+  border-radius:10px;
+  align-items: center;
+  justify-content: center;
+  flex:0 1 auto;
+  max-width: 200px;
+  padding:0.5rem 1rem;
 
 }
 
 .footer-buttons .button-icon {
-  display: flex;
   align-items: center;
   height:auto;
-  padding:0px 1rem;
-  font-size:1.375rem;
+  font-size:1.2rem;
+  flex:0 1 auto;
+  padding-right:15px;
+
 }
 
 .footer-buttons .button-text {
   text-align: start;
+
 }
 
 .footer-buttons .button-text h6 {
   font-family: "Roboto",sans-serif;
-  font-size:1.275rem;
+  font-size:1.1rem;
+  line-height: 1.2;
+  margin:0;
+
+}
+
+.footer-links h4 {
+  font-size: calc(1.275rem + 0.3vw);
+  font-family: "Roboto",sans-serif;
+  font-weight: 500;
   line-height: 1.2;
 
 }
 
+.footer-links a {
+  display:inline-block;
+  color:var(--bs-gray);
+  transition: .5s;
+  font-size:1rem;
+  font-weight: 400;
+
+}
+
+.footer-links a:not(.first) {
+  display:block;
+  margin-top:1rem;
+
+}
+
+.footer-links a:hover {
+  color:var(--bs-primary);
+}
 
 
 /******************************** FOOTER END *****************************************/
