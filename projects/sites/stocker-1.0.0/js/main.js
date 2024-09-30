@@ -22,6 +22,8 @@ $(window).ready(() => {
     margin: 0,
     nav: false,
     dots:false,
+    autoplay:true,
+    smartSpeed:500,
     responsive: {
       0: {
         items: 1,
