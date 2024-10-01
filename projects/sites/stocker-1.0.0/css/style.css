@@ -1378,6 +1378,7 @@ body {
 }
 
 @media (min-width:500px){
+
   .navbar {
     background:transparent !important;
     position:fixed;
@@ -1391,10 +1392,7 @@ body {
 
   }
 
-  .navbar-nav .nav-link:active {
-    color:var(--bs-secondary);
-
-  }
+  
 
 
 }

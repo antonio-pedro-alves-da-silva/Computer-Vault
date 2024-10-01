@@ -32,6 +32,12 @@ $(window).ready(() => {
     $(e.target).css("box-shadow", `0px 0px 0px 0rem ${btnShadowColor}`);
   });
 
+// dropdown pages
+
+$("#dropdown-toggle-pages").on("mouseenter",()=>{
+  $("#dropdown-toggle-pages").css("")
+})
+
 // setting owl carousel
   var headerCarousel = $(".header-carousel").owlCarousel({
     animateOut: 'fadeOut',
