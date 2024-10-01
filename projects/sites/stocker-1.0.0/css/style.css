@@ -1386,9 +1386,18 @@ body {
     z-index: 10;
   }
 
+  .navbar-nav .nav-link {
+    color:var(--bs-secondary);
+
+  }
+
+  .navbar-nav .nav-link:active {
+    color:var(--bs-secondary);
+
+  }
+
+
 }
-
-
 
 
 /******************************** MEDIA QUERIES END *****************************************/
