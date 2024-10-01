@@ -32,9 +32,7 @@ $(window).ready(() => {
     $(e.target).css("box-shadow", `0px 0px 0px 0rem ${btnShadowColor}`);
   });
 
-// dropdown pages
 
-dropDownPages = $("#")
 
 
 // setting owl carousel
