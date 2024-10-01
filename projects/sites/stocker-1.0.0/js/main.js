@@ -34,23 +34,7 @@ $(window).ready(() => {
 
 // dropdown pages
 
-const dropdownPages = $("#dropdown-pages");
-const togglePages = $("#dropdown-pages .dropdown-toggle");
-const dropDownMenuPages = $("#dropdown-pages + .dropdown-menu");
-
-togglePages.on("mouseenter",()=>{
-  togglePages.addClass("show");
-  togglePages.attr("aria-expanded","true");
-  dropDownMenuPages.addClass("show");
-  
-})
-
-dropdownPages.on("mouseleave",()=>{
-  togglePages.removeClass("show");
-  togglePages.attr("aria-expanded","false");
-  dropDownMenuPages.removeClass("show");
-})
-
+dropDownPages = $("#")
 
 
 // setting owl carousel
@@ -154,8 +138,6 @@ cards.on("click",(e)=>{
   })
 
   // setting testimonial carousel
-
-
 
   testimonialCarousel = $(".testimonial-carousel").owlCarousel({
     loop: true,
