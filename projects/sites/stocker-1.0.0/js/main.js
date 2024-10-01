@@ -17,10 +17,10 @@ $(window).ready(() => {
       resetAnimation: true,     // reset animation on end (default is true)
     }
   );
+
   wow.init();
 
   $("#container-spinner").addClass("d-none");
-
 
   $(".btnShadowAnimation").on("click", (e) => {
     btnShadowColor = $(e.target).attr("shadow-color");
@@ -34,9 +34,24 @@ $(window).ready(() => {
 
 // dropdown pages
 
-$("#dropdown-toggle-pages").on("mouseenter",()=>{
-  $("#dropdown-toggle-pages").css("")
+const dropdownPages = $("#dropdown-pages");
+const togglePages = $("#dropdown-pages .dropdown-toggle");
+const dropDownMenuPages = $("#dropdown-pages + .dropdown-menu");
+
+togglePages.on("mouseenter",()=>{
+  togglePages.addClass("show");
+  togglePages.attr("aria-expanded","true");
+  dropDownMenuPages.addClass("show");
+  
 })
+
+dropdownPages.on("mouseleave",()=>{
+  togglePages.removeClass("show");
+  togglePages.attr("aria-expanded","false");
+  dropDownMenuPages.removeClass("show");
+})
+
+
 
 // setting owl carousel
   var headerCarousel = $(".header-carousel").owlCarousel({

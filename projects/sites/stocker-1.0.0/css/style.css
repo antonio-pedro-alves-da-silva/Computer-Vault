@@ -1258,6 +1258,13 @@ body {
 
   /************ bootstrap changes **************/
 
+  
+  .bg-primary {
+    --bs-bg-opacity: 1;
+    background-color: var(--bs-primary) !important;
+  }
+
+
   .text-primary {
     --bs-text-opacity: 1;
     color: var(--bs-primary);
@@ -1339,13 +1346,12 @@ body {
   border-bottom: 0px solid var(--bs-accordion-border-color);
 }
 
-    /************ bootstrap changes **************/
 
-
-.bg-primary {
-  --bs-bg-opacity: 1;
-  background-color: var(--bs-primary) !important;
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+  color: var(--bs-secondary);
 }
+
+    /************ bootstrap changes end **************/
 
 
 /******************************** MEDIA QUERIES START *****************************************/
@@ -1392,7 +1398,7 @@ body {
 
   }
 
-  
+
 
 
 }
