@@ -1,6 +1,23 @@
 
 
 $(window).ready(() => {
+  
+  var wow = new WOW(
+    {
+      boxClass:     'wow',      // animated element css class (default is wow)
+      animateClass: 'animated', // animation css class (default is animated)
+      offset:       0,          // distance to the element when triggering the animation (default is 0)
+      mobile:       true,       // trigger animations on mobile devices (default is true)
+      live:         true,       // act on asynchronously loaded content (default is true)
+      callback:     function(box) {
+        // the callback is fired every time an animation is started
+        // the argument that is passed in is the DOM node being animated
+      },
+      scrollContainer: null,    // optional scroll container selector, otherwise use window,
+      resetAnimation: true,     // reset animation on end (default is true)
+    }
+  );
+  wow.init();
 
   $("#container-spinner").addClass("d-none");
 
@@ -42,24 +59,6 @@ $(window).ready(() => {
 
     headerCarousel.trigger("prev.owl.carousel", [300]);
   });
-
-//  back-to-top btn
-
-  $(window).on("scroll",()=>{
-    if(window.scrollY > 500){
-      $(".to-top-btn").removeClass("d-none")
-    } else {
-      $(".to-top-btn").addClass("d-none")
-
-    }
-  })
-
-  $(".back-to-top").on("click",()=>{
-    window.scroll({
-      top:0,
-      behavior:"smooth"
-    })
-  })
 
 
 // activing cards in the offer section
@@ -214,6 +213,23 @@ cards.on("click",(e)=>{
     activeDot()
   })
 
+//  back-to-top btn
+
+$(window).on("scroll",()=>{
+  if(window.scrollY > 500){
+    $(".to-top-btn").removeClass("d-none")
+  } else {
+    $(".to-top-btn").addClass("d-none")
+
+  }
+})
+
+$(".back-to-top").on("click",()=>{
+  window.scroll({
+    top:0,
+    behavior:"smooth"
+  })
+})
 
 });
 

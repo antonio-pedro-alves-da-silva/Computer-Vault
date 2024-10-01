@@ -86,17 +86,20 @@
 .owl-carousel.owl-loaded {
   display: block;
 }
+
 .owl-carousel.owl-loading {
   opacity: 0;
   display: block;
 }
+
 .owl-carousel.owl-hidden {
   opacity: 0;
 }
+
 .owl-carousel.owl-refresh .owl-item {
   visibility: hidden;
-  overflow: visible;
 }
+
 .owl-carousel.owl-drag .owl-item {
   -ms-touch-action: pan-y;
   touch-action: pan-y;
