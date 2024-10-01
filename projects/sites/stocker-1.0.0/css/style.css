@@ -1386,9 +1386,6 @@ body {
     z-index: 10;
   }
 
-  .navbar .navbar-nav {
-    align-self: flex-end;
-  }
 }
 
 
