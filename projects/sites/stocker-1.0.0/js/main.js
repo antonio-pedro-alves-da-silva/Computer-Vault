@@ -32,31 +32,6 @@ $(window).ready(() => {
     $(e.target).css("box-shadow", `0px 0px 0px 0rem ${btnShadowColor}`);
   });
 
-// dropdown pages
-
-const dropdownPages = $("#dropdown-pages");
-const togglePages = $("#dropdown-pages .dropdown-toggle");
-const dropdownMenuPages = $("#dropdown-pages .dropdown-menu")
-
-setTimeout(()=>{
-
-   
-  console.log(window.innerWidth);
-  
-    dropdownPages.on("mouseenter",()=>{
-      togglePages.toggleClass("show");
-      dropdownMenuPages.toggleClass("show");
-    })
-    
-    dropdownPages.on("mouseleave",()=>{
-      togglePages.toggleClass("show");
-      dropdownMenuPages.toggleClass("show");
-    })
-
-},1)
-
-
-
 
 
 // setting owl carousel
@@ -255,6 +230,26 @@ $(".back-to-top").on("click",()=>{
     behavior:"smooth"
   })
 })
+
+// dropdown pages
+
+const dropdownPages = $("#dropdown-pages");
+const togglePages = $("#dropdown-pages .dropdown-toggle");
+const dropdownMenuPages = $("#dropdown-pages .dropdown-menu")
+
+  setTimeout(()=>{
+
+      dropdownPages.on("mouseenter",()=>{
+        togglePages.toggleClass("show");
+        dropdownMenuPages.toggleClass("show");
+      })
+
+      dropdownPages.on("mouseleave",()=>{
+        togglePages.toggleClass("show");
+        dropdownMenuPages.toggleClass("show");
+      })
+
+  },1)
 
 });
 

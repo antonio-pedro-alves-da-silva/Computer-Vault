@@ -1405,6 +1405,8 @@ body {
 
 }
 
+
+
     /************ bootstrap changes end **************/
 
 
@@ -1414,7 +1416,7 @@ body {
 
 @media (min-width:768px) {
   .header-item {
-    padding-right: 5%;
+    padding-right: 10%;
   }
 
   .header-item .owl-nav {
@@ -1435,6 +1437,13 @@ body {
     max-width:650px;
   }
 
+}
+
+@media (min-width:992px){
+  .header-carousel .item {
+    max-height: 740px;
+  
+  }
 }
 
 @media (min-width:500px){
