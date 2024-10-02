@@ -38,15 +38,25 @@ const dropdownPages = $("#dropdown-pages");
 const togglePages = $("#dropdown-pages .dropdown-toggle");
 const dropdownMenuPages = $("#dropdown-pages .dropdown-menu")
 
-dropdownPages.on("mouseenter",()=>{
-  togglePages.toggleClass("show");
-  dropdownMenuPages.toggleClass("show");
-})
+setTimeout(()=>{
 
-dropdownPages.on("mouseleave",()=>{
-  togglePages.toggleClass("show");
-  dropdownMenuPages.toggleClass("show");
-})
+   
+  console.log(window.innerWidth);
+  
+    dropdownPages.on("mouseenter",()=>{
+      togglePages.toggleClass("show");
+      dropdownMenuPages.toggleClass("show");
+    })
+    
+    dropdownPages.on("mouseleave",()=>{
+      togglePages.toggleClass("show");
+      dropdownMenuPages.toggleClass("show");
+    })
+
+},1)
+
+
+
 
 
 // setting owl carousel
