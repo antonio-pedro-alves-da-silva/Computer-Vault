@@ -32,7 +32,21 @@ $(window).ready(() => {
     $(e.target).css("box-shadow", `0px 0px 0px 0rem ${btnShadowColor}`);
   });
 
+// dropdown pages
 
+const dropdownPages = $("#dropdown-pages");
+const togglePages = $("#dropdown-pages .dropdown-toggle");
+const dropdownMenuPages = $("#dropdown-pages .dropdown-menu")
+
+dropdownPages.on("mouseenter",()=>{
+  togglePages.toggleClass("show");
+  dropdownMenuPages.toggleClass("show");
+})
+
+dropdownPages.on("mouseleave",()=>{
+  togglePages.toggleClass("show");
+  dropdownMenuPages.toggleClass("show");
+})
 
 
 // setting owl carousel
