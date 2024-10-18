@@ -1,1 +1,0 @@
-FC Slovan Liberec x SK Sigma Olomouc - menos de 6.5 - 
