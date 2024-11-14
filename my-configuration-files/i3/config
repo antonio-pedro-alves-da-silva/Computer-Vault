@@ -49,7 +49,7 @@ bindsym $mod+shift+k exec xdotool getactivewindow windowkill
 bindsym $mod+l exec --no-startup-id dmenu_run
 bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -b 'Yes, exit i3' 'i3-msg exit'"
 bindsym Num_Lock exec ls && --no-startup-id pkill -RTMIN+11 i3blocks
-
+bindcode 76 exec xmodmap ~/Computer-Vault/my-configuration-files/xmodmap/.Xmodmap
 
 bindsym $mod+h split h
 bindsym $mod+v split v
@@ -69,15 +69,14 @@ bindsym $mod+$Alt+f exec google-chrome
 bindsym $mod+$Alt+o exec obsidian
 bindsym $mod+$Alt+v exec pavucontrol                                                                                                           
 bindsym $mod+$Alt+a exec auto-cpufreq-gtk
-bindsym $mod+$Alt+n exec pcmanfm-qt
+bindsym $mod+$Alt+n exec nautilus
 
-    # making window floating when they open 
-for_window [class="Pavucontrol"] floating enable
-for_window [class="XVkbd"] floating enable
-for_window [class="pcmanfm-qt"] floating enable
+    # making window floating when they open
+# use xprop and the cursor to get the window class name
 
-# making the window floating sticky
-for_window [class="XVkbd"]sticky enable
+for_window [class="Pavucontrol"] focus; floating enable; border none
+for_window [class="XVkbd"] focus; floating enable; border none
+for_window [class="Org.gnome.Nautilus"] focus; floating enable; border none
 
 
 focus_follows_mouse yes
@@ -94,7 +93,8 @@ mode "execute" {
         bindsym o exec obsidian
         bindsym v exec pavucontrol
         bindsym a exec auto-cpufreq-gtk
-        bindsym n exec pcmanfm-qt
+        bindsym n exec nautilus
+        bindsym u exec ulauncher
         # back to normal: Escape
         bindcode 68 mode "default"
         bindsym Escape mode "default"
@@ -129,6 +129,29 @@ mode "brightness" {
 
 bindcode 70 mode brightness
 
+mode "resize" {
+
+        # Breakpoint
+        # sm (640px)	max-width: 640px;
+        # md (768px)	max-width: 768px;
+        # lg (1024px)	max-width: 1024px;
+        # xl (1280px)	max-width: 1280px;
+        # 2xl (1536px)	max-width: 1536px;
+
+        bindsym t exec i3-msg resize set 683 px
+
+        # same bindings, but for the arrow rkeys
+        bindsym Left resize shrink width 4 px or 4 ppt
+        bindsym Right resize grow width 4 px or 4 ppt
+        bindsym i resize grow height 4 px or 4 ppt
+        bindsym o resize shrink height 4 px or 4 ppt
+
+        # back to normal: Enter or Escape
+        bindsym Return mode "default"
+        bindsym Escape mode "default"
+}
+
+bindsym $mod+r mode "resize"
 
 # A more modern dmenu replacement is rofi:
 # bindcode $mod+40 exec "rofi -modi drun,run -show drun"
