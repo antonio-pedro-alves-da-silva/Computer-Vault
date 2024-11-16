@@ -36,7 +36,7 @@ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/.oh-my-zsh/th
 git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
 cd ~/.fzf/
 ./install
-k
+
 # instalaçao do i3
 
 sudo apt-fast install feh -y
@@ -55,8 +55,17 @@ sudo apt-fast install i3blocks -y
 sudo apt-fast install gparted -y
 sudo apt-fast install ffmpeg -y
 sudo apt-fast install pavucontrol -y
+sudo apt-fast install pulseaudio -y
 sudo apt-fast install nautilus -y
 sudo snap install code --classic
+	# installing mysql
+# download mysql-apt-config and run dpkg
+sudo apt-get update
 
-download apache
+sudo apt-fast install mysql-server -y
+sudo sudo mysql_secure_installation
+
+sudo apt-get update
+sudo apt-fast install mysql-workbench-community -y
+
 

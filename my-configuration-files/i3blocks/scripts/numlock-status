@@ -1,0 +1,1 @@
+echo $(xset q | grep -o "Num Lock:\s*\(off\|on\)")
