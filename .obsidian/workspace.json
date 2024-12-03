@@ -79,8 +79,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "clock",
+              "title": "Recent Files"
             }
           },
           {
@@ -94,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -190,6 +190,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -199,7 +200,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "9c98c83896c3a3e8",
+  "active": "82f67d4a1a37a20a",
   "lastOpenFiles": [
     "notes/8!*%Fk.md",
     "MATÉRIAS/FULL-STACK DEVELOPER.md",
