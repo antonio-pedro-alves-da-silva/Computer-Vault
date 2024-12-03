@@ -58,6 +58,8 @@ sudo apt-fast install pavucontrol -y
 sudo apt-fast install pulseaudio -y
 sudo apt-fast install nautilus -y
 sudo snap install code --classic
+sudo npm install -g nodemon
+
 	# installing mysql
 # download mysql-apt-config and run dpkg
 sudo apt-get update

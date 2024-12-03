@@ -79,12 +79,22 @@
             "state": {
               "type": "recent-files",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "9c98c83896c3a3e8",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
               "icon": "clock",
               "title": "Recent Files"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -186,11 +196,10 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-importer:Open Importer": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "82f67d4a1a37a20a",
+  "active": "9c98c83896c3a3e8",
   "lastOpenFiles": [
     "notes/8!*%Fk.md",
     "MATÉRIAS/FULL-STACK DEVELOPER.md",
