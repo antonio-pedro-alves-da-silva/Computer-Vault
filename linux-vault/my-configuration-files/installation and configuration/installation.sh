@@ -8,8 +8,6 @@ xclip -sel clip < ~/.ssh/id_ed25519.pub
 
 
 sudo apt update
-sudo add-apt-repository ppa:apt-fast/stable
-sudo apt install apt-fast -y
 sudo apt-get install xvkbd -y
 
 git clone --depth=1 https://github.com/AdnanHodzic/auto-cpufreq.git
