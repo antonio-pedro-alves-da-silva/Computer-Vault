@@ -1,1 +1,9 @@
-{}
+{
+  "strictLineBreaks": false,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "notes",
+  "attachmentFolderPath": "/",
+  "newLinkFormat": "shortest"
+}
