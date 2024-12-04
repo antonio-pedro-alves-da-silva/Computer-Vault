@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.51103591918945,
-    "collapsed": true
+    "width": 323.51103591918945
   },
   "right": {
     "id": "ee4e8bcf9413ed0e",
@@ -195,7 +194,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "64654f78887b9a6a",
+  "active": "7d2ff1388fc577af",
   "lastOpenFiles": [
     "images/cf5c9c4bae9e811fd33cdcc49fc06a464d47f4d8.svg",
     "images/Pasted image 20240702212245.png",

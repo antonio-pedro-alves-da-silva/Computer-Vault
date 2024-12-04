@@ -24,8 +24,8 @@ dirhistory  - add shorthands to move through directories like alt+Left arrow
 ```bash
 ' configuração do i3 '
 git clone --depth=1 https://github.com/antonio-pedro-alves-da-silva/Computer-Vault
-cp ~/Computer-Vault/my-configuration-files/i3/config ~/.config/i3/
-cp ~/Computer-Vault/my-configuration-files/i3/i3blocks.conf /etc/
+cp ~/Computer-Vault/linux-vault/my-configuration-files/i3/config ~/.config/i3/
+cp ~/Computer-Vault/linux-vault/my-configuration-files/i3/i3blocks.conf /etc/
 
 ```
 

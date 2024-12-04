@@ -33,12 +33,12 @@ exec --no-startup-id dex --autostart --environment i3
 
 
     #session configurations
-exec --no-startup-id xmodmap ~/Computer-Vault/my-configuration-files/xmodmap/.Xmodmap
+exec --no-startup-id xmodmap ~/Computer-Vault/linux-vault/my-configuration-files/xmodmap/.Xmodmap
 exec setxkbmap -model abnt2 -layout br
 exec --no-startup-id $(which lxqt-powermanagement)
-exec feh --bg-fill ~/Computer-Vault/my-configuration-files/wallpaper/black.png
+exec feh --bg-fill ~/Computer-Vault/linux-vault/my-configuration-files/wallpaper/black.png
 exec xinput set-prop $(xinput list | grep "Touchpad" | grep -o 'id=[0-9]*' | grep -o '[0-9]*') "libinput Tapping Enabled" 1
-#exec --no-startup-id lxqt-policykit-agent
+exec --no-startup-id lxqt-policykit-agent
 exec --no-startup-id nm-applet
 
     #special commands
@@ -49,32 +49,24 @@ bindsym $mod+shift+k exec xdotool getactivewindow windowkill
 bindsym $mod+l exec --no-startup-id dmenu_run
 bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -b 'Yes, exit i3' 'i3-msg exit'"
 bindsym Num_Lock exec ls && --no-startup-id pkill -RTMIN+11 i3blocks
-bindcode 76 exec xmodmap ~/Computer-Vault/my-configuration-files/xmodmap/.Xmodmap
+bindsym $mod+b bar mode toggle
+bindcode 76 exec xmodmap ~/Computer-Vault/linux-vault/my-configuration-files/xmodmap/.Xmodmap
+
 
 bindsym $mod+h split h
 bindsym $mod+v split v
-bindsym $mod+f fullscreen toggle
+bindsym $mod+f fullscreen toggle ; bar mode toggle
 bindsym $mod+s layout stacking
 bindsym $mod+w layout tabbed
 bindsym $mod+e layout toggle split
 bindsym $mod+Shift+t floating toggle
 bindsym $mod+Shift+s sticky toggle
 
-    #command to open applications,open application
-bindsym $mod+Return exec tilix
-bindsym $mod+$Alt+p exec flameshot gui
-bindsym $mod+$Alt+c exec code
-bindsym $mod+$Alt+x exec xvkbd 
-bindsym $mod+$Alt+f exec google-chrome
-bindsym $mod+$Alt+o exec obsidian
-bindsym $mod+$Alt+v exec pavucontrol                                                                                                           
-bindsym $mod+$Alt+a exec auto-cpufreq-gtk
-bindsym $mod+$Alt+n exec nautilus
 
     # making window floating when they open
 # use xprop and the cursor to get the window class name
 
-for_window [class="Pavucontrol"] focus; floating enable; border none
+for_window [class="pavucontrol"] focus; floating enable; border none
 for_window [class="XVkbd"] focus; floating enable; border none
 for_window [class="Org.gnome.Nautilus"] focus; floating enable; border none
 
@@ -87,14 +79,17 @@ floating_modifier $mod
 mode "execute" {
         bindsym Return exec tilix
         bindsym p exec flameshot gui
-        bindsym c exec code
+        bindsym c exec flatpak run com.visualstudio.code
+        bindsym d exec flatpak run io.dbeaver.DBeaverCommunity
         bindsym x exec xvkbd 
         bindsym g exec google-chrome
         bindsym o exec obsidian
         bindsym v exec pavucontrol
         bindsym a exec auto-cpufreq-gtk
         bindsym n exec nautilus
-        bindsym u exec ulauncher
+        bindsym u exec lxqt-runner
+        bindsym j exec xdotool key ctrl+v
+        bindsym b exec lxqt-config-brightness
         # back to normal: Escape
         bindcode 68 mode "default"
         bindsym Escape mode "default"
@@ -103,8 +98,8 @@ mode "execute" {
 bindcode 68 mode execute
 
 mode "resolution" {
-    bindsym 1 exec bash "$HOME/Computer-Vault/my-configuration-files/system-scripts/diminuir-resoluçao.sh"
-    bindsym 2 exec bash "$HOME/Computer-Vault/my-configuration-files/system-scripts/aumentar-resoluçao.sh"
+    bindsym 1 exec bash "$HOME/Computer-Vault/linux-vault/my-configuration-files/system-scripts/diminuir-resoluçao.sh"
+    bindsym 2 exec bash "$HOME/Computer-Vault/linux-vault/my-configuration-files/system-scripts/aumentar-resoluçao.sh"
     # back to normal: Escape
     bindcode 69 mode "default"
     bindsym Escape mode "default"
@@ -231,4 +226,6 @@ bar {
 status_command i3blocks
 
 }
- 
+
+
+
