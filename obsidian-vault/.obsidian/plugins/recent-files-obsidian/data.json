@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "note-739",
+      "path": "notes/note-739.md"
+    },
+    {
+      "basename": "TRADING",
+      "path": "SUBJECTS/TRADING.md"
+    },
+    {
+      "basename": "FULL-STACK DEVELOPER",
+      "path": "SUBJECTS/FULL-STACK DEVELOPER.md"
+    },
+    {
+      "basename": "Quantitative Finance with Python",
+      "path": "SUBJECTS/Quantitative Finance with Python.md"
+    },
+    {
       "basename": "cf5c9c4bae9e811fd33cdcc49fc06a464d47f4d8",
       "path": "images/cf5c9c4bae9e811fd33cdcc49fc06a464d47f4d8.svg"
     },
@@ -15,26 +31,6 @@
     {
       "basename": "Pasted image 20240702212341",
       "path": "images/Pasted image 20240702212341.png"
-    },
-    {
-      "basename": "Quantitative Finance with Python",
-      "path": "MATÉRIAS/Quantitative Finance with Python.md"
-    },
-    {
-      "basename": "TRADING",
-      "path": "MATÉRIAS/TRADING.md"
-    },
-    {
-      "basename": "FULL-STACK DEVELOPER",
-      "path": "MATÉRIAS/FULL-STACK DEVELOPER.md"
-    },
-    {
-      "basename": "EEAR",
-      "path": "MATÉRIAS/EEAR.md"
-    },
-    {
-      "basename": "questões erradas de português",
-      "path": "notes/GRAMÁTICA/questões erradas de português.md"
     },
     {
       "basename": "note-640",
@@ -57,14 +53,6 @@
       "path": "notes/note-621.md"
     },
     {
-      "basename": "7 erros com pronomes pessoais",
-      "path": "notes/GRAMÁTICA/pronome/7 erros com pronomes pessoais.md"
-    },
-    {
-      "basename": "regência nominal",
-      "path": "notes/GRAMÁTICA/regência nominal.md"
-    },
-    {
       "basename": "note-620",
       "path": "notes/note-620.md"
     },
@@ -77,24 +65,12 @@
       "path": "notes/note-609.md"
     },
     {
-      "basename": "regras do acento gráfico",
-      "path": "notes/GRAMÁTICA/regras do acento gráfico.md"
-    },
-    {
-      "basename": "diferença entre adjunto adnominal e complemento nominal",
-      "path": "notes/GRAMÁTICA/diferença entre adjunto adnominal e complemento nominal.md"
-    },
-    {
       "basename": "note-383",
       "path": "notes/note-383.md"
     },
     {
       "basename": "note-107",
       "path": "notes/note-107.md"
-    },
-    {
-      "basename": "quando usar o x ou ch",
-      "path": "notes/GRAMÁTICA/quando usar o x ou ch.md"
     },
     {
       "basename": "note-172",
@@ -145,10 +121,6 @@
       "path": "notes/note-405.md"
     },
     {
-      "basename": "QUESTÕES ERRADAS DE MATEMÁTICA",
-      "path": "notes/MATEMÁTICA/QUESTÕES ERRADAS DE MATEMÁTICA.md"
-    },
-    {
       "basename": "note-702",
       "path": "notes/note-702.md"
     },
@@ -165,14 +137,6 @@
       "path": "notes/note-688.md"
     },
     {
-      "basename": "GEOMETRIA ESPACIAL",
-      "path": "notes/MATEMÁTICA/GEOMETRIA ESPACIAL/GEOMETRIA ESPACIAL.md"
-    },
-    {
-      "basename": "Polígonos",
-      "path": "notes/MATEMÁTICA/GEOMETRIA PLANA/Polígonos.md"
-    },
-    {
       "basename": "note-684",
       "path": "notes/note-684.md"
     },
@@ -187,14 +151,6 @@
     {
       "basename": "note-664",
       "path": "notes/note-664.md"
-    },
-    {
-      "basename": "note-650",
-      "path": "notes/note-650.md"
-    },
-    {
-      "basename": "note-646",
-      "path": "notes/note-646.md"
     }
   ],
   "omittedPaths": [],

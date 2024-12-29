@@ -1,3 +1,0 @@
-
-# omissão de um prefixo ou sufixo e a palavra não existe
-desigualdade é formada por derivação prefixal e sufixal, pois resulta do acréscimo do prefixo des + o sufixo dade. Não pode ser considerado nessa palavra o processo da parassíntese, pois este ocorre quando a palavra derivada resulta do acréscimo simultâneo de prefixo e sufixo. Nesse caso, quando se omite o prefixo ou sufixo, a palavra não existe na língua portuguesa, o que não ocorre em desigualdade, (desigual/igualdade) mas não ocorre em Apodrecer (apodre/podrecer) que é parrasintética

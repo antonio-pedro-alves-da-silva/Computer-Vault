@@ -1,3 +1,0 @@
-developement
-princess
-modern family

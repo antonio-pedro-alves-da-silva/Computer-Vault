@@ -35,10 +35,8 @@ exec --no-startup-id dex --autostart --environment i3
     #session configurations
 exec --no-startup-id xmodmap ~/Computer-Vault/linux-vault/my-configuration-files/xmodmap/.Xmodmap
 exec setxkbmap -model abnt2 -layout br
-exec --no-startup-id $(which lxqt-powermanagement)
 exec feh --bg-fill ~/Computer-Vault/linux-vault/my-configuration-files/wallpaper/black.png
 exec xinput set-prop $(xinput list | grep "Touchpad" | grep -o 'id=[0-9]*' | grep -o '[0-9]*') "libinput Tapping Enabled" 1
-exec --no-startup-id lxqt-policykit-agent
 exec --no-startup-id nm-applet
 
     #special commands
@@ -66,9 +64,11 @@ bindsym $mod+Shift+s sticky toggle
     # making window floating when they open
 # use xprop and the cursor to get the window class name
 
-for_window [class="pavucontrol"] focus; floating enable; border none
-for_window [class="XVkbd"] focus; floating enable; border none
-for_window [class="Org.gnome.Nautilus"] focus; floating enable; border none
+for_window [class="Pavucontrol"] focus; floating enable ;resize set 500 500, move position center; border none;
+for_window [class="XVkbd"] focus; floating enable; border none;
+for_window [class="org.gnome.Nautilus"] focus; floating enable; border none; resize set 600 500, move position center;
+for_window [class="Xfce4-appfinder"] focus; floating enable ;resize set 500 500, move position center; border none;
+for_window [class="qterminal"] focus; floating enable; border none; resize set 600 600, move position center;
 
 
 focus_follows_mouse yes
@@ -79,17 +79,16 @@ floating_modifier $mod
 mode "execute" {
         bindsym Return exec tilix
         bindsym p exec flameshot gui
-        bindsym c exec flatpak run com.visualstudio.code
-        bindsym d exec flatpak run io.dbeaver.DBeaverCommunity
+        bindsym c exec code
+        bindsym d exec dbeaver
         bindsym x exec xvkbd 
         bindsym g exec google-chrome
         bindsym o exec obsidian
         bindsym v exec pavucontrol
         bindsym a exec auto-cpufreq-gtk
         bindsym n exec nautilus
-        bindsym u exec lxqt-runner
-        bindsym j exec xdotool key ctrl+v
-        bindsym b exec lxqt-config-brightness
+        bindsym u exec xfce4-appfinder
+        bindsym r exec qterminal -e micro ~/Downloads/randomFile.txt
         # back to normal: Escape
         bindcode 68 mode "default"
         bindsym Escape mode "default"
@@ -97,32 +96,33 @@ mode "execute" {
 
 bindcode 68 mode execute
 
-mode "resolution" {
-    bindsym 1 exec bash "$HOME/Computer-Vault/linux-vault/my-configuration-files/system-scripts/diminuir-resoluçao.sh"
-    bindsym 2 exec bash "$HOME/Computer-Vault/linux-vault/my-configuration-files/system-scripts/aumentar-resoluçao.sh"
+mode "brightness" {
+    
+    bindsym 1 exec xrandr --output eDP-1 --brightness 0.20;exec brightnessctl set 25%;
+    bindcode 88 exec xrandr --output eDP-1 --brightness 0.30;exec brightnessctl set 35%;
+    bindcode 89 exec xrandr --output eDP-1 --brightness 0.40;exec brightnessctl set 45%
+    bindcode 83 exec xrandr --output eDP-1 --brightness 0.50;exec brightnessctl set 45%;
+    bindcode 84 exec xrandr --output eDP-1 --brightness 0.60;exec brightnessctl set 55%
+    bindcode 85 exec xrandr --output eDP-1 --brightness 0.70;exec brightnessctl set 65%
+    bindcode 79 exec xrandr --output eDP-1 --brightness 0.80;exec brightnessctl set 75%
+    bindcode 80 exec xrandr --output eDP-1 --brightness 0.90;exec brightnessctl set 85%
+    bindcode 81 exec xrandr --output eDP-1 --brightness 0.95;exec brightnessctl set 95%
     # back to normal: Escape
     bindcode 69 mode "default"
     bindsym Escape mode "default"
 }
 
-bindcode 69 mode resolution
+bindcode 69 mode brightness
 
-mode "brightness" {
-    bindsym 1 exec xrandr --output eDP-1 --brightness 0.1
-    bindcode 88 exec xrandr --output eDP-1 --brightness 0.2
-    bindcode 89 exec xrandr --output eDP-1 --brightness 0.3
-    bindcode 83 exec xrandr --output eDP-1 --brightness 0.4
-    bindcode 84 exec xrandr --output eDP-1 --brightness 0.5
-    bindcode 85 exec xrandr --output eDP-1 --brightness 0.6
-    bindcode 79 exec xrandr --output eDP-1 --brightness 0.7
-    bindcode 80 exec xrandr --output eDP-1 --brightness 0.8
-    bindcode 81 exec xrandr --output eDP-1 --brightness 0.9
-    # back to normal: Escape
+mode "printscreen" {
+	bindcode 10 exec import -window root ~/Pictures/MyBets.png;exec notify-send "Import info" "Capture image MyBets.png";
+	bindcode 11 exec import -window root ~/Pictures/WhereIStop.png;exec notify-send "Import inf1o" "Capture image WhereIStop.png";
+	bindsym f exec flameshot gui
     bindcode 70 mode "default"
     bindsym Escape mode "default"
 }
 
-bindcode 70 mode brightness
+bindcode 70 mode printscreen
 
 mode "resize" {
 
@@ -147,6 +147,8 @@ mode "resize" {
 }
 
 bindsym $mod+r mode "resize"
+
+
 
 # A more modern dmenu replacement is rofi:
 # bindcode $mod+40 exec "rofi -modi drun,run -show drun"

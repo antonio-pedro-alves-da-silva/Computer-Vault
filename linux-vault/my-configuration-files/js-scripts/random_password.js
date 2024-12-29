@@ -21,5 +21,5 @@ function generateRandomPassword(length) {
 }
 
 // Example usage: Generate a random password of length 16
-const randomPassword = generateRandomPassword(16);
+const randomPassword = generateRandomPassword(32);
 console.log(randomPassword);
