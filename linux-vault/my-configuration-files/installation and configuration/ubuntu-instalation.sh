@@ -43,22 +43,15 @@ sudo apt install i3 -y
 sudo apt install i3status -y
 sudo apt install blueman -y
 sudo apt install tilix -y
-sudo apt install brightnessctl-y
+sudo apt install brightnessctl -y
 sudo apt install i3blocks -y
 sudo apt install pavucontrol -y
 sudo apt install pulseaudio -y
 sudo apt install at -y
-sudo snap install --beta nvim --classic
-sudo snap install micro --classic
-
-# other packages 
-
+sudo apt install micro -y
 sudo apt install gparted -y
 sudo apt install ffmpeg -y
-sudo apt install nautilus -y
-sudo apt preload -y
-sudo npm install -g nodemon
-sudo snap install node --classic
+sudo apt install preload -y
 
 	# installing mysql
 # download mysql-apt-config and run dpkg
