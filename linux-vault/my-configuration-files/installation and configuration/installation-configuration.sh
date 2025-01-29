@@ -1,3 +1,4 @@
+git clone --depth=1 https://github.com/antonio-pedro-alves-da-silva/Computer-Vault
 sed -i 's/plugins=(git)/plugins=(git zsh-syntax-highlighting zsh-autosuggestions sudo copypath dirhistory)/' ~/.zshrc
 source ~/.zshrc
 
