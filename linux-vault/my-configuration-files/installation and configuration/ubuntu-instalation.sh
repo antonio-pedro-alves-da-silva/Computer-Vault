@@ -58,9 +58,7 @@ sudo apt install preload -y
 sudo apt update
 
 sudo apt install mysql-server -y
-sudo sudo mysql_secure_installation
+sudo mysql_secure_installation
 
-sudo apt update
-sudo apt install mysql-workbench-community -y
 
 
