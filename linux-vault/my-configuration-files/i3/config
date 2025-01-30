@@ -66,7 +66,7 @@ bindsym $mod+Shift+s sticky toggle
 
 for_window [class="Pavucontrol"] focus; floating enable ;resize set 500 500, move position center; border none;
 for_window [class="XVkbd"] focus; floating enable; border none;
-for_window [class="org.gnome.Nautilus"] focus; floating enable; border none; resize set 600 500, move position center;
+for_window [class="Thunar"] focus; floating enable; border none; resize set 600 500, move position center;
 for_window [class="Xfce4-appfinder"] focus; floating enable ;resize set 500 500, move position center; border none;
 for_window [class="qterminal"] focus; floating enable; border none; resize set 600 600, move position center;
 
@@ -81,14 +81,15 @@ mode "execute" {
         bindsym p exec flameshot gui
         bindsym c exec code
         bindsym d exec dbeaver
-        bindsym x exec xvkbd 
-        bindsym g exec google-chrome
+        bindsym x exec xvkbd
+        bindsym g exec firefox
         bindsym o exec obsidian
         bindsym v exec pavucontrol
         bindsym a exec auto-cpufreq-gtk
-        bindsym n exec nautilus
+        bindsym f exec thunar
         bindsym u exec xfce4-appfinder
         bindsym r exec qterminal -e micro ~/Downloads/randomFile.txt
+        bindsym b exec lxqt-config-brightness
         # back to normal: Escape
         bindcode 68 mode "default"
         bindsym Escape mode "default"
@@ -113,41 +114,6 @@ mode "brightness" {
 }
 
 bindcode 69 mode brightness
-
-mode "printscreen" {
-	bindcode 10 exec import -window root ~/Pictures/MyBets.png;exec notify-send "Import info" "Capture image MyBets.png";
-	bindcode 11 exec import -window root ~/Pictures/WhereIStop.png;exec notify-send "Import inf1o" "Capture image WhereIStop.png";
-	bindsym f exec flameshot gui
-    bindcode 70 mode "default"
-    bindsym Escape mode "default"
-}
-
-bindcode 70 mode printscreen
-
-mode "resize" {
-
-        # Breakpoint
-        # sm (640px)	max-width: 640px;
-        # md (768px)	max-width: 768px;
-        # lg (1024px)	max-width: 1024px;
-        # xl (1280px)	max-width: 1280px;
-        # 2xl (1536px)	max-width: 1536px;
-
-        bindsym t exec i3-msg resize set 683 px
-
-        # same bindings, but for the arrow rkeys
-        bindsym Left resize shrink width 4 px or 4 ppt
-        bindsym Right resize grow width 4 px or 4 ppt
-        bindsym i resize grow height 4 px or 4 ppt
-        bindsym o resize shrink height 4 px or 4 ppt
-
-        # back to normal: Enter or Escape
-        bindsym Return mode "default"
-        bindsym Escape mode "default"
-}
-
-bindsym $mod+r mode "resize"
-
 
 
 # A more modern dmenu replacement is rofi:
