@@ -1,18 +1,6 @@
 
-
 sudo apt update
 sudo apt install xvkbd git xclip npm -y
-
-#1.generate new ssh key
-ssh-keygen -t ed25519 -C "antoniopedroalvesdasilva.apads@gmail.com"
-#2.copy the ssh key
-xclip -sel clip < ~/.ssh/id_ed25519.pub
-
-
-git clone --depth=1 https://github.com/AdnanHodzic/auto-cpufreq.git
-cd auto-cpufreq && sudo ./auto-cpufreq-installer
-sudo auto-cpufreq --install
-sudo auto-cpufreq --force=performance
 
 sudo apt install curl -y
 sudo apt install snapd -y
@@ -53,12 +41,6 @@ sudo apt install gparted -y
 sudo apt install ffmpeg -y
 sudo apt install preload -y
 
-	# installing mysql
-# download mysql-apt-config and run dpkg
-sudo apt update
-
-sudo apt install mysql-server -y
-sudo mysql_secure_installation
 
 
 
