@@ -1,1 +1,0 @@
-O celular **que** comprei no ano passado já está ultrapassado.

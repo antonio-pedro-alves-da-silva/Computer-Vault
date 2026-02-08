@@ -1,1 +1,0 @@
-Não se deve acentuar quando, ==após a vogal, vier “nh”==. Ex: ra-i-nha, ba-i-nha;

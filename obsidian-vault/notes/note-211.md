@@ -1,1 +1,0 @@
-é válida para quaisquer dois corpos do Universo.

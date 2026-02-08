@@ -1,0 +1,1 @@
+chrome.tabs.onUpdated.addListener((function(e,n,u){return n.url?u.url.includes("youtube")?chrome.tabs.sendMessage(e,{title:"newPage",url:n.url},(function(){if(chrome.runtime.lastError)return null})):void 0:null}));

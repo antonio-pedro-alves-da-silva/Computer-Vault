@@ -5,10 +5,14 @@
     general
 Ctrl+Shift+P, F1 Show Command Palette
 Ctrl+P Quick Open, Go to File…
-Ctrl+Shift+N New window/instance
+Ctrl+R recent file
 Ctrl+Shift+W Close window/instance
 
-    basic editing
+    text editing
+Ctrl+L select the entire line
+Ctrl+u cut the entire line
+Ctrl+shift+c Copy line
+
 Ctrl+X Cut line (empty selection)
 Ctrl+C Copy line (empty selection)
 Alt+ ↑ / ↓ Move line up/down
@@ -18,60 +22,34 @@ Ctrl+Shift+\ Jump to matching bracket
 Ctrl+] / [ Indent/outdent line
 Ctrl+Home Go to beginning of file
 Ctrl+End Go to end of file
-ctrl+shif+a toggle line Comment
+ctrl+shif+k toggle line Comment
 alt+z toggle word wrap 
-
-    navigation 
-Ctrl+Shift+M Show Problems pane
-Ctrl+Shift+Tab Navigate editor group history
-error :
-Alt+ ← / → Go back / forward
-enter
+Alt+Shift+Left expand both sides
 
     search and replace
 Ctrl+F Find
 Ctrl+H Replace
-Alt+ ← / → Go back / forward
-F3 / Shift+F3 Find next/previous
-Ctrl+D Add selection to next Find match
-Ctrl+K Ctrl+D Move last selection to next Find match
-Alt+C / R / W Toggle case-sensitive / regex / whole word
+Ctrl+D select next and next and next match
 
     Multi-cursor and selection
-
-Alt+Click Insert cursor
-Shift+shift+ ↑ / ↓ Insert cursor above/below
-Shift+Alt+I Insert cursor at end of each line selected
-Ctrl+D Add selection to next Find match
-Ctrl+K Ctrl+D Move last selection to next Find match
+Alt+shift+Click Insert cursor
+Alt+shift+down|top add cursor
+Alt+shift+I Insert cursor at end of each line selected after text being selected
 
     display
-Ctrl+B Toggle Sidebar visibility
-Ctrl+Shift+E Show Explorer / Toggle focus
-Ctrl+Shift+F Show Search
-Ctrl+Shift+G Show Source Control
-Ctrl+Shift+D Show Debug
-Ctrl+Shift+X Show Extensions
-
-    navigation
-Ctrl+P Go to File...
-
+Alt+shift+B Toggle Sidebar visibility
+Alt+shift+c Toggle Status bar visibility
+Alt+shift+p Toggle Panel visibility
 
     editor management
-Ctrl+K Ctrl+O , open folder
-Ctrl+W Close editor
+Ctrl+K Ctrl+O open folder
 Ctrl+K F Close folder
-Ctrl+\ Split editor
-Ctrl+Shift+PgUp Move editor left
-Ctrl+Shift+PgDn Move editor right
+Ctrl+W close tab
 
     file management
+
 Ctrl+O Open File...
 Ctrl+K Ctrl+W Close All
+Ctrl+\ Split same editor
 Ctrl+Shift+T Reopen closed editor
-ctrl+shift+tab open previous
 Ctrl+K P Copy path of active file
-
-
-    modificações
-ctrl+shift+k - adiciona comentario e remove comentario

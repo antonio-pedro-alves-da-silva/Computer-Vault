@@ -1,1 +1,0 @@
-Seu poder de penetração é baixo, causando pequenos danos ao ser humano.

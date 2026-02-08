@@ -1,0 +1,143 @@
+
+
+### Variables
+
+set $mod Mod4
+set $term foot
+set $rofi_cmd rofi \
+        -terminal '$term'
+set $menu $rofi_cmd -show combi -combi-modes drun#run -modes combi
+
+### Output configuration
+
+output * bg /home/antonio/Pictures/beautifulgirl.jpg fill
+
+# YES , NO , MORE OR LESS , I DON'T KNOW , DEPEND , PROBABLY , IMPROBABLY
+
+# YES - MORE OR LESS
+# YES - I DON'T KNOW
+# NO - MORE OR LESS
+# NO - I DONT'KNOW 
+# MORE OR LESS - I DON'T KNOW
+
+### Idle configuration    
+	exec swayidle -w \
+    	timeout 300 'swaylock -f -c 000000' \
+    	timeout 600 'swaymsg "output * power off"' resume 'swaymsg "output * power on"' \
+    	before-sleep 'swaylock -f -c 000000'
+
+# timeout 300: After 5 minutes (300 seconds) of inactivity, it runs swaylock.
+# timeout 600: After 10 minutes, it turns off all monitors via swaymsg.
+# resume: This tells Sway what to do when you move the mouse or hit a key after a timeout has triggered.
+# before-sleep: This is a "hook" that ensures your screen is locked before your laptop lid closes or the system suspends, so you aren't greeted by an unlocked desktop when you wake it up.
+
+### Input configuration
+input "type:keyboard" {
+    xkb_layout "altwin"
+}
+
+input "type:touchpad" {
+    events disabled
+}
+
+
+
+### Key bindings
+
+    bindsym $mod+Return exec ghostty
+    bindsym $mod+c kill
+    bindsym $mod+l exec $menu
+
+    floating_modifier $mod normal
+
+    bindsym $mod+Shift+c reload
+    bindsym $mod+Shift+r restart
+    bindsym $mod+Shift+e exec swaynag -t warning -m 'You pressed the exit shortcut. Do you really want to exit sway? This will end your Wayland session.' -B 'Yes, exit sway' 'swaymsg exit'
+
+# Moving around:
+
+    bindsym $mod+Shift+Left move left
+    bindsym $mod+Shift+Down move down
+    bindsym $mod+Shift+Up move up
+    bindsym $mod+Shift+Right move right
+
+# Workspaces:
+
+    bindsym $mod+1 workspace number 1
+    bindsym $mod+2 workspace number 2
+    bindsym $mod+3 workspace number 3
+    bindsym $mod+4 workspace number 4
+    bindsym $mod+5 workspace number 5
+    bindsym $mod+6 workspace number 6
+    bindsym $mod+7 workspace number 7
+    bindsym $mod+8 workspace number 8
+    bindsym $mod+9 workspace number 9
+    bindsym $mod+0 workspace number 10
+
+    bindsym $mod+Shift+1 move container to workspace number 1
+    bindsym $mod+Shift+2 move container to workspace number 2
+    bindsym $mod+Shift+3 move container to workspace number 3
+    bindsym $mod+Shift+4 move container to workspace number 4
+    bindsym $mod+Shift+5 move container to workspace number 5
+    bindsym $mod+Shift+6 move container to workspace number 6
+    bindsym $mod+Shift+7 move container to workspace number 7
+    bindsym $mod+Shift+8 move container to workspace number 8
+    bindsym $mod+Shift+9 move container to workspace number 9
+    bindsym $mod+Shift+0 move container to workspace number 10
+
+# Layout stuff:
+
+    bindsym $mod+i splith
+    bindsym $mod+o splitv
+
+    bindsym $mod+s layout stacking
+    bindsym $mod+w layout tabbed
+    bindsym $mod+e layout toggle split
+
+    bindsym $mod+f fullscreen
+
+    bindsym $mod+Shift+space floating toggle
+    bindsym $mod+space focus mode_toggle
+    bindsym $mod+a focus parent
+    
+# Scratchpad:
+
+    bindsym $mod+Shift+minus move scratchpad
+    bindsym $mod+minus scratchpad show
+
+
+# Resizing containers:
+mode "resize" {
+
+    bindsym Left resize shrink width 10px
+    bindsym Down resize grow height 10px
+    bindsym Up resize shrink height 10px
+    bindsym Right resize grow width 10px
+
+    # Return to default mode
+    bindsym Return mode "default"
+    bindsym Escape mode "default"
+}
+
+bindsym $mod+r mode "resize"
+
+
+bindsym $mod+f1 exec swaymsg input "type:touchpad" events enabled; exec swaymsg input "type:touchpad" tap enabled; exec swaymsg input "type:touchpad" dwt enabled;exec nmcli radio all on
+bindsym $mod+f2 exec swaymsg input "type:keyboard" xkb_layout br
+bindsym $mod+f3 exec swaymsg input "type:keyboard" xkb_layout fr
+bindsym $mod+f4 exec swaymsg input "type:keyboard" xkb_layout ru
+bindsym $mod+f5 exec swaymsg input "type:keyboard" xkb_layout ge
+bindsym $mod+f7 exec swaymsg input "type:keyboard" xkb_layout gn
+bindsym $mod+f8 exec swaymsg input "type:keyboard" xkb_layout gr
+bindsym $mod+shift+f10 exec swaymsg input "type:touchpad" events disabled; exec swaymsg input "type:touchpad" tap disabled; exec swaymsg input "type:touchpad" dwt disabled;exec swaymsg input "type:keyboard" xkb_layout altwin ;exec nmcli radio all off 
+
+exec nmcli radio all off
+bindcode 77 exec bash /home/antonio/Computer-Vault/linux-vault/my-configuration-files/all-scripts/operating-system-scripts/numlock-status-notification.sh
+
+
+# Include configs from 3 locations:
+#  - /usr/share/sway/config.d
+#  - /etc/sway/config.d
+#  - $XDG_CONFIG_HOME/sway/config.d ($HOME/.config/sway/config.d)
+
+include '$(/usr/libexec/sway/layered-include "/usr/share/sway/config.d/*.conf" "/etc/sway/config.d/*.conf" "${XDG_CONFIG_HOME:-$HOME/.config}/sway/config.d/*.conf")'

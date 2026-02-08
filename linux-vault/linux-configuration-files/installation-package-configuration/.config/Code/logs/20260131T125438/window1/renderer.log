@@ -1,0 +1,21 @@
+2026-01-31 12:54:48.550 [error] Error: The editor could not be opened because the file was not found.
+    at DAe.gc (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2752:79795)
+    at async DAe.setInput (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2752:78953)
+    at async LQe.S (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:707:58504)
+    at async LQe.L (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:707:57064)
+    at async LQe.openEditor (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:707:56146)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:819:23355
+2026-01-31 12:54:49.936 [info] Started local extension host with pid 45540.
+2026-01-31 12:54:50.269 [info] MCP Registry configured: https://api.mcp.github.com
+2026-01-31 12:54:50.671 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-01-31 12:54:58.472 [warning] [DefaultAccount] Attempt 1 to get sessions failed: Timed out waiting for authentication provider 'github' to register.
+2026-01-31 12:54:59.401 [error] lock() request could not be registered.: InvalidStateError: lock() request could not be registered.
+2026-01-31 12:54:59.406 [info] [perf] Render performance baseline is 97ms
+2026-01-31 12:55:58.548 [error] lock() request could not be registered.: InvalidStateError: lock() request could not be registered.
+2026-01-31 12:59:11.907 [error] lock() request could not be registered.: InvalidStateError: lock() request could not be registered.
+2026-01-31 12:59:26.015 [error] lock() request could not be registered.: InvalidStateError: lock() request could not be registered.
+2026-01-31 13:00:53.781 [error] lock() request could not be registered.: InvalidStateError: lock() request could not be registered.
+2026-01-31 13:09:30.233 [error] lock() request could not be registered.: InvalidStateError: lock() request could not be registered.
+2026-01-31 13:10:15.064 [error] lock() request could not be registered.: InvalidStateError: lock() request could not be registered.
+2026-01-31 13:12:25.941 [error] lock() request could not be registered.: InvalidStateError: lock() request could not be registered.
+2026-01-31 13:33:39.012 [error] lock() request could not be registered.: InvalidStateError: lock() request could not be registered.

@@ -1,1 +1,0 @@
-A regular plural is **a word which follows the normal convention of adding 's' or 'es' on to the end to signify that there are more than one of the object or animal**

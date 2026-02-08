@@ -1,1 +1,0 @@
-**Cinquenta e nove por cento** dos entrevistados afirmaram que nunca levam em conta os resultados das pesquisas na hora da urna.

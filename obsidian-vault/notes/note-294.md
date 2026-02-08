@@ -1,1 +1,0 @@
-A imantação é o processo pelo qual um material sem características magnéticas se torna um ímã

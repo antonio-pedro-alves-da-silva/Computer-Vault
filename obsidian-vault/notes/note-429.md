@@ -1,1 +1,0 @@
-quando todos os elementos possuírem um correspondente único

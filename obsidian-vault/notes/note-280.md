@@ -1,1 +1,0 @@
-substantivo, um adjetivo ou um advérbio

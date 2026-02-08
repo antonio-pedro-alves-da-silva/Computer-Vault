@@ -1,2 +1,0 @@
-- diante dos olhos
-- sem parcelamento

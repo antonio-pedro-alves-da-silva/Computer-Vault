@@ -1,1 +1,0 @@
-todas as respostas corretas

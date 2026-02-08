@@ -1,1 +1,0 @@
-quando suas bases são poligonos regulares

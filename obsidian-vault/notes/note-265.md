@@ -1,1 +1,0 @@
-**quantidade de cargas que pode ser armazenada em um capacitor** Sua unidade é dada em farad, representada pela letra F

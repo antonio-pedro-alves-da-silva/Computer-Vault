@@ -1,1 +1,0 @@
-será bijetora se, e somente se, ela for injetora e sobrejetora simultaneamente

@@ -1,1 +1,0 @@
-Era necessário **visar** **o passaporte** antes do embarque.

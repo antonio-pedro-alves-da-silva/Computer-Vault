@@ -1,2 +1,0 @@
-
-<span style="color:#ff0000">bastava esticar o braço com algum esforço, para arrancá-la do pé</span> (oração subordinada reduzida do infinitivo) . e <span style="color:#ff0000">Não esticava o braço sem espiar primeiro para todos os lados, a ver se vinha alguém, e, se vinha alguém, disfarçava e ia-se embora</span>.(oração subordinada objetiva direta)

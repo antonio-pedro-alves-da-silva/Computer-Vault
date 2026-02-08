@@ -1,0 +1,8 @@
+{
+   "description": {
+      "message": "ChatGPT로 YouTube 영상을 요약하고 자막을 자동 생성하세요. Shorts 포함, 주요 내용까지 한번에 확인 가능"
+   },
+   "name": {
+      "message": "YouTube 영상 요약 + 전체 자막 제공 – ChatGPT 확장 도구"
+   }
+}

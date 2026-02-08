@@ -1,1 +1,0 @@
-Como vimos na exposição da regra, também não devemos acentuar quando a ==vogal estiver duplicada==. Ex: xi-i-ta, su-cu-u-ba.

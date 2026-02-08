@@ -1,1 +1,0 @@
-- **as vogais “i” e “u” devem ser acentuadas** quando forem a ==**segunda vogal do hiato**==

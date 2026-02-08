@@ -1,1 +1,0 @@
-Não pode separar complemento verbal do verbo, por isso a letra D está errada

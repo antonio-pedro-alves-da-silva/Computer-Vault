@@ -1,0 +1,6 @@
+2026/01/31-11:04:29.367 30d1 Creating DB /home/antonio/.config/google-chrome/Default/IndexedDB/https_zed.dev_0.indexeddb.leveldb since it was missing.
+2026/01/31-11:04:29.634 30d1 Reusing MANIFEST /home/antonio/.config/google-chrome/Default/IndexedDB/https_zed.dev_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/31-11:05:40.728 30d2 Level-0 table #5: started
+2026/01/31-11:05:40.761 30d2 Level-0 table #5: 2627 bytes OK
+2026/01/31-11:05:40.827 30d2 Delete type=0 #3
+2026/01/31-11:05:40.828 30d2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,1 +1,0 @@
-é quando um material que recebe propriedades magnéticas permanece imantado por um certo periodo de tempo

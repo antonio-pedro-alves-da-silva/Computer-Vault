@@ -1,4 +1,0 @@
-- Nós **assistimos ao** jogo na casa da minha irmã. 
-- Eles não **assistiram ao** programa, mas gravaram para ver depois.
-- Todos **assistiram à** briga dos vizinhos do terceiro andar.
-- Atualmente **assistimos à** crise da falta de valores na educação das crianças

@@ -1,0 +1,34 @@
+{
+   "action": {
+      "default_popup": "html/popup.html"
+   },
+   "background": {
+      "service_worker": "js/bg.js"
+   },
+   "content_scripts": [ {
+      "css": [ "css/style.css" ],
+      "js": [ "js/ytApp.js" ],
+      "matches": [ "https://*.youtube.com/*" ],
+      "run_at": "document_idle"
+   }, {
+      "js": [ "js/gptApp.js" ],
+      "matches": [ "https://*.chatgpt.com/*" ]
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "icons": {
+      "128": "icons/128.png",
+      "16": "icons/16.png",
+      "58": "icons/58.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAz9Qed7z18GnHIlOgE1hL9140TBmLX/D3tTnEk0x2zETgqDZ1UFpZU8gmLSgGMQNxKzl/Y8xLeC42DpFPOjGXLLJpDpBLDnoiJ0XxK/ikLr8EDAQlItr1XwqNtRUlboYX1p2P8XfzItdQqL44ZT5mz4L0Uhk0+uL2DA8WcmLpqA4eu/Q4Z84RznfYVtMe/NAt/OeFAuSDg8bNDrEuuLZOouFT5DWHV7lqqC3gP53+yDQBj+ympBf81PyOSFmuzMKCcK5fRHF3dFmzwpdz7w/Vw7eVfPQ3+CjXPbxUKDLwFJqMMII2cNGJ/8pl/ObtHfeoFTYremlRq0DBv2+GzRWp/QIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_name__",
+   "permissions": [ "storage", "tabs" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1",
+   "web_accessible_resources": [ {
+      "matches": [ "https://*.youtube.com/*" ],
+      "resources": [ "icons/*" ]
+   } ]
+}

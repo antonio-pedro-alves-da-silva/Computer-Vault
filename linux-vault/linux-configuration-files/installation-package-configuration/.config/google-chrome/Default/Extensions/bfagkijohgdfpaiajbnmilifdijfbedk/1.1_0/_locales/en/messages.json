@@ -1,0 +1,23 @@
+{
+   "description": {
+      "message": "Summarize YouTube videos and Shorts with AI. View transcripts, key points, and highlights directly on the video page"
+   },
+   "name": {
+      "message": "YouTube Video Summary with AI"
+   },
+   "popup_description": {
+      "message": "Instantly unlock the key insights of any YouTube video with one click"
+   },
+   "popup_title": {
+      "message": "Youtube Video Summary with AI"
+   },
+   "popup_yt_shorts_btn": {
+      "message": "Open YouTube Shorts"
+   },
+   "popup_yt_video_btn": {
+      "message": "Open YouTube"
+   },
+   "shareToGPT": {
+      "message": "Send to AI"
+   }
+}

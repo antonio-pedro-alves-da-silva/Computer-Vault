@@ -1,0 +1,366 @@
+{
+   "addToWhitelist": {
+      "description": "Add to Whitelist to NOT suspend this site in future.",
+      "message": "Добавить сайт в Белый список, чтобы не усыплять этот сайт в будущем."
+   },
+   "allSettings": {
+      "description": "Open full settings page.",
+      "message": "Открыть полные настойки..."
+   },
+   "autoCloseTabsSwitch": {
+      "description": "Close Tabs Automatically",
+      "message": "Закрывать вкладки автоматически"
+   },
+   "autoSuspendInterval": {
+      "description": "Auto-Suspend Interval",
+      "message": "Интервал усыпления владок"
+   },
+   "autoSuspendSliderValue": {
+      "description": "Will suspend tab after $1 of inactivity",
+      "message": "Будет усыплять вкладки после $1 неактивности"
+   },
+   "changeHotkeys": {
+      "description": "Setup/Change hotkeys for fast access to Tab Suspender functions.",
+      "message": "Настойка/Установка горячих клавиш для быстрого доступа к функциям."
+   },
+   "extDescription": {
+      "description": "MAX 128: Automatically suspend, park, hibernate inactive tabs and save up to 80% of memory, reduce load on your device, battery and heat.",
+      "message": "Автоматически приостанавливает неактивные вкладки и экономит до 80% памяти, снижать нагрузку на ваше устройство и батарею."
+   },
+   "extName": {
+      "description": "Tab Suspender: Many Tabs Manager",
+      "message": "Tab Suspender"
+   },
+   "extTitle": {
+      "description": "Tab Suspender: Many Tabs Manager",
+      "message": "Tab Suspender"
+   },
+   "ignoreCurrentTab": {
+      "description": "The marked tab will be ignored by Tab Suspender (Will be reset after browser restart, if you need permanent ignore please use Whitelist).",
+      "message": "Игнорировать текущую вкладку от заморозки (Настройка будет сброшена после перезагрузки браузера, если требуется постоянное исключение сайта используйте Белый список)."
+   },
+   "pageIsInWhitelist": {
+      "description": "Page is in Whilelist",
+      "message": "Эта страница находится в Белом списке"
+   },
+   "pauseSuspender": {
+      "description": "Stop Tab Suspender for a while...",
+      "message": "Приостановить расширение на некоторое время..."
+   },
+   "pauseSuspenderFor10M": {
+      "description": "Stop Tab Suspender for 10 minutes.",
+      "message": "Приостановить расширение на 10 минут."
+   },
+   "pauseSuspenderFor1D": {
+      "description": "Title for pause 1 day button",
+      "message": "Приостановить расширение на 1 день."
+   },
+   "pauseSuspenderFor1H": {
+      "description": "Stop Tab Suspender for 1 hour.",
+      "message": "Приостановить расширение на 1 час."
+   },
+   "pauseSuspenderFor5H": {
+      "description": "Stop Tab Suspender for 5 hours.",
+      "message": "Приостановить расширение на 5 часов."
+   },
+   "popupAutoSuspendInterval": {
+      "description": "Label for auto-suspend interval slider",
+      "message": "Интервал авто-приостановки"
+   },
+   "popupAutoSuspendTurnedOff": {
+      "description": "Tab-Suspender temporarily disabled",
+      "message": "Расширение временно приостановлено"
+   },
+   "popupBtn10min": {
+      "description": "Pause for 10 minutes button",
+      "message": "10 мин"
+   },
+   "popupBtn1day": {
+      "description": "Pause for 1 day button",
+      "message": "1 день"
+   },
+   "popupBtn1hour": {
+      "description": "Pause for 1 hour button",
+      "message": "1 час"
+   },
+   "popupBtn5hours": {
+      "description": "Pause for 5 hours button",
+      "message": "5 часов"
+   },
+   "popupBtnAll": {
+      "description": "Suspend/Unsuspend All button",
+      "message": "Все"
+   },
+   "popupBtnAllOther": {
+      "description": "Suspend All Other button",
+      "message": "Остальные"
+   },
+   "popupBtnClosed": {
+      "description": "Closed history button",
+      "message": "Закрытые"
+   },
+   "popupBtnGroup": {
+      "description": "Suspend/Unsuspend Group button",
+      "message": "Группу"
+   },
+   "popupBtnSuspended": {
+      "description": "Suspended history button",
+      "message": "Приостановленные"
+   },
+   "popupBtnTab": {
+      "description": "Suspend/Unsuspend Tab button",
+      "message": "Вкладку"
+   },
+   "popupBtnWindow": {
+      "description": "Suspend/Unsuspend Window button",
+      "message": "Окно"
+   },
+   "popupChangeHotkeys": {
+      "description": "Change hotkeys menu item",
+      "message": "Горячие клавиши..."
+   },
+   "popupCloseUnusedTabs": {
+      "description": "Label for close unused tabs feature",
+      "message": "Автоматически закрывать вкладки"
+   },
+   "popupDonateText": {
+      "description": "Donate link text",
+      "message": "Нравится Tab Suspender? Поддержите проект!"
+   },
+   "popupDonateTitle": {
+      "description": "Donate link title",
+      "message": "Если вам нравится Tab Suspender и вы хотите видеть его развитие, новые функции и поддержку...поддержите проект!"
+   },
+   "popupDontSuspendSite": {
+      "description": "Button to add site to whitelist",
+      "message": "Не приостанавливать этот сайт..."
+   },
+   "popupDontSuspendTab": {
+      "description": "Button to ignore current tab",
+      "message": "Не приостанавливать эту вкладку"
+   },
+   "popupHistoryLabel": {
+      "description": "Label for history section",
+      "message": "История:"
+   },
+   "popupIncreaseInterval": {
+      "description": "Title for increase interval button",
+      "message": "Увеличить интервал..."
+   },
+   "popupOnOffAutoSuspend": {
+      "description": "Title for auto-suspend toggle",
+      "message": "Вкл/Выкл автоматическую приостановку"
+   },
+   "popupOpenSessionManager": {
+      "description": "Title for Session Manager",
+      "message": "Открыть менеджер сессий."
+   },
+   "popupOpenSessionsNewWindow": {
+      "description": "Title for open sessions in new window",
+      "message": "Открыть сессии в новом окне"
+   },
+   "popupPauseSuspenderLabel": {
+      "description": "Label for pause section",
+      "message": "Приостановить расширение:"
+   },
+   "popupRemove": {
+      "description": "Remove from whitelist button",
+      "message": "Удалить"
+   },
+   "popupSessionManager": {
+      "description": "Session Manager menu item",
+      "message": "Менеджер сессий..."
+   },
+   "popupSettings": {
+      "description": "Settings menu item",
+      "message": "Настройки..."
+   },
+   "popupShowByDefault": {
+      "description": "Show sessions by default checkbox label",
+      "message": "Показывать по умолчанию"
+   },
+   "popupShowClosedHistory": {
+      "description": "Title for closed tabs history",
+      "message": "Показать историю закрытых вкладок."
+   },
+   "popupShowSuspendedHistory": {
+      "description": "Title for suspended tabs history",
+      "message": "Показать историю приостановленных вкладок."
+   },
+   "popupShowWindowSessions": {
+      "description": "Show window sessions button",
+      "message": "Показать сессии окна"
+   },
+   "popupSiteInWhitelist": {
+      "description": "Message when site is already whitelisted",
+      "message": "Сайт уже в белом списке"
+   },
+   "popupSuspendLabel": {
+      "description": "Label for suspend buttons section",
+      "message": "Приостановить:"
+   },
+   "popupSuspenderPausedFor": {
+      "description": "Label shown when suspender is paused",
+      "message": "Приостановлено на:"
+   },
+   "popupToggle": {
+      "description": "Toggle checkbox label",
+      "message": "Вкл/Выкл"
+   },
+   "popupUnsuspendLabel": {
+      "description": "Label for unsuspend buttons section",
+      "message": "Разморозить:"
+   },
+   "rateIt": {
+      "description": "Rate it, please.",
+      "message": "Приостановщик вкладок(Tab Suspender)"
+   },
+   "recycleAfterSliderValue": {
+      "description": "Will close tabs after $1 of inactivity",
+      "message": "Будет закрывать вкладки после $1их неактивности"
+   },
+   "recycleKeepSliderValue": {
+      "description": "Will close tabs if there are more than $1 tabs",
+      "message": "...и если открытых вкладок больше $1"
+   },
+   "removeFromWhilelist": {
+      "description": "Remove from Whitelist",
+      "message": "Удалить из Белого списка"
+   },
+   "resumeSuspender": {
+      "description": "Cancel timer and activate Tab Suspender.",
+      "message": "Отменить паузу и включить расширение"
+   },
+   "suspendAll": {
+      "description": "Immediately suspend all tabs except current tab.",
+      "message": "Немедленно усыпить все остальные вкладки за исключением текущей."
+   },
+   "suspendAllTabs": {
+      "description": "Immediately suspend all tabs.",
+      "message": "Немедленно усыпить все вкладки."
+   },
+   "suspendCurrentTab": {
+      "description": "Immediately suspend current tab.",
+      "message": "Немедленно усыпить текущую вкладку."
+   },
+   "suspendCurrentWindow": {
+      "description": "Immediately suspend all tabs at current window.",
+      "message": "Немедленно усыпить все вкладки в текущем окне."
+   },
+   "suspendHistory": {
+      "description": "Open suspended tabs history.",
+      "message": "Открыть историю замороженных вкладок."
+   },
+   "suspendTabGroup": {
+      "description": "Immediately suspend all tabs in current tab group.",
+      "message": "Немедленно усыпить все вкладки в текущей группе."
+   },
+   "unsuspend": {
+      "description": "Unsuspend tab.",
+      "message": "Разморозить вкладку."
+   },
+   "unsuspendAll": {
+      "description": "Immediately unsuspend all tabs.",
+      "message": "Мгновенно размораживает все вкладки."
+   },
+   "unsuspendAllWindow": {
+      "description": "Immediately unsuspend all tabs at current window.",
+      "message": "Мгновенно размораживает все вкладки в текущем окне."
+   },
+   "unsuspendTabGroup": {
+      "description": "Immediately unsuspend all tabs in current tab group.",
+      "message": "Мгновенно размораживает все вкладки в текущей группе."
+   },
+   "wizardBtnBack": {
+      "description": "Back button",
+      "message": "\u003C Назад"
+   },
+   "wizardBtnClose": {
+      "description": "Close button",
+      "message": "Закрыть"
+   },
+   "wizardBtnFinish": {
+      "description": "Finish button",
+      "message": "Готово"
+   },
+   "wizardBtnNext": {
+      "description": "Next button",
+      "message": "Далее >"
+   },
+   "wizardBtnSkip": {
+      "description": "Skip button",
+      "message": "Пропустить / По умолчанию"
+   },
+   "wizardClickNext": {
+      "description": "Wizard click next instruction",
+      "message": "нажмите \u003Cspan class=\"bold-underline\">ДАЛЕЕ\u003C/span> для настройки базовых параметров."
+   },
+   "wizardComplete": {
+      "description": "Wizard completion title",
+      "message": "Готово!"
+   },
+   "wizardCompleteText": {
+      "description": "Wizard completion text",
+      "message": "Tab Suspender теперь автоматически начнёт приостанавливать неиспользуемые вкладки через \u003Cspan id=\"resultTimeoutValue\" class=\"highlight-value\">$1\u003C/span> с этого момента."
+   },
+   "wizardErrorReports": {
+      "description": "Error reports checkbox label",
+      "message": "Помочь Tab Suspender улучшить качество и отправлять отчёты об ошибках"
+   },
+   "wizardIntro": {
+      "description": "Wizard intro text",
+      "message": "- позволяет не беспокоиться об огромном количестве открытых вкладок и их памяти!"
+   },
+   "wizardNo": {
+      "description": "No option",
+      "message": "Нет"
+   },
+   "wizardOrSkip": {
+      "description": "Wizard skip instruction",
+      "message": "или \u003Cspan class=\"bold-underline\">ПРОПУСТИТЬ\u003C/span> для использования настроек по умолчанию."
+   },
+   "wizardStep": {
+      "description": "Wizard step indicator",
+      "message": "( шаг $1 из $2 )"
+   },
+   "wizardStep2Question": {
+      "description": "Wizard step 2 question",
+      "message": "Через какое время неактивности вы хотите отправлять неиспользуемые вкладки в сон?"
+   },
+   "wizardStep3HintLink": {
+      "description": "Wizard step 3 hint link text",
+      "message": "неиспользуемых вкладок"
+   },
+   "wizardStep3HintPrefix": {
+      "description": "Wizard step 3 hint prefix",
+      "message": "Помогает не думать о закрытии"
+   },
+   "wizardStep3HintSuffix": {
+      "description": "Wizard step 3 hint suffix",
+      "message": "вручную."
+   },
+   "wizardStep3Question": {
+      "description": "Wizard step 3 question",
+      "message": "Хотите ли вы разрешить Tab Suspender искать редко используемые или забытые вкладки и автоматически закрывать их?"
+   },
+   "wizardTitle": {
+      "description": "Wizard page title",
+      "message": "Добро пожаловать в мастер Tab Suspender"
+   },
+   "wizardVideoHint": {
+      "description": "Wizard video hint",
+      "message": "Если вы хотите приостановить вкладки раньше, вы можете сделать это нажатием кнопки, как показано на видео:"
+   },
+   "wizardYes": {
+      "description": "Yes option",
+      "message": "Да"
+   },
+   "wizard_recycleAfterSliderValue": {
+      "description": "Slider label for auto-close tabs after inactivity",
+      "message": "Может закрывать вкладки после \u003Cb class=\"slider-value\">$1\u003C/b> их не активности"
+   },
+   "wizard_recycleKeepSliderValue": {
+      "description": "Slider label for minimum tabs threshold",
+      "message": "...и только когда открытых вкладок больше \u003Cb class=\"slider-value\">$1\u003C/b>"
+   }
+}

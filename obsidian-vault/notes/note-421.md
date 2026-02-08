@@ -1,1 +1,0 @@
-the action of hitting with or using a bat, especially in cricket or baseball.

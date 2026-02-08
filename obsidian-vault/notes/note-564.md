@@ -1,4 +1,0 @@
-adequar
-repor
-poder
-intervir

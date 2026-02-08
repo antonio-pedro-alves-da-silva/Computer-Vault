@@ -1,0 +1,56 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "736e77a57785e8d8aed46482a40ff0fe388568c43a1c78424990ac79d10a5766",
+    "telemetry.devDeviceId": "091f1ea5-b19f-4bcd-9d2a-5952dc7f7b00",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [],
+        "emptyWindows": [
+            {
+                "backupFolder": "1769719466675"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {},
+        "emptyWindows": {
+            "1769719466675": "__default__profile__"
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "backupPath": "/home/antonio/.config/Code/Backups/1769719466675",
+            "uiState": {
+                "mode": 3,
+                "display": 54,
+                "width": 451,
+                "height": 709,
+                "x": 0,
+                "y": 0,
+                "zoomLevel": -1
+            }
+        },
+        "openedWindows": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1f1f1f",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1f1f1f",
+            "editorBackground": "#1f1f1f",
+            "titleBarBackground": "#181818",
+            "titleBarBorder": "#2b2b2b",
+            "activityBarBackground": "#181818",
+            "activityBarBorder": "#2b2b2b",
+            "sideBarBackground": "#181818",
+            "sideBarBorder": "#2b2b2b",
+            "statusBarBackground": "#181818",
+            "statusBarBorder": "#2b2b2b",
+            "statusBarNoFolderBackground": "#1f1f1f"
+        }
+    }
+}

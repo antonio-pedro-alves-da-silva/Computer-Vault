@@ -1,0 +1,8 @@
+{
+   "description": {
+      "message": "Use ChatGPT para resumir vídeos do YouTube. Acesse transcrição, destaques e principais ideias diretamente na página do vídeo"
+   },
+   "name": {
+      "message": "Veja o resumo de vídeos no YouTube com ChatGPT"
+   }
+}

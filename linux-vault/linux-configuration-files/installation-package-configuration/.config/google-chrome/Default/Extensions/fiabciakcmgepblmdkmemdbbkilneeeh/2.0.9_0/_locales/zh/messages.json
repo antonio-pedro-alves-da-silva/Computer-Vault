@@ -1,0 +1,366 @@
+{
+   "addToWhitelist": {
+      "description": "添加到白名单,以便将来不会暂停此网站.",
+      "message": "向白名单添加一个站点,以免将来该站点进入睡眠状态."
+   },
+   "allSettings": {
+      "description": "打开完整设置页面",
+      "message": "打开完整的酊剂..."
+   },
+   "autoCloseTabsSwitch": {
+      "description": "自动关闭标签",
+      "message": "自动关闭标签"
+   },
+   "autoSuspendInterval": {
+      "description": "自动暂停间隔",
+      "message": "智慧间隔睡眠"
+   },
+   "autoSuspendSliderValue": {
+      "description": "将在 $1 不活动后挂起标签",
+      "message": "将 $1 不活动后的标签安乐死"
+   },
+   "changeHotkeys": {
+      "description": "设置/更改热键以快速访问 Tab Suspender 功能.",
+      "message": "设置/设置快速访问功能的热键"
+   },
+   "extDescription": {
+      "description": "Automatically suspend, park, hibernate inactive tabs and save up to 80% of memory, reduce load on your device, battery and heat.",
+      "message": "自動暫停，停放，休眠非活動標籤並節省高達80％的內存，減少設備負載，電池和熱量。"
+   },
+   "extName": {
+      "description": "暂停标签 (Tab Suspender)",
+      "message": "暂停标签 (Tab Suspender)"
+   },
+   "extTitle": {
+      "description": "暂停标签 (Tab Suspender)",
+      "message": "暂停标签 (Tab Suspender)"
+   },
+   "ignoreCurrentTab": {
+      "description": "标记的选项卡将被 Tab Suspender 忽略（浏览器重启后将重置,如果您需要永久忽略,请使用白名单）.",
+      "message": "忽略当前标签冻结（在浏览器重新启动后,如果要永久排除站点,请使用白名单,设置将重置）."
+   },
+   "pageIsInWhitelist": {
+      "description": "页面在Whilelist中",
+      "message": "此页面在白名单中"
+   },
+   "pauseSuspender": {
+      "description": "暂停选项卡暂停...",
+      "message": "暂停扩展一段时间..."
+   },
+   "pauseSuspenderFor10M": {
+      "description": "停止标签暂停10分钟.",
+      "message": "暂停分机10分钟."
+   },
+   "pauseSuspenderFor1D": {
+      "description": "Stop Tab Suspender for 1 Day.",
+      "message": "暂停扩展1天."
+   },
+   "pauseSuspenderFor1H": {
+      "description": "停止选项卡暂停1小时.",
+      "message": "暂停扩展1小时."
+   },
+   "pauseSuspenderFor5H": {
+      "description": "停止标签暂停5小时.",
+      "message": "暂停5小时的分机"
+   },
+   "popupAutoSuspendInterval": {
+      "description": "Label for auto-suspend interval slider",
+      "message": "自动暂停间隔"
+   },
+   "popupAutoSuspendTurnedOff": {
+      "description": "Tab-Suspender temporarily disabled",
+      "message": "自动暂停已关闭"
+   },
+   "popupBtn10min": {
+      "description": "Pause for 10 minutes button",
+      "message": "10分钟"
+   },
+   "popupBtn1day": {
+      "description": "Pause for 1 day button",
+      "message": "1天"
+   },
+   "popupBtn1hour": {
+      "description": "Pause for 1 hour button",
+      "message": "1小时"
+   },
+   "popupBtn5hours": {
+      "description": "Pause for 5 hours button",
+      "message": "5小时"
+   },
+   "popupBtnAll": {
+      "description": "Suspend/Unsuspend All button",
+      "message": "全部"
+   },
+   "popupBtnAllOther": {
+      "description": "Suspend All Other button",
+      "message": "其他所有"
+   },
+   "popupBtnClosed": {
+      "description": "Closed history button",
+      "message": "已关闭"
+   },
+   "popupBtnGroup": {
+      "description": "Suspend/Unsuspend Group button",
+      "message": "组"
+   },
+   "popupBtnSuspended": {
+      "description": "Suspended history button",
+      "message": "已暂停"
+   },
+   "popupBtnTab": {
+      "description": "Suspend/Unsuspend Tab button",
+      "message": "标签"
+   },
+   "popupBtnWindow": {
+      "description": "Suspend/Unsuspend Window button",
+      "message": "窗口"
+   },
+   "popupChangeHotkeys": {
+      "description": "Change hotkeys menu item",
+      "message": "更改热键..."
+   },
+   "popupCloseUnusedTabs": {
+      "description": "Label for close unused tabs feature",
+      "message": "自动关闭未使用的标签"
+   },
+   "popupDonateText": {
+      "description": "Donate link text",
+      "message": "喜欢Tab Suspender？考虑捐赠！"
+   },
+   "popupDonateTitle": {
+      "description": "Donate link title",
+      "message": "如果您喜欢Tab Suspender，希望看到它继续发展、新功能和支持请求处理...请支持项目！"
+   },
+   "popupDontSuspendSite": {
+      "description": "Button to add site to whitelist",
+      "message": "不要暂停此网站..."
+   },
+   "popupDontSuspendTab": {
+      "description": "Button to ignore current tab",
+      "message": "不要暂停此标签（标签打开期间）"
+   },
+   "popupHistoryLabel": {
+      "description": "Label for history section",
+      "message": "历史:"
+   },
+   "popupIncreaseInterval": {
+      "description": "Title for increase interval button",
+      "message": "增加间隔..."
+   },
+   "popupOnOffAutoSuspend": {
+      "description": "Title for auto-suspend toggle",
+      "message": "开/关自动暂停"
+   },
+   "popupOpenSessionManager": {
+      "description": "Title for Session Manager",
+      "message": "打开会话管理器."
+   },
+   "popupOpenSessionsNewWindow": {
+      "description": "Title for open sessions in new window",
+      "message": "在新窗口中打开窗口会话"
+   },
+   "popupPauseSuspenderLabel": {
+      "description": "Label for pause section",
+      "message": "暂停扩展:"
+   },
+   "popupRemove": {
+      "description": "Remove from whitelist button",
+      "message": "删除"
+   },
+   "popupSessionManager": {
+      "description": "Session Manager menu item",
+      "message": "会话管理器..."
+   },
+   "popupSettings": {
+      "description": "Settings menu item",
+      "message": "设置..."
+   },
+   "popupShowByDefault": {
+      "description": "Show sessions by default checkbox label",
+      "message": "默认显示"
+   },
+   "popupShowClosedHistory": {
+      "description": "Title for closed tabs history",
+      "message": "显示已关闭标签的历史记录."
+   },
+   "popupShowSuspendedHistory": {
+      "description": "Title for suspended tabs history",
+      "message": "显示已暂停标签的历史记录."
+   },
+   "popupShowWindowSessions": {
+      "description": "Show window sessions button",
+      "message": "显示窗口会话"
+   },
+   "popupSiteInWhitelist": {
+      "description": "Message when site is already whitelisted",
+      "message": "网站已在白名单中"
+   },
+   "popupSuspendLabel": {
+      "description": "Label for suspend buttons section",
+      "message": "暂停:"
+   },
+   "popupSuspenderPausedFor": {
+      "description": "Label shown when suspender is paused",
+      "message": "暂停扩展:"
+   },
+   "popupToggle": {
+      "description": "Toggle checkbox label",
+      "message": "开关"
+   },
+   "popupUnsuspendLabel": {
+      "description": "Label for unsuspend buttons section",
+      "message": "取消暂停:"
+   },
+   "rateIt": {
+      "description": "请评价它.",
+      "message": "暂停标签 (Tab Suspender)"
+   },
+   "recycleAfterSliderValue": {
+      "description": "将在 $1 不活动后关闭标签",
+      "message": "将关闭 $1 不活动后的标签"
+   },
+   "recycleKeepSliderValue": {
+      "description": "如果有超过 $1 美元的标签,将关闭标签",
+      "message": ",..如果有超过 $1 美元的打开标签"
+   },
+   "removeFromWhilelist": {
+      "description": "从白名单中删除",
+      "message": "从白名单中删除"
+   },
+   "resumeSuspender": {
+      "description": "取消计时器并激活 Tab Suspender.",
+      "message": "取消暂停并启用分机"
+   },
+   "suspendAll": {
+      "description": "立即挂起除当前标签以外的所有标签.",
+      "message": "立即安乐死除当前标签之外的所有其他标签."
+   },
+   "suspendAllTabs": {
+      "description": "Immediately suspend all tabs.",
+      "message": "立即暂停所有标签."
+   },
+   "suspendCurrentTab": {
+      "description": "立即暂停当前标签.",
+      "message": "立即将当前标签放下."
+   },
+   "suspendCurrentWindow": {
+      "description": "立即挂起当前窗口中的所有标签.",
+      "message": "立即清理当前窗口中的所有标签."
+   },
+   "suspendHistory": {
+      "description": "打开暂停的标签历史记录",
+      "message": "打开冻结标签的历史记录"
+   },
+   "suspendTabGroup": {
+      "description": "Immediately suspend all tabs in current tab group.",
+      "message": "立即暂停当前标签组中的所有标签."
+   },
+   "unsuspend": {
+      "description": "取消暂停标签.",
+      "message": "解冻标签."
+   },
+   "unsuspendAll": {
+      "description": "立即取消暂停所有标签.",
+      "message": "立即解冻所有标签."
+   },
+   "unsuspendAllWindow": {
+      "description": "立即取消暂停当前窗口中的所有标签.",
+      "message": "立即解冻当前窗口中的所有标签."
+   },
+   "unsuspendTabGroup": {
+      "description": "Immediately unsuspend all tabs in current tab group.",
+      "message": "立即取消暂停当前标签组中的所有标签."
+   },
+   "wizardBtnBack": {
+      "description": "Back button",
+      "message": "\u003C 返回"
+   },
+   "wizardBtnClose": {
+      "description": "Close button",
+      "message": "关闭"
+   },
+   "wizardBtnFinish": {
+      "description": "Finish button",
+      "message": "完成"
+   },
+   "wizardBtnNext": {
+      "description": "Next button",
+      "message": "下一步 >"
+   },
+   "wizardBtnSkip": {
+      "description": "Skip button",
+      "message": "跳过 / 使用默认"
+   },
+   "wizardClickNext": {
+      "description": "Wizard click next instruction",
+      "message": "点击 \u003Cspan class=\"bold-underline\">下一步\u003C/span> 配置基本设置。"
+   },
+   "wizardComplete": {
+      "description": "Wizard completion title",
+      "message": "完成！"
+   },
+   "wizardCompleteText": {
+      "description": "Wizard completion text",
+      "message": "Tab Suspender 现在将在 \u003Cspan id=\"resultTimeoutValue\" class=\"highlight-value\">$1\u003C/span> 后自动开始休眠首批未使用的标签页。"
+   },
+   "wizardErrorReports": {
+      "description": "Error reports checkbox label",
+      "message": "帮助 Tab Suspender 提高质量并发送错误报告"
+   },
+   "wizardIntro": {
+      "description": "Wizard intro text",
+      "message": "- 让您不必担心大量打开的标签页及其内存占用！"
+   },
+   "wizardNo": {
+      "description": "No option",
+      "message": "否"
+   },
+   "wizardOrSkip": {
+      "description": "Wizard skip instruction",
+      "message": "或 \u003Cspan class=\"bold-underline\">跳过\u003C/span> 使用预设配置。"
+   },
+   "wizardStep": {
+      "description": "Wizard step indicator",
+      "message": "( 第 $1 步，共 $2 步 )"
+   },
+   "wizardStep2Question": {
+      "description": "Wizard step 2 question",
+      "message": "您希望在多长时间不活动后将未使用的标签页休眠？"
+   },
+   "wizardStep3HintLink": {
+      "description": "Wizard step 3 hint link text",
+      "message": "未使用的标签页"
+   },
+   "wizardStep3HintPrefix": {
+      "description": "Wizard step 3 hint prefix",
+      "message": "帮助您无需手动关闭"
+   },
+   "wizardStep3HintSuffix": {
+      "description": "Wizard step 3 hint suffix",
+      "message": "。"
+   },
+   "wizardStep3Question": {
+      "description": "Wizard step 3 question",
+      "message": "您是否希望 Tab Suspender 查找最少使用或被遗忘的标签页并自动关闭它们？"
+   },
+   "wizardTitle": {
+      "description": "Wizard page title",
+      "message": "欢迎使用 Tab Suspender 向导"
+   },
+   "wizardVideoHint": {
+      "description": "Wizard video hint",
+      "message": "如果您想更早休眠标签页，可以按视频所示点击按钮休眠任何标签页："
+   },
+   "wizardYes": {
+      "description": "Yes option",
+      "message": "是"
+   },
+   "wizard_recycleAfterSliderValue": {
+      "description": "Slider label for auto-close tabs after inactivity",
+      "message": "在\u003Cb class=\"slider-value\">$1\u003C/b>不活动后关闭标签"
+   },
+   "wizard_recycleKeepSliderValue": {
+      "description": "Slider label for minimum tabs threshold",
+      "message": "...且仅当打开的标签超过\u003Cb class=\"slider-value\">$1\u003C/b>个"
+   }
+}

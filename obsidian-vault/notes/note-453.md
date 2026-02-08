@@ -1,1 +1,0 @@
-som ou combinação de sons agradáveis ao ouvido.

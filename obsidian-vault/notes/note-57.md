@@ -1,1 +1,0 @@
-mostrar receio , estar indeciso

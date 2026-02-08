@@ -1,0 +1,8 @@
+{
+   "description": {
+      "message": "YouTube videolarını ve Shorts'ları ChatGPT ile özetleyin. Ana fikirler, transkript ve önemli noktalar doğrudan video sayfasında görünsün"
+   },
+   "name": {
+      "message": "YouTube Videoları için ChatGPT Özeti"
+   }
+}

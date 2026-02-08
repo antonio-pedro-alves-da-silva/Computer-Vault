@@ -1,10 +1,14 @@
-
-
-
-
-git clone --depth=1 https://github.com/antonio-pedro-alves-da-silva/Computer-Vault
+T
 sed -i 's/plugins=(git)/plugins=(git zsh-syntax-highlighting zsh-autosuggestions sudo copypath dirhistory)/' ~/.zshrc
 source ~/.zshrc
 
-sudo cp ~/Computer-Vault/linux-vault/my-configuration-files/sway/config ~/.config/sway/
-sudo cp ~/Computer-Vault/linux-vault/my-configuration-files/preload/preload.conf /etc/preload.conf
+mkdir -p ~/.config/sway
+mkdir -p ~/.config/alacritty
+mkdir -p ~/.config/waybar
+
+
+
+sudo cp -r ~/Computer-Vault/linux-vault/linux-configuration-files/installation-package-configuration/sway/ ~/.config/
+sudo cp ~/Computer-Vault/linux-vault/linux-configuration-files/installation-package-configuration/preload/preload.conf /etc/preload.conf
+sudo cp -r ~/Computer-Vault/linux-vault/linux-configuration-files/installation-package-configuration/alacritty/ ~/.config/
+

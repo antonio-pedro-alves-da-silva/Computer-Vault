@@ -1,1 +1,0 @@
-usar as palavras de forma divertida e inteligente; cheio de inteligência:

@@ -1,1 +1,0 @@
-são materias que que criam um campo de sentido oposto ao campo aplicado.

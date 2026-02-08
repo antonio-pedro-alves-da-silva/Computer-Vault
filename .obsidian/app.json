@@ -1,0 +1,15 @@
+{
+  "showLineNumber": true,
+  "showUnsupportedFiles": true,
+  "showInlineTitle": true,
+  "livePreview": true,
+  "defaultViewMode": "source",
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "propertiesInDocument": "visible",
+  "showIndentGuide": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "useTab": false,
+  "tabSize": 4
+}

@@ -1,1 +1,0 @@
-A denial is a refusal, and often means a refusal to believe or accept something as the truth

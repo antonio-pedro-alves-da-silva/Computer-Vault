@@ -1,1 +1,0 @@
-Os vizinhos **implicaram com** o novo morador.

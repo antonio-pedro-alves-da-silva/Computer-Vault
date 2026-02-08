@@ -1,0 +1,366 @@
+{
+   "addToWhitelist": {
+      "description": "Add to Whitelist to NOT suspend this site in future.",
+      "message": "इस साइट को भविष्य में सस्पेंड न करने के लिए व्हाइटलिस्ट में जोड़ें।"
+   },
+   "allSettings": {
+      "description": "Open full settings page.",
+      "message": "पूर्ण सेटिंग्स पेज खोलें।"
+   },
+   "autoCloseTabsSwitch": {
+      "description": "Close Tabs Automatically",
+      "message": ""
+   },
+   "autoSuspendInterval": {
+      "description": "Auto-Suspend Interval",
+      "message": ""
+   },
+   "autoSuspendSliderValue": {
+      "description": "Will suspend tab after $1 of inactivity",
+      "message": "$1 निष्क्रियता के बाद टैब सस्पेंड होगा"
+   },
+   "changeHotkeys": {
+      "description": "Setup/Change hotkeys for fast access to Tab Suspender functions.",
+      "message": "Tab Suspender फ़ंक्शन तक त्वरित पहुंच के लिए हॉटकी सेटअप/बदलें।"
+   },
+   "extDescription": {
+      "description": "MAX 128: Automatically suspend, park, hibernate inactive tabs and save up to 80% of memory, reduce load on your device, battery and heat.",
+      "message": "निष्क्रिय टैब को स्वचालित रूप से सस्पेंड करें और 80% तक मेमोरी बचाएं, अपने डिवाइस, बैटरी पर लोड और गर्मी कम करें।"
+   },
+   "extName": {
+      "description": "Clear Tab Suspender",
+      "message": "Tab Suspender"
+   },
+   "extTitle": {
+      "description": "Tab Suspender",
+      "message": "Tab Suspender"
+   },
+   "ignoreCurrentTab": {
+      "description": "The marked tab will be ignored by Tab Suspender (Will be reset after browser restart, if you need permanent ignore please use Whitelist).",
+      "message": "चिह्नित टैब को Tab Suspender द्वारा अनदेखा किया जाएगा (ब्राउज़र पुनः आरंभ के बाद रीसेट हो जाएगा, स्थायी अनदेखा के लिए व्हाइटलिस्ट का उपयोग करें)।"
+   },
+   "pageIsInWhitelist": {
+      "description": "Page is in Whilelist",
+      "message": ""
+   },
+   "pauseSuspender": {
+      "description": "Stop Tab Suspender for a while...",
+      "message": "Tab Suspender को कुछ समय के लिए रोकें..."
+   },
+   "pauseSuspenderFor10M": {
+      "description": "Stop Tab Suspender for 10 minutes.",
+      "message": "Tab Suspender को 10 मिनट के लिए रोकें।"
+   },
+   "pauseSuspenderFor1D": {
+      "description": "Title for pause 1 day button",
+      "message": "Tab Suspender को 1 दिन के लिए रोकें।"
+   },
+   "pauseSuspenderFor1H": {
+      "description": "Stop Tab Suspender for 1 hour.",
+      "message": "Tab Suspender को 1 घंटे के लिए रोकें।"
+   },
+   "pauseSuspenderFor5H": {
+      "description": "Stop Tab Suspender for 5 hours.",
+      "message": "Tab Suspender को 5 घंटे के लिए रोकें।"
+   },
+   "popupAutoSuspendInterval": {
+      "description": "Label for auto-suspend interval slider",
+      "message": "स्वचालित-सस्पेंड अंतराल"
+   },
+   "popupAutoSuspendTurnedOff": {
+      "description": "Tab-Suspender temporarily disabled",
+      "message": "स्वचालित सस्पेंड बंद है"
+   },
+   "popupBtn10min": {
+      "description": "Pause for 10 minutes button",
+      "message": "10 मिनट"
+   },
+   "popupBtn1day": {
+      "description": "Pause for 1 day button",
+      "message": "1 दिन"
+   },
+   "popupBtn1hour": {
+      "description": "Pause for 1 hour button",
+      "message": "1 घंटा"
+   },
+   "popupBtn5hours": {
+      "description": "Pause for 5 hours button",
+      "message": "5 घंटे"
+   },
+   "popupBtnAll": {
+      "description": "Suspend/Unsuspend All button",
+      "message": "सभी"
+   },
+   "popupBtnAllOther": {
+      "description": "Suspend All Other button",
+      "message": "अन्य सभी"
+   },
+   "popupBtnClosed": {
+      "description": "Closed history button",
+      "message": "बंद किए गए"
+   },
+   "popupBtnGroup": {
+      "description": "Suspend/Unsuspend Group button",
+      "message": "समूह"
+   },
+   "popupBtnSuspended": {
+      "description": "Suspended history button",
+      "message": "सस्पेंड किए गए"
+   },
+   "popupBtnTab": {
+      "description": "Suspend/Unsuspend Tab button",
+      "message": "टैब"
+   },
+   "popupBtnWindow": {
+      "description": "Suspend/Unsuspend Window button",
+      "message": "विंडो"
+   },
+   "popupChangeHotkeys": {
+      "description": "Change hotkeys menu item",
+      "message": "हॉटकी बदलें..."
+   },
+   "popupCloseUnusedTabs": {
+      "description": "Label for close unused tabs feature",
+      "message": "अप्रयुक्त टैब स्वचालित रूप से बंद करें"
+   },
+   "popupDonateText": {
+      "description": "Donate link text",
+      "message": "Tab Suspender पसंद है? दान करने पर विचार करें!"
+   },
+   "popupDonateTitle": {
+      "description": "Donate link title",
+      "message": "अगर आपको Tab Suspender पसंद है, और आप इसे जारी रखना चाहते हैं, नई सुविधाएं और सहायता अनुरोधों को संभालना...प्रोजेक्ट का समर्थन करें!"
+   },
+   "popupDontSuspendSite": {
+      "description": "Button to add site to whitelist",
+      "message": "इस साइट को सस्पेंड न करें..."
+   },
+   "popupDontSuspendTab": {
+      "description": "Button to ignore current tab",
+      "message": "इस टैब को सस्पेंड न करें (टैब जीवित रहने तक अनदेखा करें)"
+   },
+   "popupHistoryLabel": {
+      "description": "Label for history section",
+      "message": "इतिहास:"
+   },
+   "popupIncreaseInterval": {
+      "description": "Title for increase interval button",
+      "message": "अंतराल बढ़ाएं..."
+   },
+   "popupOnOffAutoSuspend": {
+      "description": "Title for auto-suspend toggle",
+      "message": "स्वचालित सस्पेंड चालू/बंद"
+   },
+   "popupOpenSessionManager": {
+      "description": "Title for Session Manager",
+      "message": "सेशन मैनेजर खोलें।"
+   },
+   "popupOpenSessionsNewWindow": {
+      "description": "Title for open sessions in new window",
+      "message": "विंडो सेशन नई विंडो में खोलें"
+   },
+   "popupPauseSuspenderLabel": {
+      "description": "Label for pause section",
+      "message": "सस्पेंडर रोकें:"
+   },
+   "popupRemove": {
+      "description": "Remove from whitelist button",
+      "message": "हटाएं"
+   },
+   "popupSessionManager": {
+      "description": "Session Manager menu item",
+      "message": "सेशन मैनेजर..."
+   },
+   "popupSettings": {
+      "description": "Settings menu item",
+      "message": "सेटिंग्स..."
+   },
+   "popupShowByDefault": {
+      "description": "Show sessions by default checkbox label",
+      "message": "डिफ़ॉल्ट रूप से दिखाएं"
+   },
+   "popupShowClosedHistory": {
+      "description": "Title for closed tabs history",
+      "message": "बंद किए गए टैब का इतिहास दिखाएं।"
+   },
+   "popupShowSuspendedHistory": {
+      "description": "Title for suspended tabs history",
+      "message": "सस्पेंड किए गए टैब का इतिहास दिखाएं।"
+   },
+   "popupShowWindowSessions": {
+      "description": "Show window sessions button",
+      "message": "विंडो सेशन दिखाएं"
+   },
+   "popupSiteInWhitelist": {
+      "description": "Message when site is already whitelisted",
+      "message": "साइट पहले से व्हाइटलिस्ट में है"
+   },
+   "popupSuspendLabel": {
+      "description": "Label for suspend buttons section",
+      "message": "सस्पेंड:"
+   },
+   "popupSuspenderPausedFor": {
+      "description": "Label shown when suspender is paused",
+      "message": "सस्पेंडर के लिए रोका गया:"
+   },
+   "popupToggle": {
+      "description": "Toggle checkbox label",
+      "message": "टॉगल"
+   },
+   "popupUnsuspendLabel": {
+      "description": "Label for unsuspend buttons section",
+      "message": "अनसस्पेंड:"
+   },
+   "rateIt": {
+      "description": "Rate it, please.",
+      "message": "कृपया रेट करें।"
+   },
+   "recycleAfterSliderValue": {
+      "description": "Сan close tabs after $1 of tab inactivity",
+      "message": ""
+   },
+   "recycleKeepSliderValue": {
+      "description": "Will close tabs if there are more than $1 tabs",
+      "message": ""
+   },
+   "removeFromWhilelist": {
+      "description": "Remove from Whitelist",
+      "message": ""
+   },
+   "resumeSuspender": {
+      "description": "Cancel timer and activate Tab Suspender.",
+      "message": "टाइमर रद्द करें और Tab Suspender सक्रिय करें।"
+   },
+   "suspendAll": {
+      "description": "Immediately suspend all tabs except current tab.",
+      "message": "वर्तमान टैब को छोड़कर सभी टैब तुरंत सस्पेंड करें।"
+   },
+   "suspendAllTabs": {
+      "description": "Immediately suspend all tabs.",
+      "message": "सभी टैब तुरंत सस्पेंड करें।"
+   },
+   "suspendCurrentTab": {
+      "description": "Immediately suspend current tab.",
+      "message": "वर्तमान टैब को तुरंत सस्पेंड करें।"
+   },
+   "suspendCurrentWindow": {
+      "description": "Immediately suspend all tabs at current window.",
+      "message": "वर्तमान विंडो के सभी टैब तुरंत सस्पेंड करें।"
+   },
+   "suspendHistory": {
+      "description": "Open suspended tabs history.",
+      "message": "सस्पेंड किए गए टैब का इतिहास खोलें।"
+   },
+   "suspendTabGroup": {
+      "description": "Immediately suspend all tabs in current tab group.",
+      "message": "वर्तमान टैब समूह के सभी टैब तुरंत सस्पेंड करें।"
+   },
+   "unsuspend": {
+      "description": "Unsuspend tab.",
+      "message": "टैब अनसस्पेंड करें।"
+   },
+   "unsuspendAll": {
+      "description": "Immediately unsuspend all tabs.",
+      "message": "सभी टैब तुरंत अनसस्पेंड करें।"
+   },
+   "unsuspendAllWindow": {
+      "description": "Immediately unsuspend all tabs at current window.",
+      "message": "वर्तमान विंडो के सभी टैब तुरंत अनसस्पेंड करें।"
+   },
+   "unsuspendTabGroup": {
+      "description": "Immediately unsuspend all tabs in current tab group.",
+      "message": "वर्तमान टैब समूह के सभी टैब तुरंत अनसस्पेंड करें।"
+   },
+   "wizardBtnBack": {
+      "description": "Back button",
+      "message": "\u003C वापस"
+   },
+   "wizardBtnClose": {
+      "description": "Close button",
+      "message": "बंद करें"
+   },
+   "wizardBtnFinish": {
+      "description": "Finish button",
+      "message": "समाप्त"
+   },
+   "wizardBtnNext": {
+      "description": "Next button",
+      "message": "आगे >"
+   },
+   "wizardBtnSkip": {
+      "description": "Skip button",
+      "message": "छोड़ें / डिफ़ॉल्ट उपयोग करें"
+   },
+   "wizardClickNext": {
+      "description": "Wizard click next instruction",
+      "message": "बुनियादी सेटिंग्स कॉन्फ़िगर करने के लिए \u003Cspan class=\"bold-underline\">आगे\u003C/span> क्लिक करें।"
+   },
+   "wizardComplete": {
+      "description": "Wizard completion title",
+      "message": "पूर्ण!"
+   },
+   "wizardCompleteText": {
+      "description": "Wizard completion text",
+      "message": "Tab Suspender अब इस समय से \u003Cspan id=\"resultTimeoutValue\" class=\"highlight-value\">$1\u003C/span> के बाद स्वचालित रूप से पहले अप्रयुक्त टैब को सस्पेंड करना शुरू कर देगा।"
+   },
+   "wizardErrorReports": {
+      "description": "Error reports checkbox label",
+      "message": "Tab Suspender की गुणवत्ता सुधारने में मदद करें और त्रुटि रिपोर्ट भेजें"
+   },
+   "wizardIntro": {
+      "description": "Wizard intro text",
+      "message": "- आपको खुले टैब की बड़ी संख्या और उनकी मेमोरी की चिंता नहीं करने देता!"
+   },
+   "wizardNo": {
+      "description": "No option",
+      "message": "नहीं"
+   },
+   "wizardOrSkip": {
+      "description": "Wizard skip instruction",
+      "message": "या पूर्वनिर्धारित कॉन्फ़िगरेशन का उपयोग करने के लिए \u003Cspan class=\"bold-underline\">छोड़ें\u003C/span>।"
+   },
+   "wizardStep": {
+      "description": "Wizard step indicator",
+      "message": "( चरण $1 का $2 )"
+   },
+   "wizardStep2Question": {
+      "description": "Wizard step 2 question",
+      "message": "आप कितनी निष्क्रियता के बाद प्रत्येक अप्रयुक्त टैब को सोने में डालना चाहते हैं?"
+   },
+   "wizardStep3HintLink": {
+      "description": "Wizard step 3 hint link text",
+      "message": "अप्रयुक्त टैब"
+   },
+   "wizardStep3HintPrefix": {
+      "description": "Wizard step 3 hint prefix",
+      "message": "मैन्युअल रूप से बंद करने के बारे में न सोचने में मदद करता है"
+   },
+   "wizardStep3HintSuffix": {
+      "description": "Wizard step 3 hint suffix",
+      "message": "।"
+   },
+   "wizardStep3Question": {
+      "description": "Wizard step 3 question",
+      "message": "क्या आप Tab Suspender को सबसे कम उपयोग किए गए या भूले हुए टैब खोजने और उन्हें स्वचालित रूप से बंद करने की अनुमति देना चाहते हैं?"
+   },
+   "wizardTitle": {
+      "description": "Wizard page title",
+      "message": "Tab Suspender विज़ार्ड में आपका स्वागत है"
+   },
+   "wizardVideoHint": {
+      "description": "Wizard video hint",
+      "message": "यदि आप पहले टैब सस्पेंड करना चाहते हैं, तो आप वीडियो में दिखाए अनुसार बटन क्लिक करके कोई भी टैब सस्पेंड कर सकते हैं:"
+   },
+   "wizardYes": {
+      "description": "Yes option",
+      "message": "हाँ"
+   },
+   "wizard_recycleAfterSliderValue": {
+      "description": "Slider label for auto-close tabs after inactivity",
+      "message": "\u003Cb class=\"slider-value\">$1\u003C/b> निष्क्रियता के बाद टैब बंद कर सकते हैं"
+   },
+   "wizard_recycleKeepSliderValue": {
+      "description": "Slider label for minimum tabs threshold",
+      "message": "...और केवल जब विंडो में \u003Cb class=\"slider-value\">$1\u003C/b> से अधिक टैब खुले हों"
+   }
+}

@@ -1,0 +1,91 @@
+body {
+  margin: 0;
+  background: #FFFFFF;
+  width: 250px;
+  height: 253px;
+}
+body .root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+body .root span {
+  user-select: none;
+}
+body .root .logo {
+  background-image: url('chrome-extension://__MSG_@@extension_id__/icons/ai_logo_icon.svg');
+  background-size: contain;
+  width: 24px;
+  height: 24px;
+  margin-top: 23px;
+}
+body .root .title {
+  margin-top: 18px;
+  background: linear-gradient(90deg, #0460F1 0%, #862EED 25.48%, #FF09DA 50.48%, #FF3A7D 75%, #FF7B02 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 100%;
+  letter-spacing: 0;
+  text-align: center;
+}
+body .root .description {
+  margin-top: 9px;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 140%;
+  letter-spacing: 0;
+  text-align: center;
+  color: #000000;
+}
+body .root .controls {
+  margin-top: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+body .root .controls .yt-video-btn,
+body .root .controls .yt-shorts-btn {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  opacity: 1;
+  border-radius: 18px;
+  background: linear-gradient(#F2F2F2, #F2F2F2) padding-box, linear-gradient(90deg, #3B89FF 0%, #FF00EA 50%, #FF7B00 100%) border-box;
+  border: 1px solid transparent;
+  cursor: pointer;
+}
+body .root .controls .yt-video-btn .logo,
+body .root .controls .yt-shorts-btn .logo {
+  pointer-events: none;
+  margin: 0 0 0 11px;
+  background-size: contain;
+  width: 20px;
+  height: 20px;
+}
+body .root .controls .yt-video-btn .text,
+body .root .controls .yt-shorts-btn .text {
+  pointer-events: none;
+  margin: 0 0 0 9px;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 100%;
+  color: #000000;
+}
+body .root .controls .yt-shorts-btn {
+  width: 194px;
+  height: 36px;
+}
+body .root .controls .yt-shorts-btn .logo {
+  background-image: url('chrome-extension://__MSG_@@extension_id__/icons/youtube_shorts.svg');
+}
+body .root .controls .yt-video-btn {
+  width: 148px;
+  height: 36px;
+}
+body .root .controls .yt-video-btn .logo {
+  background-image: url('chrome-extension://__MSG_@@extension_id__/icons/youtube.svg');
+}

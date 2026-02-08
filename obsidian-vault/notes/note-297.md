@@ -1,1 +1,0 @@
-é quando um material fica fracamente imantado

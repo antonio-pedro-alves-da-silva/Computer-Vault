@@ -1,1 +1,0 @@
-Como exceção à regra temos que, quando o ==ditongo é decrescente e a vogal do hiato ocupa a posição de paroxítona,== esta não deve ser acentuada. Exemplo: bai-u-ca.

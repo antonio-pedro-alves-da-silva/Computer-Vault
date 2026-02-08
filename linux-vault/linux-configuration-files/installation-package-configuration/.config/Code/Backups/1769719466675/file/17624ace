@@ -1,0 +1,14 @@
+file:///home/antonio/Computer-Vault/linux-vault/linux-configuration-files/installation-package-configuration/operating-system-package-installation/set-installaton-package-configuration.sh {"mtime":1769875343559,"ctime":1769713665824,"size":680,"etag":"3fhdd52cjlt","orphaned":false,"typeId":""}
+
+sed -i 's/plugins=(git)/plugins=(git zsh-syntax-highlighting zsh-autosuggestions sudo copypath dirhistory)/' ~/.zshrc
+source ~/.zshrc
+
+mkdir -p ~/.config/sway
+mkdir -p ~/.config/preload
+mkdir -p ~/.config/alacritty
+mkdir -p ~/.config/alacritty/themes
+
+sudo cp ~/Computer-Vault/linux-vault/linux-configuration-files/installation-package-configuration/sway/config ~/.config/sway/config
+sudo cp ~/Computer-Vault/linux-vault/linux-configuration-files/installation-package-configuration/preload/preload.conf /etc/preload.conf
+sudo cp ~/Computer-Vault/linux-vault/linux-configuration-files/installation-package-configuration/alacritty/alacritty.toml ~/.config/alacritty/alacritty.toml
+sudo cp ~/Computer-Vault/linux-vault/linux-configuration-files/installation-package-configuration/alacritty/themes/dracula.toml

@@ -1,1 +1,0 @@
-**Pode ** é a forma do verbo poder conjugada na 3.ª pessoa do singular do pretérito perfeito do indicativo.

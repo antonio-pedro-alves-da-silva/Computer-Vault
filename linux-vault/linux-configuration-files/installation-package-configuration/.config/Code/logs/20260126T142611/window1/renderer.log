@@ -1,0 +1,7 @@
+2026-01-26 14:26:20.865 [info] Started local extension host with pid 19302.
+2026-01-26 14:26:20.879 [info] MCP Registry configured: https://api.mcp.github.com
+2026-01-26 14:26:21.608 [info] Started initializing default profile extensions in extensions installation folder. file:///home/antonio/.vscode/extensions
+2026-01-26 14:26:23.776 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/antonio/.vscode/extensions Unable to create file 'vscode-userdata:/home/antonio/.vscode/extensions/extensions.json' that already exists when overwrite flag is not set
+2026-01-26 14:26:23.778 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/antonio/.vscode/extensions
+2026-01-26 14:26:26.700 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-01-26 14:26:31.336 [info] [perf] Render performance baseline is 77ms
