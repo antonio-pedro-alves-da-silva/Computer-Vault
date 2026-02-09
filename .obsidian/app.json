@@ -11,5 +11,7 @@
   "foldHeading": true,
   "foldIndent": true,
   "useTab": false,
-  "tabSize": 4
+  "tabSize": 4,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "/notes"
 }

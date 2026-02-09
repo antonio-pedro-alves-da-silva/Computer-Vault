@@ -8,22 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "faa6b7436527d650",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian-vault/learning/goals/goals.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "goals"
-            }
-          },
-          {
-            "id": "5ff0403e374163ee",
+            "id": "62d668e981b76567",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,6 +20,21 @@
               },
               "icon": "lucide-file",
               "title": "interests"
+            }
+          },
+          {
+            "id": "bbac9fae48cc1587",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian-vault/learning/goals.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "goals"
             }
           },
           {
@@ -52,8 +52,7 @@
               "title": "taks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,27 +158,28 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "vscode-editor:Create Code File": false,
-      "obsidian-trash-explorer:Open trash explorer": false,
-      "rss-dashboard:RSS dashboard": false,
-      "rss-dashboard:RSS discover": false
+      "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "6e13b51885ca4343",
+  "active": "62d668e981b76567",
   "lastOpenFiles": [
-    "obsidian-vault/learning/interests.md",
-    "obsidian-vault/learning/goals/goals.md",
     "obsidian-vault/taks.md",
+    "obsidian-vault/learning/goals.md",
+    "obsidian-vault/learning/interests.md",
+    "obsidian-vault/notes/note-1.md",
     "obsidian-vault/notes",
-    "Untitled.md",
+    "obsidian-vault/n",
+    "notes.md",
+    "obsidian-vault/learning/interests",
+    "categoria 1.md",
+    "obsidian-vault/learning/notes/note-1.md",
+    "obsidian-vault/learning/interests/notes",
     "obsidian-vault/learning/interests/notes",
     "obsidian-vault/learning/goals",
     "obsidian-vault/learning/interests",
     "linux-vault/linux-configuration-files/installation-package-configuration/operating-system-package-installation/#fedora-package-installation.sh#",
     "linux-vault/linux-configuration-files/installation-package-configuration/preload/##preload.conf##",
     "linux-vault/linux-configuration-files/installation-package-configuration/preload/#preload.conf#",
-    "linux-vault/linux-configuration-files/installation-package-configuration/operating-system-package-installation/fedora-package-installation.sh",
-    "linux-vault/linux-configuration-files/shortcuts/vscode_shortcuts.txt",
-    "obsidian-vault/subtitles.docx",
     "obsidian-vault/others-file/smartphone apps.md",
     "obsidian-vault/learning/programing/FULL-STACK WEB DEVELOPER/FULL-STACK WEB DEVELOPER.md",
     "linux-vault/linux-configuration-files/wallpaper/fundo-de-galaxia-em-aquarela.jpg",
@@ -201,8 +201,6 @@
     "obsidian-vault/learning/programing/Quantitative Finance with Python/Quantitative Finance with Python.md",
     "linux-vault/projects/node_modules/ms/license.md",
     "2026-01-31.md",
-    "obsidian-vault/Excalidraw/Drawing 2023-10-21 21.46.15.excalidraw.md",
-    "obsidian-vault/Excalidraw/FULL-STACK DEVELOPER 2024-01-17 10.59.38.excalidraw.md",
-    "obsidian-vault/Excalidraw/Função de seno.md"
+    "obsidian-vault/Excalidraw/Drawing 2023-10-21 21.46.15.excalidraw.md"
   ]
 }

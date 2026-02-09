@@ -1,8 +1,8 @@
-[ ] - change smartphone for ai ringtone 
+
 [  ] - organize youtube content in different categories
 [ ] - create universal shortcuts
 [ ] - backup smartphone
-[ ] - to create my own linux operating system
+[ ] - to create modify my linux operating system
 [ ~ ] - configure mime types
 
 
