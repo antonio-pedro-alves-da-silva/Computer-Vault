@@ -3,6 +3,9 @@ programming
 learn different languages
     what is the most efficient method to learn a language ?
 learn how to fight
+    muay boran
+    boxing
+    kickboxing
 health lifestyle
     healthy foods and supplements
         vegetable
@@ -35,6 +38,7 @@ health lifestyle
             hemp seed
             sesame seed
             fenugreek seed
+            pumpkin seed
         milk
             hemp milk
             macadamia milk
@@ -42,6 +46,7 @@ health lifestyle
         supplements
             collagen peptides
             creatinaGAA
+             peptistrong
         drink
             matcha
             vomitoria
@@ -85,7 +90,8 @@ youtube
     categoria 11 healthy lifestyle
     categoria 12 beauty and aesthetic
     categoria 13 cooking
-    categoria 14 different culture
+    categoria 14 superior civilization
+    
 
 learn Brain Computer Interface( Neural Engineering | Signal Processing and Machine Learning | Electrical Engineering and Robotics )
     what to learn to connect a human brain to a computer

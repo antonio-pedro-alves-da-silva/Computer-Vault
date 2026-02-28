@@ -56,6 +56,11 @@ input "type:touchpad" {
 
 # Moving around:
 
+    bindsym $mod+Left focus left
+    bindsym $mod+Down focus down
+    bindsym $mod+Up focus up
+    bindsym $mod+Right focus right
+
     bindsym $mod+Shift+Left move left
     bindsym $mod+Shift+Down move down
     bindsym $mod+Shift+Up move up
@@ -108,12 +113,12 @@ input "type:touchpad" {
 
 bindsym $mod+f1 exec swaymsg input "type:touchpad" events enabled; exec swaymsg input "type:touchpad" tap enabled; exec swaymsg input "type:touchpad" dwt enabled;exec nmcli radio all on
 bindsym $mod+f2 exec swaymsg input "type:keyboard" xkb_layout br
-bindsym $mod+f3 exec swaymsg input "type:keyboard" xkb_layout fr
-bindsym $mod+f4 exec swaymsg input "type:keyboard" xkb_layout ru
+bindsym $mod+f3 exec swaymsg input "type:keyboard" xkb_layout ru
+bindsym $mod+f4 exec swaymsg input "type:keyboard" xkb_layout in
 bindsym $mod+f5 exec swaymsg input "type:keyboard" xkb_layout ge
 bindsym $mod+f7 exec swaymsg input "type:keyboard" xkb_layout gn
 bindsym $mod+f8 exec swaymsg input "type:keyboard" xkb_layout gr
-bindsym $mod+shift+f10 exec swaymsg input "type:touchpad" events disabled; exec swaymsg input "type:touchpad" tap disabled; exec swaymsg input "type:touchpad" dwt disabled;exec swaymsg input "type:keyboard" xkb_layout altwin ;exec nmcli radio all off 
+bindsym $mod+f10 exec swaymsg input "type:touchpad" events disabled; exec swaymsg input "type:touchpad" tap disabled; exec swaymsg input "type:touchpad" dwt disabled;exec swaymsg input "type:keyboard" xkb_layout altwin ;exec nmcli radio all off 
 
 exec nmcli radio all off
 

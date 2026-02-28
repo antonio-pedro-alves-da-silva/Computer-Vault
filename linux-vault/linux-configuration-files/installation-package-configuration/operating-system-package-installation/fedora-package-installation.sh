@@ -20,6 +20,7 @@ flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.f
 
 # zsh installation
 sudo dnf install zsh -y
+
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.oh-my-zsh/plugins/zsh-syntax-highlighting
 git clone https://github.com/zsh-users/zsh-autosuggestions.git ~/.oh-my-zsh/plugins/zsh-autosuggestions
@@ -39,7 +40,6 @@ sudo dnf install blueman -y
 sudo dnf install pavucontrol -y
 sudo dnf install xvkbd -y
 sudo dnf install micro -y
-sudo dnf install libreoffice -y
 sudo dnf copr enable atim/alacritty
 sudo dnf install alacritty -y
 flatpak install flathub md.obsidian.Obsidian -y
