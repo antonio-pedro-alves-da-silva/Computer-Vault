@@ -46,6 +46,7 @@ input "type:touchpad" {
 
     bindsym $mod+Return exec alacritty
     bindsym $mod+c kill
+    bindsym $mod+shift+k exec kill -9 $(swaymsg -t get_tree | jq '.. | select(.focused? == true).pid')
     bindsym $mod+l exec $menu
 
     floating_modifier $mod normal
@@ -120,6 +121,7 @@ bindsym $mod+f7 exec swaymsg input "type:keyboard" xkb_layout gn
 bindsym $mod+f8 exec swaymsg input "type:keyboard" xkb_layout gr
 bindsym $mod+f10 exec swaymsg input "type:touchpad" events disabled; exec swaymsg input "type:touchpad" tap disabled; exec swaymsg input "type:touchpad" dwt disabled;exec swaymsg input "type:keyboard" xkb_layout altwin ;exec nmcli radio all off 
 
+exec bash /home/antonio/Computer-Vault/linux-vault/linux-configuration-files/all-scripts/operating-system-scripts/flashing-loop.sh
 exec nmcli radio all off
 
 # Include configs from 3 locations:
