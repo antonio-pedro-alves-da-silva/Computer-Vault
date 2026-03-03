@@ -3,53 +3,44 @@
 
 
     general
-Ctrl+Shift+P, F1 Show Command Palette
-Ctrl+P Quick Open, Go to File…
-Ctrl+R recent file
-Ctrl+Shift+W Close window/instance
+ctrl+o = open file
+ctrl+k , ctrl+o = open folder
+ctrl+Shift+P = Show Command Palette
+ctrl+R = recent file
+ctrl+w = close tab
+ctrl+shift+t = reopen tab
 
     text editing
-Ctrl+L select the entire line
-Ctrl+u cut the entire line
-Ctrl+shift+c Copy line
+ctrl+L = select the entire line
+ctrl+u = cut the entire line
+ctrl+c = copy selection
+ctrl+z = undo
+ctrl+y = redo
+shift+click = draggable selection
 
-Ctrl+X Cut line (empty selection)
-Ctrl+C Copy line (empty selection)
-Alt+ ↑ / ↓ Move line up/down
-Ctrl+Enter Insert line below
-Ctrl+Shift+Enter Insert line above
-Ctrl+Shift+\ Jump to matching bracket
-Ctrl+] / [ Indent/outdent line
-Ctrl+Home Go to beginning of file
-Ctrl+End Go to end of file
-ctrl+shif+k toggle line Comment
-alt+z toggle word wrap 
-Alt+Shift+Left expand both sides
+alt+ ↑|↓ = Move line up/down
+ctrl+enter = insert line below
+ctrl+shift+enter insert line above
+ctrl+]|[ = Indent/outdent line
+ctrl+Home = Go to beginning of file
+ctrl+End = Go to end of file
+ctrl+shif+k = toggle line Comment
+alt+z = toggle word wrap 
+alt+shift+left = expand both sides
 
     search and replace
-Ctrl+F Find
-Ctrl+H Replace
-Ctrl+D select next and next and next match
+ctrl+F = Find
+ctrl+H = Replace
+ctrl+D = select next and next and next match
 
-    Multi-cursor and selection
-Alt+shift+Click Insert cursor
-Alt+shift+down|top add cursor
-Alt+shift+I Insert cursor at end of each line selected after text being selected
+    Multi-cursor 
+ctrl+click = Insert cursor
+ctrl+shift+down|top = add cursor
+crtl+shift+i Insert cursor at end of each line selected after text being selected
 
-    display
-Alt+shift+B Toggle Sidebar visibility
-Alt+shift+c Toggle Status bar visibility
-Alt+shift+p Toggle Panel visibility
+    view layout toggle
+alt+shift+b Toggle Sidebar visibility
+alt+shift+s Toggle Status bar visibility
+alt+shift+p Toggle Panel visibility
 
-    editor management
-Ctrl+K Ctrl+O open folder
-Ctrl+K F Close folder
-Ctrl+W close tab
 
-    file management
-
-Ctrl+O Open File...
-Ctrl+K Ctrl+W Close All
-Ctrl+\ Split same editor
-Ctrl+Shift+T Reopen closed editor
-Ctrl+K P Copy path of active file

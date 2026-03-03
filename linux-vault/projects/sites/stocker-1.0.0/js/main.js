@@ -1,7 +1,16 @@
-$('.owl-carousel').owlCarousel({
+
+
+var owl = $('.owl-carousel');
+
+owl.owlCarousel({
     loop:true,
     margin:0,
     nav:true,
+    navText : [
+    '<i class="fa-solid fa-arrow-left"></i>',
+    '<i class="fa-solid fa-arrow-right"></i>'
+    ],
+
     responsive:{
         0:{
             items:1
@@ -9,9 +18,9 @@ $('.owl-carousel').owlCarousel({
     }
 })
 
+
 const navbar = document.getElementById("navbar");
 const navbar_rect = navbar.getBoundingClientRect();
-
 
 
 setInterval(()=>{

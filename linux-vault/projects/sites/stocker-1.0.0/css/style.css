@@ -16,6 +16,21 @@
     box-sizing: border-box;
 }
 
+h4 {
+  margin-top: 0;
+  margin-bottom: .5rem;
+  font-family: "Roboto",sans-serif;
+  font-weight: 500;
+  line-height: 1.2;
+  color: #111;
+}
+
+.display-4 {
+   font-size: calc(1.425rem + 2.1vw);
+  font-weight: 700;
+  line-height: 1.2;
+}
+
 body {
     position: relative;
     font-family: 'Roboto',sans-serif;
@@ -171,7 +186,7 @@ body {
     background-color: var(--primary-color);
     width: 100%;
     height: 2px;
-    top:63px;
+    top:69px;
     left:0;
     transform: scale(0);
     transition: .5s;
@@ -184,7 +199,7 @@ body {
     background-color: var(--primary-color);
     width: 2px;
     height: 10px;
-    top:53px;
+    top:60px;
     left:50%;
     transition: .5s;
     transform: scale(0);
@@ -196,7 +211,7 @@ body {
     background-color: var(--primary-color);
     width: 100%;
     height: 2px;
-    top:63px;
+    top:69px;
     left:0;
     transform: scale(1);
 }
@@ -207,7 +222,7 @@ body {
     background-color: var(--primary-color);
     width: 2px;
     height: 10px;
-    top:53px;
+    top:60px;
     left:50%;
     transform: scale(1);
 
@@ -254,6 +269,7 @@ body {
     height: 100vh;
     background-image: url("/stocker-1.0.0/img/carousel-1.jpg");
     object-fit: cover;
+
 }
 
 .owl-carousel .item .backdrop {
@@ -264,10 +280,6 @@ body {
     top:0px;
 
 
-}
-
-.owl-carousel .item {
-    display: flex;
 }
 
 .owl-carousel #carousel-caption {
@@ -290,7 +302,7 @@ body {
     margin: 1.275rem 0px;
     word-wrap: wrap;
 
-l}
+}
 
 .owl-carousel #carousel-caption p {
     font-size:1.25rem;
@@ -308,11 +320,17 @@ l}
     font-weight: 600;
     transition: .5s;
     margin-right:1rem;
+    transition: .5s;
 }
 
 .owl-carousel #carousel-caption .button-group .secondary-button:hover {
     background-color: var(--primary-color);
     color: var(--secondary-color);
+}
+
+.owl-carousel #carousel-caption .button-group .secondary-button:focus {
+    box-shadow: 0px 0px 0px 5px rgba(255,255,255,.5);
+    transition: .5s;
 }
 
 .owl-carousel #carousel-caption .button-group .primary-button {
@@ -322,15 +340,138 @@ l}
     font-size: 1rem;
     padding: 1rem 3rem;
     border-radius:50rem;
+    transition: .5s;
 }
+
+.owl-carousel #carousel-caption .button-group .primary-button:hover {
+    color:var(--primary-color);
+    background-color: black;
+}
+
+.owl-carousel #carousel-caption .button-group .primary-button:focus {
+    box-shadow: 0px 0px 0px 5px rgba(0, 208, 132, .5);
+    transition: .5s;
+}
+
 
 .owl-carousel #carousel-caption .button-group {
     margin-top:3rem;
 }
 
+.owl-carousel #carousel-caption #follow-us {
+    position: relative;
+    top:50px;
+}
+
+
+
+.owl-carousel #carousel-caption #follow-us div span {
+    color:var(--primary-color);
+    background-color: var(--secondary-color);
+    padding: 0.875rem ;
+    border-radius: 50rem;
+    margin:0.375rem;
+    transition: .5s;
+}
+
+.owl-carousel #carousel-caption #follow-us div span:hover {
+    color:var(--secondary-color);
+    background-color:var(--primary-color);
+    transition: .5s;
+}
+
+.owl-nav {
+    display:flex;
+    position: absolute;
+    top:480px;
+    z-index: 999;
+    left:20px;
+}
+
+.owl-next , .owl-prev {
+    color:var(--secondary-color);
+    background-color: var(--primary-color);
+    padding: 1.2rem;
+    border-radius:50rem;
+    font-size: 1.2rem;
+    margin: 0px 0.75rem;
+}
+
+#about .column1 h4 {
+    color:#111;
+}
+
+#about h1 {
+    margin-bottom: 1.5rem;
+}
+
+#about {
+    padding:6rem;
+}
+
+#about .column1 div div {
+    position: relative;
+    top:10px;
+}
+
+
+@media (min-width:768px){
+
+.owl-carousel .item2 #carousel-caption {
+    text-align: center;
+}
+
+.owl-carousel .item2 #carousel-caption p {
+    margin:0 auto;
+    text-align: center;
+}
+
+.owl-carousel #carousel-caption {
+        text-align: end;
+        position: relative;
+        right: 80px;
+    }
+
+.owl-carousel #carousel-caption h1 {
+    display: inline-block;
+    width: 400px;
+}
+
+.owl-carousel #carousel-caption p {
+    display: block;
+    max-width: 600px;
+    text-align: end;
+    margin-left:auto
+}
+}
+
+@keyframes image-zoom {
+0% {
+  height: 100%;
+  opacity: 0.9;
+}
+25% {
+  height: 110%;
+  opacity: 0.50;
+}
+50% {
+  height: 115%;
+  opacity: 1;
+}
+75% {
+  height: 110%;
+  opacity: 0.50;
+}
+100% {
+  height: 100%;
+  opacity: 0.9;
+}
+}
+
 @media (min-width:992px) {
     #navbarLinks {
         display:none;
+        
     }
     
     #topbar {
