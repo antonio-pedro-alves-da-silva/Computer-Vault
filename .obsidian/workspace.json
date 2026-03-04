@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "cd859394ca3d1eb4",
@@ -133,12 +132,12 @@
   },
   "active": "26b48b673469780e",
   "lastOpenFiles": [
+    "obsidian-vault/learning/interests.md",
     "obsidian-vault/learning/goals.md",
     "obsidian-vault/learning/time block.md",
     "obsidian-vault/others-file/smartphone apps.md",
     "obsidian-vault/taks.md",
     "obsidian-vault/others-file/Untitled.md",
-    "obsidian-vault/learning/interests.md",
     "obsidian-vault/Untitled.md",
     "obsidian-vault/notes",
     "obsidian-vault/notes/note-1.md",
