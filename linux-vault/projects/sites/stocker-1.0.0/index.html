@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+ <html lang="en">
 
     <head>
         <meta charset="utf-8">
@@ -16,7 +16,7 @@
         <!-- Libraries Stylesheet -->
         <link rel="stylesheet" href="lib/animate/animate.min.css"/>
         <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
-        <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+        <link href="lib/OwlCarousel2-2.3.4/dist/assets/owl.carousel.min.css" rel="stylesheet">
 
 
         <!-- Customized Bootstrap Stylesheet -->
@@ -34,6 +34,7 @@
         <!-- Spinner End -->
 
         <!-- Topbar Start -->
+
 
         <div id="topbar">
             <div id="column1">
@@ -183,7 +184,10 @@
 
                 </div>
             </div>
-
+            <div class="nav-buttons">
+                 <button class="customPrevBtn"><i class="fa-solid fa-arrow-left"></i></button>
+                <button class="customNextBtn"><i class="fa-solid fa-arrow-right"></i></button>
+            </div>
         </div>
         <div class="item item2">
             <img src="/stocker-1.0.0/img/carousel-2.jpg" alt="">
@@ -209,6 +213,10 @@
                     </div>
 
                 </div>
+            </div>
+             <div class="nav-buttons">
+                 <button class="customPrevBtn"><i class="fa-solid fa-arrow-left"></i></button>
+                <button class="customNextBtn"><i class="fa-solid fa-arrow-right"></i></button>
             </div>
         </div>
     </div>
@@ -249,47 +257,500 @@
                         <button class="discover-button">
                             Discover Now
                         </button>
+                        <div class="d-inline-block" style="margin-left: 3rem;">
+                            <i class="fa-solid fa-phone text-primary" style="font-size:3rem"></i>
+                            <div class="d-inline-block">
+                                <h4>Call Us</h4>
+                                <p>+0123456789</p>
+                            </div>
+                        </div>
+                        
                     </div>
                 </div>
             </div>
-            <div class="column2"></div>
+            <div class="column2">
+                <div class="block">
+                    <div class="green-backdrop">
+                        <img src="/stocker-1.0.0/img/about-2.png" >
+                    </div>
+                    <div>
+                    <div>
+                        <img src="/stocker-1.0.0/img/about-5.jpg" >
+                    </div>
+                    </div>
+                </div>
+            </div>
         </div>
-        
+
         <!-- About End -->
 
         <!-- Services Start -->
+
+        <div id="services">
+            <div class="subject">
+                <h4 class="text-primary">Our Services</h4>
+                <h1 class="display-4">We Services provided best offer</h1>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tenetur adipisci facilis cupiditate recusandae aperiam temporibus corporis itaque quis facere, numquam, ad culpa deserunt sint dolorem autem obcaecati, ipsam mollitia hic.</p>
+            </div>
+            <div class="services-cards">
+                <div class="service-card">
+                    <div class="service-img">
+                        <img src="/stocker-1.0.0/img/service-1.jpg">
+                    </div>
+                    <div class="service-subject">
+                        <a href="#">Strategy Consulting</a>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur, sint? Excepturi facilis neque nesciunt similique officiis veritatis,</p>
+                        <button class="service-button">Learn More</button>
+                    </div>
+                </div>
+                <div class="service-card">
+                    <div class="service-img">
+                        <img src="/stocker-1.0.0/img/service-2.jpg">
+                    </div>
+                    <div class="service-subject">
+                        <a href="#">Financial Advisory</a>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur, sint? Excepturi facilis neque nesciunt similique officiis veritatis,</p>
+                        <button class="service-button">Learn More</button>
+                    </div>
+                </div>
+                <div class="service-card">
+                    <div class="service-img">
+                        <img src="/stocker-1.0.0/img/service-3.jpg">
+                    </div>
+                    <div class="service-subject">
+                        <a href="#">Managements</a>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur, sint? Excepturi facilis neque nesciunt similique officiis veritatis,</p>
+                        <button class="service-button">Learn More</button>
+                    </div>
+                </div>
+                <div class="service-card">
+                    <div class="service-img">
+                        <img src="/stocker-1.0.0/img/service-4.jpg">
+                    </div>
+                    <div class="service-subject">
+                        <a href="#">Supply Optimization</a>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur, sint? Excepturi facilis neque nesciunt similique officiis veritatis,</p>
+                        <button class="service-button">Learn More</button>
+                    </div>
+                </div>
+                <div class="service-card">
+                    <div class="service-img">
+                        <img src="/stocker-1.0.0/img/service-5.jpg">
+                    </div>
+                    <div class="service-subject">
+                        <a href="#">Hr Consulting</a>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur, sint? Excepturi facilis neque nesciunt similique officiis veritatis,</p>
+                        <button class="service-button">Learn More</button>
+                    </div>
+                </div>
+                <div class="service-card">
+                    <div class="service-img">
+                        <img src="/stocker-1.0.0/img/service-6.jpg">
+                    </div>
+                    <div class="service-subject">
+                        <a href="#">Marketing Consulting</a>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur, sint? Excepturi facilis neque nesciunt similique officiis veritatis,</p>
+                        <button class="service-button">Learn More</button>
+                    </div>
+                </div>
+            </div>
+        </div>
         
         <!-- Services End -->
 
         <!-- Features Start -->
+
+        <div id="features">
+            <div class="subject">
+                <h4>Our Features</h4>
+                <h1>Connecting businesses, ideas, and people for greater impact.</h1>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tenetur adipisci facilis cupiditate recusandae aperiam temporibus corporis itaque quis facere, numquam, ad culpa deserunt sint dolorem autem obcaecati, ipsam mollitia hic.</p>
+            </div>
+            <div class="features-cards">
+                <div class="feature-card">
+                    <div class="card-icon">
+                        <i class="fas fa-chart-line fa-4x text-primary"></i>
+                    </div>
+                    <h4>Global Management</h4>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea hic laborum odit pariatur... </p>
+                    <button class="feature-button">Learn More</button>
+                </div>
+                <div class="feature-card">
+                    <div class="card-icon">
+                        <i class="fas fa-university fa-4x text-primary"></i>
+                    </div>
+                    <h4>Corporate Banking</h4>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea hic laborum odit pariatur... </p>
+                    <button class="feature-button">Learn More</button>
+                </div>
+                <div class="feature-card">
+                    <div class="card-icon">
+                        <i class="fas fa-file-alt fa-4x text-primary"></i>
+                    </div>
+                    <h4>Asset Management</h4>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea hic laborum odit pariatur... </p>
+                    <button class="feature-button">Learn More</button>
+                </div>
+                <div class="feature-card">
+                    <div class="card-icon">
+                        <i class="fas fa-hand-holding-usd fa-4x text-primary"></i>
+                    </div>
+                    <h4>Investment Bank</h4>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea hic laborum odit pariatur... </p>
+                    <button class="feature-button">Learn More</button>
+                </div>
+            </div>
+        </div>
        
         <!-- Features End -->
 
 
         <!-- Offer Start -->
         
+        <div id="offer">
+            <div class="subject">
+                <h4>Our Offer</h4>
+                <h1>Benefits We offer</h1>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tenetur adipisci facilis cupiditate recusandae aperiam temporibus corporis itaque quis facere, numquam, ad culpa deserunt sint dolorem autem obcaecati, ipsam mollitia hic. </p>
+            </div>
+            <div class="offer-card">
+                <div class="collapse-buttons">
+                    <div class="collapse-item active" collapse="1">
+                        Lending money for investment of your new projects
+                    </div>
+                    <div class="collapse-item" collapse="2">
+                        Lending money for investment of your new projects
+                    </div>
+                    <div class="collapse-item" collapse="3">
+                        Mobile payment is more flexible and easy for all investors
+                    </div>
+                    <div class="collapse-item" collapse="4">
+                        all transaction is kept free for the member of pro traders
+                    </div>
+                </div>
+                <div class="collapsable">
+
+                    <img src="/stocker-1.0.0/img/offer-1.jpg" style="width:50%">
+                    <div class="collapsable-subject d-inline-block" style="float:left">
+                        <h1>The stock market provides a venue...</h1>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis amet sequi molestiae tenetur eum mollitia, blanditiis, magnam illo magni error dolore unde perspiciatis tempore et totam corrupti dignissimos aut praesentium? </p>
+                        <button class="collapsable-button">Learn More</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
         <!-- Offer End -->
 
         <!-- Blog Start -->
+
+        <div id="blog">
+            <div class="subject">
+                <h4>Our Blog & News</h4>
+                <h1>Articles For Pro Traders</h1>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tenetur adipisci facilis cupiditate recusandae aperiam temporibus corporis itaque quis facere, numquam, ad culpa deserunt sint dolorem autem obcaecati, ipsam mollitia hic. </p>
+            </div>
+
+           
+            <div class="blog-cards">
+                <div class="blog-card item">
+                    <div class="blog-img">
+                        <img src="/stocker-1.0.0/img/service-1.jpg">
+                        <div class="green-backdrop"></div>
+                    </div>
+                    <h4>Options Trading Business</h4>
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore aut aliquam suscipit error corporis accusamus labore....</p>
+                    <div class="profile">
+                        <div class="profile-img d-inline-block">
+                            <img src="/stocker-1.0.0/img/testimonial-1.jpg">
+                        </div>
+                        <div class="profile-info d-inline-block">
+                            <h5>Admim</h5>
+                            <p>October 9,2025</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="blog-card item">
+                    <div class="blog-img">
+                        <img src="/stocker-1.0.0/img/service-2.jpg">
+                        <div class="green-backdrop"></div>
+                    </div>
+                    <h4>Options Trading Business</h4>
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore aut aliquam suscipit error corporis accusamus labore....</p>
+                    <div class="profile">
+                        <div class="profile-img d-inline-block">
+                            <img src="/stocker-1.0.0/img/testimonial-2.jpg">
+                        </div>
+                        <div class="profile-info d-inline-block">
+                            <h5>Admim</h5>
+                            <p>October 9,2025</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="blog-card item">
+                    <div class="blog-img">
+                        <img src="/stocker-1.0.0/img/service-3.jpg">
+                        <div class="green-backdrop"></div>
+                    </div>
+                    <h4>Options Trading Business</h4>
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore aut aliquam suscipit error corporis accusamus labore....</p>
+                    <div class="profile">
+                        <div class="profile-img d-inline-block">
+                            <img src="/stocker-1.0.0/img/testimonial-3.jpg">
+                        </div>
+                        <div class="profile-info d-inline-block">
+                            <h5>Admim</h5>
+                            <p>October 9,2025</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="blog-card item">
+                    <div class="blog-img">
+                        <img src="/stocker-1.0.0/img/service-4.jpg">
+                        <div class="green-backdrop"></div>
+                    </div>
+                    <h4>Options Trading Business</h4>
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore aut aliquam suscipit error corporis accusamus labore....</p>
+                    <div class="profile">
+                        <div class="profile-img d-inline-block">
+                            <img src="/stocker-1.0.0/img/testimonial-1.jpg">
+                        </div>
+                        <div class="profile-info d-inline-block">
+                            <h5>Admim</h5>
+                            <p>October 9,2025</p>
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+
         
         <!-- Blog End -->
 
 
         <!-- FAQs Start -->
+         <div id="faqs">
+            <div class="subject">
+                <h4>FAQs</h4>
+                <h1>Frequently Asked Questions</h1>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tenetur adipisci facilis cupiditate recusandae aperiam temporibus corporis itaque quis facere, numquam, ad culpa deserunt sint dolorem autem obcaecati, ipsam mollitia hic. </p>
+            </div>
+
+            <div class="faqs-items">
+                <div class="accordion faq-item1" id="accordionPanelsStayOpenExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
+                            What Does This Tool Do ?
+                        </button>
+                        </h2>
+                        <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
+                        <div class="accordion-body">
+                            Placeholder content for this accordion, which is intended to demonstrate the <code>.accordion-flush</code> class. This is the first item's accordion body.
+                        </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="false" aria-controls="panelsStayOpen-collapseTwo">
+                            What Are Disadvantages Of Online Trading ?
+                        </button>
+                        </h2>
+                        <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse">
+                        <div class="accordion-body">
+                           Placeholder content for this accordion, which is intended to demonstrate the <code>.accordion-flush</code> class. This is the second item's accordion body. Let's imagine this being filled with some actual content.
+                        </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseThree" aria-expanded="false" aria-controls="panelsStayOpen-collapseThree">
+                            Is Online Trading Safe ?
+                        </button>
+                        </h2>
+                        <div id="panelsStayOpen-collapseThree" class="accordion-collapse collapse">
+                        <div class="accordion-body">
+                                Placeholder content for this accordion, which is intended to demonstrate the <code>.accordion-flush</code> class. This is the second item's accordion body. Let's imagine this being filled with some actual content.</div>
+                        </div>
+                    </div>
+    
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                            What Is Online Trading, And How Does It Work ?
+                        </button>
+                        </h2>
+                        <div id="collapseFour" class="accordion-collapse collapse">
+                        <div class="accordion-body">
+                                Placeholder content for this accordion, which is intended to demonstrate the <code>.accordion-flush</code> class. This is the second item's accordion body. Let's imagine this being filled with some actual content.</div>
+                        </div>
+                    </div>
+        
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFour">
+                            Which App Is Best For Online Trading ?
+                        </button>
+                        </h2>
+                        <div id="collapseFive" class="accordion-collapse collapse">
+                        <div class="accordion-body">
+                                Placeholder content for this accordion, which is intended to demonstrate the <code>.accordion-flush</code> class. This is the second item's accordion body. Let's imagine this being filled with some actual content.</div>
+                        </div>
+                    </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseFour">
+                                How To Create A Trading Account ?
+                            </button>
+                            </h2>
+                            <div id="collapseSix" class="accordion-collapse collapse">
+                            <div class="accordion-body">
+                                    Placeholder content for this accordion, which is intended to demonstrate the .accordion-flush class. This is the third item's accordion body. Nothing more exciting happening here in terms of content, but just filling up the space to make it look, at least at first glance, a bit more representative of how this would look in a real-world application.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="faq-item2">
+                    <img src="/stocker-1.0.0/img/about-2.png" alt="">
+                </div>
+        
+            </div>
+
+
+            </div>
+    
         
         <!-- FAQs End -->
 
 
         <!-- Team Start -->
+         <div id="team">
+             <div class="subject">
+                 <h4>Our Team</h4>
+                 <h1>Meet Our Advisers</h1>
+                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tenetur adipisci facilis cupiditate recusandae aperiam temporibus corporis itaque quis facere, numquam, ad culpa deserunt sint dolorem autem obcaecati, ipsam mollitia hic. </p>
+             </div>
+             <div class="team-cards">
+                 <div class="team-card"> 
+                    <div class="team-card-backdrop"></div>
+                    <div class="team-card-backdrop2"></div>
+                    <img src="/stocker-1.0.0/img/team-1.jpg">
+                    <h4>David James</h4>
+                    <p>profession</p>
+                    <div class="social-media">
+                        <span><i class="fa-brands fa-facebook-f"></i></span>
+                        <span><i class="fa-brands fa-twitter"></i></span>
+                        <span><i class="fa-brands fa-linkedin-in"></i></span>
+                        <span><i class="fa-brands fa-instagram"></i></span>
+                    </div>
+                </div>
+
+                <div class="team-card"> 
+                    <div class="team-card-backdrop"></div>
+                    <div class="team-card-backdrop2"></div>
+                    <img src="/stocker-1.0.0/img/team-2.jpg">
+                    <h4>David James</h4>
+                    <p>profession</p>
+                    <div class="social-media">
+                        <span><i class="fa-brands fa-facebook-f"></i></span>
+                        <span><i class="fa-brands fa-twitter"></i></span>
+                        <span><i class="fa-brands fa-linkedin-in"></i></span>
+                        <span><i class="fa-brands fa-instagram"></i></span>
+                    </div>
+                </div>
+
+                <div class="team-card"> 
+                    <div class="team-card-backdrop"></div>
+                    <div class="team-card-backdrop2"></div>
+                    <img src="/stocker-1.0.0/img/team-3.jpg">
+                    <h4>David James</h4>
+                    <p>profession</p>
+                    <div class="social-media">
+                        <span><i class="fa-brands fa-facebook-f"></i></span>
+                        <span><i class="fa-brands fa-twitter"></i></span>
+                        <span><i class="fa-brands fa-linkedin-in"></i></span>
+                        <span><i class="fa-brands fa-instagram"></i></span>
+                    </div>
+                </div>
+
+                <div class="team-card"> 
+                    <div class="team-card-backdrop"></div>
+                    <div class="team-card-backdrop2"></div>
+                    <img src="/stocker-1.0.0/img/team-4.jpg">
+                    <h4>David James</h4>
+                    <p>profession</p>
+                    <div class="social-media">
+                        <span><i class="fa-brands fa-facebook-f"></i></span>
+                        <span><i class="fa-brands fa-twitter"></i></span>
+                        <span><i class="fa-brands fa-linkedin-in"></i></span>
+                        <span><i class="fa-brands fa-instagram"></i></span>
+                    </div>
+                </div>
+             </div>
+         </div>
         
+
         <!-- Team End -->
 
         <!-- Testimonial Start -->
-        
+
         <!-- Testimonial End -->
 
         <!-- Footer Start -->
-        
+         <div id="footer">
+    
+            <hr>
+            <div class="footer-main">
+                <div class="download">
+                    <h4><i class="fas fa-search-dollar me-3"></i> Stocker</h4>
+                    <p>Dolor amet sit justo amet elitr clita ipsum elitr est.Lorem ipsum dolor sit amet, consectetur adipiscing...</p>
+                    <div class="button-group">
+                        <div class="button1">
+                            <i class="fas fa-apple-alt text-white" style="margin-right:1rem"></i>
+                            <div class="d-inline-block">
+                                <p class="text-white" style="margin:0;position:relative;top:0px;font-size:0.9rem">Download on the</p>
+                                <h4 style="margin:0;position:relative;top:0px;font-size:1rem">App Store</h4>
+                            </div>
+                        </div>
+                        <div class="button2">
+                            <i class="fa-solid fa-play text-primary" style="margin-right:1rem"></i>
+                            <div class="d-inline-block">
+                                <p class="text-white" style="margin:0;position:relative;top:0px;font-size:0.9rem">Get it on</p>
+                                <h4 style="margin:0;position:relative;top:0px;font-size:1rem">Google Play</h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="links">
+                    <h4>Quick Links</h4> 
+                    <a class="d-block" href=""><i class="fas fa-angle-right"></i>About </a>
+                    <a class="d-block" href=""><i class="fas fa-angle-right"></i>Features </a>
+                    <a class="d-block" href=""><i class="fas fa-angle-right"></i>Attractions </a>
+                    <a class="d-block" href=""><i class="fas fa-angle-right"></i>Tickets </a>
+                    <a class="d-block" href=""><i class="fas fa-angle-right"></i>Blog </a>
+                    <a class="d-block" href=""><i class="fas fa-angle-right"></i>Contact Us</a>
+                </div>
+                <div class="links">
+                    <h4>Support</h4> 
+                    <a class="d-block" href=""><i class="fas fa-angle-right"></i>Privacy Policy </a>
+                    <a class="d-block" href=""><i class="fas fa-angle-right"></i>Terms & Conditions</a>
+                    <a class="d-block" href=""><i class="fas fa-angle-right"></i>Disclaimer</a>
+                    <a class="d-block" href=""><i class="fas fa-angle-right"></i>Support</a>
+                    <a class="d-block" href=""><i class="fas fa-angle-right"></i>FAQ</a>
+                    <a class="d-block" href=""><i class="fas fa-angle-right"></i>Help</a>
+                </div>
+                <div class="contact-info">
+                    <h4>Contact Info</h4>
+                    <p><i class="fa-solid fa-location-dot"></i>123 Street New York.USA</p>
+                    <p><i class="fa-solid fa-envelope"></i>info@example.com</p>
+                    <p><i class="fa-solid fa-phone"></i>(+012) 3456 7890</p>
+                    <p><i class="fa-brands fa-firefox-browser"></i>Yoursite@ex.com</p>
+                    div
+            
+                </div>
+            </div>
+         </div>
         <!-- Footer End -->
         
         <!-- Copyright Start -->
@@ -308,7 +769,7 @@
         <script src="lib/waypoints/waypoints.min.js"></script>
         <script src="lib/counterup/counterup.min.js"></script>
         <script src="lib/lightbox/js/lightbox.min.js"></script>
-        <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+        <script src="lib/OwlCarousel2-2.3.4/dist/owl.carousel.min.js"></script>
         
 
         <!-- Template Javascript -->

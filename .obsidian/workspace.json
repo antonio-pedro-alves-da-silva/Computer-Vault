@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-vault/learning/time block.md",
+                "file": "obsidian-vault/learning/interests.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "time block"
+              "title": "interests"
             }
           }
         ]
@@ -132,9 +132,9 @@
   },
   "active": "26b48b673469780e",
   "lastOpenFiles": [
-    "obsidian-vault/learning/interests.md",
     "obsidian-vault/learning/goals.md",
     "obsidian-vault/learning/time block.md",
+    "obsidian-vault/learning/interests.md",
     "obsidian-vault/others-file/smartphone apps.md",
     "obsidian-vault/taks.md",
     "obsidian-vault/others-file/Untitled.md",
