@@ -32,6 +32,7 @@ cd ~/.fzf/
 
 # software development tools
 sudo dnf install node -y
+flatpak install flathub io.dbeaver.DBeaverCommunity
 
 # graphical utility
 
