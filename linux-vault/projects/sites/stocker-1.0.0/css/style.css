@@ -974,6 +974,20 @@ body {
 
 }
 
+#footer .contact-info .social-media span {
+    background-color: var(--primary-color);
+    color:var(--secondary-color);
+    padding:0.4rem;
+    border-radius: 50rem;
+    margin:0rem 0.3rem;
+    transition:.5s;
+}
+
+#footer .contact-info .social-media span:hover {
+    color:var(--secondary-color);
+    background-color: black;
+    transition:.5s;
+}
 
 @media (min-width:992px) {
     #navbarLinks {
