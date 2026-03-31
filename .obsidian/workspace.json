@@ -54,8 +54,8 @@
             "state": {
               "type": "trash-explorer",
               "state": {},
-              "icon": "trash",
-              "title": "Trash explorer"
+              "icon": "lucide-ghost",
+              "title": "trash-explorer"
             }
           }
         ]
@@ -132,6 +132,7 @@
   },
   "active": "26b48b673469780e",
   "lastOpenFiles": [
+    "linux-vault/projects/fullstack-course/npm_packages.txt",
     "obsidian-vault/learning/goals.md",
     "obsidian-vault/learning/time block.md",
     "obsidian-vault/learning/interests.md",
@@ -169,7 +170,6 @@
     "linux-vault/projects/node_modules/minizlib/README.md",
     "linux-vault/projects/fullstack-course/AuthenticationAndSecurities/9.1+Authentication+Lv.1/node_modules/pg-int8/README.md",
     "linux-vault/projects/sites/2.4+QR+Code+Project/2.4 QR Code Project/node_modules/iconv-lite/README.md",
-    "Untitled.canvas",
-    "obsidian-vault/learning/programing/Quantitative Finance with Python/Quantitative Finance with Python.md"
+    "Untitled.canvas"
   ]
 }

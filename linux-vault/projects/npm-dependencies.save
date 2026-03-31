@@ -1,0 +1,3 @@
+npm i express body-parser pg ejs argon2 crypto jsonwebtoken cookie-parser
+npm i -g nodemon
+npm i dotenv --save
