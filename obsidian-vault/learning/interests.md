@@ -97,6 +97,7 @@ animes
         spyxfamily
             2° temporada 4 episódio
         re:zero
+        grand blue
         kono subarashi
         one piece
             episode 995
@@ -235,8 +236,21 @@ animes
         bakemono no ko
         sounan desu ka?
         shinchou yuusha kono yuusha ga ore tuee kuse
-    
-        
+        ahiru no sora
+        choujin koukousei
+        ore wa suki nano wa omae dake ka yo
+        beastars
+        great teacher onizuka
+        castlevania
+        berseker
+        inuyashiki
+        mob psycho
+        dohedoro
+        devilman crybaby
+        invaded
+        yondemasu yo,azazel-san
+        hinamatsuri
+        spy x family
 learn Brain Computer Interface( Neural Engineering | Signal Processing and Machine Learning | Electrical Engineering and Robotics )
     what to learn to connect a human brain to a computer
 
