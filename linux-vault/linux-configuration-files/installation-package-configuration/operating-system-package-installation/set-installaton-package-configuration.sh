@@ -10,5 +10,6 @@ mkdir -p ~/.config/waybar
 
 sudo cp -r ~/Computer-Vault/linux-vault/linux-configuration-files/installation-package-configuration/sway/ ~/.config/
 sudo cp ~/Computer-Vault/linux-vault/linux-configuration-files/installation-package-configuration/preload/preload.conf /etc/preload.conf
+sudo cp ~/Computer-Vault/linux-vault/linux-configuration-files/installation-package-configuration/waybar/* ~/.config/waybar/
 sudo cp -r ~/Computer-Vault/linux-vault/linux-configuration-files/installation-package-configuration/alacritty/ ~/.config/
 
