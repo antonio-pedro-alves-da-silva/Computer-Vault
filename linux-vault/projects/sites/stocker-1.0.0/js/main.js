@@ -1,4 +1,6 @@
 
+// Initiate the wowjs
+new WOW().init();
 
 var owl = $('.owl-carousel');
 
@@ -41,7 +43,7 @@ collapses.map((i,e)=>{
     $(e).on("click",()=>{
         
         let img_num = e.getAttribute("collapse");
-        img_collapses.attr("src",`/stocker-1.0.0/img/offer-${img_num}.jpg`);
+        img_collapses.attr("src",`img/offer-${img_num}.jpg`);
     })
 })
 
@@ -55,7 +57,7 @@ collapses.on("click",(e)=>{
         }
     })
     target.classList.add("active");
-    img_collapses.attr("src",`/stocker-1.0.0/img/offer-${img_num}.jpg`);
+    img_collapses.attr("src",`img/offer-${img_num}.jpg`);
 })
 
   

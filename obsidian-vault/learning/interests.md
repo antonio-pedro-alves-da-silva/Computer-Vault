@@ -1,11 +1,34 @@
 
 programming
+    FULL-SATCK WEB DEVELOPER
+        html
+        css
+        js
+            how to manipulate data
+                [[note-6.js|how to manipulate string]]
+                [[note-8.js|how to manipulate number]]
+                [[note-9.js|how to manipulate array]]
+                [[note-7|regex]]
+                regex pattern
+    Quantitative finance with python
 learn different languages
     what is the most efficient method to learn a language ?
+    languages
+        inglês
+            series
+                everybody hates chris
+                    1° season
+                        [[note-5|eps1]]
+        japonês
+        russo
+        alemão
+        chinês
 learn how to fight
-    muay boran
+    muay thai
     boxing
-    kickboxing
+    Brazilian Jiu-Jitsu
+    [[note-1|all moves]]
+    [[note-2|training]]
 health lifestyle
     healthy foods and supplements
         vegetable
@@ -22,6 +45,8 @@ health lifestyle
             buckwheat
         beans
             soybean
+            vicia fava
+            black beans
         oil
             macadamia oil
             olive oil
@@ -32,6 +57,7 @@ health lifestyle
             macadamia
             almond
             brazil nuts
+            hazelnut
         seed
             chia seed
             flaxseed
@@ -45,37 +71,125 @@ health lifestyle
             flaxseed milk
         supplements
             collagen peptides
-            creatinaGAA
-             peptistrong
+            creatinaGAA + high-quality salt (like Himalayan pink salt, Celtic Sea salt, or Redmond's real salt) -better for increasing brain and muscle absorption 
+            peptistrong
+            Cálcio Citrato Malato
+            magnésio
+            fatty acids supplement Nordic Naturals Ultimate Omega 2X
+            nac + glycine + taurine
         drink
             matcha
             vomitoria
         herbs and spice
             black peppers
             turmeric
-            cinnamon
+            ceylon cinnamon
             ginger
             garlic powder
             onion powder
-    beauty and aesthetic
+        probiotic
+            kefir
+    health care products
+        toothpaste
+            risewell
+            dr bronner's
+            hello
+        mouthwash
+            risewell
+            hello
+        facial cleanser
+            cerave
+            cetaphil
+            babo
+        shave butter
+            dr squatch
+            dr bronner's
+            alba botanica
+            bull dog
+        shampoo
+            acure
+            dr squatch
+            avalan organic
+            honest
+        deodorant
+            dr squatch
+        lip balm
+            dr bronner's
+            burs't bees
+        soap
+            dr squatch
+            dr bronner's
+            darrow suavié
+        lotion
+            dr squatch
+            honest
+            allafia
+            weleda
+            babo
+        lube
+            k-med
+            Jontex
+            Olla
+            Óleo de Coco Extra Virgem
+beauty and aesthetic
+    skin care
         the correct skincare routine order
-            morning skincare routine
-                1- facial cleanser
-                2- toner
-                3- vitamin c serum
-                4- eye cream 
-                5- moisturizer
-                6- sunscreen protection
-            evening skincare routine
-                1- facial cleanser
-                2- toner
-                3- retinol or hyaluronic acid serum
-                5- eye cream
-                6- moisturizer
+                morning skincare routine
+                    1- facial cleanser
+                    2- toner
+                    3- vitamin c serum
+                    4- eye cream 
+                    5- moisturizer
+                    6- sunscreen protection
+                evening skincare routine
+                    1- facial cleanser
+                    2- toner
+                    3- retinol or hyaluronic acid serum
+                    5- eye cream
+                    6- moisturizer
+        skin mineral and vitamins
+            what vitamins and minerals could be directly applied to the skin ?
+                Vitamin C (L-ascorbic acid)
+                    it works best when applied directly to the skin, providing up to 40 times more concentration than eating it.boosts collagen synthesis for firmer skin, and brightens the complexion.
+                Vitamin A (Retinoids/Retinol)
+                    accelerates cell turnover,reduces fine lines
+                    gold standard for treating acne and photo-damaged skin
+                Zinc (Zinc Oxide) 
+                    Frequently used in sunscreens, zinc provides a protective barrier against UV damage, heals wounds, and calms acne-prone skin.
+            what vitamins and minerals could be combined to be applied to the skin ?
+                Vitamin A (Retinol) + Vitamin B3 (Niacinamide)
+                    Best for Mature or acne-prone skin
+                Zinc + Vitamin A (or Copper)
+                    Excellent for acne management, wound healing, and reducing sebum (oil) production.
+                    Best for Oily, acne-prone, or irritated skin.
+                Vitamin C + Mineral Cofactors (Zinc, Selenium, Copper)
+                    Collagen synthesis and skin firming
+                    Best For Skin elasticity and repairing damaged skin.
+        what is the best Occlusive Ointments for wound healing ?
+            petrolatum (petroleum jelly) being the most effective.
+    hair care
+        1 - pré shampoo
+        2 - shampoo
+        3 - máscara de tratamento
+        4 - condicionador
+        5 - Leave-in/Creme de Pentear
+        6 - protetor térmico
+        7 - Óleo Finalizador/Reparador de Pontas
 learn math,science,physics
+    math
+    science
+    physics
 brain exercise
     memory techniques
 trading
+    [[note-3|indicators]]
+    trading math
+        probability
+        statistic
+        Algebra and Arithmetic
+        Technical Analysis Math :understanting moving average , volatility and others indicators
+        quantitative analysis
+        quantitative finance with python
 youtube
     categoria 1 motors|battery|energy
     categoria 2 house 
@@ -90,21 +204,23 @@ youtube
     categoria 11 healthy lifestyle
     categoria 12 beauty and aesthetic
     categoria 13 cooking
-    categoria 14 superior civilization
+    categoria 14 culture
+    categoria 15 superior civilization
+    categoria 16 sex
+    rock
+    common sense
+    metal phonk
 animes
     watching
-        jujutsu no kaisen
+        fist of north star
+        kono subarashi
         spyxfamily
             2° temporada 4 episódio
-        re:zero
-        grand blue
-        kono subarashi
         one piece
             episode 995
         boku no hero
         bleach
         shingeki no kyojin
-        baki
         tensei shitara slime datta ken
     watched
         one pice
@@ -251,13 +367,147 @@ animes
         yondemasu yo,azazel-san
         hinamatsuri
         spy x family
-learn Brain Computer Interface( Neural Engineering | Signal Processing and Machine Learning | Electrical Engineering and Robotics )
-    what to learn to connect a human brain to a computer
-
-learn Bio Computer ( Neuromorphic Engineering | Synthetic Biology|Computer Science and Engineering|Bio-engineering )
-learn 
-    what to learn to connect a molecule to a computer
-
-learn artificial brain( Neural Engineering | Organoid Intelligence | Neuromorphic Engineering | Computational Neuroscience  )
-    how to create an artificial brain
+games
+    dragon ball xenoverse 3
+    dragon ball xenoverse 2
+    forza horizon
+    call of duty black ops 7
+    gta 5
+    mortal kombat
+    injustice 2
+    call of duty modern warfare
+    naruto shippuden
+    wwe
+    fifa
+    devil may cry 5
+    outlast 2
+    lego marvel
+sex
+    sex positions
+        [[pearly-gates.avif|1 - pearly gates]]
+            me permite estimular o clitóris , penetrar a vagina , beijar , fazer uma massagem no peito e estimular o ponto g
+        [[the-hot-seat.avif|2 - the hot seat]]
+        [[open-legged-spoon.avif|3- Open-Legged Spoon]]
+        [[Coital-Alignment-Technique.avif|4 - Coital Alignment Technique]]
+        [[Reverse-Cowgirl.avif|5 - Reverse Cowgirl]] 
+        [[doggy-style.avif|6 - Doggy Style]]
+        [[The-Flatiron.avif|7  - The Flatiron]]
+        [[spoon.avif|8 -  Spoon]]
+    sex doll
+        [Masturbador Caroline com Tantabutt](https://pt.realsexdoll.com/product/26-2lbs-life-size-sex-doll-masturbator-caroline-with-tantabutt-in-stock/)
+        [boneca sexual miko](https://pt.yourdoll.com/product/sex-doll-cyd018/)
+        [boneca sexual](https://pt.yourdoll.com/product/sex-doll-wax437/)
+        [jasmim](https://pt.yourdoll.com/product/sex-doll-wmd014/)
+house
+    hurricane and fire proof house made with icf block
+    2 room
+    living room
+    dining room
+    kitchen
+    bathroom
+    laundry room
+    closet
+    internal pool
+    football field
+    wet sauna and near wavelength infrared sauna
+    personal gym acadamy
+    underground bunker
+        1 room
+        living room
+        dining room
+        kitchen
+        bathroom
+        laundry room
+        closet
+        dispensa
+    secret room that doesn't require energy to enter
+        1 room
+            safe
+            firearms
+                assault rifle
+                    ak-103
+                    ak-12
+                    hk433
+                    m16
+                    AS Val - better for stealth operation
+                assault machine gun
+                    rm-834
+                sniper
+                    macmillan tac 50
+                grenade launcher
+                    ssrs
+                pistol
+                    CZ Shadow 2 Carry
+            super armor
+                [[futuristic-armor-body.jpeg|1 - futuristic armor]]
+        security camera room
+    system security with night vision ai cameras
+    option to use eletromagnetic motor to power the house
+    a button to control the intensity of the light of all house so i can use the nightvision
+    underground garage
+        byd yangwang u9
+        rezvani vengeance
+        laferrari
+        bugatti
+    eletrodomésticos , móveis e eletronicos
+        eletrodomésticos
+            limpeza
+                2 lava e seca 15kg
+                ferro a vapor
+                mop elétrico
+                asipirador vertical de pó
+            outro
+                Chuveiro Lorenzetti Acqua Duo Ultra
+                2 smart tv QD-Mini Led
+                máquina de cortar cabelo
+                American Standard 297AA204-291 Advanced Clean 100 SpaLet Toilet, Alabaster White
+            cozinha
+                geladeira
+                fogão de indução eletromagnética
+                forno elétrico
+                micro ondas
+                liquidificador
+                multiprocessador
+                coffe grinder
+                máquina de café espresso
+                escorredor de louça inoxidável
+                colher medidora digital
+                filtro de café inox
+                kit 10 colheres medidoras
+                balança eletrônica digital2
+                frigideira antiaderente red silver
+                purificador de água Electrolux Pure 4x
+                peneira de inox
+        móveis
+            cama box king size
+        eletrônico
+                Fone de Ouvido Bluetooth com Microfone e Cancelamento de Ruído Ativo - 4Leader, à Prova D'água e com até 20 Horas de Reprodução - Melhor Escolha para Esportes e Atividades ao Ar Livre - Preto
+                carregador de 280w
+                roteador
+                pixel 8 - better for safety
+                Realme GT3 and Realme GT5 - better for 240w fast charging under 10minutes
+        ferramenta
+                chave de fenda elétrica
+                escada articulada de alumínio
+amor e compaixão e empatia
+brain study
+    learn Brain Computer Interface
+        what is brain computer interface ?
+            what to learn to connect a human brain to a external device
+        Neural Engineering
+        Signal Processing and Machine Learning
+        Electrical Engineering and Robotics
+    learn Bio Computer
+        what is Bio Computer ?
+            what to learn to use human neurons to process information and mimic human brain
+        Neuromorphic Engineering
+        Synthetic Biology
+        Computer Science and Engineering
+        Bio-engineering
+    learn artificial brain( Neural Engineering | Organoid Intelligence | Neuromorphic Engineering | Computational Neuroscience  )
+        how to create an artificial brain
+        Neural Engineering
+        Organoid intelligence
+        Neuromorphic Engineering
+        Computational Neuroscience
 
